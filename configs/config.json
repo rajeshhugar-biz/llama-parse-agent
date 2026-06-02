@@ -1,0 +1,107 @@
+{
+  "extract": {
+    "product_type": "extract_v2",
+    "configuration_id": null,
+    "data_schema": {
+      "type": "object",
+      "properties": {
+        "invoice_number": {
+          "type": ["string", "null"],
+          "description": "Unique invoice identifier or reference number"
+        },
+        "invoice_date": {
+          "type": ["string", "null"],
+          "description": "Date the invoice was issued (in ISO format YYYY-MM-DD if possible)"
+        },
+        "due_date": {
+          "type": ["string", "null"],
+          "description": "Payment due date (in ISO format YYYY-MM-DD if possible)"
+        },
+        "vendor_name": {
+          "type": ["string", "null"],
+          "description": "Name of the company or person issuing the invoice"
+        },
+        "vendor_address": {
+          "type": ["string", "null"],
+          "description": "Full address of the vendor including street, city, state/province, postal code, and country"
+        },
+        "customer_name": {
+          "type": ["string", "null"],
+          "description": "Name of the customer or company being billed"
+        },
+        "customer_address": {
+          "type": ["string", "null"],
+          "description": "Full billing address of the customer"
+        },
+        "line_items": {
+          "type": "array",
+          "description": "List of products or services being billed",
+          "items": {
+            "type": "object",
+            "properties": {
+              "description": {
+                "type": ["string", "null"],
+                "description": "Description of the product or service"
+              },
+              "quantity": {
+                "type": ["number", "null"],
+                "description": "Quantity of items"
+              },
+              "unit_price": {
+                "type": ["number", "null"],
+                "description": "Price per unit"
+              },
+              "amount": {
+                "type": ["number", "null"],
+                "description": "Total amount for this line item (quantity × unit_price)"
+              }
+            },
+            "required": ["description", "quantity", "unit_price", "amount"]
+          }
+        },
+        "subtotal": {
+          "type": ["number", "null"],
+          "description": "Sum of all line items before tax"
+        },
+        "tax_amount": {
+          "type": ["number", "null"],
+          "description": "Total tax amount"
+        },
+        "total_amount": {
+          "type": ["number", "null"],
+          "description": "Final total amount due including tax"
+        },
+        "currency": {
+          "type": ["string", "null"],
+          "description": "Currency code (e.g., USD, EUR, GBP)"
+        },
+        "payment_terms": {
+          "type": ["string", "null"],
+          "description": "Payment terms or conditions (e.g., Net 30, Due on receipt)"
+        }
+      },
+      "required": ["invoice_number", "invoice_date", "due_date", "vendor_name", "vendor_address", "customer_name", "customer_address", "line_items", "subtotal", "tax_amount", "total_amount", "currency", "payment_terms"]
+    },
+    "tier": "agentic",
+    "extraction_target": "per_doc",
+    "system_prompt": "Extract all data and translate it to English. If the original document is in another language, translate all text fields (vendor name, customer name, addresses, line item descriptions, payment terms, etc.) into English while preserving numerical values and dates.",
+    "cite_sources": true,
+    "confidence_scores": true
+  },
+  "classify": {
+    "product_type": "classify_v2",
+    "configuration_id": null,
+    "rules": []
+  },
+  "parse": {
+    "product_type": "parse_v2",
+    "configuration_id": null,
+    "tier": "agentic",
+    "version": "latest"
+  },
+  "split": {
+    "product_type": "split_v1",
+    "configuration_id": null,
+    "categories": []
+  }
+}
