@@ -1,0 +1,1355 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\tamil\\images\\invoice_azimg_20260519_161402_545_0005.png",
+  "language": "tamil",
+  "file_id": "83dc5024-0823-4d4e-a709-bef621058d29",
+  "record_id": {
+    "value": {
+      "result": "agd-pjpxhfs0nzbb74mcqbswr4rtb8tk"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "No. 8, Lakshmi Nagar, 3rd Street, Nagamangalam, Madurai - 625 019.",
+      "customer_name": "Sri Balaji Constructions",
+      "due_date": "2024-06-15",
+      "invoice_date": "2024-05-16",
+      "invoice_number": "KBS/24-25/0786",
+      "line_items": [
+        {
+          "amount": 41000.0,
+          "description": "53 Grade Cement",
+          "quantity": 100.0,
+          "unit_price": 410.0
+        },
+        {
+          "amount": 27500.0,
+          "description": "Building Sand",
+          "quantity": 5.0,
+          "unit_price": 5500.0
+        },
+        {
+          "amount": 31000.0,
+          "description": "Aggregate 20mm",
+          "quantity": 5.0,
+          "unit_price": 6200.0
+        },
+        {
+          "amount": 31000.0,
+          "description": "Aggregate 40mm",
+          "quantity": 5.0,
+          "unit_price": 6200.0
+        },
+        {
+          "amount": 31000.0,
+          "description": "TMT Bar FE 500D 12mm",
+          "quantity": 500.0,
+          "unit_price": 62.0
+        },
+        {
+          "amount": 31000.0,
+          "description": "TMT Bar FE 500D 16mm",
+          "quantity": 500.0,
+          "unit_price": 62.0
+        },
+        {
+          "amount": 85000.0,
+          "description": "Red Bricks",
+          "quantity": 10000.0,
+          "unit_price": 8.5
+        },
+        {
+          "amount": 29000.0,
+          "description": "Manufactured Sand (M-Sand)",
+          "quantity": 5.0,
+          "unit_price": 5800.0
+        },
+        {
+          "amount": 11000.0,
+          "description": "Waterproofing Chemical 20 Ltr",
+          "quantity": 4.0,
+          "unit_price": 2750.0
+        },
+        {
+          "amount": 3500.0,
+          "description": "PVC Pipe 4\"",
+          "quantity": 20.0,
+          "unit_price": 175.0
+        }
+      ],
+      "payment_terms": "30 days",
+      "subtotal": 321000.0,
+      "tax_amount": 35425.0,
+      "total_amount": 356425.0,
+      "vendor_address": "No. 12/345, Thiruvalluvar Nagar, 2nd Street, Selaiyur, Chennai - 600 073, Tamil Nadu.",
+      "vendor_name": "KBS Construction Suppliers"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "No. 8, Lakshmi Nagar, 3rd Street, Nagamangalam, Madurai - 625 019.",
+      "customer_name": "Sri Balaji Constructions",
+      "due_date": "2024-06-15",
+      "invoice_date": "2024-05-16",
+      "invoice_number": "KBS/24-25/0786",
+      "line_items": [
+        {
+          "amount": 41000.0,
+          "description": "53 Grade Cement",
+          "quantity": 100.0,
+          "unit_price": 410.0
+        },
+        {
+          "amount": 27500.0,
+          "description": "Building Sand",
+          "quantity": 5.0,
+          "unit_price": 5500.0
+        },
+        {
+          "amount": 31000.0,
+          "description": "Aggregate 20mm",
+          "quantity": 5.0,
+          "unit_price": 6200.0
+        },
+        {
+          "amount": 31000.0,
+          "description": "Aggregate 40mm",
+          "quantity": 5.0,
+          "unit_price": 6200.0
+        },
+        {
+          "amount": 31000.0,
+          "description": "TMT Bar FE 500D 12mm",
+          "quantity": 500.0,
+          "unit_price": 62.0
+        },
+        {
+          "amount": 31000.0,
+          "description": "TMT Bar FE 500D 16mm",
+          "quantity": 500.0,
+          "unit_price": 62.0
+        },
+        {
+          "amount": 85000.0,
+          "description": "Red Bricks",
+          "quantity": 10000.0,
+          "unit_price": 8.5
+        },
+        {
+          "amount": 29000.0,
+          "description": "Manufactured Sand (M-Sand)",
+          "quantity": 5.0,
+          "unit_price": 5800.0
+        },
+        {
+          "amount": 11000.0,
+          "description": "Waterproofing Chemical 20 Ltr",
+          "quantity": 4.0,
+          "unit_price": 2750.0
+        },
+        {
+          "amount": 3500.0,
+          "description": "PVC Pipe 4\"",
+          "quantity": 20.0,
+          "unit_price": 175.0
+        }
+      ],
+      "payment_terms": "30 days",
+      "subtotal": 321000.0,
+      "tax_amount": 35425.0,
+      "total_amount": 356425.0,
+      "vendor_address": "No. 12/345, Thiruvalluvar Nagar, 2nd Street, Selaiyur, Chennai - 600 073, Tamil Nadu.",
+      "vendor_name": "KBS Construction Suppliers"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9642197767155742,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "Verbatim extraction from 'விலைப்பட்டியல் எண்: KBS/24-25/0786'.",
+        "confidence": 0.9587177368574533,
+        "extraction_confidence": 0.9587177368574533,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "KBS/24-25/0786",
+            "bounding_boxes": [
+              {
+                "x": 8.41,
+                "y": 70.08,
+                "w": 72.79,
+                "h": 5.76
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "Verbatim extraction from 'விலைப்பட்டியல் தேதி: 16-05-2024'.",
+        "confidence": 0.9658249802175548,
+        "extraction_confidence": 0.9658249802175548,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**விலைப்பட்டியல் எண்**: KBS/24-25/0786\n**விலைப்பட்டியல் தேதி**: 16-05-2024\n**கடன் கால அவகாசம்**: 30 நாட்கள்\n**கட்டணம் செலுத்த வேண்டியது**: 15-06-2024\n**இடம் பெயருதல் (Place Supply)**: தமிழ்நாடு (33)",
+            "bounding_boxes": [
+              {
+                "x": 7.800513109756098,
+                "y": 70.26693475609757,
+                "w": 73.7697137195122,
+                "h": 47.17808780487805
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "Verbatim extraction from 'கட்டணம் செலுத்த வேண்டியது: 15-06-2024'.",
+        "confidence": 0.5830442182290642,
+        "extraction_confidence": 0.5830442182290642,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**விலைப்பட்டியல் எண்**: KBS/24-25/0786\n**விலைப்பட்டியல் தேதி**: 16-05-2024\n**கடன் கால அவகாசம்**: 30 நாட்கள்\n**கட்டணம் செலுத்த வேண்டியது**: 15-06-2024\n**இடம் பெயருதல் (Place Supply)**: தமிழ்நாடு (33)",
+            "bounding_boxes": [
+              {
+                "x": 7.800513109756098,
+                "y": 70.26693475609757,
+                "w": 73.7697137195122,
+                "h": 47.17808780487805
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Translated the vendor name from Tamil to English.",
+        "confidence": 0.9754864344075795,
+        "extraction_confidence": 0.9754864344075795,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "vendor_address": {
+        "reasoning": "Translated the vendor address from Tamil to English.",
+        "confidence": 0.998573265479397,
+        "extraction_confidence": 0.998573265479397,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "Translated the customer name from Tamil to English.",
+        "confidence": 0.9953148991894895,
+        "extraction_confidence": 0.9953148991894895,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "Translated the customer billing address from Tamil to English.",
+        "confidence": 0.997087194870611,
+        "extraction_confidence": 0.997087194870611,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 1.",
+            "confidence": 0.9999497544255396,
+            "extraction_confidence": 0.9999497544255396,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1     | 53 கிரேடு சிமெண்டு (53 Grade Cement) | 2523    | 100   | மூட்டை    | 410.00        | 28%             | 41,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 1.",
+            "confidence": 0.9999946582467483,
+            "extraction_confidence": 0.9999946582467483,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1     | 53 கிரேடு சிமெண்டு (53 Grade Cement) | 2523    | 100   | மூட்டை    | 410.00        | 28%             | 41,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 1.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1     | 53 கிரேடு சிமெண்டு (53 Grade Cement) | 2523    | 100   | மூட்டை    | 410.00        | 28%             | 41,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 1.",
+            "confidence": 0.9999910250912727,
+            "extraction_confidence": 0.9999910250912727,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1     | 53 கிரேடு சிமெண்டு (53 Grade Cement) | 2523    | 100   | மூட்டை    | 410.00        | 28%             | 41,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 2.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2     | கட்டிட மணல் (Building Sand)          | 2505    | 5     | லோடு      | 5,500.00      | 5%              | 27,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 2.",
+            "confidence": 0.9999995679801056,
+            "extraction_confidence": 0.9999995679801056,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2     | கட்டிட மணல் (Building Sand)          | 2505    | 5     | லோடு      | 5,500.00      | 5%              | 27,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 2.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2     | கட்டிட மணல் (Building Sand)          | 2505    | 5     | லோடு      | 5,500.00      | 5%              | 27,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 2.",
+            "confidence": 0.99999973678971,
+            "extraction_confidence": 0.99999973678971,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2     | கட்டிட மணல் (Building Sand)          | 2505    | 5     | லோடு      | 5,500.00      | 5%              | 27,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 3.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3     | ஜல்லி 20mm (Aggregate 20mm)          | 2517    | 5     | லோடு      | 6,200.00      | 5%              | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 3.",
+            "confidence": 0.9999978991308366,
+            "extraction_confidence": 0.9999978991308366,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3     | ஜல்லி 20mm (Aggregate 20mm)          | 2517    | 5     | லோடு      | 6,200.00      | 5%              | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 3.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3     | ஜல்லி 20mm (Aggregate 20mm)          | 2517    | 5     | லோடு      | 6,200.00      | 5%              | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 3.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3     | ஜல்லி 20mm (Aggregate 20mm)          | 2517    | 5     | லோடு      | 6,200.00      | 5%              | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 4.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4     | ஜல்லி 40mm (Aggregate 40mm)          | 2517    | 5     | லோடு      | 6,200.00      | 5%              | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 4.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4     | ஜல்லி 40mm (Aggregate 40mm)          | 2517    | 5     | லோடு      | 6,200.00      | 5%              | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 4.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4     | ஜல்லி 40mm (Aggregate 40mm)          | 2517    | 5     | லோடு      | 6,200.00      | 5%              | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 4.",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4     | ஜல்லி 40mm (Aggregate 40mm)          | 2517    | 5     | லோடு      | 6,200.00      | 5%              | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 5.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5     | TMT கம்பி FE 500D 12mm               | 7214    | 500   | கிலோ      | 62.00         | 18%             | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 5.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5     | TMT கம்பி FE 500D 12mm               | 7214    | 500   | கிலோ      | 62.00         | 18%             | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 5.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5     | TMT கம்பி FE 500D 12mm               | 7214    | 500   | கிலோ      | 62.00         | 18%             | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 5.",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5     | TMT கம்பி FE 500D 12mm               | 7214    | 500   | கிலோ      | 62.00         | 18%             | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 6.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6     | TMT கம்பி FE 500D 16mm               | 7214    | 500   | கிலோ      | 62.00         | 18%             | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 6.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6     | TMT கம்பி FE 500D 16mm               | 7214    | 500   | கிலோ      | 62.00         | 18%             | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 6.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6     | TMT கம்பி FE 500D 16mm               | 7214    | 500   | கிலோ      | 62.00         | 18%             | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 6.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6     | TMT கம்பி FE 500D 16mm               | 7214    | 500   | கிலோ      | 62.00         | 18%             | 31,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 7.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7     | சிவப்பு செங்கல் (Red Bricks)         | 6904    | 10000 | எண்ணிக்கை | 8.50          | 5%              | 85,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 7.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7     | சிவப்பு செங்கல் (Red Bricks)         | 6904    | 10000 | எண்ணிக்கை | 8.50          | 5%              | 85,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 7.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7     | சிவப்பு செங்கல் (Red Bricks)         | 6904    | 10000 | எண்ணிக்கை | 8.50          | 5%              | 85,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 7.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7     | சிவப்பு செங்கல் (Red Bricks)         | 6904    | 10000 | எண்ணிக்கை | 8.50          | 5%              | 85,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 8.",
+            "confidence": 0.9986090211948346,
+            "extraction_confidence": 0.9986090211948346,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8     | M-சாண்ட் (Manufactured Sand)         | 2517    | 5     | லோடு      | 5,800.00      | 5%              | 29,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 8.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8     | M-சாண்ட் (Manufactured Sand)         | 2517    | 5     | லோடு      | 5,800.00      | 5%              | 29,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 8.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8     | M-சாண்ட் (Manufactured Sand)         | 2517    | 5     | லோடு      | 5,800.00      | 5%              | 29,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 8.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8     | M-சாண்ட் (Manufactured Sand)         | 2517    | 5     | லோடு      | 5,800.00      | 5%              | 29,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 9.",
+            "confidence": 0.9999839544909115,
+            "extraction_confidence": 0.9999839544909115,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 9.",
+            "confidence": 0.9999742971332993,
+            "extraction_confidence": 0.9999742971332993,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9     | வாட்டர் புரூபிங் கெமிக்கல் 20 Ltr    | 3824    | 4     | கேன்      | 2,750.00      | 18%             | 11,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 9.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9     | வாட்டர் புரூபிங் கெமிக்கல் 20 Ltr    | 3824    | 4     | கேன்      | 2,750.00      | 18%             | 11,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 9.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9     | வாட்டர் புரூபிங் கெமிக்கல் 20 Ltr    | 3824    | 4     | கேன்      | 2,750.00      | 18%             | 11,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 10.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10    | PVC குழாய் 4\" (PVC Pipe 4\")          | 3917    | 20    | நீளம்     | 175.00        | 18%             | 3,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 10.",
+            "confidence": 0.9999843100334488,
+            "extraction_confidence": 0.9999843100334488,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10    | PVC குழாய் 4\" (PVC Pipe 4\")          | 3917    | 20    | நீளம்     | 175.00        | 18%             | 3,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 10.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10    | PVC குழாய் 4\" (PVC Pipe 4\")          | 3917    | 20    | நீளம்     | 175.00        | 18%             | 3,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 10.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10    | PVC குழாய் 4\" (PVC Pipe 4\")          | 3917    | 20    | நீளம்     | 175.00        | 18%             | 3,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.079023323170731,
+                    "y": 123.82409268292683,
+                    "w": 235.93104009146342,
+                    "h": 98.08285609756096
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "Verbatim extraction from 'பொருட்களின் மொத்த மதிப்பு (Taxable Value): ₹ 3,21,000.00'.",
+        "confidence": 0.8889052677962148,
+        "extraction_confidence": 0.8889052677962148,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| பொருட்களின் மொத்த மதிப்பு (Taxable Value)  | ₹ 3,21,000.00 |",
+            "bounding_boxes": [
+              {
+                "x": 3.906841006097561,
+                "y": 226.33733414634145,
+                "w": 238.11141265243904,
+                "h": 90.64854878048783
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Verbatim extraction from 'மொத்த வரி (Total Tax): ₹ 35,425.00'.",
+        "confidence": 0.5055392078028236,
+        "extraction_confidence": 0.5055392078028236,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| மொத்த வரி (Total Tax)                      | ₹ 35,425.00   |",
+            "bounding_boxes": [
+              {
+                "x": 3.906841006097561,
+                "y": 226.33733414634145,
+                "w": 238.11141265243904,
+                "h": 90.64854878048783
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "Verbatim extraction from 'செலுத்த வேண்டிய மொத்தத் தொகை (Grand Total): ₹ 3,56,425.00'.",
+        "confidence": 0.6579975653474822,
+        "extraction_confidence": 0.6579975653474822,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**தொகை எழுத்தில் (Amount in Words):**\nரூபாய் மூன்று லட்சத்து ஐம்பத்தாறு ஆயிரத்து நானூற்று இருபத்தைந்து மட்டும்\n**₹ 3,56,425.00**",
+            "bounding_boxes": [
+              {
+                "x": 8.35584,
+                "y": 301.48607999999996,
+                "w": 149.17632,
+                "h": 12.902399999999998
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are denoted with the symbol ₹, which is the Indian Rupee.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Translated 'கடன் கால அவகாசம்: 30 நாட்கள்' as 'Credit period: 30 days'.",
+        "confidence": 0.6144538611898858,
+        "extraction_confidence": 0.6144538611898858,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**விலைப்பட்டியல் எண்**: KBS/24-25/0786\n**விலைப்பட்டியல் தேதி**: 16-05-2024\n**கடன் கால அவகாசம்**: 30 நாட்கள்\n**கட்டணம் செலுத்த வேண்டியது**: 15-06-2024\n**இடம் பெயருதல் (Place Supply)**: தமிழ்நாடு (33)",
+            "bounding_boxes": [
+              {
+                "x": 7.800513109756098,
+                "y": 70.26693475609757,
+                "w": 73.7697137195122,
+                "h": 47.17808780487805
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      }
+    },
+    "file_id": "83dc5024-0823-4d4e-a709-bef621058d29",
+    "file_name": "invoice_azimg_20260519_161402_545_0005.png",
+    "file_hash": "4ab4039b-b8b9-44b0-bc99-b92994866c9d",
+    "metadata": {
+      "job_id": "ext-vogmv0brss69ig7h7ipptmszptmr"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_161402_545_0005.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_161402_545_0005.png"
+    }
+  ]
+}

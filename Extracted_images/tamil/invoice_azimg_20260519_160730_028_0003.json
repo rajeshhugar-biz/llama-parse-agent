@@ -1,0 +1,1270 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\tamil\\images\\invoice_azimg_20260519_160730_028_0003.png",
+  "language": "tamil",
+  "file_id": "f3d52f14-7f90-4dca-97b3-327832140868",
+  "record_id": {
+    "value": {
+      "result": "agd-bdfkr0mr8a036psggd9ak78xj2tv"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "No. 12/1, Thiruvalluvar Nagar, Sivananda Colony, Coimbatore - 641 012.",
+      "customer_name": "M/s. Sri Murugan Traders",
+      "due_date": "2024-05-31",
+      "invoice_date": "2024-05-17",
+      "invoice_number": "SVR/24-25/1526",
+      "line_items": [
+        {
+          "amount": 750.0,
+          "description": "Mini Idli (50 nos)",
+          "quantity": 5.0,
+          "unit_price": 150.0
+        },
+        {
+          "amount": 1200.0,
+          "description": "Veg Pongal (1 Kg)",
+          "quantity": 10.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 1040.0,
+          "description": "Sambar (1 Ltr)",
+          "quantity": 8.0,
+          "unit_price": 130.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Coconut Chutney (500 ml)",
+          "quantity": 10.0,
+          "unit_price": 60.0
+        },
+        {
+          "amount": 1320.0,
+          "description": "Lemon Rice (1 Kg)",
+          "quantity": 12.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Curd Rice (1 Kg)",
+          "quantity": 10.0,
+          "unit_price": 100.0
+        },
+        {
+          "amount": 800.0,
+          "description": "Poori (100 pcs)",
+          "quantity": 5.0,
+          "unit_price": 160.0
+        },
+        {
+          "amount": 270.0,
+          "description": "Pickle (250 gm)",
+          "quantity": 6.0,
+          "unit_price": 45.0
+        },
+        {
+          "amount": 660.0,
+          "description": "Rasam (1 Ltr)",
+          "quantity": 6.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 840.0,
+          "description": "Payasam (1 Ltr)",
+          "quantity": 6.0,
+          "unit_price": 140.0
+        }
+      ],
+      "payment_terms": "Due by due date; 18% per annum interest on late payment.",
+      "subtotal": 8480.0,
+      "tax_amount": 424.0,
+      "total_amount": 8904.0,
+      "vendor_address": "No. 15, R.S. Puram, Coimbatore - 641 002, Tamil Nadu.",
+      "vendor_name": "Suvai Veedu Restaurant"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "No. 12/1, Thiruvalluvar Nagar, Sivananda Colony, Coimbatore - 641 012.",
+      "customer_name": "M/s. Sri Murugan Traders",
+      "due_date": "2024-05-31",
+      "invoice_date": "2024-05-17",
+      "invoice_number": "SVR/24-25/1526",
+      "line_items": [
+        {
+          "amount": 750.0,
+          "description": "Mini Idli (50 nos)",
+          "quantity": 5.0,
+          "unit_price": 150.0
+        },
+        {
+          "amount": 1200.0,
+          "description": "Veg Pongal (1 Kg)",
+          "quantity": 10.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 1040.0,
+          "description": "Sambar (1 Ltr)",
+          "quantity": 8.0,
+          "unit_price": 130.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Coconut Chutney (500 ml)",
+          "quantity": 10.0,
+          "unit_price": 60.0
+        },
+        {
+          "amount": 1320.0,
+          "description": "Lemon Rice (1 Kg)",
+          "quantity": 12.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Curd Rice (1 Kg)",
+          "quantity": 10.0,
+          "unit_price": 100.0
+        },
+        {
+          "amount": 800.0,
+          "description": "Poori (100 pcs)",
+          "quantity": 5.0,
+          "unit_price": 160.0
+        },
+        {
+          "amount": 270.0,
+          "description": "Pickle (250 gm)",
+          "quantity": 6.0,
+          "unit_price": 45.0
+        },
+        {
+          "amount": 660.0,
+          "description": "Rasam (1 Ltr)",
+          "quantity": 6.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 840.0,
+          "description": "Payasam (1 Ltr)",
+          "quantity": 6.0,
+          "unit_price": 140.0
+        }
+      ],
+      "payment_terms": "Due by due date; 18% per annum interest on late payment.",
+      "subtotal": 8480.0,
+      "tax_amount": 424.0,
+      "total_amount": 8904.0,
+      "vendor_address": "No. 15, R.S. Puram, Coimbatore - 641 002, Tamil Nadu.",
+      "vendor_name": "Suvai Veedu Restaurant"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9750450675182709,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "Invoice number is explicitly mentioned as 'SVR/24-25/1526'.",
+        "confidence": 0.7010294862164381,
+        "extraction_confidence": 0.7010294862164381,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**Invoice No.** : SVR/24-25/1526",
+            "bounding_boxes": [
+              {
+                "x": 155.19,
+                "y": 70.8,
+                "w": 69.67,
+                "h": 5.04
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "Invoice date is explicitly mentioned as '17-05-2024'.",
+        "confidence": 0.9984074921950324,
+        "extraction_confidence": 0.9984074921950324,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**Invoice Date** : 17-05-2024",
+            "bounding_boxes": [
+              {
+                "x": 154.95,
+                "y": 78.48,
+                "w": 60.3,
+                "h": 5.04
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "Due date is explicitly mentioned as '31-05-2024'.",
+        "confidence": 0.7660992517834452,
+        "extraction_confidence": 0.7660992517834452,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**Due Date** : 31-05-2024",
+            "bounding_boxes": [
+              {
+                "x": 154.95,
+                "y": 85.92,
+                "w": 60.06,
+                "h": 5.52
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Vendor name is 'சுவை வீடு உணவகம்', which translates to 'Suvai Veedu Restaurant'.",
+        "confidence": 0.6867150924747124,
+        "extraction_confidence": 0.6867150924747124,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "Suvai Veedu Restaurant",
+            "bounding_boxes": [
+              {
+                "x": 46.37,
+                "y": 343.68,
+                "w": 71.11,
+                "h": 6.0
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "Vendor address is at the top: 'No. 15, R.S. Puram, Coimbatore - 641 002, Tamil Nadu.'",
+        "confidence": 0.9213206438448681,
+        "extraction_confidence": 0.9213206438448681,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**வங்கி விவரங்கள் (Bank Details)**\n**Bank Name** : Indian Bank\n**A/C Name** : SU VAI VEEDU RESTAURANT\n**A/C No.** : 6023158714\n**IFSC Code** : IDIB000K128\n**Branch** : R.S. Puram, Coimbatore - 641 002",
+            "bounding_boxes": [
+              {
+                "x": 9.98703018292683,
+                "y": 336.5447451219512,
+                "w": 107.16899176829268,
+                "h": 36.516106097560986
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "customer_name": {
+        "reasoning": "The customer name is given as 'M/s. ஸ்ரீ முருகன் டிரேட்டர்ஸ்', which translates to 'M/s. Sri Murugan Traders'.",
+        "confidence": 0.7749040453522831,
+        "extraction_confidence": 0.7749040453522831,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The billing address is provided under '**பில்லிங் முகவரி (Bill To)**' and is translated to English.",
+        "confidence": 0.9956239586661624,
+        "extraction_confidence": 0.9956239586661624,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "First line item: Mini Idli (50 nos), 5 packs at 150.00 each, total 750.00.",
+            "confidence": 0.9319649616734929,
+            "extraction_confidence": 0.9319649616734929,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "First line item: Mini Idli (50 nos), 5 packs at 150.00 each, total 750.00.",
+            "confidence": 0.9999247109121079,
+            "extraction_confidence": 0.9999247109121079,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                  | மினி இட்லி (50 nos)     | 21069099  | 5    | பேக்     | 150.00                | 2.5                                      | 2.5                      | 750.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "First line item: Mini Idli (50 nos), 5 packs at 150.00 each, total 750.00.",
+            "confidence": 0.9999881617032281,
+            "extraction_confidence": 0.9999881617032281,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                  | மினி இட்லி (50 nos)     | 21069099  | 5    | பேக்     | 150.00                | 2.5                                      | 2.5                      | 750.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "First line item: Mini Idli (50 nos), 5 packs at 150.00 each, total 750.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| 150.00                | 2.5                                      | 2.5                      | 750.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Second line item: Veg Pongal (1 Kg), 10 packs at 120.00 each, total 1,200.00.",
+            "confidence": 0.9999842844375191,
+            "extraction_confidence": 0.9999842844375191,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Second line item: Veg Pongal (1 Kg), 10 packs at 120.00 each, total 1,200.00.",
+            "confidence": 0.9999996647864002,
+            "extraction_confidence": 0.9999996647864002,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                  | வெஜ் பொங்கல் (1 Kg)     | 21069099  | 10   | பேக்     | 120.00                | 2.5                                      | 2.5                      | 1,200.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Second line item: Veg Pongal (1 Kg), 10 packs at 120.00 each, total 1,200.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                  | வெஜ் பொங்கல் (1 Kg)     | 21069099  | 10   | பேக்     | 120.00                | 2.5                                      | 2.5                      | 1,200.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Second line item: Veg Pongal (1 Kg), 10 packs at 120.00 each, total 1,200.00.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                  | வெஜ் பொங்கல் (1 Kg)     | 21069099  | 10   | பேக்     | 120.00                | 2.5                                      | 2.5                      | 1,200.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Third line item: Sambar (1 Ltr), 8 liters at 130.00 each, total 1,040.00.",
+            "confidence": 0.9999913131016329,
+            "extraction_confidence": 0.9999913131016329,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                  | சாம்பார் (1 Ltr)        | 21069099  | 8    | லிட்டர்  | 130.00                | 2.5                                      | 2.5                      | 1,040.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Third line item: Sambar (1 Ltr), 8 liters at 130.00 each, total 1,040.00.",
+            "confidence": 0.9999998063873693,
+            "extraction_confidence": 0.9999998063873693,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                  | சாம்பார் (1 Ltr)        | 21069099  | 8    | லிட்டர்  | 130.00                | 2.5                                      | 2.5                      | 1,040.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Third line item: Sambar (1 Ltr), 8 liters at 130.00 each, total 1,040.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                  | சாம்பார் (1 Ltr)        | 21069099  | 8    | லிட்டர்  | 130.00                | 2.5                                      | 2.5                      | 1,040.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Third line item: Sambar (1 Ltr), 8 liters at 130.00 each, total 1,040.00.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                  | சாம்பார் (1 Ltr)        | 21069099  | 8    | லிட்டர்  | 130.00                | 2.5                                      | 2.5                      | 1,040.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Fourth line item: Coconut Chutney (500 ml), 10 cups at 60.00 each, total 600.00.",
+            "confidence": 0.9999966642006461,
+            "extraction_confidence": 0.9999966642006461,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Fourth line item: Coconut Chutney (500 ml), 10 cups at 60.00 each, total 600.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                                  | தேங்காய் சட்னி (500 ml) | 21069099  | 10   | கப்      | 60.00                 | 2.5                                      | 2.5                      | 600.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Fourth line item: Coconut Chutney (500 ml), 10 cups at 60.00 each, total 600.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                                  | தேங்காய் சட்னி (500 ml) | 21069099  | 10   | கப்      | 60.00                 | 2.5                                      | 2.5                      | 600.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Fourth line item: Coconut Chutney (500 ml), 10 cups at 60.00 each, total 600.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| 60.00                 | 2.5                                      | 2.5                      | 600.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Fifth line item: Lemon Rice (1 Kg), 12 packs at 110.00 each, total 1,320.00.",
+            "confidence": 0.9999993720923005,
+            "extraction_confidence": 0.9999993720923005,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Fifth line item: Lemon Rice (1 Kg), 12 packs at 110.00 each, total 1,320.00.",
+            "confidence": 0.9999989719621736,
+            "extraction_confidence": 0.9999989719621736,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                                  | லெமன் சாதம் (1 Kg)      | 21069099  | 12   | பேக்     | 110.00                | 2.5                                      | 2.5                      | 1,320.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Fifth line item: Lemon Rice (1 Kg), 12 packs at 110.00 each, total 1,320.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                                  | லெமன் சாதம் (1 Kg)      | 21069099  | 12   | பேக்     | 110.00                | 2.5                                      | 2.5                      | 1,320.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Fifth line item: Lemon Rice (1 Kg), 12 packs at 110.00 each, total 1,320.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                                  | லெமன் சாதம் (1 Kg)      | 21069099  | 12   | பேக்     | 110.00                | 2.5                                      | 2.5                      | 1,320.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Sixth line item: Curd Rice (1 Kg), 10 packs at 100.00 each, total 1,000.00.",
+            "confidence": 0.9999981474092875,
+            "extraction_confidence": 0.9999981474092875,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Sixth line item: Curd Rice (1 Kg), 10 packs at 100.00 each, total 1,000.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                  | தயிர் சாதம் (1 Kg)      | 21069099  | 10   | பேக்     | 100.00                | 2.5                                      | 2.5                      | 1,000.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Sixth line item: Curd Rice (1 Kg), 10 packs at 100.00 each, total 1,000.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                  | தயிர் சாதம் (1 Kg)      | 21069099  | 10   | பேக்     | 100.00                | 2.5                                      | 2.5                      | 1,000.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Sixth line item: Curd Rice (1 Kg), 10 packs at 100.00 each, total 1,000.00.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                  | தயிர் சாதம் (1 Kg)      | 21069099  | 10   | பேக்     | 100.00                | 2.5                                      | 2.5                      | 1,000.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Seventh line item: Poori (100 pcs), 5 packs at 160.00 each, total 800.00.",
+            "confidence": 0.9999983336802035,
+            "extraction_confidence": 0.9999983336802035,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                  | பூரி (100 pcs)          | 21069099  | 5    | பேக்     | 160.00                | 2.5                                      | 2.5                      | 800.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Seventh line item: Poori (100 pcs), 5 packs at 160.00 each, total 800.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                  | பூரி (100 pcs)          | 21069099  | 5    | பேக்     | 160.00                | 2.5                                      | 2.5                      | 800.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Seventh line item: Poori (100 pcs), 5 packs at 160.00 each, total 800.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                  | பூரி (100 pcs)          | 21069099  | 5    | பேக்     | 160.00                | 2.5                                      | 2.5                      | 800.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Seventh line item: Poori (100 pcs), 5 packs at 160.00 each, total 800.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| 160.00                | 2.5                                      | 2.5                      | 800.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Eighth line item: Pickle (250 gm), 6 bottles at 45.00 each, total 270.00.",
+            "confidence": 0.9999997690584793,
+            "extraction_confidence": 0.9999997690584793,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                                  | ஊறுகாய் (250 gm)        | 21069099  | 6    | பாட்டில் | 45.00                 | 2.5                                      | 2.5                      | 270.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Eighth line item: Pickle (250 gm), 6 bottles at 45.00 each, total 270.00.",
+            "confidence": 0.9999986143516758,
+            "extraction_confidence": 0.9999986143516758,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                                  | ஊறுகாய் (250 gm)        | 21069099  | 6    | பாட்டில் | 45.00                 | 2.5                                      | 2.5                      | 270.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Eighth line item: Pickle (250 gm), 6 bottles at 45.00 each, total 270.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                                  | ஊறுகாய் (250 gm)        | 21069099  | 6    | பாட்டில் | 45.00                 | 2.5                                      | 2.5                      | 270.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Eighth line item: Pickle (250 gm), 6 bottles at 45.00 each, total 270.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...ில் | 45.00                 | 2.5                                      | 2.5                      | 270.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Ninth line item: Rasam (1 Ltr), 6 liters at 110.00 each, total 660.00.",
+            "confidence": 0.9999991929077545,
+            "extraction_confidence": 0.9999991929077545,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                  | ரசம் (1 Ltr)            | 21069099  | 6    | லிட்டர்  | 110.00                | 2.5                                      | 2.5                      | 660.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Ninth line item: Rasam (1 Ltr), 6 liters at 110.00 each, total 660.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                  | ரசம் (1 Ltr)            | 21069099  | 6    | லிட்டர்  | 110.00                | 2.5                                      | 2.5                      | 660.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Ninth line item: Rasam (1 Ltr), 6 liters at 110.00 each, total 660.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                  | ரசம் (1 Ltr)            | 21069099  | 6    | லிட்டர்  | 110.00                | 2.5                                      | 2.5                      | 660.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Ninth line item: Rasam (1 Ltr), 6 liters at 110.00 each, total 660.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...ர்  | 110.00                | 2.5                                      | 2.5                      | 660.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Tenth line item: Payasam (1 Ltr), 6 liters at 140.00 each, total 840.00.",
+            "confidence": 0.9999985050196183,
+            "extraction_confidence": 0.9999985050196183,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                 | பாயசம் (1 Ltr)          | 21069099  | 6    | லிட்டர்  | 140.00                | 2.5                                      | 2.5                      | 840.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Tenth line item: Payasam (1 Ltr), 6 liters at 140.00 each, total 840.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                 | பாயசம் (1 Ltr)          | 21069099  | 6    | லிட்டர்  | 140.00                | 2.5                                      | 2.5                      | 840.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Tenth line item: Payasam (1 Ltr), 6 liters at 140.00 each, total 840.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                 | பாயசம் (1 Ltr)          | 21069099  | 6    | லிட்டர்  | 140.00                | 2.5                                      | 2.5                      | 840.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Tenth line item: Payasam (1 Ltr), 6 liters at 140.00 each, total 840.00.",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...ர்  | 140.00                | 2.5                                      | 2.5                      | 840.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.473276524390244,
+                    "y": 152.29436890243903,
+                    "w": 229.17467469512195,
+                    "h": 156.40084207317074
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "Taxable value (sum of line items) is shown as Rs. 8,480.00.",
+        "confidence": 0.999984771909858,
+        "extraction_confidence": 0.999984771909858,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| 8,480.00         |\n|                                    |                         |           |      |          |                       | CGST @ 2.5%                              | Rs.",
+            "bounding_boxes": [
+              {
+                "x": 6.473276524390244,
+                "y": 152.29436890243903,
+                "w": 229.17467469512195,
+                "h": 156.40084207317074
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "CGST and SGST are each Rs. 212.00, total tax is Rs. 424.00.",
+        "confidence": 0.9984730028185791,
+        "extraction_confidence": 0.9984730028185791,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "Grand Total is shown as Rs. 8,904.00.",
+        "confidence": 0.9943360007796245,
+        "extraction_confidence": 0.9943360007796245,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "currency": {
+        "reasoning": "The invoice uses 'Rs.' and 'Rupees' in the amount fields, which refers to Indian Rupees (INR).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Terms are stated: 'Please pay the amount due by the Due Date. 18% interest per annum for late payment.'",
+        "confidence": 0.9336095891099313,
+        "extraction_confidence": 0.9336095891099313,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "f3d52f14-7f90-4dca-97b3-327832140868",
+    "file_name": "invoice_azimg_20260519_160730_028_0003.png",
+    "file_hash": "e7d9c83b-32de-41f7-9b0a-6096d7a913df",
+    "metadata": {
+      "job_id": "ext-z8y9ua000gllud5l40tqv5brr1u3"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_160730_028_0003.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_160730_028_0003.png"
+    }
+  ]
+}

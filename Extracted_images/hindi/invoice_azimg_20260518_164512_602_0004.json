@@ -1,0 +1,1338 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\hindi\\images\\invoice_azimg_20260518_164512_602_0004.png",
+  "language": "hindi",
+  "file_id": "ff8b2a6f-fe12-49a4-93d3-34810f4d6255",
+  "record_id": {
+    "value": {
+      "result": "agd-n2f04xdhi1rrqx1vh0orjoj2j2ia"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "Med Jeevandeep Hospital, Plot No. 15, Shanti Nagar, CIDCO, Nashik-422 009, Maharashtra, India",
+      "customer_name": "Med Jeevandeep Hospital",
+      "due_date": "2024-06-04",
+      "invoice_date": "2024-05-20",
+      "invoice_number": "AMS/24-25/1578",
+      "line_items": [
+        {
+          "amount": 45000.0,
+          "description": "Paracetamol Tablet IP 650 mg",
+          "quantity": 1000.0,
+          "unit_price": 45.0
+        },
+        {
+          "amount": 60000.0,
+          "description": "Amoxicillin Capsule IP 500 mg",
+          "quantity": 500.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 42500.0,
+          "description": "Ciprofloxacin Tablet IP 500 mg",
+          "quantity": 500.0,
+          "unit_price": 85.0
+        },
+        {
+          "amount": 50000.0,
+          "description": "Omeprazole Capsule IP 20 mg",
+          "quantity": 1000.0,
+          "unit_price": 50.0
+        },
+        {
+          "amount": 30000.0,
+          "description": "Domperidone Tablet IP 10 mg",
+          "quantity": 1000.0,
+          "unit_price": 30.0
+        },
+        {
+          "amount": 37500.0,
+          "description": "Aceclofenac Tablet IP 100 mg",
+          "quantity": 500.0,
+          "unit_price": 75.0
+        },
+        {
+          "amount": 9500.0,
+          "description": "Ceftriaxone Injection IP 1 gm",
+          "quantity": 100.0,
+          "unit_price": 95.0
+        },
+        {
+          "amount": 6000.0,
+          "description": "Pantoprazole Injection IP 40 mg",
+          "quantity": 100.0,
+          "unit_price": 60.0
+        },
+        {
+          "amount": 11000.0,
+          "description": "Dextrose Injection IP 5% 500 ml",
+          "quantity": 200.0,
+          "unit_price": 55.0
+        },
+        {
+          "amount": 7000.0,
+          "description": "Normal Saline IP 0.9% 500 ml",
+          "quantity": 200.0,
+          "unit_price": 35.0
+        }
+      ],
+      "payment_terms": "Net 15; 24% annual interest for late payment",
+      "subtotal": 298500.0,
+      "tax_amount": 35820.0,
+      "total_amount": 334320.0,
+      "vendor_address": "Shop No. 12, First Floor, Shri Sai Complex, Station Road, Nashik-422 101, Maharashtra, India",
+      "vendor_name": "Arogya Medical Suppliers"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "Med Jeevandeep Hospital, Plot No. 15, Shanti Nagar, CIDCO, Nashik-422 009, Maharashtra, India",
+      "customer_name": "Med Jeevandeep Hospital",
+      "due_date": "2024-06-04",
+      "invoice_date": "2024-05-20",
+      "invoice_number": "AMS/24-25/1578",
+      "line_items": [
+        {
+          "amount": 45000.0,
+          "description": "Paracetamol Tablet IP 650 mg",
+          "quantity": 1000.0,
+          "unit_price": 45.0
+        },
+        {
+          "amount": 60000.0,
+          "description": "Amoxicillin Capsule IP 500 mg",
+          "quantity": 500.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 42500.0,
+          "description": "Ciprofloxacin Tablet IP 500 mg",
+          "quantity": 500.0,
+          "unit_price": 85.0
+        },
+        {
+          "amount": 50000.0,
+          "description": "Omeprazole Capsule IP 20 mg",
+          "quantity": 1000.0,
+          "unit_price": 50.0
+        },
+        {
+          "amount": 30000.0,
+          "description": "Domperidone Tablet IP 10 mg",
+          "quantity": 1000.0,
+          "unit_price": 30.0
+        },
+        {
+          "amount": 37500.0,
+          "description": "Aceclofenac Tablet IP 100 mg",
+          "quantity": 500.0,
+          "unit_price": 75.0
+        },
+        {
+          "amount": 9500.0,
+          "description": "Ceftriaxone Injection IP 1 gm",
+          "quantity": 100.0,
+          "unit_price": 95.0
+        },
+        {
+          "amount": 6000.0,
+          "description": "Pantoprazole Injection IP 40 mg",
+          "quantity": 100.0,
+          "unit_price": 60.0
+        },
+        {
+          "amount": 11000.0,
+          "description": "Dextrose Injection IP 5% 500 ml",
+          "quantity": 200.0,
+          "unit_price": 55.0
+        },
+        {
+          "amount": 7000.0,
+          "description": "Normal Saline IP 0.9% 500 ml",
+          "quantity": 200.0,
+          "unit_price": 35.0
+        }
+      ],
+      "payment_terms": "Net 15; 24% annual interest for late payment",
+      "subtotal": 298500.0,
+      "tax_amount": 35820.0,
+      "total_amount": 334320.0,
+      "vendor_address": "Shop No. 12, First Floor, Shri Sai Complex, Station Road, Nashik-422 101, Maharashtra, India",
+      "vendor_name": "Arogya Medical Suppliers"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.99571569503272,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is explicitly mentioned as AMS/24-25/1578.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चालान क्रमांक : AMS/24-25/1578**",
+            "bounding_boxes": [
+              {
+                "x": 170.88,
+                "y": 25.44,
+                "w": 65.28,
+                "h": 7.68
+              }
+            ],
+            "page_dimensions": {
+              "width": 257.28,
+              "height": 436.8
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is explicitly mentioned as 20/05/2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चालान दिनांक : 20/05/2024**",
+            "bounding_boxes": [
+              {
+                "x": 170.13081219512193,
+                "y": 23.715423321979802,
+                "w": 67.3206756859756,
+                "h": 64.16060676090892
+              }
+            ],
+            "page_dimensions": {
+              "width": 257.28,
+              "height": 436.8
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is explicitly mentioned as 04/06/2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**देय दिनांक : 04/06/2024**",
+            "bounding_boxes": [
+              {
+                "x": 199.2,
+                "y": 43.68,
+                "w": 24.72,
+                "h": 6.72
+              }
+            ],
+            "page_dimensions": {
+              "width": 257.28,
+              "height": 436.8
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is at the top, translated to English.",
+        "confidence": 0.9828638909915304,
+        "extraction_confidence": 0.9828638909915304,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "vendor_address": {
+        "reasoning": "The vendor address is at the top, translated to English.",
+        "confidence": 0.9992552860601549,
+        "extraction_confidence": 0.9992552860601549,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The 'Bill To' section lists the customer name.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The 'Bill To' section provides the full address of the customer, translated to English.",
+        "confidence": 0.9767641634144062,
+        "extraction_confidence": 0.9767641634144062,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9971719128410437,
+            "extraction_confidence": 0.9971719128410437,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1          | पेरासिटामोल टैबलेट IP 650 mg       | 30049011  | 1000   | टैबलेट          | 45.00  | 6%                 | 6%                 | 45,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1          | पेरासिटामोल टैबलेट IP 650 mg       | 30049011  | 1000   | टैबलेट          | 45.00  | 6%                 | 6%                 | 45,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9976436385659925,
+            "extraction_confidence": 0.9976436385659925,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1          | पेरासिटामोल टैबलेट IP 650 mg       | 30049011  | 1000   | टैबलेट          | 45.00  | 6%                 | 6%                 | 45,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.8550185533326939,
+            "extraction_confidence": 0.8550185533326939,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1          | पेरासिटामोल टैबलेट IP 650 mg       | 30049011  | 1000   | टैबलेट          | 45.00  | 6%                 | 6%                 | 45,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9996145398900473,
+            "extraction_confidence": 0.9996145398900473,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2          | एमोक्सीसिलिन कैप्सूल IP 500 mg     | 30041012  | 500    | कैप्सूल         | 120.00 | 6%                 | 6%                 | 60,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2          | एमोक्सीसिलिन कैप्सूल IP 500 mg     | 30041012  | 500    | कैप्सूल         | 120.00 | 6%                 | 6%                 | 60,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999710637906758,
+            "extraction_confidence": 0.9999710637906758,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2          | एमोक्सीसिलिन कैप्सूल IP 500 mg     | 30041012  | 500    | कैप्सूल         | 120.00 | 6%                 | 6%                 | 60,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999742449378319,
+            "extraction_confidence": 0.9999742449378319,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2          | एमोक्सीसिलिन कैप्सूल IP 500 mg     | 30041012  | 500    | कैप्सूल         | 120.00 | 6%                 | 6%                 | 60,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999999255080793,
+            "extraction_confidence": 0.9999999255080793,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3          | सिप्रोफ्लोक्सासिन टैबलेट IP 500 mg | 30049099  | 500    | टैबलेट          | 85.00  | 6%                 | 6%                 | 42,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3          | सिप्रोफ्लोक्सासिन टैबलेट IP 500 mg | 30049099  | 500    | टैबलेट          | 85.00  | 6%                 | 6%                 | 42,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999900565393146,
+            "extraction_confidence": 0.9999900565393146,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3          | सिप्रोफ्लोक्सासिन टैबलेट IP 500 mg | 30049099  | 500    | टैबलेट          | 85.00  | 6%                 | 6%                 | 42,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999827976159275,
+            "extraction_confidence": 0.9999827976159275,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3          | सिप्रोफ्लोक्सासिन टैबलेट IP 500 mg | 30049099  | 500    | टैबलेट          | 85.00  | 6%                 | 6%                 | 42,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999999122632289,
+            "extraction_confidence": 0.9999999122632289,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4          | ओमेप्राजोल कैप्सूल IP 20 mg        | 30049019  | 1000   | कैप्सूल         | 50.00  | 6%                 | 6%                 | 50,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4          | ओमेप्राजोल कैप्सूल IP 20 mg        | 30049019  | 1000   | कैप्सूल         | 50.00  | 6%                 | 6%                 | 50,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999995927830815,
+            "extraction_confidence": 0.9999995927830815,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4          | ओमेप्राजोल कैप्सूल IP 20 mg        | 30049019  | 1000   | कैप्सूल         | 50.00  | 6%                 | 6%                 | 50,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999247284006018,
+            "extraction_confidence": 0.9999247284006018,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4          | ओमेप्राजोल कैप्सूल IP 20 mg        | 30049019  | 1000   | कैप्सूल         | 50.00  | 6%                 | 6%                 | 50,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999999255080793,
+            "extraction_confidence": 0.9999999255080793,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5          | डोमपेरिडोन टैबलेट IP 10 mg         | 30049099  | 1000   | टैबलेट          | 30.00  | 6%                 | 6%                 | 30,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5          | डोमपेरिडोन टैबलेट IP 10 mg         | 30049099  | 1000   | टैबलेट          | 30.00  | 6%                 | 6%                 | 30,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5          | डोमपेरिडोन टैबलेट IP 10 mg         | 30049099  | 1000   | टैबलेट          | 30.00  | 6%                 | 6%                 | 30,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999948072502993,
+            "extraction_confidence": 0.9999948072502993,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5          | डोमपेरिडोन टैबलेट IP 10 mg         | 30049099  | 1000   | टैबलेट          | 30.00  | 6%                 | 6%                 | 30,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999996920779906,
+            "extraction_confidence": 0.9999996920779906,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6          | एसिक्लोफेनाक टैबलेट IP 100 mg      | 30049099  | 500    | टैबलेट          | 75.00  | 6%                 | 6%                 | 37,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6          | एसिक्लोफेनाक टैबलेट IP 100 mg      | 30049099  | 500    | टैबलेट          | 75.00  | 6%                 | 6%                 | 37,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6          | एसिक्लोफेनाक टैबलेट IP 100 mg      | 30049099  | 500    | टैबलेट          | 75.00  | 6%                 | 6%                 | 37,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999296433647485,
+            "extraction_confidence": 0.9999296433647485,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6          | एसिक्लोफेनाक टैबलेट IP 100 mg      | 30049099  | 500    | टैबलेट          | 75.00  | 6%                 | 6%                 | 37,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999999608979601,
+            "extraction_confidence": 0.9999999608979601,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7          | सेफ्ट्रिआक्सोन इंजेक्शन IP 1 gm    | 30042019  | 100    | वायल            | 95.00  | 6%                 | 6%                 | 9,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999960290826209,
+            "extraction_confidence": 0.9999960290826209,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7          | सेफ्ट्रिआक्सोन इंजेक्शन IP 1 gm    | 30042019  | 100    | वायल            | 95.00  | 6%                 | 6%                 | 9,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7          | सेफ्ट्रिआक्सोन इंजेक्शन IP 1 gm    | 30042019  | 100    | वायल            | 95.00  | 6%                 | 6%                 | 9,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7          | सेफ्ट्रिआक्सोन इंजेक्शन IP 1 gm    | 30042019  | 100    | वायल            | 95.00  | 6%                 | 6%                 | 9,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999999757984191,
+            "extraction_confidence": 0.9999999757984191,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8          | पैन्टोप्राजोल इंजेक्शन IP 40 mg    | 30049039  | 100    | वायल            | 60.00  | 6%                 | 6%                 | 6,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8          | पैन्टोप्राजोल इंजेक्शन IP 40 mg    | 30049039  | 100    | वायल            | 60.00  | 6%                 | 6%                 | 6,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8          | पैन्टोप्राजोल इंजेक्शन IP 40 mg    | 30049039  | 100    | वायल            | 60.00  | 6%                 | 6%                 | 6,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8          | पैन्टोप्राजोल इंजेक्शन IP 40 mg    | 30049039  | 100    | वायल            | 60.00  | 6%                 | 6%                 | 6,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 0.9999999387529297,
+            "extraction_confidence": 0.9999999387529297,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9          | डेक्सट्रोज इंजेक्शन IP 5% 500 ml   | 30049099  | 200    | बोतल            | 55.00  | 6%                 | 6%                 | 11,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9          | डेक्सट्रोज इंजेक्शन IP 5% 500 ml   | 30049099  | 200    | बोतल            | 55.00  | 6%                 | 6%                 | 11,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9          | डेक्सट्रोज इंजेक्शन IP 5% 500 ml   | 30049099  | 200    | बोतल            | 55.00  | 6%                 | 6%                 | 11,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9          | डेक्सट्रोज इंजेक्शन IP 5% 500 ml   | 30049099  | 200    | बोतल            | 55.00  | 6%                 | 6%                 | 11,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10         | नॉर्मल सलाइन IP 0.9% 500 ml        | 30049099  | 200    | बोतल            | 35.00  | 6%                 | 6%                 | 7,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10         | नॉर्मल सलाइन IP 0.9% 500 ml        | 30049099  | 200    | बोतल            | 35.00  | 6%                 | 6%                 | 7,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10         | नॉर्मल सलाइन IP 0.9% 500 ml        | 30049099  | 200    | बोतल            | 35.00  | 6%                 | 6%                 | 7,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Hindi to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10         | नॉर्मल सलाइन IP 0.9% 500 ml        | 30049099  | 200    | बोतल            | 35.00  | 6%                 | 6%                 | 7,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 9.421928620426828,
+                    "y": 143.62534941882623,
+                    "w": 236.21382884908533,
+                    "h": 174.60312447599088
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 257.28,
+                  "height": 436.8
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The subtotal is the sum of all line items before tax, explicitly stated as 'माल की कुल राशि' (Total value of goods): ₹2,98,500.00.",
+        "confidence": 0.9993903762920217,
+        "extraction_confidence": 0.9993903762920217,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| कुल मात्रा |                                    |           | 5,600  | माल की कुल राशि |        |                    |                    | 2,98,500.00 |",
+            "bounding_boxes": [
+              {
+                "x": 9.421928620426828,
+                "y": 143.62534941882623,
+                "w": 236.21382884908533,
+                "h": 174.60312447599088
+              }
+            ],
+            "page_dimensions": {
+              "width": 257.28,
+              "height": 436.8
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Total tax amount is the sum of CGST and SGST: ₹17,910.00 + ₹17,910.00 = ₹35,820.00.",
+        "confidence": 0.9983219127870757,
+        "extraction_confidence": 0.9983219127870757,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "The total amount due is explicitly stated as 'कुल देय राशि' (Total amount due): ₹3,34,320.00.",
+        "confidence": 0.9952211065240057,
+        "extraction_confidence": 0.9952211065240057,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|            |                                    |           |        | कुल देय राशि    |        |                    |                    | 3,34,320.00 |",
+            "bounding_boxes": [
+              {
+                "x": 9.421928620426828,
+                "y": 143.62534941882623,
+                "w": 236.21382884908533,
+                "h": 174.60312447599088
+              }
+            ],
+            "page_dimensions": {
+              "width": 257.28,
+              "height": 436.8
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are in INR (₹), which is the Indian Rupee. This is inferred from the use of the ₹ symbol and the context (India).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Payment terms are not explicitly stated as 'Net X' or similar, but the due date is 15 days after the invoice date, suggesting Net 15. Also, terms mention 24% annual interest for late payment.",
+        "confidence": 0.9761885955057701,
+        "extraction_confidence": 0.9761885955057701,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "ff8b2a6f-fe12-49a4-93d3-34810f4d6255",
+    "file_name": "invoice_azimg_20260518_164512_602_0004.png",
+    "file_hash": "a9fbe987-a4e7-4c3c-833b-f384534e142d",
+    "metadata": {
+      "job_id": "ext-t5ka6xs0wjodep970of4fhaxau39"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260518_164512_602_0004.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_164512_602_0004.png"
+    }
+  ]
+}

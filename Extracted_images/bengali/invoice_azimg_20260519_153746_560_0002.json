@@ -1,0 +1,1202 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\bengali\\images\\invoice_azimg_20260519_153746_560_0002.png",
+  "language": "bengali",
+  "file_id": "313c1e38-427c-4f8a-a43a-69019f56065e",
+  "record_id": {
+    "value": {
+      "result": "agd-4i638e8jeuxg897pma1g8tfwph38"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "12/B, Kanailal Lane, Kolkata - 700039, West Bengal",
+      "customer_name": "M/s Life Care Hospital Pvt. Ltd.",
+      "due_date": "2024-06-04",
+      "invoice_date": "2024-05-20",
+      "invoice_number": "MSS/24-25/1127",
+      "line_items": [
+        {
+          "amount": 1250.0,
+          "description": "Disposable Syringe 5 ml",
+          "quantity": 500.0,
+          "unit_price": 2.5
+        },
+        {
+          "amount": 1500.0,
+          "description": "Disposable Syringe 10 ml",
+          "quantity": 500.0,
+          "unit_price": 3.0
+        },
+        {
+          "amount": 2000.0,
+          "description": "Disposable Syringe 20 ml",
+          "quantity": 500.0,
+          "unit_price": 4.0
+        },
+        {
+          "amount": 3000.0,
+          "description": "IV Set (Normal)",
+          "quantity": 250.0,
+          "unit_price": 12.0
+        },
+        {
+          "amount": 3750.0,
+          "description": "IV Set (Vented)",
+          "quantity": 250.0,
+          "unit_price": 15.0
+        },
+        {
+          "amount": 11000.0,
+          "description": "Disposable Gloves (M)",
+          "quantity": 100.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 11000.0,
+          "description": "Disposable Gloves (L)",
+          "quantity": 100.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Surgical Mask (3 Ply)",
+          "quantity": 500.0,
+          "unit_price": 1.2
+        },
+        {
+          "amount": 1100.0,
+          "description": "Cotton Roll 500 gm",
+          "quantity": 20.0,
+          "unit_price": 55.0
+        },
+        {
+          "amount": 2500.0,
+          "description": "Gauze Piece 10 cm x 10 cm",
+          "quantity": 100.0,
+          "unit_price": 25.0
+        }
+      ],
+      "payment_terms": "Payment due by due date; 24% interest per annum if late; payment to be made via RTGS/NEFT against GST invoice.",
+      "subtotal": 38700.0,
+      "tax_amount": 4644.0,
+      "total_amount": 43344.0,
+      "vendor_address": "42, Kalikrishna Tagore Road, 1st Floor, Kolkata - 700026",
+      "vendor_name": "Medicare Surgical Supply"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "12/B, Kanailal Lane, Kolkata - 700039, West Bengal",
+      "customer_name": "M/s Life Care Hospital Pvt. Ltd.",
+      "due_date": "2024-06-04",
+      "invoice_date": "2024-05-20",
+      "invoice_number": "MSS/24-25/1127",
+      "line_items": [
+        {
+          "amount": 1250.0,
+          "description": "Disposable Syringe 5 ml",
+          "quantity": 500.0,
+          "unit_price": 2.5
+        },
+        {
+          "amount": 1500.0,
+          "description": "Disposable Syringe 10 ml",
+          "quantity": 500.0,
+          "unit_price": 3.0
+        },
+        {
+          "amount": 2000.0,
+          "description": "Disposable Syringe 20 ml",
+          "quantity": 500.0,
+          "unit_price": 4.0
+        },
+        {
+          "amount": 3000.0,
+          "description": "IV Set (Normal)",
+          "quantity": 250.0,
+          "unit_price": 12.0
+        },
+        {
+          "amount": 3750.0,
+          "description": "IV Set (Vented)",
+          "quantity": 250.0,
+          "unit_price": 15.0
+        },
+        {
+          "amount": 11000.0,
+          "description": "Disposable Gloves (M)",
+          "quantity": 100.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 11000.0,
+          "description": "Disposable Gloves (L)",
+          "quantity": 100.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Surgical Mask (3 Ply)",
+          "quantity": 500.0,
+          "unit_price": 1.2
+        },
+        {
+          "amount": 1100.0,
+          "description": "Cotton Roll 500 gm",
+          "quantity": 20.0,
+          "unit_price": 55.0
+        },
+        {
+          "amount": 2500.0,
+          "description": "Gauze Piece 10 cm x 10 cm",
+          "quantity": 100.0,
+          "unit_price": 25.0
+        }
+      ],
+      "payment_terms": "Payment due by due date; 24% interest per annum if late; payment to be made via RTGS/NEFT against GST invoice.",
+      "subtotal": 38700.0,
+      "tax_amount": 4644.0,
+      "total_amount": 43344.0,
+      "vendor_address": "42, Kalikrishna Tagore Road, 1st Floor, Kolkata - 700026",
+      "vendor_name": "Medicare Surgical Supply"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9766918879368593,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is explicitly mentioned as 'ইনভয়েস নং : MSS/24-25/1127'.",
+        "confidence": 0.9999999784874837,
+        "extraction_confidence": 0.9999999784874837,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ইনভয়েস নং** : MSS/24-25/1127",
+            "bounding_boxes": [
+              {
+                "x": 43.96,
+                "y": 83.76,
+                "w": 36.28,
+                "h": 6.48
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is explicitly mentioned as 'ইনভয়েস তারিখ : 20/05/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ইনভয়েস নং** : MSS/24-25/1127\n**ইনভয়েস তারিখ** : 20/05/2024\n**ডিউ তারিখ** : 04/06/2024\n**স্থান অব সরবরাহ** : পশ্চিমবঙ্গ (19)\n**পরিবহন মাধ্যম** : By Road",
+            "bounding_boxes": [
+              {
+                "x": 49.074991463414634,
+                "y": 84.3766875,
+                "w": 31.45337195121951,
+                "h": 5.873911280487795
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is explicitly mentioned as 'ডিউ তারিখ : 04/06/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ইনভয়েস নং** : MSS/24-25/1127\n**ইনভয়েস তারিখ** : 20/05/2024\n**ডিউ তারিখ** : 04/06/2024\n**স্থান অব সরবরাহ** : পশ্চিমবঙ্গ (19)\n**পরিবহন মাধ্যম** : By Road",
+            "bounding_boxes": [
+              {
+                "x": 49.074991463414634,
+                "y": 84.3766875,
+                "w": 31.45337195121951,
+                "h": 5.873911280487795
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is 'Medicare Surgical Supply' as shown in both English and Bengali.",
+        "confidence": 0.7696448204867515,
+        "extraction_confidence": 0.7696448204867515,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "Medicare Surgical Supply stamp",
+            "bounding_boxes": [
+              {
+                "x": 180.18,
+                "y": 340.08,
+                "w": 3.6,
+                "h": 4.32
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "The vendor address is at the top: ৪২, কালীকৃষ্ণ টেগোর রোড, ১ম তলা, কলকাতা - 700 026, translated to English.",
+        "confidence": 0.8574806483246759,
+        "extraction_confidence": 0.8574806483246759,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The customer name is given as 'মেসার্স লাইফ কেয়ার হাসপাতাল প্রা: লি:' which translates to 'M/s Life Care Hospital Pvt. Ltd.'",
+        "confidence": 0.999888002848494,
+        "extraction_confidence": 0.999888002848494,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The 'বিল টু (গ্রাহকের ঠিকানা)' section provides the full billing address in Bengali, which is translated to English.",
+        "confidence": 0.9531438512357884,
+        "extraction_confidence": 0.9531438512357884,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "First line item: ডিসপোজডবল সিরিঞ্জ ৫ মি.লি. = Disposable Syringe 5 ml.",
+            "confidence": 0.9485950291362785,
+            "extraction_confidence": 0.9485950291362785,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "First line item: ডিসপোজডবল সিরিঞ্জ ৫ মি.লি. = Disposable Syringe 5 ml.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                                              | ডিসপোজডবল সিরিঞ্জ ৫ মি.লি.  | 9018      | 500    | পিস     | 2.50          | 12%          | 1,250.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "First line item: ডিসপোজডবল সিরিঞ্জ ৫ মি.লি. = Disposable Syringe 5 ml.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                                              | ডিসপোজডবল সিরিঞ্জ ৫ মি.লি.  | 9018      | 500    | পিস     | 2.50          | 12%          | 1,250.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "First line item: ডিসপোজডবল সিরিঞ্জ ৫ মি.লি. = Disposable Syringe 5 ml.",
+            "confidence": 0.9853049234566871,
+            "extraction_confidence": 0.9853049234566871,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                                              | ডিসপোজডবল সিরিঞ্জ ৫ মি.লি.  | 9018      | 500    | পিস     | 2.50          | 12%          | 1,250.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Second line item: ডিসপোজডবল সিরিঞ্জ ১০ মি.লি. = Disposable Syringe 10 ml.",
+            "confidence": 0.9997319596062352,
+            "extraction_confidence": 0.9997319596062352,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Second line item: ডিসপোজডবল সিরিঞ্জ ১০ মি.লি. = Disposable Syringe 10 ml.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                                              | ডিসপোজডবল সিরিঞ্জ ১০ মি.লি. | 9018      | 500    | পিস     | 3.00          | 12%          | 1,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Second line item: ডিসপোজডবল সিরিঞ্জ ১০ মি.লি. = Disposable Syringe 10 ml.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                                              | ডিসপোজডবল সিরিঞ্জ ১০ মি.লি. | 9018      | 500    | পিস     | 3.00          | 12%          | 1,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Second line item: ডিসপোজডবল সিরিঞ্জ ১০ মি.লি. = Disposable Syringe 10 ml.",
+            "confidence": 0.9804926838189234,
+            "extraction_confidence": 0.9804926838189234,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                                              | ডিসপোজডবল সিরিঞ্জ ১০ মি.লি. | 9018      | 500    | পিস     | 3.00          | 12%          | 1,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Third line item: ডিসপোজডবল সিরিঞ্জ ২০ মি.লি. = Disposable Syringe 20 ml.",
+            "confidence": 0.9997961745981764,
+            "extraction_confidence": 0.9997961745981764,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Third line item: ডিসপোজডবল সিরিঞ্জ ২০ মি.লি. = Disposable Syringe 20 ml.",
+            "confidence": 0.9999996275819197,
+            "extraction_confidence": 0.9999996275819197,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9018      | 500    | পিস     | 4.00          | 12%          | 2,000.00   |\n| 4                                                              | আই.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Third line item: ডিসপোজডবল সিরিঞ্জ ২০ মি.লি. = Disposable Syringe 20 ml.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9018      | 500    | পিস     | 4.00          | 12%          | 2,000.00   |\n| 4                                                              | আই.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Third line item: ডিসপোজডবল সিরিঞ্জ ২০ মি.লি. = Disposable Syringe 20 ml.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9018      | 500    | পিস     | 4.00          | 12%          | 2,000.00   |\n| 4                                                              | আই.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Fourth line item: আই. ভি. সেট (নরমাল) = IV Set (Normal).",
+            "confidence": 0.9999392011641738,
+            "extraction_confidence": 0.9999392011641738,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Fourth line item: আই. ভি. সেট (নরমাল) = IV Set (Normal).",
+            "confidence": 0.999975250739051,
+            "extraction_confidence": 0.999975250739051,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "সেট (নরমাল)         | 9018      | 250    | পিস     | 12.00         | 12%          | 3,000.00   |\n| 5                                                              | আই.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Fourth line item: আই. ভি. সেট (নরমাল) = IV Set (Normal).",
+            "confidence": 0.9999995778515295,
+            "extraction_confidence": 0.9999995778515295,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "সেট (নরমাল)         | 9018      | 250    | পিস     | 12.00         | 12%          | 3,000.00   |\n| 5                                                              | আই.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Fourth line item: আই. ভি. সেট (নরমাল) = IV Set (Normal).",
+            "confidence": 0.8159787512025518,
+            "extraction_confidence": 0.8159787512025518,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "সেট (নরমাল)         | 9018      | 250    | পিস     | 12.00         | 12%          | 3,000.00   |\n| 5                                                              | আই.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Fifth line item: আই. ভি. সেট (ভেন্টিড) = IV Set (Vented).",
+            "confidence": 0.9999935243008203,
+            "extraction_confidence": 0.9999935243008203,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Fifth line item: আই. ভি. সেট (ভেন্টিড) = IV Set (Vented).",
+            "confidence": 0.9999959098792687,
+            "extraction_confidence": 0.9999959098792687,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                                                              | আই. ভি. সেট (ভেন্টিড)       | 9018      | 250    | পিস     | 15.00         | 12%          | 3,750.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Fifth line item: আই. ভি. সেট (ভেন্টিড) = IV Set (Vented).",
+            "confidence": 0.9999975116577273,
+            "extraction_confidence": 0.9999975116577273,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                                                              | আই. ভি. সেট (ভেন্টিড)       | 9018      | 250    | পিস     | 15.00         | 12%          | 3,750.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Fifth line item: আই. ভি. সেট (ভেন্টিড) = IV Set (Vented).",
+            "confidence": 0.9999996573206071,
+            "extraction_confidence": 0.9999996573206071,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                                                              | আই. ভি. সেট (ভেন্টিড)       | 9018      | 250    | পিস     | 15.00         | 12%          | 3,750.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Sixth line item: ডিসপোজডবল গ্লাভস (M) = Disposable Gloves (M).",
+            "confidence": 0.9984838384606674,
+            "extraction_confidence": 0.9984838384606674,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Sixth line item: ডিসপোজডবল গ্লাভস (M) = Disposable Gloves (M).",
+            "confidence": 0.9999921773839029,
+            "extraction_confidence": 0.9999921773839029,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                                              | ডিসপোজডবল গ্লাভস (M)        | 4015      | 100    | বক্স    | 110.00        | 12%          | 11,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Sixth line item: ডিসপোজডবল গ্লাভস (M) = Disposable Gloves (M).",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                                              | ডিসপোজডবল গ্লাভস (M)        | 4015      | 100    | বক্স    | 110.00        | 12%          | 11,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Sixth line item: ডিসপোজডবল গ্লাভস (M) = Disposable Gloves (M).",
+            "confidence": 0.999986038461868,
+            "extraction_confidence": 0.999986038461868,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                                              | ডিসপোজডবল গ্লাভস (M)        | 4015      | 100    | বক্স    | 110.00        | 12%          | 11,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Seventh line item: ডিসপোজডবল গ্লাভস (L) = Disposable Gloves (L).",
+            "confidence": 0.9999948494528221,
+            "extraction_confidence": 0.9999948494528221,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Seventh line item: ডিসপোজডবল গ্লাভস (L) = Disposable Gloves (L).",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                                              | ডিসপোজডবল গ্লাভস (L)        | 4015      | 100    | বক্স    | 110.00        | 12%          | 11,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Seventh line item: ডিসপোজডবল গ্লাভস (L) = Disposable Gloves (L).",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                                              | ডিসপোজডবল গ্লাভস (L)        | 4015      | 100    | বক্স    | 110.00        | 12%          | 11,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Seventh line item: ডিসপোজডবল গ্লাভস (L) = Disposable Gloves (L).",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                                              | ডিসপোজডবল গ্লাভস (L)        | 4015      | 100    | বক্স    | 110.00        | 12%          | 11,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Eighth line item: সার্জিক্যাল মাস্ক (৩ প্লাই) = Surgical Mask (3 Ply).",
+            "confidence": 0.9999991333059639,
+            "extraction_confidence": 0.9999991333059639,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Eighth line item: সার্জিক্যাল মাস্ক (৩ প্লাই) = Surgical Mask (3 Ply).",
+            "confidence": 0.9999995455827853,
+            "extraction_confidence": 0.9999995455827853,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                                              | ডিসপোজডবল সিরিঞ্জ ৫ মি.লি.  | 9018      | 500    | পিস     | 2.50          | 12%          | 1,250.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Eighth line item: সার্জিক্যাল মাস্ক (৩ প্লাই) = Surgical Mask (3 Ply).",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                                                              | সার্জিক্যাল মাস্ক (৩ প্লাই) | 6307      | 500    | পিস     | 1.20          | 12%          | 600.00     |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Eighth line item: সার্জিক্যাল মাস্ক (৩ প্লাই) = Surgical Mask (3 Ply).",
+            "confidence": 0.9999406831302451,
+            "extraction_confidence": 0.9999406831302451,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                                                              | সার্জিক্যাল মাস্ক (৩ প্লাই) | 6307      | 500    | পিস     | 1.20          | 12%          | 600.00     |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Ninth line item: কটন রোল ৫০০ গ্রাম = Cotton Roll 500 gm.",
+            "confidence": 0.999998894898837,
+            "extraction_confidence": 0.999998894898837,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Ninth line item: কটন রোল ৫০০ গ্রাম = Cotton Roll 500 gm.",
+            "confidence": 0.9999997839900294,
+            "extraction_confidence": 0.9999997839900294,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                                              | কটন রোল ৫০০ গ্রাম           | 5601      | 20     | রোল     | 55.00         | 12%          | 1,100.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Ninth line item: কটন রোল ৫০০ গ্রাম = Cotton Roll 500 gm.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                                              | কটন রোল ৫০০ গ্রাম           | 5601      | 20     | রোল     | 55.00         | 12%          | 1,100.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Ninth line item: কটন রোল ৫০০ গ্রাম = Cotton Roll 500 gm.",
+            "confidence": 0.9999732839284795,
+            "extraction_confidence": 0.9999732839284795,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                                              | কটন রোল ৫০০ গ্রাম           | 5601      | 20     | রোল     | 55.00         | 12%          | 1,100.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Tenth line item: গজ পিস ১০ সেমি x ১০ সেমি = Gauze Piece 10 cm x 10 cm.",
+            "confidence": 0.9999297170750256,
+            "extraction_confidence": 0.9999297170750256,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Tenth line item: গজ পিস ১০ সেমি x ১০ সেমি = Gauze Piece 10 cm x 10 cm.",
+            "confidence": 0.9999978047304348,
+            "extraction_confidence": 0.9999978047304348,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                                             | গজ পিস ১০ সেমি x ১০ সেমি    | 3005      | 100    | প্যাকেট | 25.00         | 12%          | 2,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Tenth line item: গজ পিস ১০ সেমি x ১০ সেমি = Gauze Piece 10 cm x 10 cm.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                                             | গজ পিস ১০ সেমি x ১০ সেমি    | 3005      | 100    | প্যাকেট | 25.00         | 12%          | 2,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Tenth line item: গজ পিস ১০ সেমি x ১০ সেমি = Gauze Piece 10 cm x 10 cm.",
+            "confidence": 0.9767516999720316,
+            "extraction_confidence": 0.9767516999720316,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                                             | গজ পিস ১০ সেমি x ১০ সেমি    | 3005      | 100    | প্যাকেট | 25.00         | 12%          | 2,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.886123475609757,
+                    "y": 152.19614268292682,
+                    "w": 222.92203262195122,
+                    "h": 159.40866951219516
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The subtotal is listed as 'মোট মূল্য (₹)' which is 38,700.00.",
+        "confidence": 0.9999994747822953,
+        "extraction_confidence": 0.9999994747822953,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                                                |                             |           |        |         | মোট মূল্য (₹) |              | 38,700.00  |",
+            "bounding_boxes": [
+              {
+                "x": 11.886123475609757,
+                "y": 152.19614268292682,
+                "w": 222.92203262195122,
+                "h": 159.40866951219516
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "CGST @ 6%: 2,322.00 + SGST @ 6%: 2,322.00 = 4,644.00 (as also shown as 'মোট কর (₹)').",
+        "confidence": 0.6966308643917108,
+        "extraction_confidence": 0.6966308643917108,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| মোট টাকার কথায় : টাকা তেতাল্লিশ হাজার তিনশো চুয়াল্লিশ মাত্র। |                             |           |        |         | মোট কর (₹)    |              | 4,644.00   |",
+            "bounding_boxes": [
+              {
+                "x": 11.886123475609757,
+                "y": 152.19614268292682,
+                "w": 222.92203262195122,
+                "h": 159.40866951219516
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "The final total is listed as 'সর্বমোট (₹)' which is 43,344.00.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                                                |                             |           |        |         | সর্বমোট (₹)   |              | 43,344.00  |",
+            "bounding_boxes": [
+              {
+                "x": 11.886123475609757,
+                "y": 152.19614268292682,
+                "w": 222.92203262195122,
+                "h": 159.40866951219516
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are all in ₹ (Indian Rupees), as indicated by the currency symbol and context.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "The terms state payment must be made by the due date, otherwise 24% interest will be charged. Also, payment should be made via RTGS/NEFT against GST invoice.",
+        "confidence": 0.8063432994724414,
+        "extraction_confidence": 0.8063432994724414,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "313c1e38-427c-4f8a-a43a-69019f56065e",
+    "file_name": "invoice_azimg_20260519_153746_560_0002.png",
+    "file_hash": "2d631c11-43ad-4dfa-962d-f512d69fa827",
+    "metadata": {
+      "job_id": "ext-ti1bfq5ldqjat3yn6cbp6dm2tsnv"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_153746_560_0002.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_153746_560_0002.png"
+    }
+  ]
+}

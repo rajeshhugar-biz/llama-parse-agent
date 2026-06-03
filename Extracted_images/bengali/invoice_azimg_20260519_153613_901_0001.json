@@ -1,0 +1,1410 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\bengali\\images\\invoice_azimg_20260519_153613_901_0001.png",
+  "language": "bengali",
+  "file_id": "7b3797fa-ffb3-493a-9ad3-9f25a4f1f0f5",
+  "record_id": {
+    "value": {
+      "result": "agd-xayhrxu7b3gd9z4w102zfkajrlcu"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "Shri Sumit Dutta, 91/2, Bidhan Nagar Road, Durgapur, Paschim Bardhaman – 713212, West Bengal, India",
+      "customer_name": "Shri Sumit Dutta",
+      "due_date": "2024-06-05",
+      "invoice_date": "2024-05-21",
+      "invoice_number": "ARH/24-25/1526",
+      "line_items": [
+        {
+          "amount": 13200.0,
+          "description": "Room Charge (Single Room) - 6 days",
+          "quantity": 6.0,
+          "unit_price": 2200.0
+        },
+        {
+          "amount": 1600.0,
+          "description": "Consultation Charge",
+          "quantity": 2.0,
+          "unit_price": 800.0
+        },
+        {
+          "amount": 3600.0,
+          "description": "Nursing Charge",
+          "quantity": 6.0,
+          "unit_price": 600.0
+        },
+        {
+          "amount": 7500.0,
+          "description": "Operation Theatre Charge",
+          "quantity": 1.0,
+          "unit_price": 7500.0
+        },
+        {
+          "amount": 3000.0,
+          "description": "Anesthesia Charge",
+          "quantity": 1.0,
+          "unit_price": 3000.0
+        },
+        {
+          "amount": 2500.0,
+          "description": "Doctor Visit Charge",
+          "quantity": 5.0,
+          "unit_price": 500.0
+        },
+        {
+          "amount": 4785.0,
+          "description": "Medicine and Consumables",
+          "quantity": 1.0,
+          "unit_price": 4785.0
+        },
+        {
+          "amount": 2450.0,
+          "description": "Lab Test Charge",
+          "quantity": 7.0,
+          "unit_price": 350.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "X-Ray / ECG Charge",
+          "quantity": 2.0,
+          "unit_price": 750.0
+        },
+        {
+          "amount": 1200.0,
+          "description": "Physiotherapy Charge",
+          "quantity": 3.0,
+          "unit_price": 400.0
+        },
+        {
+          "amount": 41335.0,
+          "description": "Sub Total",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 1702.1,
+          "description": "CGST @ 6%",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 1702.1,
+          "description": "SGST @ 6%",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": -0.2,
+          "description": "Round Off",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 44739.0,
+          "description": "Grand Total",
+          "quantity": null,
+          "unit_price": null
+        }
+      ],
+      "payment_terms": "Payment must be made within 15 days of receipt of this bill. 18% interest will be charged after the due date. For cheque/draft, please make payable to Arogya Super Speciality Hospital Pvt. Ltd. Medicines once sold will not be taken back. This bill is computer generated and does not require a signature.",
+      "subtotal": 41335.0,
+      "tax_amount": 3404.2,
+      "total_amount": 44739.0,
+      "vendor_address": "152, Bardhaman Road, City Centre, Durgapur, Paschim Bardhaman – 713213, West Bengal, India",
+      "vendor_name": "Arogya Super Speciality Hospital Pvt. Ltd."
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "Shri Sumit Dutta, 91/2, Bidhan Nagar Road, Durgapur, Paschim Bardhaman – 713212, West Bengal, India",
+      "customer_name": "Shri Sumit Dutta",
+      "due_date": "2024-06-05",
+      "invoice_date": "2024-05-21",
+      "invoice_number": "ARH/24-25/1526",
+      "line_items": [
+        {
+          "amount": 13200.0,
+          "description": "Room Charge (Single Room) - 6 days",
+          "quantity": 6.0,
+          "unit_price": 2200.0
+        },
+        {
+          "amount": 1600.0,
+          "description": "Consultation Charge",
+          "quantity": 2.0,
+          "unit_price": 800.0
+        },
+        {
+          "amount": 3600.0,
+          "description": "Nursing Charge",
+          "quantity": 6.0,
+          "unit_price": 600.0
+        },
+        {
+          "amount": 7500.0,
+          "description": "Operation Theatre Charge",
+          "quantity": 1.0,
+          "unit_price": 7500.0
+        },
+        {
+          "amount": 3000.0,
+          "description": "Anesthesia Charge",
+          "quantity": 1.0,
+          "unit_price": 3000.0
+        },
+        {
+          "amount": 2500.0,
+          "description": "Doctor Visit Charge",
+          "quantity": 5.0,
+          "unit_price": 500.0
+        },
+        {
+          "amount": 4785.0,
+          "description": "Medicine and Consumables",
+          "quantity": 1.0,
+          "unit_price": 4785.0
+        },
+        {
+          "amount": 2450.0,
+          "description": "Lab Test Charge",
+          "quantity": 7.0,
+          "unit_price": 350.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "X-Ray / ECG Charge",
+          "quantity": 2.0,
+          "unit_price": 750.0
+        },
+        {
+          "amount": 1200.0,
+          "description": "Physiotherapy Charge",
+          "quantity": 3.0,
+          "unit_price": 400.0
+        },
+        {
+          "amount": 41335.0,
+          "description": "Sub Total",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 1702.1,
+          "description": "CGST @ 6%",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 1702.1,
+          "description": "SGST @ 6%",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": -0.2,
+          "description": "Round Off",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 44739.0,
+          "description": "Grand Total",
+          "quantity": null,
+          "unit_price": null
+        }
+      ],
+      "payment_terms": "Payment must be made within 15 days of receipt of this bill. 18% interest will be charged after the due date. For cheque/draft, please make payable to Arogya Super Speciality Hospital Pvt. Ltd. Medicines once sold will not be taken back. This bill is computer generated and does not require a signature.",
+      "subtotal": 41335.0,
+      "tax_amount": 3404.2,
+      "total_amount": 44739.0,
+      "vendor_address": "152, Bardhaman Road, City Centre, Durgapur, Paschim Bardhaman – 713213, West Bengal, India",
+      "vendor_name": "Arogya Super Speciality Hospital Pvt. Ltd."
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9816148399047867,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "Verbatim extraction from 'চালান নং (Invoice No.): ARH/24-25/1526'.",
+        "confidence": 0.9994089830466444,
+        "extraction_confidence": 0.9994089830466444,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "* **চালান নং (Invoice No.):** ARH/24-25/1526",
+            "bounding_boxes": [
+              {
+                "x": 5.57,
+                "y": 64.3,
+                "w": 234.88,
+                "h": 92.34
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "Verbatim extraction from 'তারিখ (Date): 21/05/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "* **তারিখ (Date):** 21/05/2024",
+            "bounding_boxes": [
+              {
+                "x": 5.57,
+                "y": 64.3,
+                "w": 234.88,
+                "h": 92.34
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "Verbatim extraction from 'দায় পরিশোধের তারিখ (Due Date): 05/06/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "* **দায় পরিশোধের তারিখ (Due Date):** 05/06/2024",
+            "bounding_boxes": [
+              {
+                "x": 5.57,
+                "y": 64.3,
+                "w": 234.88,
+                "h": 92.34
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Translated 'আরোগ্য সুপার স্পেশালিটি হাসপাতাল প্রা. লি.' to 'Arogya Super Speciality Hospital Pvt. Ltd.'",
+        "confidence": 0.9998745378700191,
+        "extraction_confidence": 0.9998745378700191,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "(For Arogya Super Speciality Hospital Pvt. Ltd.)",
+            "bounding_boxes": [
+              {
+                "x": 113.80918536585366,
+                "y": 313.56790243902435,
+                "w": 112.19645853658535,
+                "h": 5.397256097560985
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "Translated the vendor address from Bengali.",
+        "confidence": 0.9992849468851593,
+        "extraction_confidence": 0.9992849468851593,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "Translated 'শ্রী সুমিত দত্ত' to 'Shri Sumit Dutta'.",
+        "confidence": 0.7614271688398326,
+        "extraction_confidence": 0.7614271688398326,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "Translated the Bengali address under 'বিল টু (Billing Address)' to English.",
+        "confidence": 0.9632170822499104,
+        "extraction_confidence": 0.9632170822499104,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated line 1: Room Charge (Single Room) - 6 days.",
+            "confidence": 0.9579911699233944,
+            "extraction_confidence": 0.9579911699233944,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line 1: Room Charge (Single Room) - 6 days.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                     | রুম চার্জ (সিঙ্গেল রুম) - ৬ দিন | 999311      | 6      | দিন  | 2,200.00        | 5%     | 13,200.00     |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line 1: Room Charge (Single Room) - 6 days.",
+            "confidence": 0.9968524274867799,
+            "extraction_confidence": 0.9968524274867799,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                     | রুম চার্জ (সিঙ্গেল রুম) - ৬ দিন | 999311      | 6      | দিন  | 2,200.00        | 5%     | 13,200.00     |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line 1: Room Charge (Single Room) - 6 days.",
+            "confidence": 0.9928676527785665,
+            "extraction_confidence": 0.9928676527785665,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                     | রুম চার্জ (সিঙ্গেল রুম) - ৬ দিন | 999311      | 6      | দিন  | 2,200.00        | 5%     | 13,200.00     |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line 2: Consultation Charge.",
+            "confidence": 0.9999998271920199,
+            "extraction_confidence": 0.9999998271920199,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line 2: Consultation Charge.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "**শিপ টু (Shipping Address):**\nশ্রী সুমিত দত্ত\n91/2, বিধান নগর রোড\nদুর্গাপুর, পশ্চিম বর্ধমান – ৭১৩২১২\nপশ্চিমবঙ্গ, ভারত\nGSTIN: 19ABCDE1234F1Z6",
+                "bounding_boxes": [
+                  {
+                    "x": 8.856483841463415,
+                    "y": 111.55281951219511,
+                    "w": 45.163927134146334,
+                    "h": 5.518300609756097
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line 2: Consultation Charge.",
+            "confidence": 0.9998471291772345,
+            "extraction_confidence": 0.9998471291772345,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "amount": {
+            "reasoning": "Translated line 2: Consultation Charge.",
+            "confidence": 0.9999923363202061,
+            "extraction_confidence": 0.9999923363202061,
+            "parsing_confidence": 1.0,
+            "citation": null
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line 3: Nursing Charge.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line 3: Nursing Charge.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                     | নার্সিং চার্জ                   | 999311      | 6      | দিন  | 600.00          | 5%     | 3,600.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line 3: Nursing Charge.",
+            "confidence": 0.9999866940728078,
+            "extraction_confidence": 0.9999866940728078,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                     | নার্সিং চার্জ                   | 999311      | 6      | দিন  | 600.00          | 5%     | 3,600.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line 3: Nursing Charge.",
+            "confidence": 0.9999966673630275,
+            "extraction_confidence": 0.9999966673630275,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                     | নার্সিং চার্জ                   | 999311      | 6      | দিন  | 600.00          | 5%     | 3,600.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line 4: Operation Theatre Charge.",
+            "confidence": 0.9999999608979601,
+            "extraction_confidence": 0.9999999608979601,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line 4: Operation Theatre Charge.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                     | অপারেশন থিয়েটার চার্জ           | 999312      | 1      | বার  | 7,500.00        | 5%     | 7,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line 4: Operation Theatre Charge.",
+            "confidence": 0.9999978991308366,
+            "extraction_confidence": 0.9999978991308366,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                     | অপারেশন থিয়েটার চার্জ           | 999312      | 1      | বার  | 7,500.00        | 5%     | 7,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line 4: Operation Theatre Charge.",
+            "confidence": 0.9999908114884863,
+            "extraction_confidence": 0.9999908114884863,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                     | অপারেশন থিয়েটার চার্জ           | 999312      | 1      | বার  | 7,500.00        | 5%     | 7,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line 5: Anesthesia Charge.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line 5: Anesthesia Charge.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                     | অ্যানেস্থেশিয়া চার্জ            | 999312      | 1      | বার  | 3,000.00        | 5%     | 3,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line 5: Anesthesia Charge.",
+            "confidence": 0.9999989719621736,
+            "extraction_confidence": 0.9999989719621736,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                     | অ্যানেস্থেশিয়া চার্জ            | 999312      | 1      | বার  | 3,000.00        | 5%     | 3,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line 5: Anesthesia Charge.",
+            "confidence": 0.9999909306912308,
+            "extraction_confidence": 0.9999909306912308,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                     | অ্যানেস্থেশিয়া চার্জ            | 999312      | 1      | বার  | 3,000.00        | 5%     | 3,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line 6: Doctor Visit Charge.",
+            "confidence": 0.9999999374367368,
+            "extraction_confidence": 0.9999999374367368,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line 6: Doctor Visit Charge.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                     | ডাক্তার ভিজিট চার্জ             | 999311      | 5      | বার  | 500.00          | 5%     | 2,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line 6: Doctor Visit Charge.",
+            "confidence": 0.9999955150656735,
+            "extraction_confidence": 0.9999955150656735,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                     | ডাক্তার ভিজিট চার্জ             | 999311      | 5      | বার  | 500.00          | 5%     | 2,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line 6: Doctor Visit Charge.",
+            "confidence": 0.9999954206651414,
+            "extraction_confidence": 0.9999954206651414,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                     | ডাক্তার ভিজিট চার্জ             | 999311      | 5      | বার  | 500.00          | 5%     | 2,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line 7: Medicine and Consumables.",
+            "confidence": 0.9999999757984191,
+            "extraction_confidence": 0.9999999757984191,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line 7: Medicine and Consumables.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                     | ওষুধ ও কনজুমেবলস                | 300490      | 1      | লট   | 4,785.00        | 12%    | 4,785.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line 7: Medicine and Consumables.",
+            "confidence": 0.9999998435918493,
+            "extraction_confidence": 0.9999998435918493,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                     | ওষুধ ও কনজুমেবলস                | 300490      | 1      | লট   | 4,785.00        | 12%    | 4,785.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line 7: Medicine and Consumables.",
+            "confidence": 0.9999938064885374,
+            "extraction_confidence": 0.9999938064885374,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                     | ওষুধ ও কনজুমেবলস                | 300490      | 1      | লট   | 4,785.00        | 12%    | 4,785.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line 8: Lab Test Charge.",
+            "confidence": 0.9999999612774708,
+            "extraction_confidence": 0.9999999612774708,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line 8: Lab Test Charge.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                     | ল্যাব টেস্ট চার্জ               | 999314      | 7      | বার  | 350.00          | 5%     | 2,450.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line 8: Lab Test Charge.",
+            "confidence": 0.9989673648996238,
+            "extraction_confidence": 0.9989673648996238,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                     | ল্যাব টেস্ট চার্জ               | 999314      | 7      | বার  | 350.00          | 5%     | 2,450.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line 8: Lab Test Charge.",
+            "confidence": 0.9999989322277227,
+            "extraction_confidence": 0.9999989322277227,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                     | ল্যাব টেস্ট চার্জ               | 999314      | 7      | বার  | 350.00          | 5%     | 2,450.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line 9: X-Ray / ECG Charge.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line 9: X-Ray / ECG Charge.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "**শিপ টু (Shipping Address):**\nশ্রী সুমিত দত্ত\n91/2, বিধান নগর রোড\nদুর্গাপুর, পশ্চিম বর্ধমান – ৭১৩২১২\nপশ্চিমবঙ্গ, ভারত\nGSTIN: 19ABCDE1234F1Z6",
+                "bounding_boxes": [
+                  {
+                    "x": 8.856483841463415,
+                    "y": 111.55281951219511,
+                    "w": 45.163927134146334,
+                    "h": 5.518300609756097
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line 9: X-Ray / ECG Charge.",
+            "confidence": 0.9999671451236672,
+            "extraction_confidence": 0.9999671451236672,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "amount": {
+            "reasoning": "Translated line 9: X-Ray / ECG Charge.",
+            "confidence": 0.9999690523212267,
+            "extraction_confidence": 0.9999690523212267,
+            "parsing_confidence": 1.0,
+            "citation": null
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line 10: Physiotherapy Charge.",
+            "confidence": 0.9999999677312256,
+            "extraction_confidence": 0.9999999677312256,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line 10: Physiotherapy Charge.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                    | ফিজিওথেরাপি চার্জ               | 999316      | 3      | সেশন | 400.00          | 5%     | 1,200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line 10: Physiotherapy Charge.",
+            "confidence": 0.9999987335551229,
+            "extraction_confidence": 0.9999987335551229,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                    | ফিজিওথেরাপি চার্জ               | 999316      | 3      | সেশন | 400.00          | 5%     | 1,200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line 10: Physiotherapy Charge.",
+            "confidence": 0.9999904538810016,
+            "extraction_confidence": 0.9999904538810016,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                    | ফিজিওথেরাপি চার্জ               | 999316      | 3      | সেশন | 400.00          | 5%     | 1,200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Subtotal row, not a line item for goods/services.",
+            "confidence": 0.9999925945933444,
+            "extraction_confidence": 0.9999925945933444,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| মোট (Sub Total)       |                                 |             |        |      |                 |        | 41,335.00     |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Subtotal row, not a line item for goods/services.",
+            "confidence": 0.5259613139906363,
+            "extraction_confidence": 0.5259613139906363,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| মোট (Sub Total)       |                                 |             |        |      |                 |        | 41,335.00     |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "CGST row, tax line.",
+            "confidence": 0.9999998559933477,
+            "extraction_confidence": 0.9999998559933477,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| CGST @ 6%             |                                 |             |        |      |                 |        | 1,702.10      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "CGST row, tax line.",
+            "confidence": 0.9529490078520305,
+            "extraction_confidence": 0.9529490078520305,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| CGST @ 6%             |                                 |             |        |      |                 |        | 1,702.10      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "SGST row, tax line.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| SGST @ 6%             |                                 |             |        |      |                 |        | 1,702.10      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "SGST row, tax line.",
+            "confidence": 0.999948806435067,
+            "extraction_confidence": 0.999948806435067,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| SGST @ 6%             |                                 |             |        |      |                 |        | 1,702.10      |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Round Off row.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| রাউন্ড অফ (Round Off) |                                 |             |        |      |                 |        | -0.20         |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Round Off row.",
+            "confidence": 0.9895759613066503,
+            "extraction_confidence": 0.9895759613066503,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| রাউন্ড অফ (Round Off) |                                 |             |        |      |                 |        | -0.20         |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Grand Total row.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| সর্বমোট (Grand Total) |                                 |             |        |      |                 |        | Rs. 44,739.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Grand Total row.",
+            "confidence": 0.8738290894979017,
+            "extraction_confidence": 0.8738290894979017,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "44,739.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.14234375,
+                    "y": 157.22463109756097,
+                    "w": 239.45101234756098,
+                    "h": 139.0804518292683
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "Verbatim extraction from 'মোট (Sub Total)': 41,335.00",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| মোট (Sub Total)       |                                 |             |        |      |                 |        | 41,335.00     |",
+            "bounding_boxes": [
+              {
+                "x": 4.14234375,
+                "y": 157.22463109756097,
+                "w": 239.45101234756098,
+                "h": 139.0804518292683
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Sum of CGST and SGST: 1,702.10 + 1,702.10 = 3,404.20",
+        "confidence": 0.9998942437133502,
+        "extraction_confidence": 0.9998942437133502,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "Verbatim extraction from 'সর্বমোট (Grand Total)': Rs. 44,739.00",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "currency": {
+        "reasoning": "The amounts are in Rs. (Indian Rupees), as indicated by 'Rs.' and the context of the Indian address.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Translated the terms from Bengali: Payment within 15 days of receipt, 18% interest after due date, etc.",
+        "confidence": 0.8483680062154608,
+        "extraction_confidence": 0.8483680062154608,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "7b3797fa-ffb3-493a-9ad3-9f25a4f1f0f5",
+    "file_name": "invoice_azimg_20260519_153613_901_0001.png",
+    "file_hash": "bcecd016-9dfe-4e02-9de4-6bbfcdcc848b",
+    "metadata": {
+      "job_id": "ext-xkgtev56iijz9yh67dm71wwgcbuc"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_153613_901_0001.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_153613_901_0001.png"
+    }
+  ]
+}

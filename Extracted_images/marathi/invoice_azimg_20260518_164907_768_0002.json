@@ -1,0 +1,1181 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\marathi\\images\\invoice_azimg_20260518_164907_768_0002.png",
+  "language": "marathi",
+  "file_id": "245a5c7e-7494-4af7-88f3-be99c3fd2d86",
+  "record_id": {
+    "value": {
+      "result": "agd-bdurq9hds3d54dgm9erb52r1632y"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "Gat No. 94, Plot No. 7, MIDC, Chinchwad, Pune - 411 019.",
+      "customer_name": "M/s. Pragati Industries Pvt. Ltd.",
+      "due_date": "2024-02-29",
+      "invoice_date": "2024-02-15",
+      "invoice_number": "SE/23-24/1125",
+      "line_items": [
+        {
+          "amount": 18500.0,
+          "description": "Machinery Housing (Cast Iron)",
+          "quantity": 10.0,
+          "unit_price": 1850.0
+        },
+        {
+          "amount": 7000.0,
+          "description": "Shaft (EN-8)",
+          "quantity": 20.0,
+          "unit_price": 350.0
+        },
+        {
+          "amount": 9300.0,
+          "description": "Gear (Module 2)",
+          "quantity": 15.0,
+          "unit_price": 620.0
+        },
+        {
+          "amount": 3600.0,
+          "description": "Bush (Bronze)",
+          "quantity": 30.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 4800.0,
+          "description": "Pulley (Machine Cut)",
+          "quantity": 10.0,
+          "unit_price": 480.0
+        },
+        {
+          "amount": 3120.0,
+          "description": "Coupling (L-090)",
+          "quantity": 12.0,
+          "unit_price": 260.0
+        },
+        {
+          "amount": 1840.0,
+          "description": "Flange Plate",
+          "quantity": 8.0,
+          "unit_price": 230.0
+        },
+        {
+          "amount": 4860.0,
+          "description": "V-Belt Pulley (3 Groove)",
+          "quantity": 6.0,
+          "unit_price": 810.0
+        },
+        {
+          "amount": 1900.0,
+          "description": "Tensioner Bracket",
+          "quantity": 10.0,
+          "unit_price": 190.0
+        },
+        {
+          "amount": 2125.0,
+          "description": "L-Bracket (MS)",
+          "quantity": 25.0,
+          "unit_price": 85.0
+        }
+      ],
+      "payment_terms": "Payment to be made before due date. 18% annual interest will be charged on late payment.",
+      "subtotal": 57045.0,
+      "tax_amount": 10268.1,
+      "total_amount": 67313.0,
+      "vendor_address": "Gat No. 152, Plot No. 12, MIDC, Bhosari, Pune - 411 026.",
+      "vendor_name": "Shree Engineers"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "Gat No. 94, Plot No. 7, MIDC, Chinchwad, Pune - 411 019.",
+      "customer_name": "M/s. Pragati Industries Pvt. Ltd.",
+      "due_date": "2024-02-29",
+      "invoice_date": "2024-02-15",
+      "invoice_number": "SE/23-24/1125",
+      "line_items": [
+        {
+          "amount": 18500.0,
+          "description": "Machinery Housing (Cast Iron)",
+          "quantity": 10.0,
+          "unit_price": 1850.0
+        },
+        {
+          "amount": 7000.0,
+          "description": "Shaft (EN-8)",
+          "quantity": 20.0,
+          "unit_price": 350.0
+        },
+        {
+          "amount": 9300.0,
+          "description": "Gear (Module 2)",
+          "quantity": 15.0,
+          "unit_price": 620.0
+        },
+        {
+          "amount": 3600.0,
+          "description": "Bush (Bronze)",
+          "quantity": 30.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 4800.0,
+          "description": "Pulley (Machine Cut)",
+          "quantity": 10.0,
+          "unit_price": 480.0
+        },
+        {
+          "amount": 3120.0,
+          "description": "Coupling (L-090)",
+          "quantity": 12.0,
+          "unit_price": 260.0
+        },
+        {
+          "amount": 1840.0,
+          "description": "Flange Plate",
+          "quantity": 8.0,
+          "unit_price": 230.0
+        },
+        {
+          "amount": 4860.0,
+          "description": "V-Belt Pulley (3 Groove)",
+          "quantity": 6.0,
+          "unit_price": 810.0
+        },
+        {
+          "amount": 1900.0,
+          "description": "Tensioner Bracket",
+          "quantity": 10.0,
+          "unit_price": 190.0
+        },
+        {
+          "amount": 2125.0,
+          "description": "L-Bracket (MS)",
+          "quantity": 25.0,
+          "unit_price": 85.0
+        }
+      ],
+      "payment_terms": "Payment to be made before due date. 18% annual interest will be charged on late payment.",
+      "subtotal": 57045.0,
+      "tax_amount": 10268.1,
+      "total_amount": 67313.0,
+      "vendor_address": "Gat No. 152, Plot No. 12, MIDC, Bhosari, Pune - 411 026.",
+      "vendor_name": "Shree Engineers"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9930864076708281,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "VERBATIM EXTRACTION",
+        "confidence": 0.9999999757984191,
+        "extraction_confidence": 0.9999999757984191,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चलन क्र. / Invoice No.** SE/23-24/1125",
+            "bounding_boxes": [
+              {
+                "x": 148.71,
+                "y": 81.84,
+                "w": 79.52,
+                "h": 5.76
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "VERBATIM EXTRACTION",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चलन क्र. / Invoice No.** SE/23-24/1125\n**दिनांक / Date** 15/02/2024\n**देय दिनांक / Due Date** 29/02/2024\n**पुरवठा स्थान / Place of Supply** महाराष्ट्र (27)",
+            "bounding_boxes": [
+              {
+                "x": 146.22719999999998,
+                "y": 80.42496,
+                "w": 89.70240000000001,
+                "h": 85.15584000000001
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "VERBATIM EXTRACTION",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**देय दिनांक / Due Date** 29/02/2024",
+            "bounding_boxes": [
+              {
+                "x": 148.22,
+                "y": 92.88,
+                "w": 73.75,
+                "h": 16.32
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Translated the vendor name from Marathi to English.",
+        "confidence": 0.9922172795685986,
+        "extraction_confidence": 0.9922172795685986,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "Shree Engineers Stamp",
+            "bounding_boxes": [
+              {
+                "x": 65.21086829268293,
+                "y": 59.93686829268293,
+                "w": 62.555912195121955,
+                "h": 5.502877134146343
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "Translated the vendor address from Marathi to English.",
+        "confidence": 0.9993988616108551,
+        "extraction_confidence": 0.9993988616108551,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "Translated the customer name from Marathi to English.",
+        "confidence": 0.9864987480857742,
+        "extraction_confidence": 0.9864987480857742,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "Translated the customer address from Marathi to English.",
+        "confidence": 0.9684570751241479,
+        "extraction_confidence": 0.9684570751241479,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9998809719342024,
+            "extraction_confidence": 0.9998809719342024,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| मशिनरी हाऊसिंग (कास्ट आयरण)            | 8482               | 10              | Nos.         | 1,850.00                     | 18%                   | 18,500.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9996424977360853,
+            "extraction_confidence": 0.9996424977360853,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1,850.00                     | 18%                   | 18,500.00            |\n| 2                                     | शाफ्ट (EN-8)                           | 8483               | 20...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.8980690367784072,
+            "extraction_confidence": 0.8980690367784072,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1,850.00                     | 18%                   | 18,500.00            |\n| 2                                     | शाफ्ट (EN-8)                           | 8483               | 20...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999998531373887,
+            "extraction_confidence": 0.9999998531373887,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                     | शाफ्ट (EN-8)                           | 8483               | 20              | Nos.         | 350.00                       | 18%                   | 7,000...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| शाफ्ट (EN-8)                           | 8483               | 20              | Nos.",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999908114884863,
+            "extraction_confidence": 0.9999908114884863,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 350.00                       | 18%                   | 7,000.00             |\n| 3                                     | गिअर (मॉड्यूल 2)                       | 8483               | 15...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999525506644033,
+            "extraction_confidence": 0.9999525506644033,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 350.00                       | 18%                   | 7,000.00             |\n| 3                                     | गिअर (मॉड्यूल 2)                       | 8483               | 15...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999998063873693,
+            "extraction_confidence": 0.9999998063873693,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "**चलन क्र. / Invoice No.** SE/23-24/1125\n**दिनांक / Date** 15/02/2024\n**देय दिनांक / Due Date** 29/02/2024\n**पुरवठा स्थान / Place of Supply** महाराष्ट्र (27)",
+                "bounding_boxes": [
+                  {
+                    "x": 146.22719999999998,
+                    "y": 80.42496,
+                    "w": 89.70240000000001,
+                    "h": 85.15584000000001
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": null
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999999217959217,
+            "extraction_confidence": 0.9999999217959217,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 620.00                       | 18%                   | 9,300.00             |\n| 4                                     | बुश (ब्रॉन्झ)                          | 8483               | 30...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 120.00                       | 18%                   | 3,600.00             |\n| 5                                     | पुली (मशिन कट)                         | 8483               | 10...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.999997923933809,
+            "extraction_confidence": 0.999997923933809,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 120.00                       | 18%                   | 3,600.00             |\n| 5                                     | पुली (मशिन कट)                         | 8483               | 10...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999999478639471,
+            "extraction_confidence": 0.9999999478639471,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| पुली (मशिन कट)                         | 8483               | 10              | Nos.         | 480.00                       | 18%                   | 4,800.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999931160742555,
+            "extraction_confidence": 0.9999931160742555,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 480.00                       | 18%                   | 4,800.00             |\n| 6                                     | कपलिंग (L-090)                         | 8483               | 12...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9951139856731279,
+            "extraction_confidence": 0.9951139856731279,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 480.00                       | 18%                   | 4,800.00             |\n| 6                                     | कपलिंग (L-090)                         | 8483               | 12...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999999374367368,
+            "extraction_confidence": 0.9999999374367368,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                     | कपलिंग (L-090)                         | 8483               | 12              | Nos.         | 260.00                       | 18%                   | 3,120...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| कपलिंग (L-090)                         | 8483               | 12              | Nos.",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 260.00                       | 18%                   | 3,120.00             |\n| 7                                     | फ्लॅन्ज प्रोट                          | 7326               | 8...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 260.00                       | 18%                   | 3,120.00             |\n| 7                                     | फ्लॅन्ज प्रोट                          | 7326               | 8...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 230.00                       | 18%                   | 1,840.00             |\n| 8                                     | व्ही-बेल्ट पुली (3 ग्रूव्ह)            | 8483               | 6...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999950754575659,
+            "extraction_confidence": 0.9999950754575659,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 230.00                       | 18%                   | 1,840.00             |\n| 8                                     | व्ही-बेल्ट पुली (3 ग्रूव्ह)            | 8483               | 6...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999722160605555,
+            "extraction_confidence": 0.9999722160605555,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 230.00                       | 18%                   | 1,840.00             |\n| 8                                     | व्ही-बेल्ट पुली (3 ग्रूव्ह)            | 8483               | 6...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 810.00                       | 18%                   | 4,860.00             |\n| 9                                     | टेंशनर ब्रॅकेट                         | 7326               | 10...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.99996786032342,
+            "extraction_confidence": 0.99996786032342,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 810.00                       | 18%                   | 4,860.00             |\n| 9                                     | टेंशनर ब्रॅकेट                         | 7326               | 10...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999998137909425,
+            "extraction_confidence": 0.9999998137909425,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 810.00                       | 18%                   | 4,860.00             |\n| 9                                     | टेंशनर ब्रॅकेट                         | 7326               | 10...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 190.00                       | 18%                   | 1,900.00             |\n| 10                                    | एल-ब्रॅकेट (MS)                        | 7326               | 25...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 190.00                       | 18%                   | 1,900.00             |\n| 10                                    | एल-ब्रॅकेट (MS)                        | 7326               | 25...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999981747422058,
+            "extraction_confidence": 0.9999981747422058,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 190.00                       | 18%                   | 1,900.00             |\n| 10                                    | एल-ब्रॅकेट (MS)                        | 7326               | 25...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                    | एल-ब्रॅकेट (MS)                        | 7326               | 25              | Nos.         | 85.00                        | 18%                   | 2,125...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| एल-ब्रॅकेट (MS)                        | 7326               | 25              | Nos.         | 85.00                        | 18%                   | 2,125.00...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.98619406428781,
+            "extraction_confidence": 0.98619406428781,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| एल-ब्रॅकेट (MS)                        | 7326               | 25              | Nos.         | 85.00                        | 18%                   | 2,125.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9997633193833501,
+            "extraction_confidence": 0.9997633193833501,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                    | एल-ब्रॅकेट (MS)                        | 7326               | 25              | Nos.         | 85.00                        | 18%                   | 2,125...",
+                "bounding_boxes": [
+                  {
+                    "x": 1.8170727896341463,
+                    "y": 167.37016646341462,
+                    "w": 242.80026379573172,
+                    "h": 155.26883963414636
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "VERBATIM EXTRACTION",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                       |                                        |                    |                 |              | एकूण रक्कम / Sub Total       |                       | 57,04...",
+            "bounding_boxes": [
+              {
+                "x": 1.8170727896341463,
+                "y": 167.37016646341462,
+                "w": 242.80026379573172,
+                "h": 155.26883963414636
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "VERBATIM EXTRACTION",
+        "confidence": 0.8551923393166257,
+        "extraction_confidence": 0.8551923393166257,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "VERBATIM EXTRACTION",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "currency": {
+        "reasoning": "The amounts are in INR (₹ symbol), which is Indian Rupees.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Translated from Marathi: 'Pay before due date. If delayed, 18% annual interest will be charged.'",
+        "confidence": 0.9601981871039234,
+        "extraction_confidence": 0.9601981871039234,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "245a5c7e-7494-4af7-88f3-be99c3fd2d86",
+    "file_name": "invoice_azimg_20260518_164907_768_0002.png",
+    "file_hash": "8c05a145-e864-4af6-a221-428c2e3db14d",
+    "metadata": {
+      "job_id": "ext-z2dr31fcab5y959231ixj5z49ily"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_164907_768_0002.png"
+    }
+  ]
+}

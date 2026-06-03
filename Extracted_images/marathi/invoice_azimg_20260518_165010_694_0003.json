@@ -1,0 +1,1312 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\marathi\\images\\invoice_azimg_20260518_165010_694_0003.png",
+  "language": "marathi",
+  "file_id": "747dd388-04f9-442d-b2d7-fff64602703a",
+  "record_id": {
+    "value": {
+      "result": "agd-1sqa75choxd8e1k6vovyxs4n9twn"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "Gat No. 89, Plot No. 12, Saswad Road, Jedhe Nagar, Taluka Purandar, District Pune - 412301, Maharashtra",
+      "customer_name": "M/s Swaraj Construction",
+      "due_date": "2024-05-30",
+      "invoice_date": "2024-05-15",
+      "invoice_number": "SC/24-25/1127",
+      "line_items": [
+        {
+          "amount": 41000.0,
+          "description": "Cement Ultratech 50 kg bag",
+          "quantity": 100.0,
+          "unit_price": 410.0
+        },
+        {
+          "amount": 32500.0,
+          "description": "TMT Bar 12mm",
+          "quantity": 500.0,
+          "unit_price": 65.0
+        },
+        {
+          "amount": 18000.0,
+          "description": "TMT Bar 10mm",
+          "quantity": 300.0,
+          "unit_price": 60.0
+        },
+        {
+          "amount": 2400.0,
+          "description": "Sand (River Sand)",
+          "quantity": 2.0,
+          "unit_price": 1200.0
+        },
+        {
+          "amount": 2200.0,
+          "description": "Stone Aggregate 20mm",
+          "quantity": 2.0,
+          "unit_price": 1100.0
+        },
+        {
+          "amount": 2200.0,
+          "description": "Stone Aggregate 40mm",
+          "quantity": 2.0,
+          "unit_price": 1100.0
+        },
+        {
+          "amount": 40000.0,
+          "description": "Bricks (First Grade)",
+          "quantity": 5000.0,
+          "unit_price": 8.0
+        },
+        {
+          "amount": 750.0,
+          "description": "Steel Wire (binding wire)",
+          "quantity": 10.0,
+          "unit_price": 75.0
+        },
+        {
+          "amount": 4500.0,
+          "description": "Ready Mix Concrete (M20)",
+          "quantity": 1.0,
+          "unit_price": 4500.0
+        },
+        {
+          "amount": 12500.0,
+          "description": "Plywood Sheet 12mm",
+          "quantity": 10.0,
+          "unit_price": 1250.0
+        },
+        {
+          "amount": 350.0,
+          "description": "Nails 2 inch",
+          "quantity": 5.0,
+          "unit_price": 70.0
+        }
+      ],
+      "payment_terms": "Payment due by due date; 18% interest will be charged after due date.",
+      "subtotal": 156400.0,
+      "tax_amount": 28152.0,
+      "total_amount": 184552.0,
+      "vendor_address": "Gat No. 1273, Shed No. 2, Pune-Solapur Highway, Wagholi, Taluka Haveli, District Pune - 412207, Maharashtra",
+      "vendor_name": "Shree Construction & Suppliers"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "Gat No. 89, Plot No. 12, Saswad Road, Jedhe Nagar, Taluka Purandar, District Pune - 412301, Maharashtra",
+      "customer_name": "M/s Swaraj Construction",
+      "due_date": "2024-05-30",
+      "invoice_date": "2024-05-15",
+      "invoice_number": "SC/24-25/1127",
+      "line_items": [
+        {
+          "amount": 41000.0,
+          "description": "Cement Ultratech 50 kg bag",
+          "quantity": 100.0,
+          "unit_price": 410.0
+        },
+        {
+          "amount": 32500.0,
+          "description": "TMT Bar 12mm",
+          "quantity": 500.0,
+          "unit_price": 65.0
+        },
+        {
+          "amount": 18000.0,
+          "description": "TMT Bar 10mm",
+          "quantity": 300.0,
+          "unit_price": 60.0
+        },
+        {
+          "amount": 2400.0,
+          "description": "Sand (River Sand)",
+          "quantity": 2.0,
+          "unit_price": 1200.0
+        },
+        {
+          "amount": 2200.0,
+          "description": "Stone Aggregate 20mm",
+          "quantity": 2.0,
+          "unit_price": 1100.0
+        },
+        {
+          "amount": 2200.0,
+          "description": "Stone Aggregate 40mm",
+          "quantity": 2.0,
+          "unit_price": 1100.0
+        },
+        {
+          "amount": 40000.0,
+          "description": "Bricks (First Grade)",
+          "quantity": 5000.0,
+          "unit_price": 8.0
+        },
+        {
+          "amount": 750.0,
+          "description": "Steel Wire (binding wire)",
+          "quantity": 10.0,
+          "unit_price": 75.0
+        },
+        {
+          "amount": 4500.0,
+          "description": "Ready Mix Concrete (M20)",
+          "quantity": 1.0,
+          "unit_price": 4500.0
+        },
+        {
+          "amount": 12500.0,
+          "description": "Plywood Sheet 12mm",
+          "quantity": 10.0,
+          "unit_price": 1250.0
+        },
+        {
+          "amount": 350.0,
+          "description": "Nails 2 inch",
+          "quantity": 5.0,
+          "unit_price": 70.0
+        }
+      ],
+      "payment_terms": "Payment due by due date; 18% interest will be charged after due date.",
+      "subtotal": 156400.0,
+      "tax_amount": 28152.0,
+      "total_amount": 184552.0,
+      "vendor_address": "Gat No. 1273, Shed No. 2, Pune-Solapur Highway, Wagholi, Taluka Haveli, District Pune - 412207, Maharashtra",
+      "vendor_name": "Shree Construction & Suppliers"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9745442622865258,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The 'चलन क्रमांक' field is given as SC/24-25/1127.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "SC/24-25/1127",
+            "bounding_boxes": [
+              {
+                "x": 178.08,
+                "y": 80.88,
+                "w": 31.92,
+                "h": 5.28
+              }
+            ],
+            "page_dimensions": {
+              "width": 253.92,
+              "height": 434.88
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The 'चलन दिनांक' field is given as 15/05/2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "चलन क्रमांक : SC/24-25/1127\nचलन दिनांक : 15/05/2024\nदेय दिनांक : 30/05/2024\nस्थळ पुरवठा : (Place of Supply) : महाराष्ट्र (27)\nवाहन क्रमांक : MH12 AB 1234",
+            "bounding_boxes": [
+              {
+                "x": 182.37824865663111,
+                "y": 108.21282860613567,
+                "w": 30.145848218368883,
+                "h": 5.026390201028962
+              }
+            ],
+            "page_dimensions": {
+              "width": 253.92,
+              "height": 434.88
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The 'देय दिनांक' field is given as 30/05/2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "चलन क्रमांक : SC/24-25/1127\nचलन दिनांक : 15/05/2024\nदेय दिनांक : 30/05/2024\nस्थळ पुरवठा : (Place of Supply) : महाराष्ट्र (27)\nवाहन क्रमांक : MH12 AB 1234",
+            "bounding_boxes": [
+              {
+                "x": 182.37824865663111,
+                "y": 108.21282860613567,
+                "w": 30.145848218368883,
+                "h": 5.026390201028962
+              }
+            ],
+            "page_dimensions": {
+              "width": 253.92,
+              "height": 434.88
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is 'श्री कन्स्ट्रक्शन ॲन्ड सप्लायर्स', which translates to 'Shree Construction & Suppliers'.",
+        "confidence": 0.9999996777892997,
+        "extraction_confidence": 0.9999996777892997,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**कंपनीची स्वाक्षरी (For Shree Construction & Suppliers)**",
+            "bounding_boxes": [
+              {
+                "x": 10.08,
+                "y": 354.48,
+                "w": 84.96,
+                "h": 9.6
+              }
+            ],
+            "page_dimensions": {
+              "width": 253.92,
+              "height": 434.88
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "The vendor address is at the top of the invoice in Marathi, translated to English.",
+        "confidence": 0.999361328580568,
+        "extraction_confidence": 0.999361328580568,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The 'Billed To' section lists the customer as 'मे. स्वराज कन्स्ट्रक्शन', which translates to 'M/s Swaraj Construction'.",
+        "confidence": 0.986755163453521,
+        "extraction_confidence": 0.986755163453521,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The 'Billed To' section provides the full address of the customer in Marathi, which is translated to English.",
+        "confidence": 0.9679461040441893,
+        "extraction_confidence": 0.9679461040441893,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9541187700343887,
+            "extraction_confidence": 0.9541187700343887,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1      | सिमेंट अल्ट्राटेक 50 किलो बॅग | 25232910  | 100    | बॅग      | 410.00   | 9%                 | 9%                 | 41,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9980451106427918,
+            "extraction_confidence": 0.9980451106427918,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1      | सिमेंट अल्ट्राटेक 50 किलो बॅग | 25232910  | 100    | बॅग      | 410.00   | 9%                 | 9%                 | 41,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.7845671336054502,
+            "extraction_confidence": 0.7845671336054502,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1      | सिमेंट अल्ट्राटेक 50 किलो बॅग | 25232910  | 100    | बॅग      | 410.00   | 9%                 | 9%                 | 41,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9435519254191527,
+            "extraction_confidence": 0.9435519254191527,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2      | TMT सरिया 12mm                | 72142000  | 500    | किलो     | 65.00    | 9%                 | 9%                 | 32,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2      | TMT सरिया 12mm                | 72142000  | 500    | किलो     | 65.00    | 9%                 | 9%                 | 32,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999740438007001,
+            "extraction_confidence": 0.9999740438007001,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2      | TMT सरिया 12mm                | 72142000  | 500    | किलो     | 65.00    | 9%                 | 9%                 | 32,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.999998103941813,
+            "extraction_confidence": 0.999998103941813,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2      | TMT सरिया 12mm                | 72142000  | 500    | किलो     | 65.00    | 9%                 | 9%                 | 32,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999677312256,
+            "extraction_confidence": 0.9999999677312256,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3      | TMT सरिया 10mm                | 72142000  | 300    | किलो     | 60.00    | 9%                 | 9%                 | 18,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3      | TMT सरिया 10mm                | 72142000  | 300    | किलो     | 60.00    | 9%                 | 9%                 | 18,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999997914558093,
+            "extraction_confidence": 0.9999997914558093,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3      | TMT सरिया 10mm                | 72142000  | 300    | किलो     | 60.00    | 9%                 | 9%                 | 18,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999217959217,
+            "extraction_confidence": 0.9999999217959217,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3      | TMT सरिया 10mm                | 72142000  | 300    | किलो     | 60.00    | 9%                 | 9%                 | 18,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9466135536264108,
+            "extraction_confidence": 0.9466135536264108,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "गट नं. 1273, शेड नं. 2, पुणे-सोलापूर हायवे, वाघोली,\nता. हवेली, जि. पुणे - 412207, महाराष्ट्र",
+                "bounding_boxes": [
+                  {
+                    "x": 21.0,
+                    "y": 127.0,
+                    "w": 40.0,
+                    "h": 6.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999987707596342,
+            "extraction_confidence": 0.9999987707596342,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": null
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.7028446772165193,
+            "extraction_confidence": 0.7028446772165193,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5      | खडी 20mm                      | 25174100  | 2      | ब्रास    | 1,100.00 | 9%                 | 9%                 | 2,200.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5      | खडी 20mm                      | 25174100  | 2      | ब्रास    | 1,100.00 | 9%                 | 9%                 | 2,200.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5      | खडी 20mm                      | 25174100  | 2      | ब्रास    | 1,100.00 | 9%                 | 9%                 | 2,200.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6      | खडी 40mm                      | 25174100  | 2      | ब्रास    | 1,100.00 | 9%                 | 9%                 | 2,200.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999217959217,
+            "extraction_confidence": 0.9999999217959217,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6      | खडी 40mm                      | 25174100  | 2      | ब्रास    | 1,100.00 | 9%                 | 9%                 | 2,200.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6      | खडी 40mm                      | 25174100  | 2      | ब्रास    | 1,100.00 | 9%                 | 9%                 | 2,200.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.8620062779388782,
+            "extraction_confidence": 0.8620062779388782,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7      | विटा (पहिली दर्जा)            | 69041000  | 5000   | नग       | 8.00     | 9%                 | 9%                 | 40,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999764278158868,
+            "extraction_confidence": 0.9999764278158868,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7      | विटा (पहिली दर्जा)            | 69041000  | 5000   | नग       | 8.00     | 9%                 | 9%                 | 40,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999998919950089,
+            "extraction_confidence": 0.9999998919950089,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7      | विटा (पहिली दर्जा)            | 69041000  | 5000   | नग       | 8.00     | 9%                 | 9%                 | 40,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.807941707430657,
+            "extraction_confidence": 0.807941707430657,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8      | स्टील थार (binding wire)      | 72172090  | 10     | किलो     | 75.00    | 9%                 | 9%                 | 750.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8      | स्टील थार (binding wire)      | 72172090  | 10     | किलो     | 75.00    | 9%                 | 9%                 | 750.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999993146413743,
+            "extraction_confidence": 0.9999993146413743,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8      | स्टील थार (binding wire)      | 72172090  | 10     | किलो     | 75.00    | 9%                 | 9%                 | 750.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999987831611004,
+            "extraction_confidence": 0.9999987831611004,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8      | स्टील थार (binding wire)      | 72172090  | 10     | किलो     | 75.00    | 9%                 | 9%                 | 750.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.8511125315277078,
+            "extraction_confidence": 0.8511125315277078,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9      | साया मिक्स (रेडी कॉक्रीट M20) | 38245000  | 1      | क्यू.मो. | 4,500.00 | 9%                 | 9%                 | 4,500.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999996349854952,
+            "extraction_confidence": 0.9999996349854952,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9      | साया मिक्स (रेडी कॉक्रीट M20) | 38245000  | 1      | क्यू.मो. | 4,500.00 | 9%                 | 9%                 | 4,500.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9      | साया मिक्स (रेडी कॉक्रीट M20) | 38245000  | 1      | क्यू.मो. | 4,500.00 | 9%                 | 9%                 | 4,500.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.999381219165358,
+            "extraction_confidence": 0.999381219165358,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10     | प्लायवूड शीट 12mm             | 44123300  | 10     | शीट      | 1,250.00 | 9%                 | 9%                 | 12,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999998919950089,
+            "extraction_confidence": 0.9999998919950089,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10     | प्लायवूड शीट 12mm             | 44123300  | 10     | शीट      | 1,250.00 | 9%                 | 9%                 | 12,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999217959217,
+            "extraction_confidence": 0.9999999217959217,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10     | प्लायवूड शीट 12mm             | 44123300  | 10     | शीट      | 1,250.00 | 9%                 | 9%                 | 12,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9914245756446823,
+            "extraction_confidence": 0.9914245756446823,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 11     | नखे 2 इंच                     | 73170090  | 5      | किलो     | 70.00    | 9%                 | 9%                 | 350.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999996970551672,
+            "extraction_confidence": 0.9999996970551672,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 11     | नखे 2 इंच                     | 73170090  | 5      | किलो     | 70.00    | 9%                 | 9%                 | 350.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Marathi to English and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 11     | नखे 2 इंच                     | 73170090  | 5      | किलो     | 70.00    | 9%                 | 9%                 | 350.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.59276073146913,
+                    "y": 165.01157715320122,
+                    "w": 227.73023425709795,
+                    "h": 101.73624712271342
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The 'एकूण वस्तू मूल्य (Total)' is listed as 1,56,400.00.",
+        "confidence": 0.9916330245820452,
+        "extraction_confidence": 0.9916330245820452,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "1,56,400.00",
+            "bounding_boxes": [
+              {
+                "x": 222.32,
+                "y": 271.85,
+                "w": 21.14,
+                "h": 4.77
+              }
+            ],
+            "page_dimensions": {
+              "width": 253.92,
+              "height": 434.88
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "CGST and SGST are both 14,076.00, totaling 28,152.00.",
+        "confidence": 0.9999905159501844,
+        "extraction_confidence": 0.9999905159501844,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                              | एकूण कर (Total Tax)          | 28,152.00     |",
+            "bounding_boxes": [
+              {
+                "x": 15.99,
+                "y": 268.16,
+                "w": 227.78,
+                "h": 47.59
+              }
+            ],
+            "page_dimensions": {
+              "width": 253.92,
+              "height": 434.88
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "The 'एकूण देय रक्कम (Grand Total)' is ₹ 1,84,552.00.",
+        "confidence": 0.9999980555388253,
+        "extraction_confidence": 0.9999980555388253,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "1,84,552.00",
+            "bounding_boxes": [
+              {
+                "x": 216.82,
+                "y": 310.31,
+                "w": 26.95,
+                "h": 5.44
+              }
+            ],
+            "page_dimensions": {
+              "width": 253.92,
+              "height": 434.88
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are denoted with the symbol '₹', which is the Indian Rupee.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "The terms are listed in the 'अटी व शर्ती' (Terms and Conditions) section. Payment after due date will incur 18% interest.",
+        "confidence": 0.7872433963383125,
+        "extraction_confidence": 0.7872433963383125,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "747dd388-04f9-442d-b2d7-fff64602703a",
+    "file_name": "invoice_azimg_20260518_165010_694_0003.png",
+    "file_hash": "fdec45d6-2aa6-4aad-b715-a89bbfd5228b",
+    "metadata": {
+      "job_id": "ext-tqezwa8fxdtewgujxuwgcsg7wzag"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260518_165010_694_0003.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_165010_694_0003.png"
+    }
+  ]
+}

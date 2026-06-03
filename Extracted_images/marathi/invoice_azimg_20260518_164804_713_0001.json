@@ -1,0 +1,1619 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\marathi\\images\\invoice_azimg_20260518_164804_713_0001.png",
+  "language": "marathi",
+  "file_id": "988942f1-b270-4e88-a12f-ce2b4e2c6ce0",
+  "record_id": {
+    "value": {
+      "result": "agd-0vdb4wll7zam4moizmib609ijejq"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "S/5, Shubham Apartment, Sane Guruji Nagar, Hadapsar, Pune - 411028, Maharashtra",
+      "customer_name": "Kumar Ayush Rajesh Patil",
+      "due_date": "2024-07-15",
+      "invoice_date": "2024-06-15",
+      "invoice_number": "SEI/24-25/1127",
+      "line_items": [
+        {
+          "amount": 2000.0,
+          "description": "Admission Fee",
+          "quantity": 1.0,
+          "unit_price": 2000.0
+        },
+        {
+          "amount": 22000.0,
+          "description": "Educational Fee (Tuition Fee)",
+          "quantity": 1.0,
+          "unit_price": 22000.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Library Fee",
+          "quantity": 1.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Computer Lab Fee",
+          "quantity": 1.0,
+          "unit_price": 1500.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Sports Fee",
+          "quantity": 1.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 750.0,
+          "description": "Student Activity Fee",
+          "quantity": 1.0,
+          "unit_price": 750.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Insurance Fee",
+          "quantity": 1.0,
+          "unit_price": 600.0
+        },
+        {
+          "amount": 200.0,
+          "description": "ID Card Fee",
+          "quantity": 1.0,
+          "unit_price": 200.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Exam Fee",
+          "quantity": 1.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Development Fee",
+          "quantity": 1.0,
+          "unit_price": 1500.0
+        },
+        {
+          "amount": 31550.0,
+          "description": "Sub Total",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 2839.5,
+          "description": "CGST @ 9%",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 2839.5,
+          "description": "SGST @ 9%",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 5679.0,
+          "description": "Total Tax",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 37229.0,
+          "description": "Total Amount",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 0.0,
+          "description": "Round Off",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 37229.0,
+          "description": "Grand Total",
+          "quantity": null,
+          "unit_price": null
+        }
+      ],
+      "payment_terms": "1. This amount must be paid by the due date. 2. Interest will be charged for late payment. 3. Fees once paid will not be refunded under any circumstances. 4. This invoice is computer generated and does not require a signature or stamp.",
+      "subtotal": 31550.0,
+      "tax_amount": 5679.0,
+      "total_amount": 37229.0,
+      "vendor_address": "Gat No. 245, Manjari (Bk.), Taluka Haveli, District Pune - 412307, Maharashtra, India",
+      "vendor_name": "Sahyadri Education Institute"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "S/5, Shubham Apartment, Sane Guruji Nagar, Hadapsar, Pune - 411028, Maharashtra",
+      "customer_name": "Kumar Ayush Rajesh Patil",
+      "due_date": "2024-07-15",
+      "invoice_date": "2024-06-15",
+      "invoice_number": "SEI/24-25/1127",
+      "line_items": [
+        {
+          "amount": 2000.0,
+          "description": "Admission Fee",
+          "quantity": 1.0,
+          "unit_price": 2000.0
+        },
+        {
+          "amount": 22000.0,
+          "description": "Educational Fee (Tuition Fee)",
+          "quantity": 1.0,
+          "unit_price": 22000.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Library Fee",
+          "quantity": 1.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Computer Lab Fee",
+          "quantity": 1.0,
+          "unit_price": 1500.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Sports Fee",
+          "quantity": 1.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 750.0,
+          "description": "Student Activity Fee",
+          "quantity": 1.0,
+          "unit_price": 750.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Insurance Fee",
+          "quantity": 1.0,
+          "unit_price": 600.0
+        },
+        {
+          "amount": 200.0,
+          "description": "ID Card Fee",
+          "quantity": 1.0,
+          "unit_price": 200.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Exam Fee",
+          "quantity": 1.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Development Fee",
+          "quantity": 1.0,
+          "unit_price": 1500.0
+        },
+        {
+          "amount": 31550.0,
+          "description": "Sub Total",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 2839.5,
+          "description": "CGST @ 9%",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 2839.5,
+          "description": "SGST @ 9%",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 5679.0,
+          "description": "Total Tax",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 37229.0,
+          "description": "Total Amount",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 0.0,
+          "description": "Round Off",
+          "quantity": null,
+          "unit_price": null
+        },
+        {
+          "amount": 37229.0,
+          "description": "Grand Total",
+          "quantity": null,
+          "unit_price": null
+        }
+      ],
+      "payment_terms": "1. This amount must be paid by the due date. 2. Interest will be charged for late payment. 3. Fees once paid will not be refunded under any circumstances. 4. This invoice is computer generated and does not require a signature or stamp.",
+      "subtotal": 31550.0,
+      "tax_amount": 5679.0,
+      "total_amount": 37229.0,
+      "vendor_address": "Gat No. 245, Manjari (Bk.), Taluka Haveli, District Pune - 412307, Maharashtra, India",
+      "vendor_name": "Sahyadri Education Institute"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9968941106370882,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "Verbatim extraction from the invoice.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चलन क्रमांक (Invoice No.)** : SEI/24-25/1127\n**चलन दिनांक (Invoice Date)** : 15/06/2024\n**देय दिनांक (Due Date)** : 15/07/2024\n**पुरवठा ठिकाण (Place of Supply)** : महाराष्ट्र (27)",
+            "bounding_boxes": [
+              {
+                "x": 123.61728,
+                "y": 59.78112,
+                "w": 87.2448,
+                "h": 29.245440000000002
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "Date is clearly mentioned in the invoice.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चलन दिनांक (Invoice Date)** : 15/06/2024",
+            "bounding_boxes": [
+              {
+                "x": 177.53,
+                "y": 67.44,
+                "w": 26.43,
+                "h": 5.04
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "Date is clearly mentioned in the invoice.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**देय दिनांक (Due Date)** : 15/07/2024",
+            "bounding_boxes": [
+              {
+                "x": 177.77,
+                "y": 75.12,
+                "w": 26.43,
+                "h": 4.8
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Translated the name from Marathi to English.",
+        "confidence": 0.9974835282900826,
+        "extraction_confidence": 0.9974835282900826,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "Sahyadri Education Institute",
+            "bounding_boxes": [
+              {
+                "x": 34.11,
+                "y": 360.96,
+                "w": 57.9,
+                "h": 5.76
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "Translated the address from Marathi to English.",
+        "confidence": 0.9907893196953127,
+        "extraction_confidence": 0.9907893196953127,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "Translated the name from Marathi to English.",
+        "confidence": 0.9878417279782216,
+        "extraction_confidence": 0.9878417279782216,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "Translated the address from Marathi to English.",
+        "confidence": 0.9999548749723286,
+        "extraction_confidence": 0.9999548749723286,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 1.",
+            "confidence": 0.9999206414053587,
+            "extraction_confidence": 0.9999206414053587,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 1.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                             | प्रवेश फी               | 999293    | 1            | 2,000.00   | 18%       | 2,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 1.",
+            "confidence": 0.9998941348033351,
+            "extraction_confidence": 0.9998941348033351,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                             | प्रवेश फी               | 999293    | 1            | 2,000.00   | 18%       | 2,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 1.",
+            "confidence": 0.8999273421087582,
+            "extraction_confidence": 0.8999273421087582,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                             | प्रवेश फी               | 999293    | 1            | 2,000.00   | 18%       | 2,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 2.",
+            "confidence": 0.9997429876027717,
+            "extraction_confidence": 0.9997429876027717,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 2.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                             | शैक्षणिक फी (ट्युशन फी) | 999293    | 1            | 22,000.00  | 18%       | 22,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 2.",
+            "confidence": 0.9999948668522206,
+            "extraction_confidence": 0.9999948668522206,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                             | शैक्षणिक फी (ट्युशन फी) | 999293    | 1            | 22,000.00  | 18%       | 22,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 2.",
+            "confidence": 0.99997910237297,
+            "extraction_confidence": 0.99997910237297,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                             | शैक्षणिक फी (ट्युशन फी) | 999293    | 1            | 22,000.00  | 18%       | 22,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 3.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 3.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                             | लायब्ररी फी             | 999293    | 1            | 1,000.00   | 18%       | 1,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 3.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                             | लायब्ररी फी             | 999293    | 1            | 1,000.00   | 18%       | 1,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 3.",
+            "confidence": 0.9999264250956191,
+            "extraction_confidence": 0.9999264250956191,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                             | लायब्ररी फी             | 999293    | 1            | 1,000.00   | 18%       | 1,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 4.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 4.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                             | कॉम्प्युटर लॅब फी       | 999293    | 1            | 1,500.00   | 18%       | 1,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 4.",
+            "confidence": 0.9999999217959217,
+            "extraction_confidence": 0.9999999217959217,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                             | कॉम्प्युटर लॅब फी       | 999293    | 1            | 1,500.00   | 18%       | 1,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 4.",
+            "confidence": 0.999999783990033,
+            "extraction_confidence": 0.999999783990033,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                             | कॉम्प्युटर लॅब फी       | 999293    | 1            | 1,500.00   | 18%       | 1,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 5.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 5.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                             | लायब्ररी फी             | 999293    | 1            | 1,000.00   | 18%       | 1,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 5.",
+            "confidence": 0.9999998919950089,
+            "extraction_confidence": 0.9999998919950089,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                             | लायब्ररी फी             | 999293    | 1            | 1,000.00   | 18%       | 1,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 5.",
+            "confidence": 0.9999993071755837,
+            "extraction_confidence": 0.9999993071755837,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                             | लायब्ररी फी             | 999293    | 1            | 1,000.00   | 18%       | 1,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 6.",
+            "confidence": 0.9999999135960062,
+            "extraction_confidence": 0.9999999135960062,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 6.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                             | स्टुडंट ॲक्टिव्हिटी फी  | 999293    | 1            | 750.00     | 18%       | 750.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 6.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                             | स्टुडंट ॲक्टिव्हिटी फी  | 999293    | 1            | 750.00     | 18%       | 750.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 6.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                             | स्टुडंट ॲक्टिव्हिटी फी  | 999293    | 1            | 750.00     | 18%       | 750.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 7.",
+            "confidence": 0.9999999677312256,
+            "extraction_confidence": 0.9999999677312256,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 7.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                             | इन्शुरन्स फी            | 999293    | 1            | 600.00     | 18%       | 600.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 7.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                             | इन्शुरन्स फी            | 999293    | 1            | 600.00     | 18%       | 600.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 7.",
+            "confidence": 0.9999996871837232,
+            "extraction_confidence": 0.9999996871837232,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                             | इन्शुरन्स फी            | 999293    | 1            | 600.00     | 18%       | 600.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 8.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 8.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                             | आयडी कार्ड फी           | 999293    | 1            | 200.00     | 18%       | 200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 8.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                             | आयडी कार्ड फी           | 999293    | 1            | 200.00     | 18%       | 200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 8.",
+            "confidence": 0.9999996871837303,
+            "extraction_confidence": 0.9999996871837303,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                             | आयडी कार्ड फी           | 999293    | 1            | 200.00     | 18%       | 200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 9.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 9.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                             | लायब्ररी फी             | 999293    | 1            | 1,000.00   | 18%       | 1,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 9.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                             | लायब्ररी फी             | 999293    | 1            | 1,000.00   | 18%       | 1,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 9.",
+            "confidence": 0.9999987931569371,
+            "extraction_confidence": 0.9999987931569371,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                             | लायब्ररी फी             | 999293    | 1            | 1,000.00   | 18%       | 1,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 10.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 10.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                             | कॉम्प्युटर लॅब फी       | 999293    | 1            | 1,500.00   | 18%       | 1,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 10.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                             | कॉम्प्युटर लॅब फी       | 999293    | 1            | 1,500.00   | 18%       | 1,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 10.",
+            "confidence": 0.9999985547499078,
+            "extraction_confidence": 0.9999985547499078,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                             | कॉम्प्युटर लॅब फी       | 999293    | 1            | 1,500.00   | 18%       | 1,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Subtotal row, verbatim extraction.",
+            "confidence": 0.9976107724030098,
+            "extraction_confidence": 0.9976107724030098,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| मूल्य रक्कम (Sub Total)       |                         |           |              |            |           | 31,550.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Subtotal row, verbatim extraction.",
+            "confidence": 0.9486325252786827,
+            "extraction_confidence": 0.9486325252786827,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| मूल्य रक्कम (Sub Total)       |                         |           |              |            |           | 31,550.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "CGST row, verbatim extraction.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| CGST @ 9%                     |                         |           |              |            |           | 2,839.50    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "CGST row, verbatim extraction.",
+            "confidence": 0.9976642672703743,
+            "extraction_confidence": 0.9976642672703743,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| CGST @ 9%                     |                         |           |              |            |           | 2,839.50    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "SGST row, verbatim extraction.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| SGST @ 9%                     |                         |           |              |            |           | 2,839.50    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "SGST row, verbatim extraction.",
+            "confidence": 0.9999811995942346,
+            "extraction_confidence": 0.9999811995942346,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| SGST @ 9%                     |                         |           |              |            |           | 2,839.50    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Total Tax row, verbatim extraction.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| एकूण कर (Total Tax)           |                         |           |              |            |           | 5,679.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Total Tax row, verbatim extraction.",
+            "confidence": 0.9998298025179195,
+            "extraction_confidence": 0.9998298025179195,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| एकूण कर (Total Tax)           |                         |           |              |            |           | 5,679.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Total Amount row, verbatim extraction.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| एकूण देय रक्कम (Total Amount) |                         |           |              |            |           | 37,229.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Total Amount row, verbatim extraction.",
+            "confidence": 0.9999656352618219,
+            "extraction_confidence": 0.9999656352618219,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| एकूण देय रक्कम (Total Amount) |                         |           |              |            |           | 37,229.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Round Off row, verbatim extraction.",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| राऊंड ऑफ (Round Off)          |                         |           |              |            |           | 0.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Round Off row, verbatim extraction.",
+            "confidence": 0.9996252323321128,
+            "extraction_confidence": 0.9996252323321128,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| राऊंड ऑफ (Round Off)          |                         |           |              |            |           | 0.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Grand Total row, verbatim extraction.",
+            "confidence": 0.9999999374367368,
+            "extraction_confidence": 0.9999999374367368,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| एकूण देय (Grand Total)        |                         |           |              |            |           | ₹ 37,229.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Grand Total row, verbatim extraction.",
+            "confidence": 0.9991683626999156,
+            "extraction_confidence": 0.9991683626999156,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| एकूण देय (Grand Total)        |                         |           |              |            |           | ₹ 37,229.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 7.17730243902439,
+                    "y": 144.14798231707317,
+                    "w": 230.8865268292683,
+                    "h": 163.8348676829268
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "Verbatim extraction from the Sub Total row.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| मूल्य रक्कम (Sub Total)       |                         |           |              |            |           | 31,550.00   |",
+            "bounding_boxes": [
+              {
+                "x": 7.17730243902439,
+                "y": 144.14798231707317,
+                "w": 230.8865268292683,
+                "h": 163.8348676829268
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Verbatim extraction from the Total Tax row.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "Verbatim extraction from the Grand Total row.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| एकूण देय रक्कम (Total Amount) |                         |           |              |            |           | 37,229.00   |",
+            "bounding_boxes": [
+              {
+                "x": 7.17730243902439,
+                "y": 144.14798231707317,
+                "w": 230.8865268292683,
+                "h": 163.8348676829268
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are in INR (₹ symbol and Indian context).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Translated the terms from Marathi to English.",
+        "confidence": 0.9770832601932323,
+        "extraction_confidence": 0.9770832601932323,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "988942f1-b270-4e88-a12f-ce2b4e2c6ce0",
+    "file_name": "invoice_azimg_20260518_164804_713_0001.png",
+    "file_hash": "3d8780a5-bef3-4790-989f-463fbe6085db",
+    "metadata": {
+      "job_id": "ext-idjo6fdtgc55n5apmwt4yu7ti5w8"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260518_164804_713_0001.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_164804_713_0001.png"
+    }
+  ]
+}

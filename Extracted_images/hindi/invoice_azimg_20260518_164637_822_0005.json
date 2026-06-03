@@ -1,0 +1,1202 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\hindi\\images\\invoice_azimg_20260518_164637_822_0005.png",
+  "language": "hindi",
+  "file_id": "b5b1d24d-3f4a-40b7-a702-a54767b5c104",
+  "record_id": {
+    "value": {
+      "result": "agd-vflp0r472oyopdy5n2hmutq15q6s"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "Plot No. 45, Industrial Area, Pithampur, Dhar - 454775 (M.P.), GSTIN: 23AABCK1234D1ZP",
+      "customer_name": "M/s Kisan Rice Mill Pvt. Ltd.",
+      "due_date": "2024-06-08",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "SGAT/24-25/0876",
+      "line_items": [
+        {
+          "amount": 230000.0,
+          "description": "Soybean (Malwa Quality)",
+          "quantity": 50.0,
+          "unit_price": 4600.0
+        },
+        {
+          "amount": 159000.0,
+          "description": "Chickpea (Kabuli)",
+          "quantity": 30.0,
+          "unit_price": 5300.0
+        },
+        {
+          "amount": 96000.0,
+          "description": "Wheat (Lokwan)",
+          "quantity": 40.0,
+          "unit_price": 2400.0
+        },
+        {
+          "amount": 52500.0,
+          "description": "Maize (Yellow)",
+          "quantity": 25.0,
+          "unit_price": 2100.0
+        },
+        {
+          "amount": 68000.0,
+          "description": "Black Gram Dal",
+          "quantity": 10.0,
+          "unit_price": 6800.0
+        },
+        {
+          "amount": 57600.0,
+          "description": "Moong Dal",
+          "quantity": 8.0,
+          "unit_price": 7200.0
+        },
+        {
+          "amount": 72000.0,
+          "description": "Pigeon Pea Dal (Arhar)",
+          "quantity": 12.0,
+          "unit_price": 6000.0
+        },
+        {
+          "amount": 48000.0,
+          "description": "Sesame (White)",
+          "quantity": 6.0,
+          "unit_price": 8000.0
+        },
+        {
+          "amount": 35000.0,
+          "description": "Coriander",
+          "quantity": 5.0,
+          "unit_price": 7000.0
+        },
+        {
+          "amount": 22000.0,
+          "description": "Linseed",
+          "quantity": 4.0,
+          "unit_price": 5500.0
+        }
+      ],
+      "payment_terms": "Pay within due date, otherwise 18% annual interest will be charged.",
+      "subtotal": 740100.0,
+      "tax_amount": 37005.0,
+      "total_amount": 777105.0,
+      "vendor_address": "Shop No. 12, Krishi Upaj Mandi Campus, Dewas Naka, Indore - 452010 (M.P.)",
+      "vendor_name": "Shree Ganesh Agro Traders"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "Plot No. 45, Industrial Area, Pithampur, Dhar - 454775 (M.P.), GSTIN: 23AABCK1234D1ZP",
+      "customer_name": "M/s Kisan Rice Mill Pvt. Ltd.",
+      "due_date": "2024-06-08",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "SGAT/24-25/0876",
+      "line_items": [
+        {
+          "amount": 230000.0,
+          "description": "Soybean (Malwa Quality)",
+          "quantity": 50.0,
+          "unit_price": 4600.0
+        },
+        {
+          "amount": 159000.0,
+          "description": "Chickpea (Kabuli)",
+          "quantity": 30.0,
+          "unit_price": 5300.0
+        },
+        {
+          "amount": 96000.0,
+          "description": "Wheat (Lokwan)",
+          "quantity": 40.0,
+          "unit_price": 2400.0
+        },
+        {
+          "amount": 52500.0,
+          "description": "Maize (Yellow)",
+          "quantity": 25.0,
+          "unit_price": 2100.0
+        },
+        {
+          "amount": 68000.0,
+          "description": "Black Gram Dal",
+          "quantity": 10.0,
+          "unit_price": 6800.0
+        },
+        {
+          "amount": 57600.0,
+          "description": "Moong Dal",
+          "quantity": 8.0,
+          "unit_price": 7200.0
+        },
+        {
+          "amount": 72000.0,
+          "description": "Pigeon Pea Dal (Arhar)",
+          "quantity": 12.0,
+          "unit_price": 6000.0
+        },
+        {
+          "amount": 48000.0,
+          "description": "Sesame (White)",
+          "quantity": 6.0,
+          "unit_price": 8000.0
+        },
+        {
+          "amount": 35000.0,
+          "description": "Coriander",
+          "quantity": 5.0,
+          "unit_price": 7000.0
+        },
+        {
+          "amount": 22000.0,
+          "description": "Linseed",
+          "quantity": 4.0,
+          "unit_price": 5500.0
+        }
+      ],
+      "payment_terms": "Pay within due date, otherwise 18% annual interest will be charged.",
+      "subtotal": 740100.0,
+      "tax_amount": 37005.0,
+      "total_amount": 777105.0,
+      "vendor_address": "Shop No. 12, Krishi Upaj Mandi Campus, Dewas Naka, Indore - 452010 (M.P.)",
+      "vendor_name": "Shree Ganesh Agro Traders"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9905322034022682,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is given as 'SGAT/24-25/0876'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| \\*\\*चालान क्रमांक\\*\\* | : SGAT/24-25/0876  | \\*\\*वाहन विवरण :\\*\\*    |                 |",
+            "bounding_boxes": [
+              {
+                "x": 12.36,
+                "y": 64.37,
+                "w": 182.25,
+                "h": 17.8
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is explicitly mentioned as 24/05/2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "24/05/2024",
+            "bounding_boxes": [
+              {
+                "x": 12.36,
+                "y": 66.77,
+                "w": 28.69,
+                "h": 5.31
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is explicitly mentioned as 08/06/2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": ": 08/06/2024",
+            "bounding_boxes": [
+              {
+                "x": 43.15,
+                "y": 75.32,
+                "w": 23.11,
+                "h": 4.67
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is 'श्री गणेश एग्रो ट्रेडर्स', which translates to 'Shree Ganesh Agro Traders'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "Seal of Shree Ganesh Agro Traders",
+            "bounding_boxes": [
+              {
+                "x": 166.59837073170732,
+                "y": 317.3610914634146,
+                "w": 68.76901463414633,
+                "h": 47.738096341463425
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "The vendor address is given in Hindi and includes shop number, mandi premises, area, city, postal code, state. Translated to English.",
+        "confidence": 0.9406593367583722,
+        "extraction_confidence": 0.9406593367583722,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The Bill To name is 'मेसर्स किसान राईस मिल प्रा. लि.' which translates to 'M/s Kisan Rice Mill Pvt. Ltd.'",
+        "confidence": 0.9999987707596413,
+        "extraction_confidence": 0.9999987707596413,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The Bill To address is given in Hindi and includes the company name, plot number, industrial area, city, district, postal code, state, and GSTIN. Translated to English.",
+        "confidence": 0.9922983139004264,
+        "extraction_confidence": 0.9922983139004264,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Line 1: सोयाबीन (मालवा क्वालिटी) = Soybean (Malwa Quality), quantity 50.00 quintal, unit price 4,600.00, amount 230,000.00",
+            "confidence": 0.9999572759205052,
+            "extraction_confidence": 0.9999572759205052,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 1: सोयाबीन (मालवा क्वालिटी) = Soybean (Malwa Quality), quantity 50.00 quintal, unit price 4,600.00, amount 230,000.00",
+            "confidence": 0.8560498775789317,
+            "extraction_confidence": 0.8560498775789317,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1    | सोयाबीन (मालवा क्वालिटी) | 1201        | 50.00  | क्विंटल | 4,600.00 | 5%        | 2,30,000.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 1: सोयाबीन (मालवा क्वालिटी) = Soybean (Malwa Quality), quantity 50.00 quintal, unit price 4,600.00, amount 230,000.00",
+            "confidence": 0.9999886981135863,
+            "extraction_confidence": 0.9999886981135863,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1    | सोयाबीन (मालवा क्वालिटी) | 1201        | 50.00  | क्विंटल | 4,600.00 | 5%        | 2,30,000.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 1: सोयाबीन (मालवा क्वालिटी) = Soybean (Malwa Quality), quantity 50.00 quintal, unit price 4,600.00, amount 230,000.00",
+            "confidence": 0.810317924653452,
+            "extraction_confidence": 0.810317924653452,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1    | सोयाबीन (मालवा क्वालिटी) | 1201        | 50.00  | क्विंटल | 4,600.00 | 5%        | 2,30,000.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 2: चना (काबुली) = Chickpea (Kabuli), quantity 30.00 quintal, unit price 5,300.00, amount 159,000.00",
+            "confidence": 0.9999872708857942,
+            "extraction_confidence": 0.9999872708857942,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 2: चना (काबुली) = Chickpea (Kabuli), quantity 30.00 quintal, unit price 5,300.00, amount 159,000.00",
+            "confidence": 0.9985498848896968,
+            "extraction_confidence": 0.9985498848896968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2    | चना (काबुली)             | 0713        | 30.00  | क्विंटल | 5,300.00 | 5%        | 1,59,000.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 2: चना (काबुली) = Chickpea (Kabuli), quantity 30.00 quintal, unit price 5,300.00, amount 159,000.00",
+            "confidence": 0.9999994747822953,
+            "extraction_confidence": 0.9999994747822953,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2    | चना (काबुली)             | 0713        | 30.00  | क्विंटल | 5,300.00 | 5%        | 1,59,000.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 2: चना (काबुली) = Chickpea (Kabuli), quantity 30.00 quintal, unit price 5,300.00, amount 159,000.00",
+            "confidence": 0.9999548154286825,
+            "extraction_confidence": 0.9999548154286825,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2    | चना (काबुली)             | 0713        | 30.00  | क्विंटल | 5,300.00 | 5%        | 1,59,000.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 3: गेहूँ (लोकवन) = Wheat (Lokwan), quantity 40.00 quintal, unit price 2,400.00, amount 96,000.00",
+            "confidence": 0.9999932998142382,
+            "extraction_confidence": 0.9999932998142382,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 3: गेहूँ (लोकवन) = Wheat (Lokwan), quantity 40.00 quintal, unit price 2,400.00, amount 96,000.00",
+            "confidence": 0.9993399118784941,
+            "extraction_confidence": 0.9993399118784941,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3    | गेहूँ (लोकवन)            | 1001        | 40.00  | क्विंटल | 2,400.00 | 5%        | 96,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 3: गेहूँ (लोकवन) = Wheat (Lokwan), quantity 40.00 quintal, unit price 2,400.00, amount 96,000.00",
+            "confidence": 0.9999992661760607,
+            "extraction_confidence": 0.9999992661760607,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3    | गेहूँ (लोकवन)            | 1001        | 40.00  | क्विंटल | 2,400.00 | 5%        | 96,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 3: गेहूँ (लोकवन) = Wheat (Lokwan), quantity 40.00 quintal, unit price 2,400.00, amount 96,000.00",
+            "confidence": 0.9999593170063498,
+            "extraction_confidence": 0.9999593170063498,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3    | गेहूँ (लोकवन)            | 1001        | 40.00  | क्विंटल | 2,400.00 | 5%        | 96,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 4: मक्का (पीला) = Maize (Yellow), quantity 25.00 quintal, unit price 2,100.00, amount 52,500.00",
+            "confidence": 0.999965618531233,
+            "extraction_confidence": 0.999965618531233,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 4: मक्का (पीला) = Maize (Yellow), quantity 25.00 quintal, unit price 2,100.00, amount 52,500.00",
+            "confidence": 0.9997963492540262,
+            "extraction_confidence": 0.9997963492540262,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4    | मक्का (पीला)             | 1005        | 25.00  | क्विंटल | 2,100.00 | 5%        | 52,500.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 4: मक्का (पीला) = Maize (Yellow), quantity 25.00 quintal, unit price 2,100.00, amount 52,500.00",
+            "confidence": 0.9999998733927642,
+            "extraction_confidence": 0.9999998733927642,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4    | मक्का (पीला)             | 1005        | 25.00  | क्विंटल | 2,100.00 | 5%        | 52,500.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 4: मक्का (पीला) = Maize (Yellow), quantity 25.00 quintal, unit price 2,100.00, amount 52,500.00",
+            "confidence": 0.99994882848441,
+            "extraction_confidence": 0.99994882848441,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4    | मक्का (पीला)             | 1005        | 25.00  | क्विंटल | 2,100.00 | 5%        | 52,500.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 5: उड़द दाल (काली) = Black Gram Dal, quantity 10.00 quintal, unit price 6,800.00, amount 68,000.00",
+            "confidence": 0.9990071585824184,
+            "extraction_confidence": 0.9990071585824184,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 5: उड़द दाल (काली) = Black Gram Dal, quantity 10.00 quintal, unit price 6,800.00, amount 68,000.00",
+            "confidence": 0.999771798600741,
+            "extraction_confidence": 0.999771798600741,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5    | उड़द दाल (काली)          | 0713        | 10.00  | क्विंटल | 6,800.00 | 5%        | 68,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 5: उड़द दाल (काली) = Black Gram Dal, quantity 10.00 quintal, unit price 6,800.00, amount 68,000.00",
+            "confidence": 0.9999996945873062,
+            "extraction_confidence": 0.9999996945873062,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5    | उड़द दाल (काली)          | 0713        | 10.00  | क्विंटल | 6,800.00 | 5%        | 68,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 5: उड़द दाल (काली) = Black Gram Dal, quantity 10.00 quintal, unit price 6,800.00, amount 68,000.00",
+            "confidence": 0.999993704622901,
+            "extraction_confidence": 0.999993704622901,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5    | उड़द दाल (काली)          | 0713        | 10.00  | क्विंटल | 6,800.00 | 5%        | 68,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 6: मुंग दाल = Moong Dal, quantity 8.00 quintal, unit price 7,200.00, amount 57,600.00",
+            "confidence": 0.9995204875887138,
+            "extraction_confidence": 0.9995204875887138,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 6: मुंग दाल = Moong Dal, quantity 8.00 quintal, unit price 7,200.00, amount 57,600.00",
+            "confidence": 0.9998570623106984,
+            "extraction_confidence": 0.9998570623106984,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6    | मुंग दाल                 | 0713        | 8.00   | क्विंटल | 7,200.00 | 5%        | 57,600.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 6: मुंग दाल = Moong Dal, quantity 8.00 quintal, unit price 7,200.00, amount 57,600.00",
+            "confidence": 0.9999997429904443,
+            "extraction_confidence": 0.9999997429904443,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6    | मुंग दाल                 | 0713        | 8.00   | क्विंटल | 7,200.00 | 5%        | 57,600.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 6: मुंग दाल = Moong Dal, quantity 8.00 quintal, unit price 7,200.00, amount 57,600.00",
+            "confidence": 0.9999966250985715,
+            "extraction_confidence": 0.9999966250985715,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6    | मुंग दाल                 | 0713        | 8.00   | क्विंटल | 7,200.00 | 5%        | 57,600.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 7: तुअर दाल (अरहर) = Pigeon Pea Dal (Arhar), quantity 12.00 quintal, unit price 6,000.00, amount 72,000.00",
+            "confidence": 0.9999694044801866,
+            "extraction_confidence": 0.9999694044801866,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 7: तुअर दाल (अरहर) = Pigeon Pea Dal (Arhar), quantity 12.00 quintal, unit price 6,000.00, amount 72,000.00",
+            "confidence": 0.999990533349411,
+            "extraction_confidence": 0.999990533349411,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7    | तुअर दाल (अरहर)          | 0713        | 12.00  | क्विंटल | 6,000.00 | 5%        | 72,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 7: तुअर दाल (अरहर) = Pigeon Pea Dal (Arhar), quantity 12.00 quintal, unit price 6,000.00, amount 72,000.00",
+            "confidence": 0.9999999031936799,
+            "extraction_confidence": 0.9999999031936799,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7    | तुअर दाल (अरहर)          | 0713        | 12.00  | क्विंटल | 6,000.00 | 5%        | 72,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 7: तुअर दाल (अरहर) = Pigeon Pea Dal (Arhar), quantity 12.00 quintal, unit price 6,000.00, amount 72,000.00",
+            "confidence": 0.9999956602745022,
+            "extraction_confidence": 0.9999956602745022,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7    | तुअर दाल (अरहर)          | 0713        | 12.00  | क्विंटल | 6,000.00 | 5%        | 72,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 8: तिल (सफेद) = Sesame (White), quantity 6.00 quintal, unit price 8,000.00, amount 48,000.00",
+            "confidence": 0.9999557347107789,
+            "extraction_confidence": 0.9999557347107789,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 8: तिल (सफेद) = Sesame (White), quantity 6.00 quintal, unit price 8,000.00, amount 48,000.00",
+            "confidence": 0.9999421419570272,
+            "extraction_confidence": 0.9999421419570272,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8    | तिल (सफेद)               | 1207        | 6.00   | क्विंटल | 8,000.00 | 5%        | 48,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 8: तिल (सफेद) = Sesame (White), quantity 6.00 quintal, unit price 8,000.00, amount 48,000.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8    | तिल (सफेद)               | 1207        | 6.00   | क्विंटल | 8,000.00 | 5%        | 48,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 8: तिल (सफेद) = Sesame (White), quantity 6.00 quintal, unit price 8,000.00, amount 48,000.00",
+            "confidence": 0.9999994151805258,
+            "extraction_confidence": 0.9999994151805258,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8    | तिल (सफेद)               | 1207        | 6.00   | क्विंटल | 8,000.00 | 5%        | 48,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 9: धनीया = Coriander, quantity 5.00 quintal, unit price 7,000.00, amount 35,000.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 9: धनीया = Coriander, quantity 5.00 quintal, unit price 7,000.00, amount 35,000.00",
+            "confidence": 0.9999900962734932,
+            "extraction_confidence": 0.9999900962734932,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9    | धनीया                    | 0909        | 5.00   | क्विंटल | 7,000.00 | 5%        | 35,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 9: धनीया = Coriander, quantity 5.00 quintal, unit price 7,000.00, amount 35,000.00",
+            "confidence": 0.9999999217959217,
+            "extraction_confidence": 0.9999999217959217,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9    | धनीया                    | 0909        | 5.00   | क्विंटल | 7,000.00 | 5%        | 35,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 9: धनीया = Coriander, quantity 5.00 quintal, unit price 7,000.00, amount 35,000.00",
+            "confidence": 0.999998163543618,
+            "extraction_confidence": 0.999998163543618,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9    | धनीया                    | 0909        | 5.00   | क्विंटल | 7,000.00 | 5%        | 35,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 10: अलसी = Linseed, quantity 4.00 quintal, unit price 5,500.00, amount 22,000.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 10: अलसी = Linseed, quantity 4.00 quintal, unit price 5,500.00, amount 22,000.00",
+            "confidence": 0.9999947849154426,
+            "extraction_confidence": 0.9999947849154426,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10   | अलसी                     | 1206        | 4.00   | क्विंटल | 5,500.00 | 5%        | 22,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 10: अलसी = Linseed, quantity 4.00 quintal, unit price 5,500.00, amount 22,000.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10   | अलसी                     | 1206        | 4.00   | क्विंटल | 5,500.00 | 5%        | 22,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 10: अलसी = Linseed, quantity 4.00 quintal, unit price 5,500.00, amount 22,000.00",
+            "confidence": 0.999998502551778,
+            "extraction_confidence": 0.999998502551778,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10   | अलसी                     | 1206        | 4.00   | क्विंटल | 5,500.00 | 5%        | 22,000.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.570302591463414,
+                    "y": 134.80180426829267,
+                    "w": 231.04018033536585,
+                    "h": 117.36394207317072
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The subtotal (उप-योग) is explicitly listed as 7,40,100.00.",
+        "confidence": 0.9916694541316543,
+        "extraction_confidence": 0.9916694541316543,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| **राशि शब्दों में:**<br/>रुपये सात लाख सतहत्तर हजार एक सौ पाँच मात्र । | उप-योग (₹)           | 7,40,100.00     |",
+            "bounding_boxes": [
+              {
+                "x": 125.75102926829267,
+                "y": 250.31416097560975,
+                "w": 115.0878292682927,
+                "h": 57.38086097560976
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Total tax (कुल कर) is explicitly listed as 37,005.00.",
+        "confidence": 0.9999386073433438,
+        "extraction_confidence": 0.9999386073433438,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                                                        | कुल कर (₹)           | 37,005.00       |",
+            "bounding_boxes": [
+              {
+                "x": 125.75102926829267,
+                "y": 250.31416097560975,
+                "w": 115.0878292682927,
+                "h": 57.38086097560976
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "The total payable amount (कुल देय राशि) is explicitly listed as 7,77,105.00.",
+        "confidence": 0.9999842280360607,
+        "extraction_confidence": 0.9999842280360607,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                                                        | **कुल देय राशि (₹)** | **7,77,105.00** |",
+            "bounding_boxes": [
+              {
+                "x": 125.75102926829267,
+                "y": 250.31416097560975,
+                "w": 115.0878292682927,
+                "h": 57.38086097560976
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are denoted with the symbol ₹, which is the Indian Rupee.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "The terms state: 'Pay within due date, otherwise 18% annual interest will be charged.'",
+        "confidence": 0.9213376425897724,
+        "extraction_confidence": 0.9213376425897724,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "b5b1d24d-3f4a-40b7-a702-a54767b5c104",
+    "file_name": "invoice_azimg_20260518_164637_822_0005.png",
+    "file_hash": "853bdb6b-3938-4035-a8b4-a86ff3a7b478",
+    "metadata": {
+      "job_id": "ext-faaavzdwmwcohsi7ff5c03v2cwnk"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260518_164637_822_0005.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_164637_822_0005.png"
+    }
+  ]
+}

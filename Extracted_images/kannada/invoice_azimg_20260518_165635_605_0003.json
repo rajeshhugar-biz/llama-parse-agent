@@ -1,0 +1,1168 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\kannada\\images\\invoice_azimg_20260518_165635_605_0003.png",
+  "language": "kannada",
+  "file_id": "72fd63f3-6d76-4119-b6f3-170e588f163f",
+  "record_id": {
+    "value": {
+      "result": "agd-qs0h7j0szlrlvxjzu7f3ob6tpsw9"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "No. 48, 2nd Main, 3rd Cross, Veena Industrial Area, Bengaluru - 560 058, Karnataka",
+      "customer_name": "M/s. Pragati Engineering Works",
+      "due_date": "2024-02-14",
+      "invoice_date": "2024-01-15",
+      "invoice_number": "SVI/23-24/1127",
+      "line_items": [
+        {
+          "amount": 19175.0,
+          "description": "Machine Bracket",
+          "quantity": 50.0,
+          "unit_price": 325.0
+        },
+        {
+          "amount": 5310.0,
+          "description": "Shaft Collar",
+          "quantity": 100.0,
+          "unit_price": 45.0
+        },
+        {
+          "amount": 8106.5,
+          "description": "Bellow Shaft Housing",
+          "quantity": 25.0,
+          "unit_price": 275.0
+        },
+        {
+          "amount": 6549.0,
+          "description": "V-Belt Pulley",
+          "quantity": 30.0,
+          "unit_price": 185.0
+        },
+        {
+          "amount": 4956.0,
+          "description": "Coupling Hub",
+          "quantity": 20.0,
+          "unit_price": 210.0
+        },
+        {
+          "amount": 1416.0,
+          "description": "Thrust Washer",
+          "quantity": 100.0,
+          "unit_price": 12.0
+        },
+        {
+          "amount": 1888.0,
+          "description": "Lock Nut M16",
+          "quantity": 200.0,
+          "unit_price": 8.0
+        },
+        {
+          "amount": 944.0,
+          "description": "Flat Washer M16",
+          "quantity": 200.0,
+          "unit_price": 4.0
+        },
+        {
+          "amount": 1770.0,
+          "description": "Check Bolt M16x50",
+          "quantity": 100.0,
+          "unit_price": 15.0
+        },
+        {
+          "amount": 7670.0,
+          "description": "Gear Box Mounting Plate",
+          "quantity": 10.0,
+          "unit_price": 650.0
+        }
+      ],
+      "payment_terms": "Payment due by due date; 18% interest per month after due date.",
+      "subtotal": 48975.0,
+      "tax_amount": 8815.5,
+      "total_amount": 57791.0,
+      "vendor_address": "Plot No. 12, KIADB Industrial Area, Bommasandra Jigani Link Road, Nelamangala Taluk, Bengaluru - 562 106, Karnataka, India",
+      "vendor_name": "Sri Vinayaka Industries"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "No. 48, 2nd Main, 3rd Cross, Veena Industrial Area, Bengaluru - 560 058, Karnataka",
+      "customer_name": "M/s. Pragati Engineering Works",
+      "due_date": "2024-02-14",
+      "invoice_date": "2024-01-15",
+      "invoice_number": "SVI/23-24/1127",
+      "line_items": [
+        {
+          "amount": 19175.0,
+          "description": "Machine Bracket",
+          "quantity": 50.0,
+          "unit_price": 325.0
+        },
+        {
+          "amount": 5310.0,
+          "description": "Shaft Collar",
+          "quantity": 100.0,
+          "unit_price": 45.0
+        },
+        {
+          "amount": 8106.5,
+          "description": "Bellow Shaft Housing",
+          "quantity": 25.0,
+          "unit_price": 275.0
+        },
+        {
+          "amount": 6549.0,
+          "description": "V-Belt Pulley",
+          "quantity": 30.0,
+          "unit_price": 185.0
+        },
+        {
+          "amount": 4956.0,
+          "description": "Coupling Hub",
+          "quantity": 20.0,
+          "unit_price": 210.0
+        },
+        {
+          "amount": 1416.0,
+          "description": "Thrust Washer",
+          "quantity": 100.0,
+          "unit_price": 12.0
+        },
+        {
+          "amount": 1888.0,
+          "description": "Lock Nut M16",
+          "quantity": 200.0,
+          "unit_price": 8.0
+        },
+        {
+          "amount": 944.0,
+          "description": "Flat Washer M16",
+          "quantity": 200.0,
+          "unit_price": 4.0
+        },
+        {
+          "amount": 1770.0,
+          "description": "Check Bolt M16x50",
+          "quantity": 100.0,
+          "unit_price": 15.0
+        },
+        {
+          "amount": 7670.0,
+          "description": "Gear Box Mounting Plate",
+          "quantity": 10.0,
+          "unit_price": 650.0
+        }
+      ],
+      "payment_terms": "Payment due by due date; 18% interest per month after due date.",
+      "subtotal": 48975.0,
+      "tax_amount": 8815.5,
+      "total_amount": 57791.0,
+      "vendor_address": "Plot No. 12, KIADB Industrial Area, Bommasandra Jigani Link Road, Nelamangala Taluk, Bengaluru - 562 106, Karnataka, India",
+      "vendor_name": "Sri Vinayaka Industries"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9794201342246455,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The field 'ಚಲನ್ ಸಂಖ್ಯೆ' means 'Invoice Number', and the value is SVI/23-24/1127.",
+        "confidence": 0.9886318865509756,
+        "extraction_confidence": 0.9886318865509756,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "** SVI/23-24/1127",
+            "bounding_boxes": [
+              {
+                "x": 219.92548513719512,
+                "y": 49.06138174661776,
+                "w": 27.611744874237832,
+                "h": 5.281542119616997
+              }
+            ],
+            "page_dimensions": {
+              "width": 260.16,
+              "height": 438.24
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The field 'ದಿನಾಂಕ' means 'Date', and the value is 15-01-2024.",
+        "confidence": 0.9994189528644375,
+        "extraction_confidence": 0.9994189528644375,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ಚಲನ್ ಸಂಖ್ಯೆ** SVI/23-24/1127\n**ದಿನಾಂಕ** 15-01-2024\n**ದಿನಾಂಕಕ್ಕೆ ಬಾಕಿ** 14-02-2024\n**ಸ್ಥಳದ ಸರಬರಾಜು ಕರ್ನಾಟಕ (29)**",
+            "bounding_boxes": [
+              {
+                "x": 219.92548513719512,
+                "y": 49.06138174661776,
+                "w": 27.611744874237832,
+                "h": 5.281542119616997
+              }
+            ],
+            "page_dimensions": {
+              "width": 260.16,
+              "height": 438.24
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The field 'ದಿನಾಂಕಕ್ಕೆ ಬಾಕಿ' means 'Due Date', and the value is 14-02-2024.",
+        "confidence": 0.9968128484812666,
+        "extraction_confidence": 0.9968128484812666,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ಚಲನ್ ಸಂಖ್ಯೆ** SVI/23-24/1127\n**ದಿನಾಂಕ** 15-01-2024\n**ದಿನಾಂಕಕ್ಕೆ ಬಾಕಿ** 14-02-2024\n**ಸ್ಥಳದ ಸರಬರಾಜು ಕರ್ನಾಟಕ (29)**",
+            "bounding_boxes": [
+              {
+                "x": 219.92548513719512,
+                "y": 49.06138174661776,
+                "w": 27.611744874237832,
+                "h": 5.281542119616997
+              }
+            ],
+            "page_dimensions": {
+              "width": 260.16,
+              "height": 438.24
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Vendor name is 'ಶ್ರೀ ವಿನಾಯಕ ಇಂಡಸ್ಟ್ರೀಸ್', which translates to 'Sri Vinayaka Industries'.",
+        "confidence": 0.8751416191671818,
+        "extraction_confidence": 0.8751416191671818,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "vendor_address": {
+        "reasoning": "Vendor address is provided in Kannada and needs to be translated to English.",
+        "confidence": 0.9991702690992,
+        "extraction_confidence": 0.9991702690992,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The customer name is 'ಮೆಸ್ಸರ್ಸ್. ಪ್ರಗತಿ ಇಂಜಿನಿಯರಿಂಗ್ ವರ್ಕ್ಸ್', which translates to 'M/s. Pragati Engineering Works'.",
+        "confidence": 0.9495408830566267,
+        "extraction_confidence": 0.9495408830566267,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The billing address is provided in Kannada and needs to be translated to English.",
+        "confidence": 0.9685655383876293,
+        "extraction_confidence": 0.9685655383876293,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.8635691640548039,
+            "extraction_confidence": 0.8635691640548039,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.999999448776502,
+            "extraction_confidence": 0.999999448776502,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                       | ಮಷಿನ್ ಬ್ರಾಕೆಟ್               | 73269099     | 50            | 325.00   | 16,250.00   | 9%                | 9%                | 19,175.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                       | ಮಷಿನ್ ಬ್ರಾಕೆಟ್               | 73269099     | 50            | 325.00   | 16,250.00   | 9%                | 9%                | 19,175.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.8259850001659388,
+            "extraction_confidence": 0.8259850001659388,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                       | ಮಷಿನ್ ಬ್ರಾಕೆಟ್               | 73269099     | 50            | 325.00   | 16,250.00   | 9%                | 9%                | 19,175.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9990581603728731,
+            "extraction_confidence": 0.9990581603728731,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999553816219179,
+            "extraction_confidence": 0.9999553816219179,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                       | ಶಾಫ್ಟ್ ಕಾಲರ್                 | 84836010     | 100           | 45.00    | 4,500.00    | 9%                | 9%                | 5,310.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999998435918493,
+            "extraction_confidence": 0.9999998435918493,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                       | ಶಾಫ್ಟ್ ಕಾಲರ್                 | 84836010     | 100           | 45.00    | 4,500.00    | 9%                | 9%                | 5,310.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9997954611310913,
+            "extraction_confidence": 0.9997954611310913,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                       | ಶಾಫ್ಟ್ ಕಾಲರ್                 | 84836010     | 100           | 45.00    | 4,500.00    | 9%                | 9%                | 5,310.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9979193002083366,
+            "extraction_confidence": 0.9979193002083366,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9966175175571078,
+            "extraction_confidence": 0.9966175175571078,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                       | ಬೆಲ್ಲೊ ಶಾಫ್ಟ್ ಹೌಸಿಂಗ್        | 84832000     | 25            | 275.00   | 6,875.00    | 9%                | 9%                | 8,106.50          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                       | ಬೆಲ್ಲೊ ಶಾಫ್ಟ್ ಹೌಸಿಂಗ್        | 84832000     | 25            | 275.00   | 6,875.00    | 9%                | 9%                | 8,106.50          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999891749225045,
+            "extraction_confidence": 0.9999891749225045,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                       | ಬೆಲ್ಲೊ ಶಾಫ್ಟ್ ಹೌಸಿಂಗ್        | 84832000     | 25            | 275.00   | 6,875.00    | 9%                | 9%                | 8,106.50          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999317039026558,
+            "extraction_confidence": 0.9999317039026558,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9995908601447034,
+            "extraction_confidence": 0.9995908601447034,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                       | V-ಬೆಲ್ಟ್ ಪುಲ್ಲಿ              | 84835020     | 30            | 185.00   | 5,550.00    | 9%                | 9%                | 6,549.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.999999605184591,
+            "extraction_confidence": 0.999999605184591,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                       | V-ಬೆಲ್ಟ್ ಪುಲ್ಲಿ              | 84835020     | 30            | 185.00   | 5,550.00    | 9%                | 9%                | 6,549.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999995641850131,
+            "extraction_confidence": 0.9999995641850131,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                       | V-ಬೆಲ್ಟ್ ಪುಲ್ಲಿ              | 84835020     | 30            | 185.00   | 5,550.00    | 9%                | 9%                | 6,549.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999952200191488,
+            "extraction_confidence": 0.9999952200191488,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9998622621776707,
+            "extraction_confidence": 0.9998622621776707,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                       | ಕಪ್ಲಿಂಗ್ ಹಬ್                 | 84836010     | 20            | 210.00   | 4,200.00    | 9%                | 9%                | 4,956.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999514108798957,
+            "extraction_confidence": 0.9999514108798957,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                       | ಕಪ್ಲಿಂಗ್ ಹಬ್                 | 84836010     | 20            | 210.00   | 4,200.00    | 9%                | 9%                | 4,956.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                       | ಕಪ್ಲಿಂಗ್ ಹಬ್                 | 84836010     | 20            | 210.00   | 4,200.00    | 9%                | 9%                | 4,956.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9996633989104726,
+            "extraction_confidence": 0.9996633989104726,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999999031936799,
+            "extraction_confidence": 0.9999999031936799,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                       | ಥ್ರಸ್ಟ್ ವಾಷರ್                | 73269099     | 100           | 12.00    | 1,200.00    | 9%                | 9%                | 1,416.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                       | ಥ್ರಸ್ಟ್ ವಾಷರ್                | 73269099     | 100           | 12.00    | 1,200.00    | 9%                | 9%                | 1,416.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                       | ಥ್ರಸ್ಟ್ ವಾಷರ್                | 73269099     | 100           | 12.00    | 1,200.00    | 9%                | 9%                | 1,416.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.999390543675201,
+            "extraction_confidence": 0.999390543675201,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999141620236692,
+            "extraction_confidence": 0.9999141620236692,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                       | ಲಾಕ್ ನಟ್ M16                 | 73181600     | 200           | 8.00     | 1,600.00    | 9%                | 9%                | 1,888.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999883330409213,
+            "extraction_confidence": 0.9999883330409213,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                       | ಲಾಕ್ ನಟ್ M16                 | 73181600     | 200           | 8.00     | 1,600.00    | 9%                | 9%                | 1,888.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                       | ಲಾಕ್ ನಟ್ M16                 | 73181600     | 200           | 8.00     | 1,600.00    | 9%                | 9%                | 1,888.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9996613787035723,
+            "extraction_confidence": 0.9996613787035723,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999958726750818,
+            "extraction_confidence": 0.9999958726750818,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                       | ಫ್ಲಾಟ್ ವಾಷರ್ M16             | 73182200     | 200           | 4.00     | 800.00      | 9%                | 9%                | 944.00            |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999995679801056,
+            "extraction_confidence": 0.9999995679801056,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                       | ಫ್ಲಾಟ್ ವಾಷರ್ M16             | 73182200     | 200           | 4.00     | 800.00      | 9%                | 9%                | 944.00            |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                       | ಫ್ಲಾಟ್ ವಾಷರ್ M16             | 73182200     | 200           | 4.00     | 800.00      | 9%                | 9%                | 944.00            |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9998965809191885,
+            "extraction_confidence": 0.9998965809191885,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999738799310653,
+            "extraction_confidence": 0.9999738799310653,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                       | ಚೆಕ್ ಬೋಲ್ಟ್ M16x50           | 73181500     | 100           | 15.00    | 1,500.00    | 9%                | 9%                | 1,770.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.999990930691174,
+            "extraction_confidence": 0.999990930691174,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                       | ಚೆಕ್ ಬೋಲ್ಟ್ M16x50           | 73181500     | 100           | 15.00    | 1,500.00    | 9%                | 9%                | 1,770.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                       | ಚೆಕ್ ಬೋಲ್ಟ್ M16x50           | 73181500     | 100           | 15.00    | 1,500.00    | 9%                | 9%                | 1,770.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9708204325145167,
+            "extraction_confidence": 0.9708204325145167,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9998944359238392,
+            "extraction_confidence": 0.9998944359238392,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                      | ಗಿಯರ್ ಬಾಕ್ಸ್ ಮೌಂಟಿಂಗ್ ಪ್ಲೇಟ್ | 73269099     | 10            | 650.00   | 6,500.00    | 9%                | 9%                | 7,670.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9999411003170942,
+            "extraction_confidence": 0.9999411003170942,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                      | ಗಿಯರ್ ಬಾಕ್ಸ್ ಮೌಂಟಿಂಗ್ ಪ್ಲೇಟ್ | 73269099     | 10            | 650.00   | 6,500.00    | 9%                | 9%                | 7,670.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description from Kannada to English and extracted numerical values.",
+            "confidence": 0.9997762456898056,
+            "extraction_confidence": 0.9997762456898056,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                      | ಗಿಯರ್ ಬಾಕ್ಸ್ ಮೌಂಟಿಂಗ್ ಪ್ಲೇಟ್ | 73269099     | 10            | 650.00   | 6,500.00    | 9%                | 9%                | 7,670.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 15.820880466368141,
+                    "y": 140.23904422637196,
+                    "w": 232.77939971655871,
+                    "h": 183.98000785060978
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 260.16,
+                  "height": 438.24
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The line 'ಮೌಲ್ಯ ಒಟ್ಟು' (Total Value) is 48,975.00.",
+        "confidence": 0.999997042310096,
+        "extraction_confidence": 0.999997042310096,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| ಮೌಲ್ಯ ಒಟ್ಟು             |                              |              |               |          |             |                   |                   | 48,975.00         |",
+            "bounding_boxes": [
+              {
+                "x": 15.820880466368141,
+                "y": 140.23904422637196,
+                "w": 232.77939971655871,
+                "h": 183.98000785060978
+              }
+            ],
+            "page_dimensions": {
+              "width": 260.16,
+              "height": 438.24
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "CGST @ 9% = 4,407.75, SGST @ 9% = 4,407.75, total tax = 8,815.50.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "The line 'ಪಾವತಿಸಬೇಕಾದ ಒಟ್ಟು ಮೊತ್ತ' (Total Amount Payable) is Rs. 57,791.00.",
+        "confidence": 0.8776350762112624,
+        "extraction_confidence": 0.8776350762112624,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "57,791.00     |",
+            "bounding_boxes": [
+              {
+                "x": 15.820880466368141,
+                "y": 140.23904422637196,
+                "w": 232.77939971655871,
+                "h": 183.98000785060978
+              }
+            ],
+            "page_dimensions": {
+              "width": 260.16,
+              "height": 438.24
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The invoice uses the symbol 'ರೂ.' and 'Rs.' for amounts, which is the Indian Rupee (INR).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Terms are listed at the end: payment due by due date, 18% interest per month after due date.",
+        "confidence": 0.6238070184669017,
+        "extraction_confidence": 0.6238070184669017,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "72fd63f3-6d76-4119-b6f3-170e588f163f",
+    "file_name": "invoice_azimg_20260518_165635_605_0003.png",
+    "file_hash": "331799b2-c1e6-4c85-b87a-7322acaf2690",
+    "metadata": {
+      "job_id": "ext-fyyea53ckatuvoaf9k8p6ozis8h7"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260518_165635_605_0003.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_165635_605_0003.png"
+    }
+  ]
+}

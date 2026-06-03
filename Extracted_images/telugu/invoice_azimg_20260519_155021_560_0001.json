@@ -1,0 +1,1219 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\telugu\\images\\invoice_azimg_20260519_155021_560_0001.png",
+  "language": "telugu",
+  "file_id": "de286d87-ed6a-41c2-a6bf-eb5f6d8a5dba",
+  "record_id": {
+    "value": {
+      "result": "agd-cegrgva7dsgu5b5j0mvok1tx3ddl"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "D.No. 7-88, Bus Stand Road, Samarlakota, East Godavari District - 533440, Andhra Pradesh",
+      "customer_name": "Sri Lakshmi Narasimha Super Market",
+      "due_date": "2024-06-01",
+      "invoice_date": "2024-05-18",
+      "invoice_number": "2024-25/0157",
+      "line_items": [
+        {
+          "amount": 11500.0,
+          "description": "Rice Sanna Raja 25KG",
+          "quantity": 10.0,
+          "unit_price": 1150.0
+        },
+        {
+          "amount": 2400.0,
+          "description": "Toor Dal 1KG",
+          "quantity": 20.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 1800.0,
+          "description": "Bengal Gram Dal 1KG",
+          "quantity": 20.0,
+          "unit_price": 90.0
+        },
+        {
+          "amount": 1100.0,
+          "description": "Horse Gram 1KG",
+          "quantity": 10.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 2250.0,
+          "description": "Sugar 1KG",
+          "quantity": 50.0,
+          "unit_price": 45.0
+        },
+        {
+          "amount": 1400.0,
+          "description": "Tea Powder 250GM",
+          "quantity": 40.0,
+          "unit_price": 35.0
+        },
+        {
+          "amount": 4200.0,
+          "description": "Cooking Oil 1LTR",
+          "quantity": 30.0,
+          "unit_price": 140.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Wheat Flour 1KG",
+          "quantity": 25.0,
+          "unit_price": 40.0
+        },
+        {
+          "amount": 120.0,
+          "description": "Salt 1KG",
+          "quantity": 10.0,
+          "unit_price": 12.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Chilli Powder 500GM",
+          "quantity": 10.0,
+          "unit_price": 60.0
+        }
+      ],
+      "payment_terms": "Payment due by due date",
+      "subtotal": 26370.0,
+      "tax_amount": 1318.5,
+      "total_amount": 27689.0,
+      "vendor_address": "D.No. 12-2-159/1, Main Road, Kothapeta, Rajahmundry - 533101, East Godavari District, Andhra Pradesh",
+      "vendor_name": "Sri Venkateswara Kirana & General Stores"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "D.No. 7-88, Bus Stand Road, Samarlakota, East Godavari District - 533440, Andhra Pradesh",
+      "customer_name": "Sri Lakshmi Narasimha Super Market",
+      "due_date": "2024-06-01",
+      "invoice_date": "2024-05-18",
+      "invoice_number": "2024-25/0157",
+      "line_items": [
+        {
+          "amount": 11500.0,
+          "description": "Rice Sanna Raja 25KG",
+          "quantity": 10.0,
+          "unit_price": 1150.0
+        },
+        {
+          "amount": 2400.0,
+          "description": "Toor Dal 1KG",
+          "quantity": 20.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 1800.0,
+          "description": "Bengal Gram Dal 1KG",
+          "quantity": 20.0,
+          "unit_price": 90.0
+        },
+        {
+          "amount": 1100.0,
+          "description": "Horse Gram 1KG",
+          "quantity": 10.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 2250.0,
+          "description": "Sugar 1KG",
+          "quantity": 50.0,
+          "unit_price": 45.0
+        },
+        {
+          "amount": 1400.0,
+          "description": "Tea Powder 250GM",
+          "quantity": 40.0,
+          "unit_price": 35.0
+        },
+        {
+          "amount": 4200.0,
+          "description": "Cooking Oil 1LTR",
+          "quantity": 30.0,
+          "unit_price": 140.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Wheat Flour 1KG",
+          "quantity": 25.0,
+          "unit_price": 40.0
+        },
+        {
+          "amount": 120.0,
+          "description": "Salt 1KG",
+          "quantity": 10.0,
+          "unit_price": 12.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Chilli Powder 500GM",
+          "quantity": 10.0,
+          "unit_price": 60.0
+        }
+      ],
+      "payment_terms": "Payment due by due date",
+      "subtotal": 26370.0,
+      "tax_amount": 1318.5,
+      "total_amount": 27689.0,
+      "vendor_address": "D.No. 12-2-159/1, Main Road, Kothapeta, Rajahmundry - 533101, East Godavari District, Andhra Pradesh",
+      "vendor_name": "Sri Venkateswara Kirana & General Stores"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9862618024084393,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is listed as '**ఇన్వాయిస్ సంఖ్య** : 2024-25/0157'.",
+        "confidence": 0.9999805615303625,
+        "extraction_confidence": 0.9999805615303625,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "2024-25/0157",
+            "bounding_boxes": [
+              {
+                "x": 148.95,
+                "y": 64.56,
+                "w": 64.62,
+                "h": 7.44
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is listed as '**తేది** : 18-05-2024'.",
+        "confidence": 0.9999954926683492,
+        "extraction_confidence": 0.9999954926683492,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ఇన్వాయిస్ సంఖ్య** : 2024-25/0157\n**తేది** : 18-05-2024\n**డ్యూ తేది** : 01-06-2024\n**సరఫరా స్థలం** : ఆంధ్రప్రదేశ్ (37)",
+            "bounding_boxes": [
+              {
+                "x": 149.66783999999998,
+                "y": 65.80224,
+                "w": 66.10944,
+                "h": 33.116159999999994
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is listed as '**డ్యూ తేది** : 01-06-2024'.",
+        "confidence": 0.83733770270765,
+        "extraction_confidence": 0.83733770270765,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**డ్యూ తేది** : 01-06-2024",
+            "bounding_boxes": [
+              {
+                "x": 186.42,
+                "y": 82.8,
+                "w": 23.3,
+                "h": 6.0
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Vendor name is at the top: 'శ్రీ వేంకటేశ్వర కిరాణా & జనరల్ స్టోర్స్'. Translated to English.",
+        "confidence": 0.9550210988638272,
+        "extraction_confidence": 0.9550210988638272,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "vendor_address": {
+        "reasoning": "Vendor address is at the top: D.No. 12-2-159/1, Main Road, Kothapeta, Rajahmundry - 533101, East Godavari District, Andhra Pradesh.",
+        "confidence": 0.9731869465061267,
+        "extraction_confidence": 0.9731869465061267,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The customer name is under '**బిల్లు కు :**' (To Bill:), which is 'శ్రీ లక్ష్మీ నరసింహ సూపర్ మార్కెట్'. Translated to English.",
+        "confidence": 0.9994000403315183,
+        "extraction_confidence": 0.9994000403315183,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The billing address is listed under '**బిల్లు కు :**' (To Bill:) and is in Telugu. Translated to English.",
+        "confidence": 0.9999636931240302,
+        "extraction_confidence": 0.9999636931240302,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "First line item: బియ్యం సన్నా రాజా 25KG = Rice Sanna Raja 25KG, 10 BAG, 1,150.00 per bag, total 11,500.00.",
+            "confidence": 0.9140416773478338,
+            "extraction_confidence": 0.9140416773478338,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "First line item: బియ్యం సన్నా రాజా 25KG = Rice Sanna Raja 25KG, 10 BAG, 1,150.00 per bag, total 11,500.00.",
+            "confidence": 0.9999961110814314,
+            "extraction_confidence": 0.9999961110814314,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                 | బియ్యం సన్నా రాజా 25KG | 10063020     | 10 BAG  | 1,150.00  | 2.5%                | 2.5%                | 11,500.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "First line item: బియ్యం సన్నా రాజా 25KG = Rice Sanna Raja 25KG, 10 BAG, 1,150.00 per bag, total 11,500.00.",
+            "confidence": 0.999869280288764,
+            "extraction_confidence": 0.999869280288764,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                 | బియ్యం సన్నా రాజా 25KG | 10063020     | 10 BAG  | 1,150.00  | 2.5%                | 2.5%                | 11,500.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "First line item: బియ్యం సన్నా రాజా 25KG = Rice Sanna Raja 25KG, 10 BAG, 1,150.00 per bag, total 11,500.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                 | బియ్యం సన్నా రాజా 25KG | 10063020     | 10 BAG  | 1,150.00  | 2.5%                | 2.5%                | 11,500.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Second line item: తూధాల్ 1KG = Toor Dal 1KG, 20 KG, 120.00 per KG, total 2,400.00.",
+            "confidence": 0.9999999217959217,
+            "extraction_confidence": 0.9999999217959217,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Second line item: తూధాల్ 1KG = Toor Dal 1KG, 20 KG, 120.00 per KG, total 2,400.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                 | తూధాల్ 1KG             | 07134000     | 20 KG   | 120.00    | 2.5%                | 2.5%                | 2,400.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Second line item: తూధాల్ 1KG = Toor Dal 1KG, 20 KG, 120.00 per KG, total 2,400.00.",
+            "confidence": 0.9999681191577954,
+            "extraction_confidence": 0.9999681191577954,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                 | తూధాల్ 1KG             | 07134000     | 20 KG   | 120.00    | 2.5%                | 2.5%                | 2,400.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Second line item: తూధాల్ 1KG = Toor Dal 1KG, 20 KG, 120.00 per KG, total 2,400.00.",
+            "confidence": 0.9988372419411402,
+            "extraction_confidence": 0.9988372419411402,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                 | తూధాల్ 1KG             | 07134000     | 20 KG   | 120.00    | 2.5%                | 2.5%                | 2,400.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Third line item: సెనగ పప్పు 1KG = Bengal Gram Dal 1KG, 20 KG, 90.00 per KG, total 1,800.00.",
+            "confidence": 0.9999999135960062,
+            "extraction_confidence": 0.9999999135960062,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Third line item: సెనగ పప్పు 1KG = Bengal Gram Dal 1KG, 20 KG, 90.00 per KG, total 1,800.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                 | సెనగ పప్పు 1KG         | 07132000     | 20 KG   | 90.00     | 2.5%                | 2.5%                | 1,800.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Third line item: సెనగ పప్పు 1KG = Bengal Gram Dal 1KG, 20 KG, 90.00 per KG, total 1,800.00.",
+            "confidence": 0.9995104099385853,
+            "extraction_confidence": 0.9995104099385853,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                 | సెనగ పప్పు 1KG         | 07132000     | 20 KG   | 90.00     | 2.5%                | 2.5%                | 1,800.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Third line item: సెనగ పప్పు 1KG = Bengal Gram Dal 1KG, 20 KG, 90.00 per KG, total 1,800.00.",
+            "confidence": 0.9997273770014486,
+            "extraction_confidence": 0.9997273770014486,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                 | సెనగ పప్పు 1KG         | 07132000     | 20 KG   | 90.00     | 2.5%                | 2.5%                | 1,800.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Fourth line item: ఉలవలు 1KG = Horse Gram 1KG, 10 KG, 110.00 per KG, total 1,100.00.",
+            "confidence": 0.9999999374367368,
+            "extraction_confidence": 0.9999999374367368,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Fourth line item: ఉలవలు 1KG = Horse Gram 1KG, 10 KG, 110.00 per KG, total 1,100.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                 | ఉలవలు 1KG              | 07139000     | 10 KG   | 110.00    | 2.5%                | 2.5%                | 1,100.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Fourth line item: ఉలవలు 1KG = Horse Gram 1KG, 10 KG, 110.00 per KG, total 1,100.00.",
+            "confidence": 0.9999998621940971,
+            "extraction_confidence": 0.9999998621940971,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                 | ఉలవలు 1KG              | 07139000     | 10 KG   | 110.00    | 2.5%                | 2.5%                | 1,100.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Fourth line item: ఉలవలు 1KG = Horse Gram 1KG, 10 KG, 110.00 per KG, total 1,100.00.",
+            "confidence": 0.99993674964885,
+            "extraction_confidence": 0.99993674964885,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                 | ఉలవలు 1KG              | 07139000     | 10 KG   | 110.00    | 2.5%                | 2.5%                | 1,100.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Fifth line item: చక్కెర 1KG = Sugar 1KG, 50 KG, 45.00 per KG, total 2,250.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                 | చక్కెర 1KG             | 17019910     | 50 KG   | 45.00     | 2.5%                | 2.5%                | 2,250.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Fifth line item: చక్కెర 1KG = Sugar 1KG, 50 KG, 45.00 per KG, total 2,250.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                 | చక్కెర 1KG             | 17019910     | 50 KG   | 45.00     | 2.5%                | 2.5%                | 2,250.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Fifth line item: చక్కెర 1KG = Sugar 1KG, 50 KG, 45.00 per KG, total 2,250.00.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                 | చక్కెర 1KG             | 17019910     | 50 KG   | 45.00     | 2.5%                | 2.5%                | 2,250.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Fifth line item: చక్కెర 1KG = Sugar 1KG, 50 KG, 45.00 per KG, total 2,250.00.",
+            "confidence": 0.9999698867218593,
+            "extraction_confidence": 0.9999698867218593,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                 | చక్కెర 1KG             | 17019910     | 50 KG   | 45.00     | 2.5%                | 2.5%                | 2,250.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Sixth line item: చాయ్ పౌడర్ 250GM = Tea Powder 250GM, 40 PCKT, 35.00 per packet, total 1,400.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Sixth line item: చాయ్ పౌడర్ 250GM = Tea Powder 250GM, 40 PCKT, 35.00 per packet, total 1,400.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                 | చాయ్ పౌడర్ 250GM       | 09023020     | 40 PCKT | 35.00     | 2.5%                | 2.5%                | 1,400.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Sixth line item: చాయ్ పౌడర్ 250GM = Tea Powder 250GM, 40 PCKT, 35.00 per packet, total 1,400.00.",
+            "confidence": 0.999972057126318,
+            "extraction_confidence": 0.999972057126318,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                 | చాయ్ పౌడర్ 250GM       | 09023020     | 40 PCKT | 35.00     | 2.5%                | 2.5%                | 1,400.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Sixth line item: చాయ్ పౌడర్ 250GM = Tea Powder 250GM, 40 PCKT, 35.00 per packet, total 1,400.00.",
+            "confidence": 0.9998617854354045,
+            "extraction_confidence": 0.9998617854354045,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                 | చాయ్ పౌడర్ 250GM       | 09023020     | 40 PCKT | 35.00     | 2.5%                | 2.5%                | 1,400.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Seventh line item: వంట నూనె 1LTR = Cooking Oil 1LTR, 30 LTR, 140.00 per LTR, total 4,200.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Seventh line item: వంట నూనె 1LTR = Cooking Oil 1LTR, 30 LTR, 140.00 per LTR, total 4,200.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                 | వంట నూనె 1LTR          | 15159090     | 30 LTR  | 140.00    | 2.5%                | 2.5%                | 4,200.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Seventh line item: వంట నూనె 1LTR = Cooking Oil 1LTR, 30 LTR, 140.00 per LTR, total 4,200.00.",
+            "confidence": 0.9998679277800279,
+            "extraction_confidence": 0.9998679277800279,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                 | వంట నూనె 1LTR          | 15159090     | 30 LTR  | 140.00    | 2.5%                | 2.5%                | 4,200.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Seventh line item: వంట నూనె 1LTR = Cooking Oil 1LTR, 30 LTR, 140.00 per LTR, total 4,200.00.",
+            "confidence": 0.9999988527586979,
+            "extraction_confidence": 0.9999988527586979,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                 | వంట నూనె 1LTR          | 15159090     | 30 LTR  | 140.00    | 2.5%                | 2.5%                | 4,200.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Eighth line item: గోధుమ పిండి 1KG = Wheat Flour 1KG, 25 KG, 40.00 per KG, total 1,000.00.",
+            "confidence": 0.9998384470183346,
+            "extraction_confidence": 0.9998384470183346,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Eighth line item: గోధుమ పిండి 1KG = Wheat Flour 1KG, 25 KG, 40.00 per KG, total 1,000.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                 | గోధుమ పిండి 1KG        | 11010015     | 25 KG   | 40.00     | 2.5%                | 2.5%                | 1,000.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Eighth line item: గోధుమ పిండి 1KG = Wheat Flour 1KG, 25 KG, 40.00 per KG, total 1,000.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                 | గోధుమ పిండి 1KG        | 11010015     | 25 KG   | 40.00     | 2.5%                | 2.5%                | 1,000.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Eighth line item: గోధుమ పిండి 1KG = Wheat Flour 1KG, 25 KG, 40.00 per KG, total 1,000.00.",
+            "confidence": 0.9999920432490446,
+            "extraction_confidence": 0.9999920432490446,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                 | గోధుమ పిండి 1KG        | 11010015     | 25 KG   | 40.00     | 2.5%                | 2.5%                | 1,000.00         |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Ninth line item: ఉప్పు 1KG = Salt 1KG, 10 KG, 12.00 per KG, total 120.00.",
+            "confidence": 0.9999505764962334,
+            "extraction_confidence": 0.9999505764962334,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                 | ఉప్పు 1KG              | 25010019     | 10 KG   | 12.00     | 2.5%                | 2.5%                | 120.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Ninth line item: ఉప్పు 1KG = Salt 1KG, 10 KG, 12.00 per KG, total 120.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                 | ఉప్పు 1KG              | 25010019     | 10 KG   | 12.00     | 2.5%                | 2.5%                | 120.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Ninth line item: ఉప్పు 1KG = Salt 1KG, 10 KG, 12.00 per KG, total 120.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                 | ఉప్పు 1KG              | 25010019     | 10 KG   | 12.00     | 2.5%                | 2.5%                | 120.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Ninth line item: ఉప్పు 1KG = Salt 1KG, 10 KG, 12.00 per KG, total 120.00.",
+            "confidence": 0.9999926939288425,
+            "extraction_confidence": 0.9999926939288425,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                 | ఉప్పు 1KG              | 25010019     | 10 KG   | 12.00     | 2.5%                | 2.5%                | 120.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Tenth line item: మెర్చి పౌడర్ 500GM = Chilli Powder 500GM, 10 PCKT, 60.00 per packet, total 600.00.",
+            "confidence": 0.9991172147386936,
+            "extraction_confidence": 0.9991172147386936,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Tenth line item: మెర్చి పౌడర్ 500GM = Chilli Powder 500GM, 10 PCKT, 60.00 per packet, total 600.00.",
+            "confidence": 0.9999742971332993,
+            "extraction_confidence": 0.9999742971332993,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                | మెర్చి పౌడర్ 500GM     | 09042210     | 10 PCKT | 60.00     | 2.5%                | 2.5%                | 600.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Tenth line item: మెర్చి పౌడర్ 500GM = Chilli Powder 500GM, 10 PCKT, 60.00 per packet, total 600.00.",
+            "confidence": 0.9999663107253981,
+            "extraction_confidence": 0.9999663107253981,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                | మెర్చి పౌడర్ 500GM     | 09042210     | 10 PCKT | 60.00     | 2.5%                | 2.5%                | 600.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Tenth line item: మెర్చి పౌడర్ 500GM = Chilli Powder 500GM, 10 PCKT, 60.00 per packet, total 600.00.",
+            "confidence": 0.9999946259779733,
+            "extraction_confidence": 0.9999946259779733,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                | మెర్చి పౌడర్ 500GM     | 09042210     | 10 PCKT | 60.00     | 2.5%                | 2.5%                | 600.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.42864451219512,
+                    "y": 148.36330975609755,
+                    "w": 207.45864329268292,
+                    "h": 170.51713170731708
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "Subtotal is listed as 'సబ్ టోటల్' = 26,370.00.",
+        "confidence": 0.808572019726433,
+        "extraction_confidence": 0.808572019726433,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| సబ్ టోటల్         |                        |              |         |           |                     |                     | 26,370.00        |",
+            "bounding_boxes": [
+              {
+                "x": 17.42864451219512,
+                "y": 148.36330975609755,
+                "w": 207.45864329268292,
+                "h": 170.51713170731708
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Total tax is listed as 'మొత్తం పన్ను' = 1,318.50.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| మొత్తం పన్ను      |                        |              |         |           |                     |                     | 1,318.50         |",
+            "bounding_boxes": [
+              {
+                "x": 17.42864451219512,
+                "y": 148.36330975609755,
+                "w": 207.45864329268292,
+                "h": 170.51713170731708
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "Grand total is listed as 'గ్రాండ్ టోటల్ (₹)' = 27,689.00.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| గ్రాండ్ టోటల్ (₹) |                        |              |         |           |                     |                     | 27,689.00        |",
+            "bounding_boxes": [
+              {
+                "x": 17.42864451219512,
+                "y": 148.36330975609755,
+                "w": 207.45864329268292,
+                "h": 170.51713170731708
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are in Indian Rupees (₹), which is the standard currency for Andhra Pradesh, India.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Rule 3 in 'నియమాలు & షరత్తులు' (Terms & Conditions) says: 'Payments should be made before the due date.'",
+        "confidence": 0.8017728976649723,
+        "extraction_confidence": 0.8017728976649723,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "de286d87-ed6a-41c2-a6bf-eb5f6d8a5dba",
+    "file_name": "invoice_azimg_20260519_155021_560_0001.png",
+    "file_hash": "59b23bf6-1618-42e3-9143-bd8ea609ddf7",
+    "metadata": {
+      "job_id": "ext-zomejl3euhyp3byghylgrcgncbf6"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_155021_560_0001.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_155021_560_0001.png"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\hindi\\images\\invoice_azimg_20260518_164305_728_0002.png",
+  "language": "hindi",
+  "file_id": "cac31434-8b76-44e6-b5fd-e5088322d0ae",
+  "record_id": {
+    "value": {
+      "result": "agd-g9p7dcn98ivban0qsf2c92rn9sg7"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": null,
+      "customer_address": null,
+      "customer_name": null,
+      "due_date": null,
+      "invoice_date": null,
+      "invoice_number": null,
+      "line_items": [],
+      "payment_terms": null,
+      "subtotal": null,
+      "tax_amount": null,
+      "total_amount": null,
+      "vendor_address": null,
+      "vendor_name": "Shakti Industries"
+    },
+    "data": {
+      "currency": null,
+      "customer_address": null,
+      "customer_name": null,
+      "due_date": null,
+      "invoice_date": null,
+      "invoice_number": null,
+      "line_items": [],
+      "payment_terms": null,
+      "subtotal": null,
+      "tax_amount": null,
+      "total_amount": null,
+      "vendor_address": null,
+      "vendor_name": "Shakti Industries"
+    },
+    "status": "pending_review",
+    "overall_confidence": 1.0,
+    "field_metadata": {
+      "vendor_name": {
+        "reasoning": "The text 'शक्ति इंडस्ट्रीज' is in Hindi and translates to 'Shakti Industries' in English. This is clearly the vendor name as it is presented as a heading and is accompanied by a logo reference.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "\\<page_number>27\\</page_number>\nShakti Industries logo",
+            "bounding_boxes": [
+              {
+                "x": 20.625702878477515,
+                "y": 13.405539644566979,
+                "w": 27.139604386194748,
+                "h": 35.76802573152868
+              }
+            ],
+            "page_dimensions": {
+              "width": 252.96,
+              "height": 434.4
+            }
+          }
+        ]
+      }
+    },
+    "file_id": "cac31434-8b76-44e6-b5fd-e5088322d0ae",
+    "file_name": "invoice_azimg_20260518_164305_728_0002.png",
+    "file_hash": "ac4ac802-c072-4049-a533-c2e65bc222ce",
+    "metadata": {
+      "job_id": "ext-bkn951cwvdgw2otjukxrxfd02r82"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260518_164305_728_0002.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_164305_728_0002.png"
+    }
+  ]
+}

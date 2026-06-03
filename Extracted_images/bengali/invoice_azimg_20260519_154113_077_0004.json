@@ -1,0 +1,1185 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\bengali\\images\\invoice_azimg_20260519_154113_077_0004.png",
+  "language": "bengali",
+  "file_id": "e807500d-f901-4187-a66e-314ad23ec86e",
+  "record_id": {
+    "value": {
+      "result": "agd-3yr8j2cqyaa9kpuu35874sc8do7f"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "House No. 45, Rabindra Palli, Durgapur, District – Paschim Bardhaman, PIN – 713216, West Bengal",
+      "customer_name": "Mr. Saurabh Chattopadhyay",
+      "due_date": "2024-05-31",
+      "invoice_date": "2024-05-15",
+      "invoice_number": "INV/2024-25/0876",
+      "line_items": [
+        {
+          "amount": 1500.0,
+          "description": "Admission Fee",
+          "quantity": 1.0,
+          "unit_price": 1500.0
+        },
+        {
+          "amount": 12000.0,
+          "description": "Tuition Fee (April – March)",
+          "quantity": 1.0,
+          "unit_price": 12000.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Library Fee",
+          "quantity": 1.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Laboratory Fee",
+          "quantity": 1.0,
+          "unit_price": 1500.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Computer Fee",
+          "quantity": 1.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 800.0,
+          "description": "Session Charge",
+          "quantity": 1.0,
+          "unit_price": 800.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Sports Fee",
+          "quantity": 1.0,
+          "unit_price": 600.0
+        },
+        {
+          "amount": 1200.0,
+          "description": "Smart Class Fee",
+          "quantity": 1.0,
+          "unit_price": 1200.0
+        },
+        {
+          "amount": 200.0,
+          "description": "ID Card Fee",
+          "quantity": 1.0,
+          "unit_price": 200.0
+        },
+        {
+          "amount": 700.0,
+          "description": "Examination Fee",
+          "quantity": 1.0,
+          "unit_price": 700.0
+        }
+      ],
+      "payment_terms": "Payment due by due date; 18% annual interest if late. Amount is non-refundable. Disputes under jurisdiction of Paschim Bardhaman district court. All cheques/DDs payable to 'Gyandeep Siksha Niketan'.",
+      "subtotal": 20500.0,
+      "tax_amount": 0.0,
+      "total_amount": 20500.0,
+      "vendor_address": "House No. 121, Shantinagar, P.O.- Kanksa, District – Paschim Bardhaman, PIN – 713325, West Bengal",
+      "vendor_name": "Gyandeep Siksha Niketan (Higher Secondary School)"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "House No. 45, Rabindra Palli, Durgapur, District – Paschim Bardhaman, PIN – 713216, West Bengal",
+      "customer_name": "Mr. Saurabh Chattopadhyay",
+      "due_date": "2024-05-31",
+      "invoice_date": "2024-05-15",
+      "invoice_number": "INV/2024-25/0876",
+      "line_items": [
+        {
+          "amount": 1500.0,
+          "description": "Admission Fee",
+          "quantity": 1.0,
+          "unit_price": 1500.0
+        },
+        {
+          "amount": 12000.0,
+          "description": "Tuition Fee (April – March)",
+          "quantity": 1.0,
+          "unit_price": 12000.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Library Fee",
+          "quantity": 1.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Laboratory Fee",
+          "quantity": 1.0,
+          "unit_price": 1500.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Computer Fee",
+          "quantity": 1.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 800.0,
+          "description": "Session Charge",
+          "quantity": 1.0,
+          "unit_price": 800.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Sports Fee",
+          "quantity": 1.0,
+          "unit_price": 600.0
+        },
+        {
+          "amount": 1200.0,
+          "description": "Smart Class Fee",
+          "quantity": 1.0,
+          "unit_price": 1200.0
+        },
+        {
+          "amount": 200.0,
+          "description": "ID Card Fee",
+          "quantity": 1.0,
+          "unit_price": 200.0
+        },
+        {
+          "amount": 700.0,
+          "description": "Examination Fee",
+          "quantity": 1.0,
+          "unit_price": 700.0
+        }
+      ],
+      "payment_terms": "Payment due by due date; 18% annual interest if late. Amount is non-refundable. Disputes under jurisdiction of Paschim Bardhaman district court. All cheques/DDs payable to 'Gyandeep Siksha Niketan'.",
+      "subtotal": 20500.0,
+      "tax_amount": 0.0,
+      "total_amount": 20500.0,
+      "vendor_address": "House No. 121, Shantinagar, P.O.- Kanksa, District – Paschim Bardhaman, PIN – 713325, West Bengal",
+      "vendor_name": "Gyandeep Siksha Niketan (Higher Secondary School)"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9844791422319893,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "Verbatim extraction from 'ইনভয়েস নং : INV/2024-25/0876'.",
+        "confidence": 0.9847671879564229,
+        "extraction_confidence": 0.9847671879564229,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "INV/2024-25/0876",
+            "bounding_boxes": [
+              {
+                "x": 26.64,
+                "y": 99.84,
+                "w": 60.0,
+                "h": 6.0
+              }
+            ],
+            "page_dimensions": {
+              "width": 253.92,
+              "height": 434.88
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "Verbatim extraction from 'ইনভয়েস তারিখ : 15/05/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "ইনভয়েস নং : INV/2024-25/0876\nইনভয়েস তারিখ : 15/05/2024\nদেয় অর্থ প্রদানের শেষ তারিখ : 31/05/2024\nস্থান অফ সাপ্লাই (Place of Supply) : পশ্চিমবঙ্গ (19)",
+            "bounding_boxes": [
+              {
+                "x": 25.899839999999998,
+                "y": 100.45728,
+                "w": 89.37983999999999,
+                "h": 25.65791999999999
+              }
+            ],
+            "page_dimensions": {
+              "width": 253.92,
+              "height": 434.88
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "Verbatim extraction from 'দেয় অর্থ প্রদানের শেষ তারিখ : 31/05/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "দেয় অর্থ প্রদানের শেষ তারিখ : 31/05/2024",
+            "bounding_boxes": [
+              {
+                "x": 26.4,
+                "y": 112.8,
+                "w": 71.76,
+                "h": 6.24
+              }
+            ],
+            "page_dimensions": {
+              "width": 253.92,
+              "height": 434.88
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Translated the Bengali name from the header.",
+        "confidence": 0.9141291010507543,
+        "extraction_confidence": 0.9141291010507543,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "vendor_address": {
+        "reasoning": "Translated the Bengali address for the vendor from the header.",
+        "confidence": 0.9922160590167086,
+        "extraction_confidence": 0.9922160590167086,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "Translated the Bengali name from the Bill To section.",
+        "confidence": 0.9794526173510586,
+        "extraction_confidence": 0.9794526173510586,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "Translated the Bengali address for the customer from the Bill To section.",
+        "confidence": 0.9907083614277682,
+        "extraction_confidence": 0.9907083614277682,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated line item 1 from Bengali to English.",
+            "confidence": 0.999967016558961,
+            "extraction_confidence": 0.999967016558961,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 1 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                               | ভর্তি ফি                  | 999293      | 1.00   | 1,500.00      | 0.00                   | 0.00                   | 1,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 1 from Bengali to English.",
+            "confidence": 0.9997776367699133,
+            "extraction_confidence": 0.9997776367699133,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                               | ভর্তি ফি                  | 999293      | 1.00   | 1,500.00      | 0.00                   | 0.00                   | 1,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 1 from Bengali to English.",
+            "confidence": 0.9421298445339901,
+            "extraction_confidence": 0.9421298445339901,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                               | ভর্তি ফি                  | 999293      | 1.00   | 1,500.00      | 0.00                   | 0.00                   | 1,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 2 from Bengali to English.",
+            "confidence": 0.9999981291871972,
+            "extraction_confidence": 0.9999981291871972,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 2 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                               | টিউশন ফি (এপ্রিল – মার্চ) | 999293      | 1.00   | 12,000.00     | 0.00                   | 0.00                   | 12,000.00     |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 2 from Bengali to English.",
+            "confidence": 0.9999997839900294,
+            "extraction_confidence": 0.9999997839900294,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                               | টিউশন ফি (এপ্রিল – মার্চ) | 999293      | 1.00   | 12,000.00     | 0.00                   | 0.00                   | 12,000.00     |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 2 from Bengali to English.",
+            "confidence": 0.9808857371268115,
+            "extraction_confidence": 0.9808857371268115,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                               | টিউশন ফি (এপ্রিল – মার্চ) | 999293      | 1.00   | 12,000.00     | 0.00                   | 0.00                   | 12,000.00     |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 3 from Bengali to English.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 3 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                               | লাইব্রেরী ফি              | 999293      | 1.00   | 1,000.00      | 0.00                   | 0.00                   | 1,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 3 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                               | লাইব্রেরী ফি              | 999293      | 1.00   | 1,000.00      | 0.00                   | 0.00                   | 1,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 3 from Bengali to English.",
+            "confidence": 0.9999853679189097,
+            "extraction_confidence": 0.9999853679189097,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                               | লাইব্রেরী ফি              | 999293      | 1.00   | 1,000.00      | 0.00                   | 0.00                   | 1,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 4 from Bengali to English.",
+            "confidence": 0.9999999374367368,
+            "extraction_confidence": 0.9999999374367368,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 4 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                               | ভর্তি ফি                  | 999293      | 1.00   | 1,500.00      | 0.00                   | 0.00                   | 1,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 4 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                               | ভর্তি ফি                  | 999293      | 1.00   | 1,500.00      | 0.00                   | 0.00                   | 1,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 4 from Bengali to English.",
+            "confidence": 0.9999998063873693,
+            "extraction_confidence": 0.9999998063873693,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                               | ভর্তি ফি                  | 999293      | 1.00   | 1,500.00      | 0.00                   | 0.00                   | 1,500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 5 from Bengali to English.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 5 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                               | লাইব্রেরী ফি              | 999293      | 1.00   | 1,000.00      | 0.00                   | 0.00                   | 1,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 5 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                               | লাইব্রেরী ফি              | 999293      | 1.00   | 1,000.00      | 0.00                   | 0.00                   | 1,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 5 from Bengali to English.",
+            "confidence": 0.9999923337903144,
+            "extraction_confidence": 0.9999923337903144,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                               | লাইব্রেরী ফি              | 999293      | 1.00   | 1,000.00      | 0.00                   | 0.00                   | 1,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 6 from Bengali to English.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 6 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                               | সেশন চার্জ                | 999293      | 1.00   | 800.00        | 0.00                   | 0.00                   | 800.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 6 from Bengali to English.",
+            "confidence": 0.9999951350587357,
+            "extraction_confidence": 0.9999951350587357,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                               | সেশন চার্জ                | 999293      | 1.00   | 800.00        | 0.00                   | 0.00                   | 800.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 6 from Bengali to English.",
+            "confidence": 0.9999995679801056,
+            "extraction_confidence": 0.9999995679801056,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                               | সেশন চার্জ                | 999293      | 1.00   | 800.00        | 0.00                   | 0.00                   | 800.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 7 from Bengali to English.",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 7 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                               | খেলাধুলা ফি               | 999293      | 1.00   | 600.00        | 0.00                   | 0.00                   | 600.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 7 from Bengali to English.",
+            "confidence": 0.99999973678971,
+            "extraction_confidence": 0.99999973678971,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                               | খেলাধুলা ফি               | 999293      | 1.00   | 600.00        | 0.00                   | 0.00                   | 600.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 7 from Bengali to English.",
+            "confidence": 0.9993421284011048,
+            "extraction_confidence": 0.9993421284011048,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                               | খেলাধুলা ফি               | 999293      | 1.00   | 600.00        | 0.00                   | 0.00                   | 600.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 8 from Bengali to English.",
+            "confidence": 0.9999999374367368,
+            "extraction_confidence": 0.9999999374367368,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 8 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                                               | স্মার্ট ক্লাস ফি          | 999293      | 1.00   | 1,200.00      | 0.00                   | 0.00                   | 1,200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 8 from Bengali to English.",
+            "confidence": 0.9999990215682006,
+            "extraction_confidence": 0.9999990215682006,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                                               | স্মার্ট ক্লাস ফি          | 999293      | 1.00   | 1,200.00      | 0.00                   | 0.00                   | 1,200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 8 from Bengali to English.",
+            "confidence": 0.9996985911222472,
+            "extraction_confidence": 0.9996985911222472,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                                               | স্মার্ট ক্লাস ফি          | 999293      | 1.00   | 1,200.00      | 0.00                   | 0.00                   | 1,200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 9 from Bengali to English.",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 9 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                               | আইডি কার্ড ফি             | 999293      | 1.00   | 200.00        | 0.00                   | 0.00                   | 200.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 9 from Bengali to English.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                               | আইডি কার্ড ফি             | 999293      | 1.00   | 200.00        | 0.00                   | 0.00                   | 200.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 9 from Bengali to English.",
+            "confidence": 0.9999518082053366,
+            "extraction_confidence": 0.9999518082053366,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                               | আইডি কার্ড ফি             | 999293      | 1.00   | 200.00        | 0.00                   | 0.00                   | 200.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 10 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 10 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                              | পরীক্ষা ফি                | 999293      | 1.00   | 700.00        | 0.00                   | 0.00                   | 700.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 10 from Bengali to English.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                              | পরীক্ষা ফি                | 999293      | 1.00   | 700.00        | 0.00                   | 0.00                   | 700.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 10 from Bengali to English.",
+            "confidence": 0.9433461258343611,
+            "extraction_confidence": 0.9433461258343611,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                              | পরীক্ষা ফি                | 999293      | 1.00   | 700.00        | 0.00                   | 0.00                   | 700.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.04131767816311,
+                    "y": 182.2327588605183,
+                    "w": 221.4085525866997,
+                    "h": 135.90706949314026
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 253.92,
+                  "height": 434.88
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "Verbatim extraction from the subtotal row: 20,500.00.",
+        "confidence": 0.9036784083382183,
+        "extraction_confidence": 0.9036784083382183,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                                 |                           |             |        |               | সাবটোটাল               |                        | 20,500.00     |",
+            "bounding_boxes": [
+              {
+                "x": 16.04131767816311,
+                "y": 182.2327588605183,
+                "w": 221.4085525866997,
+                "h": 135.90706949314026
+              }
+            ],
+            "page_dimensions": {
+              "width": 253.92,
+              "height": 434.88
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "CGST and SGST are both 0.00 as per the invoice.",
+        "confidence": 0.8199453292486211,
+        "extraction_confidence": 0.8199453292486211,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| 1                                               | ভর্তি ফি                  | 999293      | 1.00   | 1,500.00      | 0.00                   | 0.00                   | 1,500.00      |",
+            "bounding_boxes": [
+              {
+                "x": 16.04131767816311,
+                "y": 182.2327588605183,
+                "w": 221.4085525866997,
+                "h": 135.90706949314026
+              }
+            ],
+            "page_dimensions": {
+              "width": 253.92,
+              "height": 434.88
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "Verbatim extraction from the grand total row: 20,500.00.",
+        "confidence": 0.9829511968043712,
+        "extraction_confidence": 0.9829511968043712,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                                 |                           |             |        |               | সাবটোটাল               |                        | 20,500.00     |",
+            "bounding_boxes": [
+              {
+                "x": 16.04131767816311,
+                "y": 182.2327588605183,
+                "w": 221.4085525866997,
+                "h": 135.90706949314026
+              }
+            ],
+            "page_dimensions": {
+              "width": 253.92,
+              "height": 434.88
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are all in ₹ (Indian Rupees), as indicated by the symbol and context.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Translated from the terms section: 'If the fee is not paid within the specified date, 18% annual interest will be charged.'",
+        "confidence": 0.7599999231983823,
+        "extraction_confidence": 0.7599999231983823,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "e807500d-f901-4187-a66e-314ad23ec86e",
+    "file_name": "invoice_azimg_20260519_154113_077_0004.png",
+    "file_hash": "5e69a427-d860-4e15-b8dd-6f6ca577f5a2",
+    "metadata": {
+      "job_id": "ext-f79salmrsqrfbp46wbl8xbbxjiab"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_154113_077_0004.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_154113_077_0004.png"
+    }
+  ]
+}

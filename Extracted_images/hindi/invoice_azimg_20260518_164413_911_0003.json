@@ -1,0 +1,1168 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\hindi\\images\\invoice_azimg_20260518_164413_911_0003.png",
+  "language": "hindi",
+  "file_id": "ae8c5daf-c9b8-4fb2-a4cb-701a9696ef42",
+  "record_id": {
+    "value": {
+      "result": "agd-t89dkqvkfnfmo2ztebezw8mwbrmp"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "Shop No. 5, New Vegetable Market, Mauranipur, Jhansi - 284201 (U.P.)",
+      "customer_name": "M/s Shiv Shakti Traders",
+      "due_date": "2024-01-31",
+      "invoice_date": "2024-01-17",
+      "invoice_number": "KGS/23-24/1187",
+      "line_items": [
+        {
+          "amount": 2800.0,
+          "description": "Wheat Flour (Pure Chakki Atta)",
+          "quantity": 100.0,
+          "unit_price": 28.0
+        },
+        {
+          "amount": 2250.0,
+          "description": "Rice (Sona Mayuri)",
+          "quantity": 50.0,
+          "unit_price": 45.0
+        },
+        {
+          "amount": 1560.0,
+          "description": "Chana Dal",
+          "quantity": 20.0,
+          "unit_price": 78.0
+        },
+        {
+          "amount": 2200.0,
+          "description": "Arhar Dal",
+          "quantity": 20.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 2100.0,
+          "description": "Toor Dal",
+          "quantity": 20.0,
+          "unit_price": 105.0
+        },
+        {
+          "amount": 2000.0,
+          "description": "Sugar",
+          "quantity": 50.0,
+          "unit_price": 40.0
+        },
+        {
+          "amount": 2175.0,
+          "description": "Refined Oil (Sunflower)",
+          "quantity": 15.0,
+          "unit_price": 145.0
+        },
+        {
+          "amount": 800.0,
+          "description": "Turmeric Powder",
+          "quantity": 5.0,
+          "unit_price": 160.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Red Chilli Powder",
+          "quantity": 5.0,
+          "unit_price": 200.0
+        },
+        {
+          "amount": 200.0,
+          "description": "Salt (Iodized)",
+          "quantity": 20.0,
+          "unit_price": 10.0
+        }
+      ],
+      "payment_terms": "Pay within due date; otherwise, late fee of 24% annual interest will be charged.",
+      "subtotal": 17085.0,
+      "tax_amount": 854.26,
+      "total_amount": 17940.0,
+      "vendor_address": "Shop No. 12, Ambe Market, Station Road, Jhansi - 284002 (U.P.)",
+      "vendor_name": "Kishan General Store"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "Shop No. 5, New Vegetable Market, Mauranipur, Jhansi - 284201 (U.P.)",
+      "customer_name": "M/s Shiv Shakti Traders",
+      "due_date": "2024-01-31",
+      "invoice_date": "2024-01-17",
+      "invoice_number": "KGS/23-24/1187",
+      "line_items": [
+        {
+          "amount": 2800.0,
+          "description": "Wheat Flour (Pure Chakki Atta)",
+          "quantity": 100.0,
+          "unit_price": 28.0
+        },
+        {
+          "amount": 2250.0,
+          "description": "Rice (Sona Mayuri)",
+          "quantity": 50.0,
+          "unit_price": 45.0
+        },
+        {
+          "amount": 1560.0,
+          "description": "Chana Dal",
+          "quantity": 20.0,
+          "unit_price": 78.0
+        },
+        {
+          "amount": 2200.0,
+          "description": "Arhar Dal",
+          "quantity": 20.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 2100.0,
+          "description": "Toor Dal",
+          "quantity": 20.0,
+          "unit_price": 105.0
+        },
+        {
+          "amount": 2000.0,
+          "description": "Sugar",
+          "quantity": 50.0,
+          "unit_price": 40.0
+        },
+        {
+          "amount": 2175.0,
+          "description": "Refined Oil (Sunflower)",
+          "quantity": 15.0,
+          "unit_price": 145.0
+        },
+        {
+          "amount": 800.0,
+          "description": "Turmeric Powder",
+          "quantity": 5.0,
+          "unit_price": 160.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Red Chilli Powder",
+          "quantity": 5.0,
+          "unit_price": 200.0
+        },
+        {
+          "amount": 200.0,
+          "description": "Salt (Iodized)",
+          "quantity": 20.0,
+          "unit_price": 10.0
+        }
+      ],
+      "payment_terms": "Pay within due date; otherwise, late fee of 24% annual interest will be charged.",
+      "subtotal": 17085.0,
+      "tax_amount": 854.26,
+      "total_amount": 17940.0,
+      "vendor_address": "Shop No. 12, Ambe Market, Station Road, Jhansi - 284002 (U.P.)",
+      "vendor_name": "Kishan General Store"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9919702911489018,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "Verbatim extraction from 'चालान संख्या : KGS/23-24/1187'.",
+        "confidence": 0.9999999652426311,
+        "extraction_confidence": 0.9999999652426311,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "KGS/23-24/1187",
+            "bounding_boxes": [
+              {
+                "x": 13.69,
+                "y": 85.2,
+                "w": 64.38,
+                "h": 6.24
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "Verbatim extraction from 'चालान दिनांक : 17/01/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "देय तिथि : 31/01/2024",
+            "bounding_boxes": [
+              {
+                "x": 174.24383999999998,
+                "y": 85.15584,
+                "w": 57.262080000000005,
+                "h": 22.36416
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "Verbatim extraction from 'देय तिथि : 31/01/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "देय तिथि : 31/01/2024",
+            "bounding_boxes": [
+              {
+                "x": 174.24383999999998,
+                "y": 85.15584,
+                "w": 57.262080000000005,
+                "h": 22.36416
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Translated the vendor name from Hindi to English.",
+        "confidence": 0.9874954338905003,
+        "extraction_confidence": 0.9874954338905003,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "vendor_address": {
+        "reasoning": "Translated the vendor address from Hindi to English.",
+        "confidence": 0.9999644039308625,
+        "extraction_confidence": 0.9999644039308625,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "Translated the customer name from Hindi to English.",
+        "confidence": 0.9910341476885935,
+        "extraction_confidence": 0.9910341476885935,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "Translated the billing address from Hindi to English.",
+        "confidence": 0.993124419008143,
+        "extraction_confidence": 0.993124419008143,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 1.",
+            "confidence": 0.9994052430954105,
+            "extraction_confidence": 0.9994052430954105,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 1.",
+            "confidence": 0.8574812314667306,
+            "extraction_confidence": 0.8574812314667306,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1       | आटा (शुद्ध चक्की आटा) | 11010010 | 100.00 | किग्रा | 28.00             | 2.50               | 2.50               | 2,800.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 1.",
+            "confidence": 0.999904206925191,
+            "extraction_confidence": 0.999904206925191,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1       | आटा (शुद्ध चक्की आटा) | 11010010 | 100.00 | किग्रा | 28.00             | 2.50               | 2.50               | 2,800.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 1.",
+            "confidence": 0.9027021832999833,
+            "extraction_confidence": 0.9027021832999833,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1       | आटा (शुद्ध चक्की आटा) | 11010010 | 100.00 | किग्रा | 28.00             | 2.50               | 2.50               | 2,800.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 2.",
+            "confidence": 0.9994888388854798,
+            "extraction_confidence": 0.9994888388854798,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 2.",
+            "confidence": 0.9997648228286337,
+            "extraction_confidence": 0.9997648228286337,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2       | चावल (सोनामयुरी)      | 10063020 | 50.00  | किग्रा | 45.00             | 2.50               | 2.50               | 2,250.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 2.",
+            "confidence": 0.999997273250987,
+            "extraction_confidence": 0.999997273250987,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2       | चावल (सोनामयुरी)      | 10063020 | 50.00  | किग्रा | 45.00             | 2.50               | 2.50               | 2,250.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 2.",
+            "confidence": 0.9999931682099569,
+            "extraction_confidence": 0.9999931682099569,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2       | चावल (सोनामयुरी)      | 10063020 | 50.00  | किग्रा | 45.00             | 2.50               | 2.50               | 2,250.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 3.",
+            "confidence": 0.9998928118679261,
+            "extraction_confidence": 0.9998928118679261,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 3.",
+            "confidence": 0.9997934131716725,
+            "extraction_confidence": 0.9997934131716725,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3       | चना दाल               | 07132010 | 20.00  | किग्रा | 78.00             | 2.50               | 2.50               | 1,560.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 3.",
+            "confidence": 0.9999989818336295,
+            "extraction_confidence": 0.9999989818336295,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3       | चना दाल               | 07132010 | 20.00  | किग्रा | 78.00             | 2.50               | 2.50               | 1,560.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 3.",
+            "confidence": 0.9999945390437869,
+            "extraction_confidence": 0.9999945390437869,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3       | चना दाल               | 07132010 | 20.00  | किग्रा | 78.00             | 2.50               | 2.50               | 1,560.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 4.",
+            "confidence": 0.999808176822754,
+            "extraction_confidence": 0.999808176822754,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 4.",
+            "confidence": 0.9999776595592581,
+            "extraction_confidence": 0.9999776595592581,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4       | अरहर दाल              | 07134010 | 20.00  | किग्रा | 110.00            | 2.50               | 2.50               | 2,200.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 4.",
+            "confidence": 0.9999833017550412,
+            "extraction_confidence": 0.9999833017550412,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4       | अरहर दाल              | 07134010 | 20.00  | किग्रा | 110.00            | 2.50               | 2.50               | 2,200.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 4.",
+            "confidence": 0.9999980555388253,
+            "extraction_confidence": 0.9999980555388253,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4       | अरहर दाल              | 07134010 | 20.00  | किग्रा | 110.00            | 2.50               | 2.50               | 2,200.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 5.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 5.",
+            "confidence": 0.9999997914558093,
+            "extraction_confidence": 0.9999997914558093,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5       | तूर दाल               | 07133310 | 20.00  | किग्रा | 105.00            | 2.50               | 2.50               | 2,100.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 5.",
+            "confidence": 0.9999988775616894,
+            "extraction_confidence": 0.9999988775616894,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5       | तूर दाल               | 07133310 | 20.00  | किग्रा | 105.00            | 2.50               | 2.50               | 2,100.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 5.",
+            "confidence": 0.999997966136214,
+            "extraction_confidence": 0.999997966136214,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5       | तूर दाल               | 07133310 | 20.00  | किग्रा | 105.00            | 2.50               | 2.50               | 2,100.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 6.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 6.",
+            "confidence": 0.999994029963271,
+            "extraction_confidence": 0.999994029963271,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | चीनी                  | 17019910 | 50.00  | किग्रा | 40.00             | 2.50               | 2.50               | 2,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 6.",
+            "confidence": 0.9999998311903558,
+            "extraction_confidence": 0.9999998311903558,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | चीनी                  | 17019910 | 50.00  | किग्रा | 40.00             | 2.50               | 2.50               | 2,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 6.",
+            "confidence": 0.9999972807167434,
+            "extraction_confidence": 0.9999972807167434,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | चीनी                  | 17019910 | 50.00  | किग्रा | 40.00             | 2.50               | 2.50               | 2,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 7.",
+            "confidence": 0.9996761938553933,
+            "extraction_confidence": 0.9996761938553933,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 7.",
+            "confidence": 0.9999792091728583,
+            "extraction_confidence": 0.9999792091728583,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7       | रिफाईड तेल (सूरजमुखी) | 15121100 | 15.00  | लीटर   | 145.00            | 2.50               | 2.50               | 2,175.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 7.",
+            "confidence": 0.999999632517639,
+            "extraction_confidence": 0.999999632517639,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7       | रिफाईड तेल (सूरजमुखी) | 15121100 | 15.00  | लीटर   | 145.00            | 2.50               | 2.50               | 2,175.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 7.",
+            "confidence": 0.9999989495649092,
+            "extraction_confidence": 0.9999989495649092,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7       | रिफाईड तेल (सूरजमुखी) | 15121100 | 15.00  | लीटर   | 145.00            | 2.50               | 2.50               | 2,175.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 8.",
+            "confidence": 0.9999992202407771,
+            "extraction_confidence": 0.9999992202407771,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 8.",
+            "confidence": 0.9997222749574071,
+            "extraction_confidence": 0.9997222749574071,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8       | हल्दी पाउडर           | 09103000 | 5.00   | किग्रा | 160.00            | 2.50               | 2.50               | 800.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 8.",
+            "confidence": 0.9999998162588003,
+            "extraction_confidence": 0.9999998162588003,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8       | हल्दी पाउडर           | 09103000 | 5.00   | किग्रा | 160.00            | 2.50               | 2.50               | 800.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 8.",
+            "confidence": 0.9999880698338348,
+            "extraction_confidence": 0.9999880698338348,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8       | हल्दी पाउडर           | 09103000 | 5.00   | किग्रा | 160.00            | 2.50               | 2.50               | 800.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 9.",
+            "confidence": 0.9999994598818669,
+            "extraction_confidence": 0.9999994598818669,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 9.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9       | लाल मिर्च पाउडर       | 09042200 | 5.00   | किग्रा | 200.00            | 2.50               | 2.50               | 1,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 9.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9       | लाल मिर्च पाउडर       | 09042200 | 5.00   | किग्रा | 200.00            | 2.50               | 2.50               | 1,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 9.",
+            "confidence": 0.9999970125092833,
+            "extraction_confidence": 0.9999970125092833,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9       | लाल मिर्च पाउडर       | 09042200 | 5.00   | किग्रा | 200.00            | 2.50               | 2.50               | 1,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line item 10.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line item 10.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10      | नमक (आयोडीन युक्त)    | 25010090 | 20.00  | किग्रा | 10.00             | 2.50               | 2.50               | 200.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line item 10.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10      | नमक (आयोडीन युक्त)    | 25010090 | 20.00  | किग्रा | 10.00             | 2.50               | 2.50               | 200.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line item 10.",
+            "confidence": 0.9999953138636307,
+            "extraction_confidence": 0.9999953138636307,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10      | नमक (आयोडीन युक्त)    | 25010090 | 20.00  | किग्रा | 10.00             | 2.50               | 2.50               | 200.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.8970923780487805,
+                    "y": 150.25388597560976,
+                    "w": 230.28238079268294,
+                    "h": 164.79820426829266
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "Verbatim extraction from 'माल की कुल राशि' and 'कुल करयोग्य मूल्य' = 17,085.00.",
+        "confidence": 0.9999335098101423,
+        "extraction_confidence": 0.9999335098101423,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|         |                       |          |        |        | माल की कुल राशि   |                    |                    | 17,085.00 |",
+            "bounding_boxes": [
+              {
+                "x": 6.8970923780487805,
+                "y": 150.25388597560976,
+                "w": 230.28238079268294,
+                "h": 164.79820426829266
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "CGST + SGST = 427.13 + 427.13 = 854.26.",
+        "confidence": 0.9999983610131434,
+        "extraction_confidence": 0.9999983610131434,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "Verbatim extraction from 'कुल देय राशि (₹)' = 17,940.00.",
+        "confidence": 0.9999988527586979,
+        "extraction_confidence": 0.9999988527586979,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|         |                       |          |        |        | कुल देय राशि (₹)  |                    |                    | 17,940.00 |",
+            "bounding_boxes": [
+              {
+                "x": 6.8970923780487805,
+                "y": 150.25388597560976,
+                "w": 230.28238079268294,
+                "h": 164.79820426829266
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The invoice uses the symbol ₹ (Indian Rupee) throughout, and the context is India.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Translated from the terms section: 'Pay within due date, otherwise late fee 24% annual interest will be charged.'",
+        "confidence": 0.8533792091644262,
+        "extraction_confidence": 0.8533792091644262,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "ae8c5daf-c9b8-4fb2-a4cb-701a9696ef42",
+    "file_name": "invoice_azimg_20260518_164413_911_0003.png",
+    "file_hash": "3b87f394-7445-4dd5-8a07-81969a4f88b6",
+    "metadata": {
+      "job_id": "ext-wcd89zgunci1u8pdccspqkxnpcfz"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260518_164413_911_0003.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_164413_911_0003.png"
+    }
+  ]
+}

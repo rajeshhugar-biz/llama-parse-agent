@@ -1,0 +1,1134 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\hindi\\images\\invoice_azimg_20260518_164156_260_0001.png",
+  "language": "hindi",
+  "file_id": "c11ae14d-902c-4cb7-a360-06321074698a",
+  "record_id": {
+    "value": {
+      "result": "agd-m7ag9a41fjtdk7tu7yk27kxqz5kg"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "M/s Shiv Shakti Traders, Shop No. 12, Grain Market, Indore Road, Dewas - 455001 (M.P.)",
+      "customer_name": "M/s Shiv Shakti Traders",
+      "due_date": "2024-06-08",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "2785",
+      "line_items": [
+        {
+          "amount": 56000.0,
+          "description": "Chana Dal (Split Chickpeas)",
+          "quantity": 10.0,
+          "unit_price": 5600.0
+        },
+        {
+          "amount": 57600.0,
+          "description": "Moong Dal (Split Green Gram)",
+          "quantity": 8.0,
+          "unit_price": 7200.0
+        },
+        {
+          "amount": 40800.0,
+          "description": "Urad Dal (Split Black Gram)",
+          "quantity": 6.0,
+          "unit_price": 6800.0
+        },
+        {
+          "amount": 31500.0,
+          "description": "Masoor Dal (Red Lentil)",
+          "quantity": 5.0,
+          "unit_price": 6300.0
+        },
+        {
+          "amount": 55200.0,
+          "description": "Soybean",
+          "quantity": 12.0,
+          "unit_price": 4600.0
+        },
+        {
+          "amount": 47000.0,
+          "description": "Wheat (Local)",
+          "quantity": 20.0,
+          "unit_price": 2350.0
+        },
+        {
+          "amount": 31500.0,
+          "description": "Maize",
+          "quantity": 15.0,
+          "unit_price": 2100.0
+        },
+        {
+          "amount": 31200.0,
+          "description": "Toor Dal (Pigeon Pea)",
+          "quantity": 4.0,
+          "unit_price": 7800.0
+        },
+        {
+          "amount": 24600.0,
+          "description": "Sesame",
+          "quantity": 3.0,
+          "unit_price": 8200.0
+        },
+        {
+          "amount": 19200.0,
+          "description": "Coriander",
+          "quantity": 2.0,
+          "unit_price": 9600.0
+        }
+      ],
+      "payment_terms": "1. No complaints will be accepted after delivery. 2. Payment should be made by cheque/RTGS/NEFT by the due date. 3. 18% annual interest will be charged on delayed payment. 4. All disputes will be under Vidisha court jurisdiction.",
+      "subtotal": 394600.0,
+      "tax_amount": 19730.0,
+      "total_amount": 414330.0,
+      "vendor_address": "Shop No. 7, Agricultural Produce Market Yard, Raisen Road, Vidisha - 464001 (M.P.)",
+      "vendor_name": "Shri Annapurna Traders"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "M/s Shiv Shakti Traders, Shop No. 12, Grain Market, Indore Road, Dewas - 455001 (M.P.)",
+      "customer_name": "M/s Shiv Shakti Traders",
+      "due_date": "2024-06-08",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "2785",
+      "line_items": [
+        {
+          "amount": 56000.0,
+          "description": "Chana Dal (Split Chickpeas)",
+          "quantity": 10.0,
+          "unit_price": 5600.0
+        },
+        {
+          "amount": 57600.0,
+          "description": "Moong Dal (Split Green Gram)",
+          "quantity": 8.0,
+          "unit_price": 7200.0
+        },
+        {
+          "amount": 40800.0,
+          "description": "Urad Dal (Split Black Gram)",
+          "quantity": 6.0,
+          "unit_price": 6800.0
+        },
+        {
+          "amount": 31500.0,
+          "description": "Masoor Dal (Red Lentil)",
+          "quantity": 5.0,
+          "unit_price": 6300.0
+        },
+        {
+          "amount": 55200.0,
+          "description": "Soybean",
+          "quantity": 12.0,
+          "unit_price": 4600.0
+        },
+        {
+          "amount": 47000.0,
+          "description": "Wheat (Local)",
+          "quantity": 20.0,
+          "unit_price": 2350.0
+        },
+        {
+          "amount": 31500.0,
+          "description": "Maize",
+          "quantity": 15.0,
+          "unit_price": 2100.0
+        },
+        {
+          "amount": 31200.0,
+          "description": "Toor Dal (Pigeon Pea)",
+          "quantity": 4.0,
+          "unit_price": 7800.0
+        },
+        {
+          "amount": 24600.0,
+          "description": "Sesame",
+          "quantity": 3.0,
+          "unit_price": 8200.0
+        },
+        {
+          "amount": 19200.0,
+          "description": "Coriander",
+          "quantity": 2.0,
+          "unit_price": 9600.0
+        }
+      ],
+      "payment_terms": "1. No complaints will be accepted after delivery. 2. Payment should be made by cheque/RTGS/NEFT by the due date. 3. 18% annual interest will be charged on delayed payment. 4. All disputes will be under Vidisha court jurisdiction.",
+      "subtotal": 394600.0,
+      "tax_amount": 19730.0,
+      "total_amount": 414330.0,
+      "vendor_address": "Shop No. 7, Agricultural Produce Market Yard, Raisen Road, Vidisha - 464001 (M.P.)",
+      "vendor_name": "Shri Annapurna Traders"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.992574549588781,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is explicitly mentioned as 'चालान क्रमांक : 2785'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चालान क्रमांक** : 2785\n**दिनांक** : 24/05/2024\n**देय दिनांक** : 08/06/2024\n**स्थान आपूर्ति** : मध्य प्रदेश (23)",
+            "bounding_boxes": [
+              {
+                "x": 166.87104,
+                "y": 27.09504,
+                "w": 62.914559999999994,
+                "h": 37.41696
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is explicitly mentioned as 'दिनांक : 24/05/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चालान क्रमांक** : 2785\n**दिनांक** : 24/05/2024\n**देय दिनांक** : 08/06/2024\n**स्थान आपूर्ति** : मध्य प्रदेश (23)",
+            "bounding_boxes": [
+              {
+                "x": 166.87104,
+                "y": 27.09504,
+                "w": 62.914559999999994,
+                "h": 37.41696
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is explicitly mentioned as 'देय दिनांक : 08/06/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चालान क्रमांक** : 2785\n**दिनांक** : 24/05/2024\n**देय दिनांक** : 08/06/2024\n**स्थान आपूर्ति** : मध्य प्रदेश (23)",
+            "bounding_boxes": [
+              {
+                "x": 166.87104,
+                "y": 27.09504,
+                "w": 62.914559999999994,
+                "h": 37.41696
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is 'श्री अन्नपूर्णा ट्रेडर्स', translated as 'Shri Annapurna Traders'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "vendor_address": {
+        "reasoning": "The vendor address is at the top under 'श्री अन्नपूर्णा ट्रेडर्स', translated to English.",
+        "confidence": 0.9534105301944781,
+        "extraction_confidence": 0.9534105301944781,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The customer name is 'मे. शिव शक्ति ट्रेडर्स', translated as 'M/s Shiv Shakti Traders'.",
+        "confidence": 0.9999994313149146,
+        "extraction_confidence": 0.9999994313149146,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The billing address is provided under 'बिलिंग पता (Buyer Details)' and is translated to English.",
+        "confidence": 0.9722101465495124,
+        "extraction_confidence": 0.9722101465495124,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Line 1: चना दाल = Chana Dal (Split Chickpeas), quantity 10.00 quintal, unit price 5,600.00, amount 56,000.00.",
+            "confidence": 0.994448822941232,
+            "extraction_confidence": 0.994448822941232,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 1: चना दाल = Chana Dal (Split Chickpeas), quantity 10.00 quintal, unit price 5,600.00, amount 56,000.00.",
+            "confidence": 0.9211395948115539,
+            "extraction_confidence": 0.9211395948115539,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1    | चना दाल      | 07132010    | 10.00  | क्विंटल | 5,600.00 | 2.5%           | 2.5%           | 56,000.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 1: चना दाल = Chana Dal (Split Chickpeas), quantity 10.00 quintal, unit price 5,600.00, amount 56,000.00.",
+            "confidence": 0.9999951350589631,
+            "extraction_confidence": 0.9999951350589631,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1    | चना दाल      | 07132010    | 10.00  | क्विंटल | 5,600.00 | 2.5%           | 2.5%           | 56,000.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 1: चना दाल = Chana Dal (Split Chickpeas), quantity 10.00 quintal, unit price 5,600.00, amount 56,000.00.",
+            "confidence": 0.8739892460969336,
+            "extraction_confidence": 0.8739892460969336,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1    | चना दाल      | 07132010    | 10.00  | क्विंटल | 5,600.00 | 2.5%           | 2.5%           | 56,000.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 2: मूंग दाल = Moong Dal (Split Green Gram), quantity 8.00 quintal, unit price 7,200.00, amount 57,600.00.",
+            "confidence": 0.9999800624982703,
+            "extraction_confidence": 0.9999800624982703,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 2: मूंग दाल = Moong Dal (Split Green Gram), quantity 8.00 quintal, unit price 7,200.00, amount 57,600.00.",
+            "confidence": 0.9995147178542965,
+            "extraction_confidence": 0.9995147178542965,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2    | मूंग दाल     | 07133110    | 8.00   | क्विंटल | 7,200.00 | 2.5%           | 2.5%           | 57,600.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 2: मूंग दाल = Moong Dal (Split Green Gram), quantity 8.00 quintal, unit price 7,200.00, amount 57,600.00.",
+            "confidence": 0.999999713189551,
+            "extraction_confidence": 0.999999713189551,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2    | मूंग दाल     | 07133110    | 8.00   | क्विंटल | 7,200.00 | 2.5%           | 2.5%           | 57,600.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 2: मूंग दाल = Moong Dal (Split Green Gram), quantity 8.00 quintal, unit price 7,200.00, amount 57,600.00.",
+            "confidence": 0.99999072455448,
+            "extraction_confidence": 0.99999072455448,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2    | मूंग दाल     | 07133110    | 8.00   | क्विंटल | 7,200.00 | 2.5%           | 2.5%           | 57,600.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 3: उड़द दाल = Urad Dal (Split Black Gram), quantity 6.00 quintal, unit price 6,800.00, amount 40,800.00.",
+            "confidence": 0.9999994803816321,
+            "extraction_confidence": 0.9999994803816321,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 3: उड़द दाल = Urad Dal (Split Black Gram), quantity 6.00 quintal, unit price 6,800.00, amount 40,800.00.",
+            "confidence": 0.9999882685038566,
+            "extraction_confidence": 0.9999882685038566,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3    | उड़द दाल     | 07133210    | 6.00   | क्विंटल | 6,800.00 | 2.5%           | 2.5%           | 40,800.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 3: उड़द दाल = Urad Dal (Split Black Gram), quantity 6.00 quintal, unit price 6,800.00, amount 40,800.00.",
+            "confidence": 0.9999998733927642,
+            "extraction_confidence": 0.9999998733927642,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3    | उड़द दाल     | 07133210    | 6.00   | क्विंटल | 6,800.00 | 2.5%           | 2.5%           | 40,800.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 3: उड़द दाल = Urad Dal (Split Black Gram), quantity 6.00 quintal, unit price 6,800.00, amount 40,800.00.",
+            "confidence": 0.9999977873311005,
+            "extraction_confidence": 0.9999977873311005,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3    | उड़द दाल     | 07133210    | 6.00   | क्विंटल | 6,800.00 | 2.5%           | 2.5%           | 40,800.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 4: मसूर दाल = Masoor Dal (Red Lentil), quantity 5.00 quintal, unit price 6,300.00, amount 31,500.00.",
+            "confidence": 0.9999102474914582,
+            "extraction_confidence": 0.9999102474914582,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 4: मसूर दाल = Masoor Dal (Red Lentil), quantity 5.00 quintal, unit price 6,300.00, amount 31,500.00.",
+            "confidence": 0.9999546962062373,
+            "extraction_confidence": 0.9999546962062373,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4    | मसूर दाल     | 07133310    | 5.00   | क्विंटल | 6,300.00 | 2.5%           | 2.5%           | 31,500.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 4: मसूर दाल = Masoor Dal (Red Lentil), quantity 5.00 quintal, unit price 6,300.00, amount 31,500.00.",
+            "confidence": 0.9999997243882166,
+            "extraction_confidence": 0.9999997243882166,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4    | मसूर दाल     | 07133310    | 5.00   | क्विंटल | 6,300.00 | 2.5%           | 2.5%           | 31,500.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 4: मसूर दाल = Masoor Dal (Red Lentil), quantity 5.00 quintal, unit price 6,300.00, amount 31,500.00.",
+            "confidence": 0.9999987893618761,
+            "extraction_confidence": 0.9999987893618761,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4    | मसूर दाल     | 07133310    | 5.00   | क्विंटल | 6,300.00 | 2.5%           | 2.5%           | 31,500.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 5: सोयाबीन = Soybean, quantity 12.00 quintal, unit price 4,600.00, amount 55,200.00.",
+            "confidence": 0.9999841684346314,
+            "extraction_confidence": 0.9999841684346314,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 5: सोयाबीन = Soybean, quantity 12.00 quintal, unit price 4,600.00, amount 55,200.00.",
+            "confidence": 0.9999749974058503,
+            "extraction_confidence": 0.9999749974058503,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "मे. शिव शक्ति ट्रेडर्स\nदुकान नं. 12, अनाज मंडी,\nइंदौर रोड, देवास - 455001 (म.प्र.)\n**GSTIN : 23ABKFS5678L1ZP**",
+                "bounding_boxes": [
+                  {
+                    "x": 10.56768,
+                    "y": 86.44608,
+                    "w": 60.70272,
+                    "h": 28.81536
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 5: सोयाबीन = Soybean, quantity 12.00 quintal, unit price 4,600.00, amount 55,200.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "amount": {
+            "reasoning": "Line 5: सोयाबीन = Soybean, quantity 12.00 quintal, unit price 4,600.00, amount 55,200.00.",
+            "confidence": 0.999997042310096,
+            "extraction_confidence": 0.999997042310096,
+            "parsing_confidence": 1.0,
+            "citation": null
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 6: गेहूं (लोकल) = Wheat (Local), quantity 20.00 quintal, unit price 2,350.00, amount 47,000.00.",
+            "confidence": 0.9999991834925518,
+            "extraction_confidence": 0.9999991834925518,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 6: गेहूं (लोकल) = Wheat (Local), quantity 20.00 quintal, unit price 2,350.00, amount 47,000.00.",
+            "confidence": 0.9999229141818491,
+            "extraction_confidence": 0.9999229141818491,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6    | गेहूं (लोकल) | 10019010    | 20.00  | क्विंटल | 2,350.00 | 2.5%           | 2.5%           | 47,000.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 6: गेहूं (लोकल) = Wheat (Local), quantity 20.00 quintal, unit price 2,350.00, amount 47,000.00.",
+            "confidence": 0.999999713189551,
+            "extraction_confidence": 0.999999713189551,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6    | गेहूं (लोकल) | 10019010    | 20.00  | क्विंटल | 2,350.00 | 2.5%           | 2.5%           | 47,000.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 6: गेहूं (लोकल) = Wheat (Local), quantity 20.00 quintal, unit price 2,350.00, amount 47,000.00.",
+            "confidence": 0.9999954330666844,
+            "extraction_confidence": 0.9999954330666844,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6    | गेहूं (लोकल) | 10019010    | 20.00  | क्विंटल | 2,350.00 | 2.5%           | 2.5%           | 47,000.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 7: मक्का = Maize, quantity 15.00 quintal, unit price 2,100.00, amount 31,500.00.",
+            "confidence": 0.9999764799505335,
+            "extraction_confidence": 0.9999764799505335,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 7: मक्का = Maize, quantity 15.00 quintal, unit price 2,100.00, amount 31,500.00.",
+            "confidence": 0.9999976457926371,
+            "extraction_confidence": 0.9999976457926371,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7    | मक्का        | 10059020    | 15.00  | क्विंटल | 2,100.00 | 2.5%           | 2.5%           | 31,500.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 7: मक्का = Maize, quantity 15.00 quintal, unit price 2,100.00, amount 31,500.00.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7    | मक्का        | 10059020    | 15.00  | क्विंटल | 2,100.00 | 2.5%           | 2.5%           | 31,500.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 7: मक्का = Maize, quantity 15.00 quintal, unit price 2,100.00, amount 31,500.00.",
+            "confidence": 0.9999998435918529,
+            "extraction_confidence": 0.9999998435918529,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7    | मक्का        | 10059020    | 15.00  | क्विंटल | 2,100.00 | 2.5%           | 2.5%           | 31,500.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 8: तूअर दाल = Toor Dal (Pigeon Pea), quantity 4.00 quintal, unit price 7,800.00, amount 31,200.00.",
+            "confidence": 0.9998226593220165,
+            "extraction_confidence": 0.9998226593220165,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 8: तूअर दाल = Toor Dal (Pigeon Pea), quantity 4.00 quintal, unit price 7,800.00, amount 31,200.00.",
+            "confidence": 0.9999842553689774,
+            "extraction_confidence": 0.9999842553689774,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8    | तूअर दाल     | 07133410    | 4.00   | क्विंटल | 7,800.00 | 2.5%           | 2.5%           | 31,200.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 8: तूअर दाल = Toor Dal (Pigeon Pea), quantity 4.00 quintal, unit price 7,800.00, amount 31,200.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8    | तूअर दाल     | 07133410    | 4.00   | क्विंटल | 7,800.00 | 2.5%           | 2.5%           | 31,200.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 8: तूअर दाल = Toor Dal (Pigeon Pea), quantity 4.00 quintal, unit price 7,800.00, amount 31,200.00.",
+            "confidence": 0.9999998919950089,
+            "extraction_confidence": 0.9999998919950089,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8    | तूअर दाल     | 07133410    | 4.00   | क्विंटल | 7,800.00 | 2.5%           | 2.5%           | 31,200.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 9: तिल = Sesame, quantity 3.00 quintal, unit price 8,200.00, amount 24,600.00.",
+            "confidence": 0.9999996647864002,
+            "extraction_confidence": 0.9999996647864002,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 9: तिल = Sesame, quantity 3.00 quintal, unit price 8,200.00, amount 24,600.00.",
+            "confidence": 0.9999989967652246,
+            "extraction_confidence": 0.9999989967652246,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9    | तिल          | 12074090    | 3.00   | क्विंटल | 8,200.00 | 2.5%           | 2.5%           | 24,600.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 9: तिल = Sesame, quantity 3.00 quintal, unit price 8,200.00, amount 24,600.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9    | तिल          | 12074090    | 3.00   | क्विंटल | 8,200.00 | 2.5%           | 2.5%           | 24,600.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 9: तिल = Sesame, quantity 3.00 quintal, unit price 8,200.00, amount 24,600.00.",
+            "confidence": 0.9999990985693734,
+            "extraction_confidence": 0.9999990985693734,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9    | तिल          | 12074090    | 3.00   | क्विंटल | 8,200.00 | 2.5%           | 2.5%           | 24,600.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 10: धनिया = Coriander, quantity 2.00 quintal, unit price 9,600.00, amount 19,200.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 10: धनिया = Coriander, quantity 2.00 quintal, unit price 9,600.00, amount 19,200.00.",
+            "confidence": 0.9999965729626092,
+            "extraction_confidence": 0.9999965729626092,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10   | धनिया        | 09092010    | 2.00   | क्विंटल | 9,600.00 | 2.5%           | 2.5%           | 19,200.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 10: धनिया = Coriander, quantity 2.00 quintal, unit price 9,600.00, amount 19,200.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10   | धनिया        | 09092010    | 2.00   | क्विंटल | 9,600.00 | 2.5%           | 2.5%           | 19,200.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 10: धनिया = Coriander, quantity 2.00 quintal, unit price 9,600.00, amount 19,200.00.",
+            "confidence": 0.9999998919950089,
+            "extraction_confidence": 0.9999998919950089,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10   | धनिया        | 09092010    | 2.00   | क्विंटल | 9,600.00 | 2.5%           | 2.5%           | 19,200.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 4.804658231707317,
+                    "y": 129.66610060975609,
+                    "w": 239.2442881097561,
+                    "h": 185.24503353658537
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The subtotal is labeled as 'कुल माल मूल्य (₹)' which is 3,94,600.00.",
+        "confidence": 0.9955448117779132,
+        "extraction_confidence": 0.9955448117779132,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "3,94,600.00 |\n| ----------------- | ----------- |\n| CGST (2.5%)       | 9,865.00    |\n| SGST (2.5%)       | 9,865.00    |\n| कुल कर राशि (₹)   | 19,730.0",
+            "bounding_boxes": [
+              {
+                "x": 155.94,
+                "y": 259.21,
+                "w": 89.43,
+                "h": 55.93
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "The total tax amount is labeled as 'कुल कर राशि (₹)' which is 19,730.00.",
+        "confidence": 0.9999732913326415,
+        "extraction_confidence": 0.9999732913326415,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "The total amount due is labeled as 'कुल देय राशि (₹)' which is 4,14,330.00.",
+        "confidence": 0.9999920953849601,
+        "extraction_confidence": 0.9999920953849601,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| कुल देय राशि (₹)  | 4,14,330.00 |",
+            "bounding_boxes": [
+              {
+                "x": 4.74,
+                "y": 259.21,
+                "w": 240.62,
+                "h": 153.45
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are denoted with the symbol ₹, which is the Indian Rupee.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Terms are listed under 'नियम एवं शर्तें', translated as: 1. No complaints after delivery. 2. Payment by cheque/RTGS/NEFT by due date. 3. 18% annual interest on delayed payment. 4. All disputes under Vidisha court jurisdiction.",
+        "confidence": 0.9041909832220706,
+        "extraction_confidence": 0.9041909832220706,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "c11ae14d-902c-4cb7-a360-06321074698a",
+    "file_name": "invoice_azimg_20260518_164156_260_0001.png",
+    "file_hash": "ce23c355-d35c-4411-9444-0973e977c1db",
+    "metadata": {
+      "job_id": "ext-3bsuzu8mz5g99oenad8itqgkbp0s"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260518_164156_260_0001.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_164156_260_0001.png"
+    }
+  ]
+}

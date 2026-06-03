@@ -1,0 +1,1185 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\kannada\\images\\invoice_azimg_20260518_165531_027_0002.png",
+  "language": "kannada",
+  "file_id": "d79ba083-b7fb-48b4-aeef-153a230415da",
+  "record_id": {
+    "value": {
+      "result": "agd-ls4t8b4hp7bzk7jzbmtds64rielf"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "45, 3rd Main Road, Gandhinagar, Kolar - 563 101",
+      "customer_name": "M/s Sri Ram Auto Mobiles",
+      "due_date": "2024-06-08",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "VKA/24-25/1786",
+      "line_items": [
+        {
+          "amount": 1500.0,
+          "description": "Engine Oil Filter",
+          "quantity": 10.0,
+          "unit_price": 150.0
+        },
+        {
+          "amount": 2500.0,
+          "description": "Air Filter Assembly",
+          "quantity": 10.0,
+          "unit_price": 250.0
+        },
+        {
+          "amount": 9000.0,
+          "description": "Brake Pad Set",
+          "quantity": 20.0,
+          "unit_price": 450.0
+        },
+        {
+          "amount": 4800.0,
+          "description": "Spark Plug",
+          "quantity": 40.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 2700.0,
+          "description": "Wiper Blade (Set)",
+          "quantity": 15.0,
+          "unit_price": 180.0
+        },
+        {
+          "amount": 7500.0,
+          "description": "Clutch Plate",
+          "quantity": 10.0,
+          "unit_price": 750.0
+        },
+        {
+          "amount": 1600.0,
+          "description": "Oil Filter (Diesel)",
+          "quantity": 10.0,
+          "unit_price": 160.0
+        },
+        {
+          "amount": 2000.0,
+          "description": "Fuel Filter",
+          "quantity": 10.0,
+          "unit_price": 200.0
+        },
+        {
+          "amount": 3250.0,
+          "description": "Timing Belt",
+          "quantity": 5.0,
+          "unit_price": 650.0
+        },
+        {
+          "amount": 3500.0,
+          "description": "Drive Kit Set",
+          "quantity": 10.0,
+          "unit_price": 350.0
+        }
+      ],
+      "payment_terms": "Payment due by 2024-06-08; 18% annual interest if not paid by due date.",
+      "subtotal": 38350.0,
+      "tax_amount": 6903.0,
+      "total_amount": 45253.0,
+      "vendor_address": "No. 12-1, KVT Complex, Nelamangala Main Road, Dasanapura Hobli, Bangalore Rural - 562 123",
+      "vendor_name": "VKA AUTO PARTS"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "45, 3rd Main Road, Gandhinagar, Kolar - 563 101",
+      "customer_name": "M/s Sri Ram Auto Mobiles",
+      "due_date": "2024-06-08",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "VKA/24-25/1786",
+      "line_items": [
+        {
+          "amount": 1500.0,
+          "description": "Engine Oil Filter",
+          "quantity": 10.0,
+          "unit_price": 150.0
+        },
+        {
+          "amount": 2500.0,
+          "description": "Air Filter Assembly",
+          "quantity": 10.0,
+          "unit_price": 250.0
+        },
+        {
+          "amount": 9000.0,
+          "description": "Brake Pad Set",
+          "quantity": 20.0,
+          "unit_price": 450.0
+        },
+        {
+          "amount": 4800.0,
+          "description": "Spark Plug",
+          "quantity": 40.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 2700.0,
+          "description": "Wiper Blade (Set)",
+          "quantity": 15.0,
+          "unit_price": 180.0
+        },
+        {
+          "amount": 7500.0,
+          "description": "Clutch Plate",
+          "quantity": 10.0,
+          "unit_price": 750.0
+        },
+        {
+          "amount": 1600.0,
+          "description": "Oil Filter (Diesel)",
+          "quantity": 10.0,
+          "unit_price": 160.0
+        },
+        {
+          "amount": 2000.0,
+          "description": "Fuel Filter",
+          "quantity": 10.0,
+          "unit_price": 200.0
+        },
+        {
+          "amount": 3250.0,
+          "description": "Timing Belt",
+          "quantity": 5.0,
+          "unit_price": 650.0
+        },
+        {
+          "amount": 3500.0,
+          "description": "Drive Kit Set",
+          "quantity": 10.0,
+          "unit_price": 350.0
+        }
+      ],
+      "payment_terms": "Payment due by 2024-06-08; 18% annual interest if not paid by due date.",
+      "subtotal": 38350.0,
+      "tax_amount": 6903.0,
+      "total_amount": 45253.0,
+      "vendor_address": "No. 12-1, KVT Complex, Nelamangala Main Road, Dasanapura Hobli, Bangalore Rural - 562 123",
+      "vendor_name": "VKA AUTO PARTS"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.955931314576528,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The 'ಇನ್ವಾಯ್ಸ್ ಸಂಖ್ಯೆ' is the invoice number, which is VKA/24-25/1786.",
+        "confidence": 0.9984927310801709,
+        "extraction_confidence": 0.9984927310801709,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ಇನ್ವಾಯ್ಸ್ ಸಂಖ್ಯೆ** : VKA/24-25/1786",
+            "bounding_boxes": [
+              {
+                "x": 60.06,
+                "y": 80.4,
+                "w": 33.39,
+                "h": 6.48
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The 'ಇನ್ವಾಯ್ಸ್ ದಿನಾಂಕ' is the invoice date, which is 24-05-2024.",
+        "confidence": 0.9992493245590701,
+        "extraction_confidence": 0.9992493245590701,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ಇನ್ವಾಯ್ಸ್ ದಿನಾಂಕ** : 24-05-2024",
+            "bounding_boxes": [
+              {
+                "x": 56.21,
+                "y": 87.6,
+                "w": 27.15,
+                "h": 6.48
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The 'ನಿಯಮಿತ ದಿನಾಂಕ' is the due date, which is 08-06-2024.",
+        "confidence": 0.9992211388750502,
+        "extraction_confidence": 0.9992211388750502,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ಇನ್ವಾಯ್ಸ್ ದಿನಾಂಕ** : 24-05-2024",
+            "bounding_boxes": [
+              {
+                "x": 56.21,
+                "y": 87.6,
+                "w": 27.15,
+                "h": 6.48
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is 'ವಿ.ಕೆ.ಆ. ಆಟೋ ಪಾರ್ಟ್ಸ್', which translates to 'VKA AUTO PARTS'.",
+        "confidence": 0.5736230919619991,
+        "extraction_confidence": 0.5736230919619991,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "VKA AUTO PARTS",
+            "bounding_boxes": [
+              {
+                "x": 18.02,
+                "y": 24.72,
+                "w": 25.46,
+                "h": 16.32
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "The vendor address is at the top of the invoice, translated from Kannada.",
+        "confidence": 0.9037002453255683,
+        "extraction_confidence": 0.9037002453255683,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The customer name is given as 'ಮೆಸರ್ಸ್ ಶ್ರೀ ರಾಮ್ ಆಟೋ ಮೊಬೈಲ್ಸ್', which translates to 'M/s Sri Ram Auto Mobiles'.",
+        "confidence": 0.900295178168141,
+        "extraction_confidence": 0.900295178168141,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The 'Bill To' section provides the full address of the customer, which is translated from Kannada.",
+        "confidence": 0.9610839214921386,
+        "extraction_confidence": 0.9610839214921386,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.9372408014004254,
+            "extraction_confidence": 0.9372408014004254,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                                    | ಎಂಜಿನ್ ಆಯಿಲ್ ಫಿಲ್ಟರ್   | 84212300     | 10     | Nos     | 150.00                  | 18%        | 1,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                                    | ಎಂಜಿನ್ ಆಯಿಲ್ ಫಿಲ್ಟರ್   | 84212300     | 10     | Nos     | 150.00                  | 18%        | 1,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.2662799340373295,
+            "extraction_confidence": 0.2662799340373295,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                                    | ಎಂಜಿನ್ ಆಯಿಲ್ ಫಿಲ್ಟರ್   | 84212300     | 10     | Nos     | 150.00                  | 18%        | 1,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.9999999122632289,
+            "extraction_confidence": 0.9999999122632289,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                                    | ಏರ್ ಫಿಲ್ಟರ್ ಅಸೆಂಬ್ಲಿ   | 84213100     | 10     | Nos     | 250.00                  | 18%        | 2,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                                    | ಏರ್ ಫಿಲ್ಟರ್ ಅಸೆಂಬ್ಲಿ   | 84213100     | 10     | Nos     | 250.00                  | 18%        | 2,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.999978707565158,
+            "extraction_confidence": 0.999978707565158,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                                    | ಏರ್ ಫಿಲ್ಟರ್ ಅಸೆಂಬ್ಲಿ   | 84213100     | 10     | Nos     | 250.00                  | 18%        | 2,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                                    | ಬ್ರೇಕ್ ಪ್ಯಾಡ್ ಸೆಟ್     | 87083099     | 20     | Set     | 450.00                  | 18%        | 9,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                                    | ಬ್ರೇಕ್ ಪ್ಯಾಡ್ ಸೆಟ್     | 87083099     | 20     | Set     | 450.00                  | 18%        | 9,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.9999714363228719,
+            "extraction_confidence": 0.9999714363228719,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                                    | ಬ್ರೇಕ್ ಪ್ಯಾಡ್ ಸೆಟ್     | 87083099     | 20     | Set     | 450.00                  | 18%        | 9,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                                                    | ಸ್ಪಾರ್ಕ್ ಪ್ಲಗ್         | 85111010     | 40     | Nos     | 120.00                  | 18%        | 4,800.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                                                    | ಸ್ಪಾರ್ಕ್ ಪ್ಲಗ್         | 85111010     | 40     | Nos     | 120.00                  | 18%        | 4,800.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.999993965426111,
+            "extraction_confidence": 0.999993965426111,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                                                    | ಸ್ಪಾರ್ಕ್ ಪ್ಲಗ್         | 85111010     | 40     | Nos     | 120.00                  | 18%        | 4,800.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.9999999608979601,
+            "extraction_confidence": 0.9999999608979601,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                                                    | ವೈಪರ್ ಬ್ಲೇಡ್ (ಸೆಟ್)    | 85124090     | 15     | Set     | 180.00                  | 18%        | 2,700.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                                                    | ವೈಪರ್ ಬ್ಲೇಡ್ (ಸೆಟ್)    | 85124090     | 15     | Set     | 180.00                  | 18%        | 2,700.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.9999588383793392,
+            "extraction_confidence": 0.9999588383793392,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                                                    | ವೈಪರ್ ಬ್ಲೇಡ್ (ಸೆಟ್)    | 85124090     | 15     | Set     | 180.00                  | 18%        | 2,700.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                                    | ಕ್ಲಚ್ ಪ್ಲೇಟ್           | 87089300     | 10     | Nos     | 750.00                  | 18%        | 7,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                                    | ಕ್ಲಚ್ ಪ್ಲೇಟ್           | 87089300     | 10     | Nos     | 750.00                  | 18%        | 7,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.9999979959370267,
+            "extraction_confidence": 0.9999979959370267,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                                    | ಕ್ಲಚ್ ಪ್ಲೇಟ್           | 87089300     | 10     | Nos     | 750.00                  | 18%        | 7,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.9999998063873693,
+            "extraction_confidence": 0.9999998063873693,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                                    | ಆಯಿಲ್ ಫಿಲ್ಟರ್ (ಡೀಸೆಲ್) | 84212300     | 10     | Nos     | 160.00                  | 18%        | 1,600.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                                    | ಆಯಿಲ್ ಫಿಲ್ಟರ್ (ಡೀಸೆಲ್) | 84212300     | 10     | Nos     | 160.00                  | 18%        | 1,600.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.9999742747366588,
+            "extraction_confidence": 0.9999742747366588,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                                    | ಆಯಿಲ್ ಫಿಲ್ಟರ್ (ಡೀಸೆಲ್) | 84212300     | 10     | Nos     | 160.00                  | 18%        | 1,600.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                                                    | ಫ್ಯೂಯಿಲ್ ಫಿಲ್ಟರ್       | 84212300     | 10     | Nos     | 200.00                  | 18%        | 2,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                                                    | ಫ್ಯೂಯಿಲ್ ಫಿಲ್ಟರ್       | 84212300     | 10     | Nos     | 200.00                  | 18%        | 2,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.9999991283702163,
+            "extraction_confidence": 0.9999991283702163,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8                                                    | ಫ್ಯೂಯಿಲ್ ಫಿಲ್ಟರ್       | 84212300     | 10     | Nos     | 200.00                  | 18%        | 2,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                                    | ಟೈಮಿಂಗ್ ಬೆಲ್ಟ್         | 40103900     | 5      | Nos     | 650.00                  | 18%        | 3,250.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                                    | ಟೈಮಿಂಗ್ ಬೆಲ್ಟ್         | 40103900     | 5      | Nos     | 650.00                  | 18%        | 3,250.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.9999894729289044,
+            "extraction_confidence": 0.9999894729289044,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                                    | ಟೈಮಿಂಗ್ ಬೆಲ್ಟ್         | 40103900     | 5      | Nos     | 650.00                  | 18%        | 3,250.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                                   | ಡ್ರೈವ್ ಕಿಟ್ ಸೆಟ್       | 87083099     | 10     | Set     | 350.00                  | 18%        | 3,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                                   | ಡ್ರೈವ್ ಕಿಟ್ ಸೆಟ್       | 87083099     | 10     | Set     | 350.00                  | 18%        | 3,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English and extracted quantity, unit, unit price, and amount.",
+            "confidence": 0.9999817844022033,
+            "extraction_confidence": 0.9999817844022033,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                                   | ಡ್ರೈವ್ ಕಿಟ್ ಸೆಟ್       | 87083099     | 10     | Set     | 350.00                  | 18%        | 3,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 12.161718292682925,
+                    "y": 146.55696402439023,
+                    "w": 221.76181829268293,
+                    "h": 156.47390670731707
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The subtotal is the sum of all line items before tax, which is shown as 'ಒಟ್ಟು ಮೊತ್ತ (₹)' = 38,350.00.",
+        "confidence": 0.7134081412186326,
+        "extraction_confidence": 0.7134081412186326,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| ಮಾಲು ಸಾಗಣೆ (Transport) : ಶ್ರೀ ಬಾಲಾಜಿ ಟ್ರಾನ್ಸ್‌ಪೋರ್ಟ್ |                        |              |        |         | ಒಟ್ಟು ಮೊತ್ತ (₹)         |            | 38,350.00 |",
+            "bounding_boxes": [
+              {
+                "x": 12.161718292682925,
+                "y": 146.55696402439023,
+                "w": 221.76181829268293,
+                "h": 156.47390670731707
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "CGST and SGST are each 3,451.50, totaling 6,903.00 as 'ಒಟ್ಟು ತೆರಿಗೆ (₹)'.",
+        "confidence": 0.816706067568867,
+        "extraction_confidence": 0.816706067568867,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                                      |                        |              |        |         | ಒಟ್ಟು ತೆರಿಗೆ (₹)        |            | 6,903.00  |",
+            "bounding_boxes": [
+              {
+                "x": 12.161718292682925,
+                "y": 146.55696402439023,
+                "w": 221.76181829268293,
+                "h": 156.47390670731707
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "The final payable amount after rounding is shown as 'ಒಟ್ಟು payable ಮೊತ್ತ (₹)' = 45,253.00.",
+        "confidence": 0.8602320513563079,
+        "extraction_confidence": 0.8602320513563079,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "currency": {
+        "reasoning": "The symbol ₹ is used throughout the invoice, which is the symbol for Indian Rupees (INR).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Payment terms are mentioned in the conditions: 18% annual interest if not paid by due date.",
+        "confidence": 0.7790504473187184,
+        "extraction_confidence": 0.7790504473187184,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "d79ba083-b7fb-48b4-aeef-153a230415da",
+    "file_name": "invoice_azimg_20260518_165531_027_0002.png",
+    "file_hash": "73af72ac-790d-40d8-a936-66bf35702d56",
+    "metadata": {
+      "job_id": "ext-znfp58uth37hbtutzor7ln0nfiup"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260518_165531_027_0002.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_165531_027_0002.png"
+    }
+  ]
+}

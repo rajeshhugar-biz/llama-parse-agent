@@ -1,0 +1,1185 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\bengali\\images\\invoice_azimg_20260519_154345_017_0005.png",
+  "language": "bengali",
+  "file_id": "960f4f47-b7ae-4711-8464-5819f5c3466c",
+  "record_id": {
+    "value": {
+      "result": "agd-ogvg97tlukih5evoartq64ipmi49"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "12/2, Netaji Palli, Khardah, North 24 Parganas, PIN - 700116, West Bengal",
+      "customer_name": "Mr. Suman Chakraborty",
+      "due_date": "2024-06-10",
+      "invoice_date": "2024-05-27",
+      "invoice_number": "SH/24-25/1348",
+      "line_items": [
+        {
+          "amount": 19600.0,
+          "description": "Room Charge (Single AC) - 7 days",
+          "quantity": 7.0,
+          "unit_price": 2500.0
+        },
+        {
+          "amount": 2688.0,
+          "description": "Consultation Charge",
+          "quantity": 3.0,
+          "unit_price": 800.0
+        },
+        {
+          "amount": 7840.0,
+          "description": "Nursing Charge",
+          "quantity": 7.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 8400.0,
+          "description": "Operation Theatre Charge",
+          "quantity": 1.0,
+          "unit_price": 7500.0
+        },
+        {
+          "amount": 2800.0,
+          "description": "Anesthesia Charge",
+          "quantity": 1.0,
+          "unit_price": 2500.0
+        },
+        {
+          "amount": 8485.14,
+          "description": "Medicines and Consumables",
+          "quantity": 1.0,
+          "unit_price": 6842.86
+        },
+        {
+          "amount": 2728.0,
+          "description": "Lab Test Charge",
+          "quantity": 1.0,
+          "unit_price": 2200.0
+        },
+        {
+          "amount": 2232.0,
+          "description": "Radiology Charge",
+          "quantity": 1.0,
+          "unit_price": 1800.0
+        },
+        {
+          "amount": 2016.0,
+          "description": "Physiotherapy Charge",
+          "quantity": 3.0,
+          "unit_price": 600.0
+        },
+        {
+          "amount": 336.0,
+          "description": "Discharge Processing Charge",
+          "quantity": 1.0,
+          "unit_price": 300.0
+        }
+      ],
+      "payment_terms": "Payment must be made by the due date; late payment will incur additional charges.",
+      "subtotal": 50142.86,
+      "tax_amount": 7282.28,
+      "total_amount": 57426.0,
+      "vendor_address": "73, Kanaipukur Road, Khardah, North 24 Parganas, Kolkata - 700117",
+      "vendor_name": "Suhrid Multisuper Speciality Hospital Pvt. Ltd."
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "12/2, Netaji Palli, Khardah, North 24 Parganas, PIN - 700116, West Bengal",
+      "customer_name": "Mr. Suman Chakraborty",
+      "due_date": "2024-06-10",
+      "invoice_date": "2024-05-27",
+      "invoice_number": "SH/24-25/1348",
+      "line_items": [
+        {
+          "amount": 19600.0,
+          "description": "Room Charge (Single AC) - 7 days",
+          "quantity": 7.0,
+          "unit_price": 2500.0
+        },
+        {
+          "amount": 2688.0,
+          "description": "Consultation Charge",
+          "quantity": 3.0,
+          "unit_price": 800.0
+        },
+        {
+          "amount": 7840.0,
+          "description": "Nursing Charge",
+          "quantity": 7.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 8400.0,
+          "description": "Operation Theatre Charge",
+          "quantity": 1.0,
+          "unit_price": 7500.0
+        },
+        {
+          "amount": 2800.0,
+          "description": "Anesthesia Charge",
+          "quantity": 1.0,
+          "unit_price": 2500.0
+        },
+        {
+          "amount": 8485.14,
+          "description": "Medicines and Consumables",
+          "quantity": 1.0,
+          "unit_price": 6842.86
+        },
+        {
+          "amount": 2728.0,
+          "description": "Lab Test Charge",
+          "quantity": 1.0,
+          "unit_price": 2200.0
+        },
+        {
+          "amount": 2232.0,
+          "description": "Radiology Charge",
+          "quantity": 1.0,
+          "unit_price": 1800.0
+        },
+        {
+          "amount": 2016.0,
+          "description": "Physiotherapy Charge",
+          "quantity": 3.0,
+          "unit_price": 600.0
+        },
+        {
+          "amount": 336.0,
+          "description": "Discharge Processing Charge",
+          "quantity": 1.0,
+          "unit_price": 300.0
+        }
+      ],
+      "payment_terms": "Payment must be made by the due date; late payment will incur additional charges.",
+      "subtotal": 50142.86,
+      "tax_amount": 7282.28,
+      "total_amount": 57426.0,
+      "vendor_address": "73, Kanaipukur Road, Khardah, North 24 Parganas, Kolkata - 700117",
+      "vendor_name": "Suhrid Multisuper Speciality Hospital Pvt. Ltd."
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9945564399469627,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is explicitly mentioned as SH/24-25/1348.",
+        "confidence": 0.9999999757984191,
+        "extraction_confidence": 0.9999999757984191,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "SH/24-25/1348",
+            "bounding_boxes": [
+              {
+                "x": 34.85,
+                "y": 71.58,
+                "w": 28.2,
+                "h": 4.82
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is explicitly mentioned as 27/05/2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| \\*\\*তারিখ :\\*\\* 27/05/2024                               | \\*\\*রোগীর নাম :\\*\\* শ্রী সুমন চক্রবর্তী |",
+            "bounding_boxes": [
+              {
+                "x": 11.51,
+                "y": 71.58,
+                "w": 159.82,
+                "h": 35.67
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is explicitly mentioned as 10/06/2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "27/05/2024",
+            "bounding_boxes": [
+              {
+                "x": 25.58,
+                "y": 78.97,
+                "w": 21.04,
+                "h": 4.65
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is provided in Bengali and has been translated to English.",
+        "confidence": 0.9996634392225705,
+        "extraction_confidence": 0.9996634392225705,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "vendor_address": {
+        "reasoning": "The vendor address is provided in Bengali and has been translated to English.",
+        "confidence": 0.9991386050858697,
+        "extraction_confidence": 0.9991386050858697,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The customer's name is listed as 'শ্রী সুমন চক্রবর্তী', which translates to 'Mr. Suman Chakraborty'.",
+        "confidence": 0.9999935053189865,
+        "extraction_confidence": 0.9999935053189865,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The billing address is provided in Bengali and has been translated to English.",
+        "confidence": 0.974892941791272,
+        "extraction_confidence": 0.974892941791272,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated line item: Room Charge (Single AC) - 7 days, quantity 7, unit price 2,500.00, total 17,500.00.",
+            "confidence": 0.9626248022483803,
+            "extraction_confidence": 0.9626248022483803,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item: Room Charge (Single AC) - 7 days, quantity 7, unit price 2,500.00, total 17,500.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1       | রুম চার্জ (সিঙ্গল এসি) - ৭ দিন | 999311      | 7      | দিন    | 2,500.00        | 17,500.00     | 6%         | 1,050.00                 | 1,050.00                 | 19,600.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item: Room Charge (Single AC) - 7 days, quantity 7, unit price 2,500.00, total 17,500.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1       | রুম চার্জ (সিঙ্গল এসি) - ৭ দিন | 999311      | 7      | দিন    | 2,500.00        | 17,500.00     | 6%         | 1,050.00                 | 1,050.00                 | 19,600.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item: Room Charge (Single AC) - 7 days, quantity 7, unit price 2,500.00, total 17,500.00.",
+            "confidence": 0.9443403487440442,
+            "extraction_confidence": 0.9443403487440442,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1       | রুম চার্জ (সিঙ্গল এসি) - ৭ দিন | 999311      | 7      | দিন    | 2,500.00        | 17,500.00     | 6%         | 1,050.00                 | 1,050.00                 | 19,600.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item: Consultation Charge, quantity 3, unit price 800.00, total 2,400.00.",
+            "confidence": 0.9999982003884762,
+            "extraction_confidence": 0.9999982003884762,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item: Consultation Charge, quantity 3, unit price 800.00, total 2,400.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2       | কনসালটেশন চার্জ                | 999311      | 3      | সংখ্যা | 800.00          | 2,400.00      | 6%         | 144.00                   | 144.00                   | 2,688.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item: Consultation Charge, quantity 3, unit price 800.00, total 2,400.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2       | কনসালটেশন চার্জ                | 999311      | 3      | সংখ্যা | 800.00          | 2,400.00      | 6%         | 144.00                   | 144.00                   | 2,688.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item: Consultation Charge, quantity 3, unit price 800.00, total 2,400.00.",
+            "confidence": 0.9997463693779933,
+            "extraction_confidence": 0.9997463693779933,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2       | কনসালটেশন চার্জ                | 999311      | 3      | সংখ্যা | 800.00          | 2,400.00      | 6%         | 144.00                   | 144.00                   | 2,688.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item: Nursing Charge, quantity 7, unit price 1,000.00, total 7,000.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item: Nursing Charge, quantity 7, unit price 1,000.00, total 7,000.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3       | নার্সিং চার্জ                  | 999311      | 7      | দিন    | 1,000.00        | 7,000.00      | 6%         | 420.00                   | 420.00                   | 7,840.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item: Nursing Charge, quantity 7, unit price 1,000.00, total 7,000.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3       | নার্সিং চার্জ                  | 999311      | 7      | দিন    | 1,000.00        | 7,000.00      | 6%         | 420.00                   | 420.00                   | 7,840.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item: Nursing Charge, quantity 7, unit price 1,000.00, total 7,000.00.",
+            "confidence": 0.9999559404088755,
+            "extraction_confidence": 0.9999559404088755,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3       | নার্সিং চার্জ                  | 999311      | 7      | দিন    | 1,000.00        | 7,000.00      | 6%         | 420.00                   | 420.00                   | 7,840.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item: Operation Theatre Charge, quantity 1, unit price 7,500.00, total 7,500.00.",
+            "confidence": 0.9999994129408055,
+            "extraction_confidence": 0.9999994129408055,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item: Operation Theatre Charge, quantity 1, unit price 7,500.00, total 7,500.00.",
+            "confidence": 0.999983714025634,
+            "extraction_confidence": 0.999983714025634,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4       | অপারেশন থিয়েটার চার্জ          | 999311      | 1      | সংখ্যা | 7,500.00        | 7,500.00      | 6%         | 450.00                   | 450.00                   | 8,400.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item: Operation Theatre Charge, quantity 1, unit price 7,500.00, total 7,500.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4       | অপারেশন থিয়েটার চার্জ          | 999311      | 1      | সংখ্যা | 7,500.00        | 7,500.00      | 6%         | 450.00                   | 450.00                   | 8,400.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item: Operation Theatre Charge, quantity 1, unit price 7,500.00, total 7,500.00.",
+            "confidence": 0.9999601520963757,
+            "extraction_confidence": 0.9999601520963757,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4       | অপারেশন থিয়েটার চার্জ          | 999311      | 1      | সংখ্যা | 7,500.00        | 7,500.00      | 6%         | 450.00                   | 450.00                   | 8,400.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item: Anesthesia Charge, quantity 1, unit price 2,500.00, total 2,500.00.",
+            "confidence": 0.9999994840834655,
+            "extraction_confidence": 0.9999994840834655,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item: Anesthesia Charge, quantity 1, unit price 2,500.00, total 2,500.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5       | অ্যানাস্থেশিয়া চার্জ           | 999311      | 1      | সংখ্যা | 2,500.00        | 2,500.00      | 6%         | 150.00                   | 150.00                   | 2,800.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item: Anesthesia Charge, quantity 1, unit price 2,500.00, total 2,500.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5       | অ্যানাস্থেশিয়া চার্জ           | 999311      | 1      | সংখ্যা | 2,500.00        | 2,500.00      | 6%         | 150.00                   | 150.00                   | 2,800.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item: Anesthesia Charge, quantity 1, unit price 2,500.00, total 2,500.00.",
+            "confidence": 0.9999168887200603,
+            "extraction_confidence": 0.9999168887200603,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5       | অ্যানাস্থেশিয়া চার্জ           | 999311      | 1      | সংখ্যা | 2,500.00        | 2,500.00      | 6%         | 150.00                   | 150.00                   | 2,800.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item: Medicines and Consumables, quantity 1, unit price 6,842.86, total 6,842.86.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item: Medicines and Consumables, quantity 1, unit price 6,842.86, total 6,842.86.",
+            "confidence": 0.9999465237780861,
+            "extraction_confidence": 0.9999465237780861,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | ওষুধ ও কনজুমেবলস               | 300490      | 1      | সংখ্যা | 6,842.86        | 6,842.86      | 12%        | 821.14                   | 821.14                   | 8,485.14        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item: Medicines and Consumables, quantity 1, unit price 6,842.86, total 6,842.86.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | ওষুধ ও কনজুমেবলস               | 300490      | 1      | সংখ্যা | 6,842.86        | 6,842.86      | 12%        | 821.14                   | 821.14                   | 8,485.14        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item: Medicines and Consumables, quantity 1, unit price 6,842.86, total 6,842.86.",
+            "confidence": 0.9998705270850058,
+            "extraction_confidence": 0.9998705270850058,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | ওষুধ ও কনজুমেবলস               | 300490      | 1      | সংখ্যা | 6,842.86        | 6,842.86      | 12%        | 821.14                   | 821.14                   | 8,485.14        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item: Lab Test Charge, quantity 1, unit price 2,200.00, total 2,200.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item: Lab Test Charge, quantity 1, unit price 2,200.00, total 2,200.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7       | ল্যাব টেস্ট চার্জ              | 998346      | 1      | সংখ্যা | 2,200.00        | 2,200.00      | 12%        | 264.00                   | 264.00                   | 2,728.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item: Lab Test Charge, quantity 1, unit price 2,200.00, total 2,200.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7       | ল্যাব টেস্ট চার্জ              | 998346      | 1      | সংখ্যা | 2,200.00        | 2,200.00      | 12%        | 264.00                   | 264.00                   | 2,728.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item: Lab Test Charge, quantity 1, unit price 2,200.00, total 2,200.00.",
+            "confidence": 0.9999329390468938,
+            "extraction_confidence": 0.9999329390468938,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7       | ল্যাব টেস্ট চার্জ              | 998346      | 1      | সংখ্যা | 2,200.00        | 2,200.00      | 12%        | 264.00                   | 264.00                   | 2,728.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item: Radiology Charge, quantity 1, unit price 1,800.00, total 1,800.00.",
+            "confidence": 0.9999995636428571,
+            "extraction_confidence": 0.9999995636428571,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item: Radiology Charge, quantity 1, unit price 1,800.00, total 1,800.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8       | রেডিওলজি চার্জ                 | 998346      | 1      | সংখ্যা | 1,800.00        | 1,800.00      | 12%        | 216.00                   | 216.00                   | 2,232.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item: Radiology Charge, quantity 1, unit price 1,800.00, total 1,800.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8       | রেডিওলজি চার্জ                 | 998346      | 1      | সংখ্যা | 1,800.00        | 1,800.00      | 12%        | 216.00                   | 216.00                   | 2,232.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item: Radiology Charge, quantity 1, unit price 1,800.00, total 1,800.00.",
+            "confidence": 0.9999669464556443,
+            "extraction_confidence": 0.9999669464556443,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8       | রেডিওলজি চার্জ                 | 998346      | 1      | সংখ্যা | 1,800.00        | 1,800.00      | 12%        | 216.00                   | 216.00                   | 2,232.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item: Physiotherapy Charge, quantity 3, unit price 600.00, total 1,800.00.",
+            "confidence": 0.99999940895903,
+            "extraction_confidence": 0.99999940895903,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item: Physiotherapy Charge, quantity 3, unit price 600.00, total 1,800.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9       | ফিজিওথেরাপি চার্জ              | 999311      | 3      | সংখ্যা | 600.00          | 1,800.00      | 6%         | 108.00                   | 108.00                   | 2,016.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item: Physiotherapy Charge, quantity 3, unit price 600.00, total 1,800.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9       | ফিজিওথেরাপি চার্জ              | 999311      | 3      | সংখ্যা | 600.00          | 1,800.00      | 6%         | 108.00                   | 108.00                   | 2,016.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item: Physiotherapy Charge, quantity 3, unit price 600.00, total 1,800.00.",
+            "confidence": 0.9999686549867739,
+            "extraction_confidence": 0.9999686549867739,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9       | ফিজিওথেরাপি চার্জ              | 999311      | 3      | সংখ্যা | 600.00          | 1,800.00      | 6%         | 108.00                   | 108.00                   | 2,016.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item: Discharge Processing Charge, quantity 1, unit price 300.00, total 300.00.",
+            "confidence": 0.9999998346329187,
+            "extraction_confidence": 0.9999998346329187,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item: Discharge Processing Charge, quantity 1, unit price 300.00, total 300.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10      | ডিসচার্জ প্রসেসিং চার্জ        | 999311      | 1      | সংখ্যা | 300.00          | 300.00        | 6%         | 18.00                    | 18.00                    | 336.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item: Discharge Processing Charge, quantity 1, unit price 300.00, total 300.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10      | ডিসচার্জ প্রসেসিং চার্জ        | 999311      | 1      | সংখ্যা | 300.00          | 300.00        | 6%         | 18.00                    | 18.00                    | 336.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item: Discharge Processing Charge, quantity 1, unit price 300.00, total 300.00.",
+            "confidence": 0.9999723501917311,
+            "extraction_confidence": 0.9999723501917311,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10      | ডিসচার্জ প্রসেসিং চার্জ        | 999311      | 1      | সংখ্যা | 300.00          | 300.00        | 6%         | 18.00                    | 18.00                    | 336.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 8.13074725609756,
+                    "y": 164.58924146341465,
+                    "w": 229.22559420731707,
+                    "h": 151.9608402439024
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The subtotal is the total taxable value before tax, which is 50,142.86.",
+        "confidence": 0.9999327565873768,
+        "extraction_confidence": 0.9999327565873768,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| মোট করযোগ্য মূল্য (Rs.) | 50,142.86 |",
+            "bounding_boxes": [
+              {
+                "x": 151.49803902439024,
+                "y": 269.6319329268293,
+                "w": 86.52845853658535,
+                "h": 47.56392439024388
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "The total tax is the sum of CGST and SGST, which is 7,282.28.",
+        "confidence": 0.9999104679705256,
+        "extraction_confidence": 0.9999104679705256,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| মোট কর (Rs.)            | 7,282.28  |",
+            "bounding_boxes": [
+              {
+                "x": 151.49803902439024,
+                "y": 269.6319329268293,
+                "w": 86.52845853658535,
+                "h": 47.56392439024388
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "The grand total is given as 57,426.00, which includes taxes and rounding.",
+        "confidence": 0.9999131527645128,
+        "extraction_confidence": 0.9999131527645128,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| গ্র্যান্ড মোট (Rs.)     | 57,426.00 |",
+            "bounding_boxes": [
+              {
+                "x": 151.49803902439024,
+                "y": 269.6319329268293,
+                "w": 86.52845853658535,
+                "h": 47.56392439024388
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The invoice uses 'Rs.' for all monetary values, which is the symbol for Indian Rupees.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "The terms state that payment must be made by the due date, and late payment incurs extra charges.",
+        "confidence": 0.8373079708894748,
+        "extraction_confidence": 0.8373079708894748,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "960f4f47-b7ae-4711-8464-5819f5c3466c",
+    "file_name": "invoice_azimg_20260519_154345_017_0005.png",
+    "file_hash": "14c4cc95-824d-4566-a674-b7e082e9e674",
+    "metadata": {
+      "job_id": "ext-b6g33nvc12oi3fnguikwo9l3adh0"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_154345_017_0005.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_154345_017_0005.png"
+    }
+  ]
+}

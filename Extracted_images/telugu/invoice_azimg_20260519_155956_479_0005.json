@@ -1,0 +1,1253 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\telugu\\images\\invoice_azimg_20260519_155956_479_0005.png",
+  "language": "telugu",
+  "file_id": "bd096eda-6426-47dd-bfd4-5b8d6bd29980",
+  "record_id": {
+    "value": {
+      "result": "agd-1b6eucv5537wb4aewvdtcw1p2rlk"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "M/s. Vignan Technologies Private Limited, Plot No. 45, APIIC IT Park, Gachibowli, Hyderabad - 500032, Telangana, India.",
+      "customer_name": "M/s. Vignan Technologies Private Limited",
+      "due_date": "2024-06-07",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "SSI/24-25/1187",
+      "line_items": [
+        {
+          "amount": 40000.0,
+          "description": "Dell 24\" LED Monitor - E2423H",
+          "quantity": 5.0,
+          "unit_price": 8000.0
+        },
+        {
+          "amount": 225000.0,
+          "description": "HP Pro Desk 400 G9 SFF Desktop",
+          "quantity": 5.0,
+          "unit_price": 45000.0
+        },
+        {
+          "amount": 2250.0,
+          "description": "Logitech Keyboard K120",
+          "quantity": 5.0,
+          "unit_price": 450.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Logitech Optical Mouse B100",
+          "quantity": 5.0,
+          "unit_price": 300.0
+        },
+        {
+          "amount": 36000.0,
+          "description": "Numeric 2KVA Online UPS",
+          "quantity": 2.0,
+          "unit_price": 18000.0
+        },
+        {
+          "amount": 6400.0,
+          "description": "Category 6 LAN Cable Bunch (305 meters)",
+          "quantity": 2.0,
+          "unit_price": 3200.0
+        },
+        {
+          "amount": 7500.0,
+          "description": "D-Link 24 Port Switch DGS-1024D",
+          "quantity": 1.0,
+          "unit_price": 7500.0
+        },
+        {
+          "amount": 2600.0,
+          "description": "TP-Link Wireless Router Archer C6",
+          "quantity": 1.0,
+          "unit_price": 2600.0
+        },
+        {
+          "amount": 4800.0,
+          "description": "Samsung 256GB SSD",
+          "quantity": 2.0,
+          "unit_price": 2400.0
+        },
+        {
+          "amount": 12500.0,
+          "description": "HP All-in-One Laser Printer MFP 136a",
+          "quantity": 1.0,
+          "unit_price": 12500.0
+        }
+      ],
+      "payment_terms": "100% advance or at the time of delivery",
+      "subtotal": 339050.0,
+      "tax_amount": 60930.0,
+      "total_amount": 400000.0,
+      "vendor_address": "Shop No. 12-5-31/A, First Floor, Vinayak Nagar, Beside D-MART, Hyderabad - 500074, Telangana, India.",
+      "vendor_name": "Sri Sai Infotech Solutions"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "M/s. Vignan Technologies Private Limited, Plot No. 45, APIIC IT Park, Gachibowli, Hyderabad - 500032, Telangana, India.",
+      "customer_name": "M/s. Vignan Technologies Private Limited",
+      "due_date": "2024-06-07",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "SSI/24-25/1187",
+      "line_items": [
+        {
+          "amount": 40000.0,
+          "description": "Dell 24\" LED Monitor - E2423H",
+          "quantity": 5.0,
+          "unit_price": 8000.0
+        },
+        {
+          "amount": 225000.0,
+          "description": "HP Pro Desk 400 G9 SFF Desktop",
+          "quantity": 5.0,
+          "unit_price": 45000.0
+        },
+        {
+          "amount": 2250.0,
+          "description": "Logitech Keyboard K120",
+          "quantity": 5.0,
+          "unit_price": 450.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Logitech Optical Mouse B100",
+          "quantity": 5.0,
+          "unit_price": 300.0
+        },
+        {
+          "amount": 36000.0,
+          "description": "Numeric 2KVA Online UPS",
+          "quantity": 2.0,
+          "unit_price": 18000.0
+        },
+        {
+          "amount": 6400.0,
+          "description": "Category 6 LAN Cable Bunch (305 meters)",
+          "quantity": 2.0,
+          "unit_price": 3200.0
+        },
+        {
+          "amount": 7500.0,
+          "description": "D-Link 24 Port Switch DGS-1024D",
+          "quantity": 1.0,
+          "unit_price": 7500.0
+        },
+        {
+          "amount": 2600.0,
+          "description": "TP-Link Wireless Router Archer C6",
+          "quantity": 1.0,
+          "unit_price": 2600.0
+        },
+        {
+          "amount": 4800.0,
+          "description": "Samsung 256GB SSD",
+          "quantity": 2.0,
+          "unit_price": 2400.0
+        },
+        {
+          "amount": 12500.0,
+          "description": "HP All-in-One Laser Printer MFP 136a",
+          "quantity": 1.0,
+          "unit_price": 12500.0
+        }
+      ],
+      "payment_terms": "100% advance or at the time of delivery",
+      "subtotal": 339050.0,
+      "tax_amount": 60930.0,
+      "total_amount": 400000.0,
+      "vendor_address": "Shop No. 12-5-31/A, First Floor, Vinayak Nagar, Beside D-MART, Hyderabad - 500074, Telangana, India.",
+      "vendor_name": "Sri Sai Infotech Solutions"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9887448564896862,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is explicitly mentioned as 'ఇన్వాయిస్ నం.: SSI/24-25/1187'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ఇన్వాయిస్ నం.:** SSI/24-25/1187\n**తేది:** 24-05-2024\n**చెల్లించవలసిన తేది:** 07-06-2024\n**స్థలం ఆఫ్ సప్లై:** తెలంగాణ (36)",
+            "bounding_boxes": [
+              {
+                "x": 186.94252134146342,
+                "y": 43.7384953482279,
+                "w": 60.93077286585364,
+                "h": 35.61653512528583
+              }
+            ],
+            "page_dimensions": {
+              "width": 261.12,
+              "height": 438.72
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is explicitly mentioned as 'తేది: 24-05-2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ఇన్వాయిస్ నం.:** SSI/24-25/1187\n**తేది:** 24-05-2024\n**చెల్లించవలసిన తేది:** 07-06-2024\n**స్థలం ఆఫ్ సప్లై:** తెలంగాణ (36)",
+            "bounding_boxes": [
+              {
+                "x": 186.94252134146342,
+                "y": 43.7384953482279,
+                "w": 60.93077286585364,
+                "h": 35.61653512528583
+              }
+            ],
+            "page_dimensions": {
+              "width": 261.12,
+              "height": 438.72
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is explicitly mentioned as 'చెల్లించవలసిన తేది: 07-06-2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ఇన్వాయిస్ నం.:** SSI/24-25/1187\n**తేది:** 24-05-2024\n**చెల్లించవలసిన తేది:** 07-06-2024\n**స్థలం ఆఫ్ సప్లై:** తెలంగాణ (36)",
+            "bounding_boxes": [
+              {
+                "x": 186.94252134146342,
+                "y": 43.7384953482279,
+                "w": 60.93077286585364,
+                "h": 35.61653512528583
+              }
+            ],
+            "page_dimensions": {
+              "width": 261.12,
+              "height": 438.72
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is at the top: 'శ్రీ సాయి ఇన్ఫోటెక్ సొల్యూషన్స్' translates to 'Sri Sai Infotech Solutions'.",
+        "confidence": 0.8858166373388379,
+        "extraction_confidence": 0.8858166373388379,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "Sri Sai Infotech Solutions stamp",
+            "bounding_boxes": [
+              {
+                "x": 62.32611265243902,
+                "y": 66.81871410537347,
+                "w": 68.66343795731707,
+                "h": 7.436636561547262
+              }
+            ],
+            "page_dimensions": {
+              "width": 261.12,
+              "height": 438.72
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "The vendor address is at the top of the invoice, translated to English.",
+        "confidence": 0.9723639029153281,
+        "extraction_confidence": 0.9723639029153281,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The customer name is given as 'మెసర్స్. విజ్ఞాన్ టెక్నాలజీస్ ప్రైవేట్ లిమిటెడ్', which translates to 'M/s. Vignan Technologies Private Limited'.",
+        "confidence": 0.9997179160890413,
+        "extraction_confidence": 0.9997179160890413,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The billing address is provided under the section labeled 'బిల్లింగ్ చిరునామా (Bill To)' and is translated to English.",
+        "confidence": 0.9708546117100257,
+        "extraction_confidence": 0.9708546117100257,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999495942390425,
+            "extraction_confidence": 0.9999495942390425,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1     | డెల్ 24\" LED మానిటర్ - E2423H           | 85285200 | 5             | Nos    | 8,000.00          | 9%                     | 40,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1     | డెల్ 24\" LED మానిటర్ - E2423H           | 85285200 | 5             | Nos    | 8,000.00          | 9%                     | 40,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9992757201352637,
+            "extraction_confidence": 0.9992757201352637,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1     | డెల్ 24\" LED మానిటర్ - E2423H           | 85285200 | 5             | Nos    | 8,000.00          | 9%                     | 40,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.8021501803034601,
+            "extraction_confidence": 0.8021501803034601,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1     | డెల్ 24\" LED మానిటర్ - E2423H           | 85285200 | 5             | Nos    | 8,000.00          | 9%                     | 40,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999926660403797,
+            "extraction_confidence": 0.9999926660403797,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2     | HP ప్రో డెస్క్ 400 G9 SFF డెస్క్‌టాప్   | 84715000 | 5             | Nos    | 45,000.00         | 9%                     | 2,25,000.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2     | HP ప్రో డెస్క్ 400 G9 SFF డెస్క్‌టాప్   | 84715000 | 5             | Nos    | 45,000.00         | 9%                     | 2,25,000.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999990687684815,
+            "extraction_confidence": 0.9999990687684815,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2     | HP ప్రో డెస్క్ 400 G9 SFF డెస్క్‌టాప్   | 84715000 | 5             | Nos    | 45,000.00         | 9%                     | 2,25,000.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3     | లాజిటెక్ కీబోర్డ్ K120                  | 84716060 | 5             | Nos    | 450.00            | 9%                     | 2,250.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999991805062738,
+            "extraction_confidence": 0.9999991805062738,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3     | లాజిటెక్ కీబోర్డ్ K120                  | 84716060 | 5             | Nos    | 450.00            | 9%                     | 2,250.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999995157818731,
+            "extraction_confidence": 0.9999995157818731,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3     | లాజిటెక్ కీబోర్డ్ K120                  | 84716060 | 5             | Nos    | 450.00            | 9%                     | 2,250.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4     | లాజిటెక్ ఆప్టికల్ మౌస్ B100             | 84716060 | 5             | Nos    | 300.00            | 9%                     | 1,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4     | లాజిటెక్ ఆప్టికల్ మౌస్ B100             | 84716060 | 5             | Nos    | 300.00            | 9%                     | 1,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4     | లాజిటెక్ ఆప్టికల్ మౌస్ B100             | 84716060 | 5             | Nos    | 300.00            | 9%                     | 1,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.999997526553595,
+            "extraction_confidence": 0.999997526553595,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5     | నుమెరిక్ 2KVA ఆన్‌లైన్ UPS              | 85044090 | 2             | Nos    | 18,000.00         | 9%                     | 36,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5     | నుమెరిక్ 2KVA ఆన్‌లైన్ UPS              | 85044090 | 2             | Nos    | 18,000.00         | 9%                     | 36,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5     | నుమెరిక్ 2KVA ఆన్‌లైన్ UPS              | 85044090 | 2             | Nos    | 18,000.00         | 9%                     | 36,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9994883646309496,
+            "extraction_confidence": 0.9994883646309496,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6     | కేటగిరీ 6 LAN కేబుల్ బంచ్ (305 మీటర్లు) | 85444920 | 2             | Box    | 3,200.00          | 18%                    | 6,400.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6     | కేటగిరీ 6 LAN కేబుల్ బంచ్ (305 మీటర్లు) | 85444920 | 2             | Box    | 3,200.00          | 18%                    | 6,400.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6     | కేటగిరీ 6 LAN కేబుల్ బంచ్ (305 మీటర్లు) | 85444920 | 2             | Box    | 3,200.00          | 18%                    | 6,400.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9998272695608006,
+            "extraction_confidence": 0.9998272695608006,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7     | D-లింక్ 24 పోర్ట్ స్విచ్ DGS-1024D      | 85176290 | 1             | Nos    | 7,500.00          | 18%                    | 7,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7     | D-లింక్ 24 పోర్ట్ స్విచ్ DGS-1024D      | 85176290 | 1             | Nos    | 7,500.00          | 18%                    | 7,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7     | D-లింక్ 24 పోర్ట్ స్విచ్ DGS-1024D      | 85176290 | 1             | Nos    | 7,500.00          | 18%                    | 7,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7     | D-లింక్ 24 పోర్ట్ స్విచ్ DGS-1024D      | 85176290 | 1             | Nos    | 7,500.00          | 18%                    | 7,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8     | TP-Link వైర్‌లెస్ రౌటర్ Archer C6       | 85176990 | 1             | Nos    | 2,600.00          | 18%                    | 2,600.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8     | TP-Link వైర్‌లెస్ రౌటర్ Archer C6       | 85176990 | 1             | Nos    | 2,600.00          | 18%                    | 2,600.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8     | TP-Link వైర్‌లెస్ రౌటర్ Archer C6       | 85176990 | 1             | Nos    | 2,600.00          | 18%                    | 2,600.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8     | TP-Link వైర్‌లెస్ రౌటర్ Archer C6       | 85176990 | 1             | Nos    | 2,600.00          | 18%                    | 2,600.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9     | సామ్‌సంగ్ 256GB SSD                     | 85235100 | 2             | Nos    | 2,400.00          | 18%                    | 4,800.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9     | సామ్‌సంగ్ 256GB SSD                     | 85235100 | 2             | Nos    | 2,400.00          | 18%                    | 4,800.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9     | సామ్‌సంగ్ 256GB SSD                     | 85235100 | 2             | Nos    | 2,400.00          | 18%                    | 4,800.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9     | సామ్‌సంగ్ 256GB SSD                     | 85235100 | 2             | Nos    | 2,400.00          | 18%                    | 4,800.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999953009568453,
+            "extraction_confidence": 0.9999953009568453,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10    | HP ఆల్-ఇన్-వన్ లేజర్ ప్రింటర్ MFP 136a  | 84433100 | 1             | Nos    | 12,500.00         | 18%                    | 12,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999217959217,
+            "extraction_confidence": 0.9999999217959217,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10    | HP ఆల్-ఇన్-వన్ లేజర్ ప్రింటర్ MFP 136a  | 84433100 | 1             | Nos    | 12,500.00         | 18%                    | 12,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10    | HP ఆల్-ఇన్-వన్ లేజర్ ప్రింటర్ MFP 136a  | 84433100 | 1             | Nos    | 12,500.00         | 18%                    | 12,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.368722313262195,
+                    "y": 144.54250798399391,
+                    "w": 235.2601536013719,
+                    "h": 171.82760241996954
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The subtotal is explicitly mentioned as 'సబ్ టోటల్ (₹): 3,39,050.00'.",
+        "confidence": 0.9740015994950257,
+        "extraction_confidence": 0.9740015994950257,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|       |                                         |          |               |        | సబ్ టోటల్ (₹)     |                        | 3,39,050.00 |",
+            "bounding_boxes": [
+              {
+                "x": 14.368722313262195,
+                "y": 144.54250798399391,
+                "w": 235.2601536013719,
+                "h": 171.82760241996954
+              }
+            ],
+            "page_dimensions": {
+              "width": 261.12,
+              "height": 438.72
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Sum of all tax lines: CGST @ 9% (14,895.00) + SGST @ 9% (14,895.00) + CGST @ 18% (15,570.00) + SGST @ 18% (15,570.00) = 60,930.00",
+        "confidence": 0.9999904563486077,
+        "extraction_confidence": 0.9999904563486077,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "The grand total is explicitly mentioned as 'గ్రాండ్ టోటల్ (₹): 4,00,000.00'.",
+        "confidence": 0.9994374598684481,
+        "extraction_confidence": 0.9994374598684481,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|       |                                         |          |               |        | గ్రాండ్ టోటల్ (₹) |                        | 4,00,000.00 |",
+            "bounding_boxes": [
+              {
+                "x": 14.368722313262195,
+                "y": 144.54250798399391,
+                "w": 235.2601536013719,
+                "h": 171.82760241996954
+              }
+            ],
+            "page_dimensions": {
+              "width": 261.12,
+              "height": 438.72
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are in rupees (₹), which is the symbol for Indian Rupees (INR).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Translated from the terms and conditions: 'చెల్లింపు నిబంధనలు: 100% అడ్వాన్స్ లేదా డెలివరీ సమయంతో.' means 'Payment terms: 100% advance or at the time of delivery.'",
+        "confidence": 0.8118758864412985,
+        "extraction_confidence": 0.8118758864412985,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "bd096eda-6426-47dd-bfd4-5b8d6bd29980",
+    "file_name": "invoice_azimg_20260519_155956_479_0005.png",
+    "file_hash": "12d86b4d-a6d9-4485-845d-325328c4b7e5",
+    "metadata": {
+      "job_id": "ext-rdn6sw5n4k5mzcoavtj84hwemer9"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_155956_479_0005.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_155956_479_0005.png"
+    }
+  ]
+}

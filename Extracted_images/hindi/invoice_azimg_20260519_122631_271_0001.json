@@ -1,0 +1,1168 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\hindi\\images\\invoice_azimg_20260519_122631_271_0001.png",
+  "language": "hindi",
+  "file_id": "151969fc-a15b-422d-b966-850a5dc661e9",
+  "record_id": {
+    "value": {
+      "result": "agd-okuuin3wyaq3ncyczb07ys28jfbg"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "Plot No. A-18, Sector-1, Pithampur Industrial Area, Dhar (M.P.) - 454775",
+      "customer_name": "M/s Sharda Industries Limited",
+      "due_date": "2025-02-23",
+      "invoice_date": "2025-01-24",
+      "invoice_number": "MEPL/24-25/1567",
+      "line_items": [
+        {
+          "amount": 22500.0,
+          "description": "M.S. Gear (Module 2.5)",
+          "quantity": 50.0,
+          "unit_price": 450.0
+        },
+        {
+          "amount": 12000.0,
+          "description": "CNC Bush",
+          "quantity": 100.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 24500.0,
+          "description": "Shaft (EN-8)",
+          "quantity": 25.0,
+          "unit_price": 980.0
+        },
+        {
+          "amount": 14000.0,
+          "description": "Pulley (B-Type)",
+          "quantity": 40.0,
+          "unit_price": 350.0
+        },
+        {
+          "amount": 13000.0,
+          "description": "Timing Belt (HTD 8M)",
+          "quantity": 20.0,
+          "unit_price": 650.0
+        },
+        {
+          "amount": 10800.0,
+          "description": "Bearing 6205",
+          "quantity": 60.0,
+          "unit_price": 180.0
+        },
+        {
+          "amount": 6300.0,
+          "description": "V-Belt (A-32)",
+          "quantity": 30.0,
+          "unit_price": 210.0
+        },
+        {
+          "amount": 15000.0,
+          "description": "Coupling (Module)",
+          "quantity": 20.0,
+          "unit_price": 750.0
+        },
+        {
+          "amount": 2400.0,
+          "description": "Allen Bolt M12X40",
+          "quantity": 200.0,
+          "unit_price": 12.0
+        },
+        {
+          "amount": 500.0,
+          "description": "Spring Washer M12",
+          "quantity": 200.0,
+          "unit_price": 2.5
+        }
+      ],
+      "payment_terms": "Payable in full by due date without deduction. 18% annual interest after due date.",
+      "subtotal": 121000.0,
+      "tax_amount": 21780.0,
+      "total_amount": 142780.0,
+      "vendor_address": "Plot No. 15, Sector-3, I.I.D.C., Industrial Area, Pithampur, District-Dhar (M.P.) - 454775",
+      "vendor_name": "Maitrey Engineers Pvt. Ltd."
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "Plot No. A-18, Sector-1, Pithampur Industrial Area, Dhar (M.P.) - 454775",
+      "customer_name": "M/s Sharda Industries Limited",
+      "due_date": "2025-02-23",
+      "invoice_date": "2025-01-24",
+      "invoice_number": "MEPL/24-25/1567",
+      "line_items": [
+        {
+          "amount": 22500.0,
+          "description": "M.S. Gear (Module 2.5)",
+          "quantity": 50.0,
+          "unit_price": 450.0
+        },
+        {
+          "amount": 12000.0,
+          "description": "CNC Bush",
+          "quantity": 100.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 24500.0,
+          "description": "Shaft (EN-8)",
+          "quantity": 25.0,
+          "unit_price": 980.0
+        },
+        {
+          "amount": 14000.0,
+          "description": "Pulley (B-Type)",
+          "quantity": 40.0,
+          "unit_price": 350.0
+        },
+        {
+          "amount": 13000.0,
+          "description": "Timing Belt (HTD 8M)",
+          "quantity": 20.0,
+          "unit_price": 650.0
+        },
+        {
+          "amount": 10800.0,
+          "description": "Bearing 6205",
+          "quantity": 60.0,
+          "unit_price": 180.0
+        },
+        {
+          "amount": 6300.0,
+          "description": "V-Belt (A-32)",
+          "quantity": 30.0,
+          "unit_price": 210.0
+        },
+        {
+          "amount": 15000.0,
+          "description": "Coupling (Module)",
+          "quantity": 20.0,
+          "unit_price": 750.0
+        },
+        {
+          "amount": 2400.0,
+          "description": "Allen Bolt M12X40",
+          "quantity": 200.0,
+          "unit_price": 12.0
+        },
+        {
+          "amount": 500.0,
+          "description": "Spring Washer M12",
+          "quantity": 200.0,
+          "unit_price": 2.5
+        }
+      ],
+      "payment_terms": "Payable in full by due date without deduction. 18% annual interest after due date.",
+      "subtotal": 121000.0,
+      "tax_amount": 21780.0,
+      "total_amount": 142780.0,
+      "vendor_address": "Plot No. 15, Sector-3, I.I.D.C., Industrial Area, Pithampur, District-Dhar (M.P.) - 454775",
+      "vendor_name": "Maitrey Engineers Pvt. Ltd."
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9922354917833337,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "Verbatim extraction.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "MEPL/24-25/1567",
+            "bounding_boxes": [
+              {
+                "x": 189.79,
+                "y": 70.8,
+                "w": 32.67,
+                "h": 5.04
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "Verbatim extraction and converted to ISO format.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चालान दिनांक** : 24/01/2025",
+            "bounding_boxes": [
+              {
+                "x": 161.06522926829268,
+                "y": 69.4099875,
+                "w": 71.97333658536584,
+                "h": 65.09877713414632
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "Verbatim extraction and converted to ISO format.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**देय दिनांक** : 23/02/2025",
+            "bounding_boxes": [
+              {
+                "x": 162.64,
+                "y": 87.12,
+                "w": 49.01,
+                "h": 21.84
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Translated the vendor name from Hindi to English.",
+        "confidence": 0.9999812032958084,
+        "extraction_confidence": 0.9999812032958084,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "Maitrey Engineers Pvt. Ltd. logo",
+            "bounding_boxes": [
+              {
+                "x": 36.80959024390244,
+                "y": 329.6000451219512,
+                "w": 61.8825,
+                "h": 5.201648780487794
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "Translated the vendor address from Hindi to English.",
+        "confidence": 0.9946120570559774,
+        "extraction_confidence": 0.9946120570559774,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "Translated the customer name from Hindi to English.",
+        "confidence": 0.9956265230751057,
+        "extraction_confidence": 0.9956265230751057,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "Translated the billing address from Hindi to English.",
+        "confidence": 0.9712343111994118,
+        "extraction_confidence": 0.9712343111994118,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999744775211138,
+            "extraction_confidence": 0.9999744775211138,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1    | एम.एस. गियर (मॉड्यूल 2.5) | 8483        | 50     | नग   | 450.00                    | 9                  | 9                  | 22,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9993563580863478,
+            "extraction_confidence": 0.9993563580863478,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1    | एम.एस. गियर (मॉड्यूल 2.5) | 8483        | 50     | नग   | 450.00                    | 9                  | 9                  | 22,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.8394154572771707,
+            "extraction_confidence": 0.8394154572771707,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1    | एम.एस. गियर (मॉड्यूल 2.5) | 8483        | 50     | नग   | 450.00                    | 9                  | 9                  | 22,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999998559933477,
+            "extraction_confidence": 0.9999998559933477,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2    | सी.एन.सी. बुस             | 8466        | 100    | नग   | 120.00                    | 9                  | 9                  | 12,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999958974779045,
+            "extraction_confidence": 0.9999958974779045,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2    | सी.एन.सी. बुस             | 8466        | 100    | नग   | 120.00                    | 9                  | 9                  | 12,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999767481515203,
+            "extraction_confidence": 0.9999767481515203,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2    | सी.एन.सी. बुस             | 8466        | 100    | नग   | 120.00                    | 9                  | 9                  | 12,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999999382828608,
+            "extraction_confidence": 0.9999999382828608,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3    | शाफ्ट (EN-8)              | 7228        | 25     | नग   | 980.00                    | 9                  | 9                  | 24,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3    | शाफ्ट (EN-8)              | 7228        | 25     | नग   | 980.00                    | 9                  | 9                  | 24,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999895797297486,
+            "extraction_confidence": 0.9999895797297486,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3    | शाफ्ट (EN-8)              | 7228        | 25     | नग   | 980.00                    | 9                  | 9                  | 24,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999833936236507,
+            "extraction_confidence": 0.9999833936236507,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3    | शाफ्ट (EN-8)              | 7228        | 25     | नग   | 980.00                    | 9                  | 9                  | 24,500.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999913851044171,
+            "extraction_confidence": 0.9999913851044171,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4    | पुली (बी-टाइप)            | 8483        | 40     | नग   | 350.00                    | 9                  | 9                  | 14,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999996325176344,
+            "extraction_confidence": 0.9999996325176344,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4    | पुली (बी-टाइप)            | 8483        | 40     | नग   | 350.00                    | 9                  | 9                  | 14,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999959098792403,
+            "extraction_confidence": 0.9999959098792403,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4    | पुली (बी-टाइप)            | 8483        | 40     | नग   | 350.00                    | 9                  | 9                  | 14,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5    | टाइमिंग बेल्ट (HTD 8M)    | 4010        | 20     | नग   | 650.00                    | 9                  | 9                  | 13,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5    | टाइमिंग बेल्ट (HTD 8M)    | 4010        | 20     | नग   | 650.00                    | 9                  | 9                  | 13,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999989681671971,
+            "extraction_confidence": 0.9999989681671971,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5    | टाइमिंग बेल्ट (HTD 8M)    | 4010        | 20     | नग   | 650.00                    | 9                  | 9                  | 13,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6    | बियरिंग 6205              | 8482        | 60     | नग   | 180.00                    | 9                  | 9                  | 10,800.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6    | बियरिंग 6205              | 8482        | 60     | नग   | 180.00                    | 9                  | 9                  | 10,800.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999996325176344,
+            "extraction_confidence": 0.9999996325176344,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6    | बियरिंग 6205              | 8482        | 60     | नग   | 180.00                    | 9                  | 9                  | 10,800.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999991879720007,
+            "extraction_confidence": 0.9999991879720007,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6    | बियरिंग 6205              | 8482        | 60     | नग   | 180.00                    | 9                  | 9                  | 10,800.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999966940012371,
+            "extraction_confidence": 0.9999966940012371,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999976085260048,
+            "extraction_confidence": 0.9999976085260048,
+            "parsing_confidence": 1.0,
+            "citation": null
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999999374367368,
+            "extraction_confidence": 0.9999999374367368,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8    | कपलिंग (मॉड्यूल)          | 8483        | 20     | नग   | 750.00                    | 9                  | 9                  | 15,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8    | कपलिंग (मॉड्यूल)          | 8483        | 20     | नग   | 750.00                    | 9                  | 9                  | 15,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999988303614257,
+            "extraction_confidence": 0.9999988303614257,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8    | कपलिंग (मॉड्यूल)          | 8483        | 20     | नग   | 750.00                    | 9                  | 9                  | 15,000.00   |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999999155951743,
+            "extraction_confidence": 0.9999999155951743,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9    | एलन बोल्ट M12X40          | 7318        | 200    | नग   | 12.00                     | 9                  | 9                  | 2,400.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999743616705993,
+            "extraction_confidence": 0.9999743616705993,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9    | एलन बोल्ट M12X40          | 7318        | 200    | नग   | 12.00                     | 9                  | 9                  | 2,400.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999991581711347,
+            "extraction_confidence": 0.9999991581711347,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9    | एलन बोल्ट M12X40          | 7318        | 200    | नग   | 12.00                     | 9                  | 9                  | 2,400.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10   | स्प्रिंग वॉशर M12         | 7318        | 200    | नग   | 2.50                      | 9                  | 9                  | 500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9958387968299138,
+            "extraction_confidence": 0.9958387968299138,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10   | स्प्रिंग वॉशर M12         | 7318        | 200    | नग   | 2.50                      | 9                  | 9                  | 500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated item description and extracted numerical values.",
+            "confidence": 0.9999954206652503,
+            "extraction_confidence": 0.9999954206652503,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10   | स्प्रिंग वॉशर M12         | 7318        | 200    | नग   | 2.50                      | 9                  | 9                  | 500.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.682407012195122,
+                    "y": 135.8802182926829,
+                    "w": 231.13211981707317,
+                    "h": 190.6734695121951
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "Verbatim extraction from 'कुल राशि (₹)' which is subtotal before tax.",
+        "confidence": 0.9928312068588153,
+        "extraction_confidence": 0.9928312068588153,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|      |                           |             |        |      | कुल राशि (₹)              |                    |                    | 1,21,000.00 |",
+            "bounding_boxes": [
+              {
+                "x": 5.682407012195122,
+                "y": 135.8802182926829,
+                "w": 231.13211981707317,
+                "h": 190.6734695121951
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Sum of CGST and SGST: 10,890.00 + 10,890.00 = 21,780.00.",
+        "confidence": 0.9999729635313657,
+        "extraction_confidence": 0.9999729635313657,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "Verbatim extraction from 'कुल देय राशि (₹)' and 'भुगतान योग्य कुल राशि (₹)' which is 1,42,780.00.",
+        "confidence": 0.9999916297726664,
+        "extraction_confidence": 0.9999916297726664,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|      |                           |             |        |      | कुल देय राशि (₹)          |                    |                    | 1,42,780.00 |",
+            "bounding_boxes": [
+              {
+                "x": 5.682407012195122,
+                "y": 135.8802182926829,
+                "w": 231.13211981707317,
+                "h": 190.6734695121951
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are denoted with the symbol ₹, which is the Indian Rupee (INR).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Translated from the terms section: 'Pay the above material in full by the due date without any deduction.'",
+        "confidence": 0.8075187657321363,
+        "extraction_confidence": 0.8075187657321363,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "151969fc-a15b-422d-b966-850a5dc661e9",
+    "file_name": "invoice_azimg_20260519_122631_271_0001.png",
+    "file_hash": "55439ebd-0f18-40b6-9d4c-5199dc81c95d",
+    "metadata": {
+      "job_id": "ext-22zmtowfns7ko6agjwc37sb8f8bw"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_122631_271_0001.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_122631_271_0001.png"
+    }
+  ]
+}

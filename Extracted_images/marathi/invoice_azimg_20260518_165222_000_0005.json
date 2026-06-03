@@ -1,0 +1,1168 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\marathi\\images\\invoice_azimg_20260518_165222_000_0005.png",
+  "language": "marathi",
+  "file_id": "53f65e58-4ad9-49fa-9f6f-0d63bd8b2b47",
+  "record_id": {
+    "value": {
+      "result": "agd-5lh9b6ubpvx5byz3v60e1jfbwhka"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "Messrs. Arogya Medilam Stores, Shop No. 12, Mahatma Phule Complex, Basement Road, Alibag, Dist. Raigad - 402201, Maharashtra",
+      "customer_name": "Messrs. Arogya Medilam Stores",
+      "due_date": "2024-05-07",
+      "invoice_date": "2024-04-23",
+      "invoice_number": "SSM/24-25/1178",
+      "line_items": [
+        {
+          "amount": 1250.0,
+          "description": "Paracetamol Tablets IP 650 mg",
+          "quantity": 100.0,
+          "unit_price": 12.5
+        },
+        {
+          "amount": 2250.0,
+          "description": "Amoxicillin Capsules IP 500 mg",
+          "quantity": 50.0,
+          "unit_price": 45.0
+        },
+        {
+          "amount": 2200.0,
+          "description": "Omeprazole Capsules IP 20 mg",
+          "quantity": 100.0,
+          "unit_price": 22.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Aceclofenac Tablets IP 100 mg",
+          "quantity": 100.0,
+          "unit_price": 15.0
+        },
+        {
+          "amount": 1800.0,
+          "description": "Cetirizine Dihydrochloride Tablets IP 10 mg",
+          "quantity": 100.0,
+          "unit_price": 18.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Domperidone Tablets IP 10 mg",
+          "quantity": 50.0,
+          "unit_price": 20.0
+        },
+        {
+          "amount": 1860.0,
+          "description": "Azithromycin Tablets IP 500 mg",
+          "quantity": 30.0,
+          "unit_price": 62.0
+        },
+        {
+          "amount": 1750.0,
+          "description": "Ibuprofen Tablets IP 400 mg",
+          "quantity": 100.0,
+          "unit_price": 17.5
+        },
+        {
+          "amount": 2750.0,
+          "description": "Pehitamin B-Complex Syrup 200 ml",
+          "quantity": 50.0,
+          "unit_price": 55.0
+        },
+        {
+          "amount": 650.0,
+          "description": "O.R.S. Powder IP 21.80 gm",
+          "quantity": 100.0,
+          "unit_price": 6.5
+        }
+      ],
+      "payment_terms": "Net 14",
+      "subtotal": 17010.0,
+      "tax_amount": 2041.2,
+      "total_amount": 19051.0,
+      "vendor_address": "Shop No. 4, Ground Floor, Anand Apartment, Station Road, Panvel, Dist. Raigad - 410206",
+      "vendor_name": "Shri Swami Samarth Medicals"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "Messrs. Arogya Medilam Stores, Shop No. 12, Mahatma Phule Complex, Basement Road, Alibag, Dist. Raigad - 402201, Maharashtra",
+      "customer_name": "Messrs. Arogya Medilam Stores",
+      "due_date": "2024-05-07",
+      "invoice_date": "2024-04-23",
+      "invoice_number": "SSM/24-25/1178",
+      "line_items": [
+        {
+          "amount": 1250.0,
+          "description": "Paracetamol Tablets IP 650 mg",
+          "quantity": 100.0,
+          "unit_price": 12.5
+        },
+        {
+          "amount": 2250.0,
+          "description": "Amoxicillin Capsules IP 500 mg",
+          "quantity": 50.0,
+          "unit_price": 45.0
+        },
+        {
+          "amount": 2200.0,
+          "description": "Omeprazole Capsules IP 20 mg",
+          "quantity": 100.0,
+          "unit_price": 22.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Aceclofenac Tablets IP 100 mg",
+          "quantity": 100.0,
+          "unit_price": 15.0
+        },
+        {
+          "amount": 1800.0,
+          "description": "Cetirizine Dihydrochloride Tablets IP 10 mg",
+          "quantity": 100.0,
+          "unit_price": 18.0
+        },
+        {
+          "amount": 1000.0,
+          "description": "Domperidone Tablets IP 10 mg",
+          "quantity": 50.0,
+          "unit_price": 20.0
+        },
+        {
+          "amount": 1860.0,
+          "description": "Azithromycin Tablets IP 500 mg",
+          "quantity": 30.0,
+          "unit_price": 62.0
+        },
+        {
+          "amount": 1750.0,
+          "description": "Ibuprofen Tablets IP 400 mg",
+          "quantity": 100.0,
+          "unit_price": 17.5
+        },
+        {
+          "amount": 2750.0,
+          "description": "Pehitamin B-Complex Syrup 200 ml",
+          "quantity": 50.0,
+          "unit_price": 55.0
+        },
+        {
+          "amount": 650.0,
+          "description": "O.R.S. Powder IP 21.80 gm",
+          "quantity": 100.0,
+          "unit_price": 6.5
+        }
+      ],
+      "payment_terms": "Net 14",
+      "subtotal": 17010.0,
+      "tax_amount": 2041.2,
+      "total_amount": 19051.0,
+      "vendor_address": "Shop No. 4, Ground Floor, Anand Apartment, Station Road, Panvel, Dist. Raigad - 410206",
+      "vendor_name": "Shri Swami Samarth Medicals"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9951771220448692,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is given as 'चलन क्रमांक : SSM/24-25/1178'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चलन क्रमांक** : SSM/24-25/1178",
+            "bounding_boxes": [
+              {
+                "x": 13.45,
+                "y": 71.52,
+                "w": 55.97,
+                "h": 6.72
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is given as 'चलन दिनांक : 23/04/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चलन क्रमांक** : SSM/24-25/1178\n**चलन दिनांक** : 23/04/2024\n**देय दिनांक** : 07/05/2024\n**पुरवठा ठिकाण** : महाराष्ट्र (27)",
+            "bounding_boxes": [
+              {
+                "x": 13.241991768292683,
+                "y": 72.24512835365853,
+                "w": 55.989110670731705,
+                "h": 34.464585365853665
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is given as 'देय दिनांक : 07/05/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चलन क्रमांक** : SSM/24-25/1178\n**चलन दिनांक** : 23/04/2024\n**देय दिनांक** : 07/05/2024\n**पुरवठा ठिकाण** : महाराष्ट्र (27)",
+            "bounding_boxes": [
+              {
+                "x": 13.241991768292683,
+                "y": 72.24512835365853,
+                "w": 55.989110670731705,
+                "h": 34.464585365853665
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is 'श्री स्वामी समर्थ मेडिकल्स', translated as 'Shri Swami Samarth Medicals'.",
+        "confidence": 0.9999999757984191,
+        "extraction_confidence": 0.9999999757984191,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "vendor_address": {
+        "reasoning": "The vendor address is at the top and bottom of the invoice, translated to English.",
+        "confidence": 0.999577085305238,
+        "extraction_confidence": 0.999577085305238,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The customer name is 'मेसर्स आरोग्य मेडिलम स्टोर्स', which translates to 'Messrs. Arogya Medilam Stores'.",
+        "confidence": 0.9997745246262963,
+        "extraction_confidence": 0.9997745246262963,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The billing address is provided under 'बिल करण्याचे नांव व पत्ता (Billing Address)' and is translated to English.",
+        "confidence": 0.9631137035182024,
+        "extraction_confidence": 0.9631137035182024,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9757829292790159,
+            "extraction_confidence": 0.9757829292790159,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 100    | Strip  | 12.50  | 6%                 | 6%                 | 1,250.00  |\n| 2                               | अॅमॉक्सिसिलिन कॅप्सूल आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9172965174240566,
+            "extraction_confidence": 0.9172965174240566,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 100    | Strip  | 12.50  | 6%                 | 6%                 | 1,250.00  |\n| 2                               | अॅमॉक्सिसिलिन कॅप्सूल आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9056814156923041,
+            "extraction_confidence": 0.9056814156923041,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 100    | Strip  | 12.50  | 6%                 | 6%                 | 1,250.00  |\n| 2                               | अॅमॉक्सिसिलिन कॅप्सूल आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9998703761942602,
+            "extraction_confidence": 0.9998703761942602,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30041019  | 50     | Strip  | 45.00  | 6%                 | 6%                 | 2,250.00  |\n| 3                               | ओमेप्राझोल कॅप्सूल आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9989366738517983,
+            "extraction_confidence": 0.9989366738517983,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30041019  | 50     | Strip  | 45.00  | 6%                 | 6%                 | 2,250.00  |\n| 3                               | ओमेप्राझोल कॅप्सूल आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999926317974283,
+            "extraction_confidence": 0.9999926317974283,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30041019  | 50     | Strip  | 45.00  | 6%                 | 6%                 | 2,250.00  |\n| 3                               | ओमेप्राझोल कॅप्सूल आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999999784874837,
+            "extraction_confidence": 0.9999999784874837,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049099  | 100    | Strip  | 22.00  | 6%                 | 6%                 | 2,200.00  |\n| 4                               | अॅसिलोफेनॅक गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999848911125456,
+            "extraction_confidence": 0.9999848911125456,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049099  | 100    | Strip  | 22.00  | 6%                 | 6%                 | 2,200.00  |\n| 4                               | अॅसिलोफेनॅक गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.999992810601421,
+            "extraction_confidence": 0.999992810601421,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049099  | 100    | Strip  | 22.00  | 6%                 | 6%                 | 2,200.00  |\n| 4                               | अॅसिलोफेनॅक गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 100    | Strip  | 15.00  | 6%                 | 6%                 | 1,500.00  |\n| 5                               | सिट्रिझिन डाईहाइड्रोक्लोराईड गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999910498940462,
+            "extraction_confidence": 0.9999910498940462,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 100    | Strip  | 15.00  | 6%                 | 6%                 | 1,500.00  |\n| 5                               | सिट्रिझिन डाईहाइड्रोक्लोराईड गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999808307919119,
+            "extraction_confidence": 0.9999808307919119,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 100    | Strip  | 15.00  | 6%                 | 6%                 | 1,500.00  |\n| 5                               | सिट्रिझिन डाईहाइड्रोक्लोराईड गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999999662380689,
+            "extraction_confidence": 0.9999999662380689,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 100    | Strip  | 18.00  | 6%                 | 6%                 | 1,800.00  |\n| 6                               | डोमपेरिडोन गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999997914558093,
+            "extraction_confidence": 0.9999997914558093,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 100    | Strip  | 18.00  | 6%                 | 6%                 | 1,800.00  |\n| 6                               | डोमपेरिडोन गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999996349854845,
+            "extraction_confidence": 0.9999996349854845,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 100    | Strip  | 18.00  | 6%                 | 6%                 | 1,800.00  |\n| 6                               | डोमपेरिडोन गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 50     | Strip  | 20.00  | 6%                 | 6%                 | 1,000.00  |\n| 7                               | अॅझिथ्रोमायसिन गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999996175860865,
+            "extraction_confidence": 0.9999996175860865,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 50     | Strip  | 20.00  | 6%                 | 6%                 | 1,000.00  |\n| 7                               | अॅझिथ्रोमायसिन गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999969827083578,
+            "extraction_confidence": 0.9999969827083578,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 50     | Strip  | 20.00  | 6%                 | 6%                 | 1,000.00  |\n| 7                               | अॅझिथ्रोमायसिन गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 30     | Strip  | 62.00  | 6%                 | 6%                 | 1,860.00  |\n| 8                               | आयबुप्रोफेन गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999988378271617,
+            "extraction_confidence": 0.9999988378271617,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 30     | Strip  | 62.00  | 6%                 | 6%                 | 1,860.00  |\n| 8                               | आयबुप्रोफेन गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999990091667078,
+            "extraction_confidence": 0.9999990091667078,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 30     | Strip  | 62.00  | 6%                 | 6%                 | 1,860.00  |\n| 8                               | आयबुप्रोफेन गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 100    | Strip  | 17.50  | 6%                 | 6%                 | 1,750.00  |\n| 9                               | पेहिटामिन बी-कॉम्प्लेक्स सिरप 200 मि.ली.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.999691423441837,
+            "extraction_confidence": 0.999691423441837,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 100    | Strip  | 17.50  | 6%                 | 6%                 | 1,750.00  |\n| 9                               | पेहिटामिन बी-कॉम्प्लेक्स सिरप 200 मि.ली.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999998323931861,
+            "extraction_confidence": 0.9999998323931861,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 100    | Strip  | 17.50  | 6%                 | 6%                 | 1,750.00  |\n| 9                               | पेहिटामिन बी-कॉम्प्लेक्स सिरप 200 मि.ली.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9995391926568132,
+            "extraction_confidence": 0.9995391926568132,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30045039  | 50     | Bottle | 55.00  | 6%                 | 6%                 | 2,750.00  |\n| 10                              | ओ.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.999993791557285,
+            "extraction_confidence": 0.999993791557285,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30045039  | 50     | Bottle | 55.00  | 6%                 | 6%                 | 2,750.00  |\n| 10                              | ओ.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999991283702447,
+            "extraction_confidence": 0.9999991283702447,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30045039  | 50     | Bottle | 55.00  | 6%                 | 6%                 | 2,750.00  |\n| 10                              | ओ.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9998043429609441,
+            "extraction_confidence": 0.9998043429609441,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 30049069  | 100    | Strip  | 15.00  | 6%                 | 6%                 | 1,500.00  |\n| 5                               | सिट्रिझिन डाईहाइड्रोक्लोराईड गोळ्या आय.पी.",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.999691423441837,
+            "extraction_confidence": 0.999691423441837,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                              | ओ. आर. एस. पावडर आय.पी. 21.80 ग्रॅ.                    | 30049099  | 100    | Packet | 6.50   | 6%                 | 6%                 | 650.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product name and extracted quantity, unit price, and amount from the table.",
+            "confidence": 0.9999494514966105,
+            "extraction_confidence": 0.9999494514966105,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                              | ओ. आर. एस. पावडर आय.पी. 21.80 ग्रॅ.                    | 30049099  | 100    | Packet | 6.50   | 6%                 | 6%                 | 650.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 6.177773323170731,
+                    "y": 123.46491585365854,
+                    "w": 234.47526082317074,
+                    "h": 191.68500365853654
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The subtotal is the 'एकूण रक्कम (₹)' which is 17,010.00.",
+        "confidence": 0.9906746343752412,
+        "extraction_confidence": 0.9906746343752412,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                 |                                                        |           |        |        |        | एकूण रक्कम (₹)     |                    | 17,010.00 |",
+            "bounding_boxes": [
+              {
+                "x": 6.177773323170731,
+                "y": 123.46491585365854,
+                "w": 234.47526082317074,
+                "h": 191.68500365853654
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "The total tax amount is 'एकूण कर रक्कम (₹)' which is 2,041.20.",
+        "confidence": 0.99998931272675,
+        "extraction_confidence": 0.99998931272675,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "The final total amount due is 'एकूण देय रक्कम (₹)' which is 19,051.00.",
+        "confidence": 0.9999085785703501,
+        "extraction_confidence": 0.9999085785703501,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                 |                                                        |           |        |        |        | एकूण देय रक्कम (₹) |                    | 19,051.00 |",
+            "bounding_boxes": [
+              {
+                "x": 6.177773323170731,
+                "y": 123.46491585365854,
+                "w": 234.47526082317074,
+                "h": 191.68500365853654
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The currency symbol ₹ is used throughout the invoice, which is the symbol for Indian Rupees (INR).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Payment terms are not explicitly stated, but the due date is 14 days after the invoice date, suggesting 'Net 14'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "53f65e58-4ad9-49fa-9f6f-0d63bd8b2b47",
+    "file_name": "invoice_azimg_20260518_165222_000_0005.png",
+    "file_hash": "62efd6e1-7724-4d8b-86f3-59f725f0cd45",
+    "metadata": {
+      "job_id": "ext-v7pt8plkrpvj0hnuxaxa1g3593a4"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260518_165222_000_0005.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_165222_000_0005.png"
+    }
+  ]
+}

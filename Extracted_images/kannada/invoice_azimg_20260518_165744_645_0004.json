@@ -1,0 +1,1168 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\kannada\\images\\invoice_azimg_20260518_165744_645_0004.png",
+  "language": "kannada",
+  "file_id": "8d6ff93e-e5d4-4cfb-8447-71c4dae3afac",
+  "record_id": {
+    "value": {
+      "result": "agd-5kiwu74sc0d21jca0e1993dxrc10"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "M/s Sri Vinayaka Stores, #5-3-150, Gandhi Road, Mandya - 571 401, Karnataka",
+      "customer_name": "M/s Sri Vinayaka Stores",
+      "due_date": "2024-06-08",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "SLD/24-25/01158",
+      "line_items": [
+        {
+          "amount": 2900.0,
+          "description": "Ariel Magic Detergent Powder 1 Kg",
+          "quantity": 20.0,
+          "unit_price": 145.0
+        },
+        {
+          "amount": 3900.0,
+          "description": "Tide Detergent Powder 2 Kg",
+          "quantity": 15.0,
+          "unit_price": 260.0
+        },
+        {
+          "amount": 1320.0,
+          "description": "Vintos Glass Cleaner 500 ml",
+          "quantity": 24.0,
+          "unit_price": 55.0
+        },
+        {
+          "amount": 1872.0,
+          "description": "Harpic Toilet Cleaner 500 ml",
+          "quantity": 24.0,
+          "unit_price": 78.0
+        },
+        {
+          "amount": 2640.0,
+          "description": "Glade Air Freshener 300 ml",
+          "quantity": 24.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Neem Soap 200 gm",
+          "quantity": 50.0,
+          "unit_price": 12.0
+        },
+        {
+          "amount": 1440.0,
+          "description": "Sunlight Dish Wash 500 ml",
+          "quantity": 24.0,
+          "unit_price": 60.0
+        },
+        {
+          "amount": 1368.0,
+          "description": "Dove Beauty Soap 100 gm",
+          "quantity": 36.0,
+          "unit_price": 38.0
+        },
+        {
+          "amount": 3060.0,
+          "description": "Colgate Toothpaste 200 gm",
+          "quantity": 36.0,
+          "unit_price": 85.0
+        },
+        {
+          "amount": 1344.0,
+          "description": "Vicks VapoRub 50 gm",
+          "quantity": 24.0,
+          "unit_price": 56.0
+        }
+      ],
+      "payment_terms": "1. Payment must be made within 15 days of delivery. 2. Cheque bounce charge Rs. 500/-. 3. Goods once sold will not be taken back. 4. Disputes subject to Mandya jurisdiction.",
+      "subtotal": 20444.0,
+      "tax_amount": 3679.92,
+      "total_amount": 24124.0,
+      "vendor_address": "#12-1-38/1, Gopalaswamy Layout, 1st Main Road, Vijayanagar, Bangalore - 560040, Karnataka",
+      "vendor_name": "Sri Lakshmi Distributors"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "M/s Sri Vinayaka Stores, #5-3-150, Gandhi Road, Mandya - 571 401, Karnataka",
+      "customer_name": "M/s Sri Vinayaka Stores",
+      "due_date": "2024-06-08",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "SLD/24-25/01158",
+      "line_items": [
+        {
+          "amount": 2900.0,
+          "description": "Ariel Magic Detergent Powder 1 Kg",
+          "quantity": 20.0,
+          "unit_price": 145.0
+        },
+        {
+          "amount": 3900.0,
+          "description": "Tide Detergent Powder 2 Kg",
+          "quantity": 15.0,
+          "unit_price": 260.0
+        },
+        {
+          "amount": 1320.0,
+          "description": "Vintos Glass Cleaner 500 ml",
+          "quantity": 24.0,
+          "unit_price": 55.0
+        },
+        {
+          "amount": 1872.0,
+          "description": "Harpic Toilet Cleaner 500 ml",
+          "quantity": 24.0,
+          "unit_price": 78.0
+        },
+        {
+          "amount": 2640.0,
+          "description": "Glade Air Freshener 300 ml",
+          "quantity": 24.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Neem Soap 200 gm",
+          "quantity": 50.0,
+          "unit_price": 12.0
+        },
+        {
+          "amount": 1440.0,
+          "description": "Sunlight Dish Wash 500 ml",
+          "quantity": 24.0,
+          "unit_price": 60.0
+        },
+        {
+          "amount": 1368.0,
+          "description": "Dove Beauty Soap 100 gm",
+          "quantity": 36.0,
+          "unit_price": 38.0
+        },
+        {
+          "amount": 3060.0,
+          "description": "Colgate Toothpaste 200 gm",
+          "quantity": 36.0,
+          "unit_price": 85.0
+        },
+        {
+          "amount": 1344.0,
+          "description": "Vicks VapoRub 50 gm",
+          "quantity": 24.0,
+          "unit_price": 56.0
+        }
+      ],
+      "payment_terms": "1. Payment must be made within 15 days of delivery. 2. Cheque bounce charge Rs. 500/-. 3. Goods once sold will not be taken back. 4. Disputes subject to Mandya jurisdiction.",
+      "subtotal": 20444.0,
+      "tax_amount": 3679.92,
+      "total_amount": 24124.0,
+      "vendor_address": "#12-1-38/1, Gopalaswamy Layout, 1st Main Road, Vijayanagar, Bangalore - 560040, Karnataka",
+      "vendor_name": "Sri Lakshmi Distributors"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9689269694974288,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is given as 'ಇನ್ವಾಯ್ಸ್ ಸಂಖ್ಯೆ : SLD/24-25/01158'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ಇನ್ವಾಯ್ಸ್ ಸಂಖ್ಯೆ** : SLD/24-25/01158",
+            "bounding_boxes": [
+              {
+                "x": 62.94,
+                "y": 72.96,
+                "w": 37.96,
+                "h": 6.0
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is given as 'ದಿನಾಂಕ : 24-05-2024' and 'ಬಿಲ್ ದಿನಾಂಕ : 24-05-2024'.",
+        "confidence": 0.999999355578703,
+        "extraction_confidence": 0.999999355578703,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ಇನ್ವಾಯ್ಸ್ ಸಂಖ್ಯೆ** : SLD/24-25/01158\n**ದಿನಾಂಕ** : 24-05-2024\n**ಬಿಲ್ ದಿನಾಂಕ** : 24-05-2024\n**ದೇವಾಯ ದಿನಾಂಕ** : 08-06-2024\n**Place of Supply / ಸರಬರಾಜು ಸ್ಥಳ :**\nಕರ್ನಾಟಕ (29)",
+            "bounding_boxes": [
+              {
+                "x": 69.00733902439025,
+                "y": 74.29566310975609,
+                "w": 31.62935853658536,
+                "h": 4.3032713414634145
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is explicitly mentioned as 'ದೇವಾಯ ದಿನಾಂಕ : 08-06-2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ಇನ್ವಾಯ್ಸ್ ಸಂಖ್ಯೆ** : SLD/24-25/01158\n**ದಿನಾಂಕ** : 24-05-2024\n**ಬಿಲ್ ದಿನಾಂಕ** : 24-05-2024\n**ದೇವಾಯ ದಿನಾಂಕ** : 08-06-2024\n**Place of Supply / ಸರಬರಾಜು ಸ್ಥಳ :**\nಕರ್ನಾಟಕ (29)",
+            "bounding_boxes": [
+              {
+                "x": 69.00733902439025,
+                "y": 74.29566310975609,
+                "w": 31.62935853658536,
+                "h": 4.3032713414634145
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is 'ಶ್ರೀ ಲಕ್ಷ್ಮೀ ಡಿಸ್ಟ್ರಿಬ್ಯೂಟರ್ಸ್', which translates to 'Sri Lakshmi Distributors'.",
+        "confidence": 0.9540070351962385,
+        "extraction_confidence": 0.9540070351962385,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ಖಾತೆಯ ಹೆಸರು** : SRI LAKSHMI DISTRIBUTORS",
+            "bounding_boxes": [
+              {
+                "x": 24.98,
+                "y": 341.76,
+                "w": 83.84,
+                "h": 6.0
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "The vendor address is provided in Kannada and translated to English.",
+        "confidence": 0.9669703175485195,
+        "extraction_confidence": 0.9669703175485195,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The customer name is 'ಮೇಸರ್ಸ್ ಶ್ರೀ ವಿನಾಯಕ ಸ್ಟೋರ್ಸ್', which translates to 'M/s Sri Vinayaka Stores'.",
+        "confidence": 0.998478012636972,
+        "extraction_confidence": 0.998478012636972,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The billing address is provided in Kannada and translated to English.",
+        "confidence": 0.9742661239892361,
+        "extraction_confidence": 0.9742661239892361,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated line item 1 from Kannada to English, preserved numerical values.",
+            "confidence": 0.8790665220004993,
+            "extraction_confidence": 0.8790665220004993,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 1 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9989594624748243,
+            "extraction_confidence": 0.9989594624748243,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 1 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999936078174534,
+            "extraction_confidence": 0.9999936078174534,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "amount": {
+            "reasoning": "Translated line item 1 from Kannada to English, preserved numerical values.",
+            "confidence": 0.13230019775649612,
+            "extraction_confidence": 0.13230019775649612,
+            "parsing_confidence": 1.0,
+            "citation": null
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 2 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9786821987722341,
+            "extraction_confidence": 0.9786821987722341,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 2 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9993919746123784,
+            "extraction_confidence": 0.9993919746123784,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2              | ಟೈಡ್ ಡಿಟರ್ಜೆಂಟ್ ಪುಡಿ 2 Kg            | 3402    | 15     | ಪ್ಯಾಕ್   | ₹ 260.00                   | 9%                | 9%                | ₹ 3,900.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 2 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999870888829204,
+            "extraction_confidence": 0.9999870888829204,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2              | ಟೈಡ್ ಡಿಟರ್ಜೆಂಟ್ ಪುಡಿ 2 Kg            | 3402    | 15     | ಪ್ಯಾಕ್   | ₹ 260.00                   | 9%                | 9%                | ₹ 3,900.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 2 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9823642674629315,
+            "extraction_confidence": 0.9823642674629315,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2              | ಟೈಡ್ ಡಿಟರ್ಜೆಂಟ್ ಪುಡಿ 2 Kg            | 3402    | 15     | ಪ್ಯಾಕ್   | ₹ 260.00                   | 9%                | 9%                | ₹ 3,900.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 3 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999810265845769,
+            "extraction_confidence": 0.9999810265845769,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 3 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9995937904474806,
+            "extraction_confidence": 0.9995937904474806,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3              | ವಿಂಟೋಸ್ ಗ್ಲಾಸ್ ಕ್ಲೀನರ್ 500 ml        | 3402    | 24     | ಬಾಟಲ್    | ₹ 55.00                    | 9%                | 9%                | ₹ 1,320.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 3 from Kannada to English, preserved numerical values.",
+            "confidence": 0.671076001685177,
+            "extraction_confidence": 0.671076001685177,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3              | ವಿಂಟೋಸ್ ಗ್ಲಾಸ್ ಕ್ಲೀನರ್ 500 ml        | 3402    | 24     | ಬಾಟಲ್    | ₹ 55.00                    | 9%                | 9%                | ₹ 1,320.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 3 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9987207730739179,
+            "extraction_confidence": 0.9987207730739179,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3              | ವಿಂಟೋಸ್ ಗ್ಲಾಸ್ ಕ್ಲೀನರ್ 500 ml        | 3402    | 24     | ಬಾಟಲ್    | ₹ 55.00                    | 9%                | 9%                | ₹ 1,320.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 4 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999893578603364,
+            "extraction_confidence": 0.9999893578603364,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 4 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9997969625422383,
+            "extraction_confidence": 0.9997969625422383,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4              | ಹಾರ್ಪಿಕ್ ಟಾಯ್ಲೆಟ್ ಕ್ಲೀನರ್ 500 ml     | 3402    | 24     | ಬಾಟಲ್    | ₹ 78.00                    | 9%                | 9%                | ₹ 1,872.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 4 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999951673276029,
+            "extraction_confidence": 0.9999951673276029,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4              | ಹಾರ್ಪಿಕ್ ಟಾಯ್ಲೆಟ್ ಕ್ಲೀನರ್ 500 ml     | 3402    | 24     | ಬಾಟಲ್    | ₹ 78.00                    | 9%                | 9%                | ₹ 1,872.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 4 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9931130046702199,
+            "extraction_confidence": 0.9931130046702199,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4              | ಹಾರ್ಪಿಕ್ ಟಾಯ್ಲೆಟ್ ಕ್ಲೀನರ್ 500 ml     | 3402    | 24     | ಬಾಟಲ್    | ₹ 78.00                    | 9%                | 9%                | ₹ 1,872.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 5 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999991209044461,
+            "extraction_confidence": 0.9999991209044461,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 5 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999249493036708,
+            "extraction_confidence": 0.9999249493036708,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5              | ಗ್ಲೇಡ್ ಏರ್ ಫ್ರೆಶ್ನರ್ 300 ml          | 3307    | 24     | ಕ್ಯಾನ್   | ₹ 110.00                   | 9%                | 9%                | ₹ 2,640.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 5 from Kannada to English, preserved numerical values.",
+            "confidence": 0.999997829533419,
+            "extraction_confidence": 0.999997829533419,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5              | ಗ್ಲೇಡ್ ಏರ್ ಫ್ರೆಶ್ನರ್ 300 ml          | 3307    | 24     | ಕ್ಯಾನ್   | ₹ 110.00                   | 9%                | 9%                | ₹ 2,640.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 5 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999805451892944,
+            "extraction_confidence": 0.9999805451892944,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5              | ಗ್ಲೇಡ್ ಏರ್ ಫ್ರೆಶ್ನರ್ 300 ml          | 3307    | 24     | ಕ್ಯಾನ್   | ₹ 110.00                   | 9%                | 9%                | ₹ 2,640.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 6 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9993195674016085,
+            "extraction_confidence": 0.9993195674016085,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 6 from Kannada to English, preserved numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6              | ನೀಮ್ ಸಾಬೂನ್ 200 gm                   | 3401    | 50     | ಪೀಸ್     | ₹ 12.00                    | 9%                | 9%                | ₹ 600.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 6 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9989076653350835,
+            "extraction_confidence": 0.9989076653350835,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6              | ನೀಮ್ ಸಾಬೂನ್ 200 gm                   | 3401    | 50     | ಪೀಸ್     | ₹ 12.00                    | 9%                | 9%                | ₹ 600.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 6 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999997839900294,
+            "extraction_confidence": 0.9999997839900294,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6              | ನೀಮ್ ಸಾಬೂನ್ 200 gm                   | 3401    | 50     | ಪೀಸ್     | ₹ 12.00                    | 9%                | 9%                | ₹ 600.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 7 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999980356714734,
+            "extraction_confidence": 0.9999980356714734,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 7 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999406235316173,
+            "extraction_confidence": 0.9999406235316173,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7              | ಸನ್‌ಲೈಟ್ ಡಿಶ್ ವಾಷ್ 500 ml            | 3402    | 24     | ಬಾಟಲ್    | ₹ 60.00                    | 9%                | 9%                | ₹ 1,440.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 7 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999929571369187,
+            "extraction_confidence": 0.9999929571369187,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7              | ಸನ್‌ಲೈಟ್ ಡಿಶ್ ವಾಷ್ 500 ml            | 3402    | 24     | ಬಾಟಲ್    | ₹ 60.00                    | 9%                | 9%                | ₹ 1,440.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 7 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999991879720256,
+            "extraction_confidence": 0.9999991879720256,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7              | ಸನ್‌ಲೈಟ್ ಡಿಶ್ ವಾಷ್ 500 ml            | 3402    | 24     | ಬಾಟಲ್    | ₹ 60.00                    | 9%                | 9%                | ₹ 1,440.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 8 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999986329538579,
+            "extraction_confidence": 0.9999986329538579,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 8 from Kannada to English, preserved numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8              | ಡೋವ್ ಬ್ಯೂಟಿ ಸೋಪ್ 100 gm              | 3401    | 36     | ಪೀಸ್     | ₹ 38.00                    | 9%                | 9%                | ₹ 1,368.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 8 from Kannada to English, preserved numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8              | ಡೋವ್ ಬ್ಯೂಟಿ ಸೋಪ್ 100 gm              | 3401    | 36     | ಪೀಸ್     | ₹ 38.00                    | 9%                | 9%                | ₹ 1,368.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 8 from Kannada to English, preserved numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8              | ಡೋವ್ ಬ್ಯೂಟಿ ಸೋಪ್ 100 gm              | 3401    | 36     | ಪೀಸ್     | ₹ 38.00                    | 9%                | 9%                | ₹ 1,368.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 9 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999983932818968,
+            "extraction_confidence": 0.9999983932818968,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 9 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9990388615615091,
+            "extraction_confidence": 0.9990388615615091,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9              | ಕೋಲ್ಗೇಟ್ ಟೂತ್‌ಪೇಸ್ಟ್ 200 gm          | 3306    | 36     | ಟ್ಯೂಬ್   | ₹ 85.00                    | 9%                | 9%                | ₹ 3,060.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 9 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999981871437498,
+            "extraction_confidence": 0.9999981871437498,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9              | ಕೋಲ್ಗೇಟ್ ಟೂತ್‌ಪೇಸ್ಟ್ 200 gm          | 3306    | 36     | ಟ್ಯೂಬ್   | ₹ 85.00                    | 9%                | 9%                | ₹ 3,060.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 9 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999993394443722,
+            "extraction_confidence": 0.9999993394443722,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9              | ಕೋಲ್ಗೇಟ್ ಟೂತ್‌ಪೇಸ್ಟ್ 200 gm          | 3306    | 36     | ಟ್ಯೂಬ್   | ₹ 85.00                    | 9%                | 9%                | ₹ 3,060.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item 10 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9999878463604142,
+            "extraction_confidence": 0.9999878463604142,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item 10 from Kannada to English, preserved numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10             | ವಿಕ್ಸ್ ವೇಪರಬ್ 50 gm                  | 3304    | 24     | ಜಾರ್     | ₹ 56.00                    | 9%                | 9%                | ₹ 1,344.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item 10 from Kannada to English, preserved numerical values.",
+            "confidence": 0.9992707670981225,
+            "extraction_confidence": 0.9992707670981225,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10             | ವಿಕ್ಸ್ ವೇಪರಬ್ 50 gm                  | 3304    | 24     | ಜಾರ್     | ₹ 56.00                    | 9%                | 9%                | ₹ 1,344.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item 10 from Kannada to English, preserved numerical values.",
+            "confidence": 0.999996215353083,
+            "extraction_confidence": 0.999996215353083,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10             | ವಿಕ್ಸ್ ವೇಪರಬ್ 50 gm                  | 3304    | 24     | ಜಾರ್     | ₹ 56.00                    | 9%                | 9%                | ₹ 1,344.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 22.0,
+                    "y": 145.0,
+                    "w": 205.0,
+                    "h": 162.0
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The subtotal (taxable value) is explicitly listed as ₹ 20,444.00.",
+        "confidence": 0.9911365483524717,
+        "extraction_confidence": 0.9911365483524717,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| ಒಟ್ಟು ಪ್ರಮಾಣ : |                                      |         | 277    |          | ಸರಕು ಮೊತ್ತ (Taxable Value) |                   |                   | ₹ 20,444.00 |",
+            "bounding_boxes": [
+              {
+                "x": 22.0,
+                "y": 145.0,
+                "w": 205.0,
+                "h": 162.0
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Total tax is listed as ₹ 3,679.92 (CGST + SGST).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                |                                      |         |        |          | ಒಟ್ಟು ತೆರಿಗೆ (Total Tax)   |                   |                   | ₹ 3,679.92  |",
+            "bounding_boxes": [
+              {
+                "x": 22.0,
+                "y": 145.0,
+                "w": 205.0,
+                "h": 162.0
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "Grand total is listed as ₹ 24,124.00 after rounding.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                |                                      |         |        |          | ಒಟ್ಟು ಮೊತ್ತ (Grand Total)  |                   |                   | ₹ 24,124.00 |",
+            "bounding_boxes": [
+              {
+                "x": 22.0,
+                "y": 145.0,
+                "w": 205.0,
+                "h": 162.0
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are denoted with the symbol '₹', which is the symbol for Indian Rupees (INR).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| ಕ್ರ.ಸಂ.        | ವಿವರಣೆ                               | HSN/SAC | ಪ್ರಮಾಣ | ಒಕ್ಕಟ್ಟೆ | ದರ (INR)                   | ತೆರಿಗೆ %<br/>CGST | ತೆರಿಗೆ %<br/>SGST | ಒಟ್ಟು (INR) |",
+            "bounding_boxes": [
+              {
+                "x": 22.0,
+                "y": 145.0,
+                "w": 205.0,
+                "h": 162.0
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "payment_terms": {
+        "reasoning": "The terms are listed at the end of the invoice and translated to English.",
+        "confidence": 0.8699851074262741,
+        "extraction_confidence": 0.8699851074262741,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "8d6ff93e-e5d4-4cfb-8447-71c4dae3afac",
+    "file_name": "invoice_azimg_20260518_165744_645_0004.png",
+    "file_hash": "da84c08b-8bac-4036-a7e4-302ba2d7a2e7",
+    "metadata": {
+      "job_id": "ext-pe2oud50u5sxg1b62bfiwxyra1me"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260518_165744_645_0004.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_165744_645_0004.png"
+    }
+  ]
+}

@@ -1,0 +1,1117 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\telugu\\images\\invoice_azimg_20260519_155637_783_0004.png",
+  "language": "telugu",
+  "file_id": "38ffffc4-c64a-4394-a3c2-41290458900f",
+  "record_id": {
+    "value": {
+      "result": "agd-v4y8nuk2cmo0lemrdmiadf6ohirb"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "Shop No. 7-88, Main Street, Chilakaluripet - 522 616, Palnadu District, Andhra Pradesh.",
+      "customer_name": "M/S Narasimharao and Sons",
+      "due_date": "2024-06-08",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "SLT/24-25/0897",
+      "line_items": [
+        {
+          "amount": 550.0,
+          "description": "Moong Dal (Split Green Gram)",
+          "quantity": 5.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 1250.0,
+          "description": "Toor Dal (Pigeon Pea)",
+          "quantity": 10.0,
+          "unit_price": 125.0
+        },
+        {
+          "amount": 1200.0,
+          "description": "Chana Dal (Split Bengal Gram)",
+          "quantity": 10.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 950.0,
+          "description": "Green Chickpeas",
+          "quantity": 10.0,
+          "unit_price": 95.0
+        },
+        {
+          "amount": 800.0,
+          "description": "Cowpeas",
+          "quantity": 5.0,
+          "unit_price": 160.0
+        },
+        {
+          "amount": 220.0,
+          "description": "Mustard Seeds",
+          "quantity": 2.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 390.0,
+          "description": "Sesame Seeds",
+          "quantity": 3.0,
+          "unit_price": 130.0
+        },
+        {
+          "amount": 2000.0,
+          "description": "Groundnut Kernels",
+          "quantity": 25.0,
+          "unit_price": 80.0
+        },
+        {
+          "amount": 1400.0,
+          "description": "Sorghum",
+          "quantity": 50.0,
+          "unit_price": 28.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Pearl Millet",
+          "quantity": 50.0,
+          "unit_price": 30.0
+        }
+      ],
+      "payment_terms": "Pay within 15 days of receipt of goods.",
+      "subtotal": 10260.0,
+      "tax_amount": 513.0,
+      "total_amount": 10773.0,
+      "vendor_address": "Shop No. 12-1-107/1/B, Agricultural Market Yard, Guntur - 522 001, Andhra Pradesh.",
+      "vendor_name": "Sri Lakshmi Traders"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "Shop No. 7-88, Main Street, Chilakaluripet - 522 616, Palnadu District, Andhra Pradesh.",
+      "customer_name": "M/S Narasimharao and Sons",
+      "due_date": "2024-06-08",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "SLT/24-25/0897",
+      "line_items": [
+        {
+          "amount": 550.0,
+          "description": "Moong Dal (Split Green Gram)",
+          "quantity": 5.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 1250.0,
+          "description": "Toor Dal (Pigeon Pea)",
+          "quantity": 10.0,
+          "unit_price": 125.0
+        },
+        {
+          "amount": 1200.0,
+          "description": "Chana Dal (Split Bengal Gram)",
+          "quantity": 10.0,
+          "unit_price": 120.0
+        },
+        {
+          "amount": 950.0,
+          "description": "Green Chickpeas",
+          "quantity": 10.0,
+          "unit_price": 95.0
+        },
+        {
+          "amount": 800.0,
+          "description": "Cowpeas",
+          "quantity": 5.0,
+          "unit_price": 160.0
+        },
+        {
+          "amount": 220.0,
+          "description": "Mustard Seeds",
+          "quantity": 2.0,
+          "unit_price": 110.0
+        },
+        {
+          "amount": 390.0,
+          "description": "Sesame Seeds",
+          "quantity": 3.0,
+          "unit_price": 130.0
+        },
+        {
+          "amount": 2000.0,
+          "description": "Groundnut Kernels",
+          "quantity": 25.0,
+          "unit_price": 80.0
+        },
+        {
+          "amount": 1400.0,
+          "description": "Sorghum",
+          "quantity": 50.0,
+          "unit_price": 28.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Pearl Millet",
+          "quantity": 50.0,
+          "unit_price": 30.0
+        }
+      ],
+      "payment_terms": "Pay within 15 days of receipt of goods.",
+      "subtotal": 10260.0,
+      "tax_amount": 513.0,
+      "total_amount": 10773.0,
+      "vendor_address": "Shop No. 12-1-107/1/B, Agricultural Market Yard, Guntur - 522 001, Andhra Pradesh.",
+      "vendor_name": "Sri Lakshmi Traders"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9924632066129551,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "VERBATIM EXTRACTION",
+        "confidence": 0.9999995728743613,
+        "extraction_confidence": 0.9999995728743613,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "** : SLT/24-25/0897",
+            "bounding_boxes": [
+              {
+                "x": 174.41032258064516,
+                "y": 71.99999999999999,
+                "w": 31.95120234604107,
+                "h": 4.799999999999997
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "VERBATIM EXTRACTION",
+        "confidence": 0.9982659473704901,
+        "extraction_confidence": 0.9982659473704901,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ఇన్వాయిస్ తేదీ** : 24-05-2024",
+            "bounding_boxes": [
+              {
+                "x": 174.05221463414634,
+                "y": 71.66425426829268,
+                "w": 32.36961951219512,
+                "h": 5.14392439024391
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "VERBATIM EXTRACTION",
+        "confidence": 0.985722476132124,
+        "extraction_confidence": 0.985722476132124,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**చెల్లింపు గడువు** : 08-06-2024",
+            "bounding_boxes": [
+              {
+                "x": 174.05221463414634,
+                "y": 71.66425426829268,
+                "w": 32.36961951219512,
+                "h": 5.14392439024391
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Translated the vendor name from Telugu to English.",
+        "confidence": 0.9974692759791587,
+        "extraction_confidence": 0.9974692759791587,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "Sri Lakshmi Traders logo",
+            "bounding_boxes": [
+              {
+                "x": 41.71615975609756,
+                "y": 372.44365609756096,
+                "w": 50.258169512195124,
+                "h": 5.033751219512214
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "Translated the vendor address from Telugu to English.",
+        "confidence": 0.9991157309536708,
+        "extraction_confidence": 0.9991157309536708,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "Translated the customer name from Telugu to English.",
+        "confidence": 0.9975316297311289,
+        "extraction_confidence": 0.9975316297311289,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "Translated the customer address from Telugu to English.",
+        "confidence": 0.9859422531789668,
+        "extraction_confidence": 0.9859422531789668,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9629236875596723,
+            "extraction_confidence": 0.9629236875596723,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.999978945968628,
+            "extraction_confidence": 0.999978945968628,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| పెదలు పప్పు (మినుములు) | 0713         | 5.00    | కేజీ   | 110.00               | 5%         | 550.00      |\n| 2.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999901173429802,
+            "extraction_confidence": 0.9999901173429802,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| పెదలు పప్పు (మినుములు) | 0713         | 5.00    | కేజీ   | 110.00               | 5%         | 550.00      |\n| 2.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| పెదలు పప్పు (మినుములు) | 0713         | 5.00    | కేజీ   | 110.00               | 5%         | 550.00      |\n| 2.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.999999048268675,
+            "extraction_confidence": 0.999999048268675,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| కంది పప్పు             | 0713         | 10.00   | కేజీ   | 125.00               | 5%         | 1,250.00    |\n| 3.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| కంది పప్పు             | 0713         | 10.00   | కేజీ   | 125.00               | 5%         | 1,250.00    |\n| 3.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| కంది పప్పు             | 0713         | 10.00   | కేజీ   | 125.00               | 5%         | 1,250.00    |\n| 3.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.999999633087963,
+            "extraction_confidence": 0.999999633087963,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999922145874028,
+            "extraction_confidence": 0.9999922145874028,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| శనగ పప్పు              | 0713         | 10.00   | కేజీ   | 120.00               | 5%         | 1,200.00    |\n| 4.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| శనగ పప్పు              | 0713         | 10.00   | కేజీ   | 120.00               | 5%         | 1,200.00    |\n| 4.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.99999973678971,
+            "extraction_confidence": 0.99999973678971,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| శనగ పప్పు              | 0713         | 10.00   | కేజీ   | 120.00               | 5%         | 1,200.00    |\n| 4.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999998559933477,
+            "extraction_confidence": 0.9999998559933477,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| పచ్చి శనగలు            | 0713         | 10.00   | కేజీ   | 95.00                | 5%         | 950.00      |\n| 5.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| పచ్చి శనగలు            | 0713         | 10.00   | కేజీ   | 95.00                | 5%         | 950.00      |\n| 5.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| పచ్చి శనగలు            | 0713         | 10.00   | కేజీ   | 95.00                | 5%         | 950.00      |\n| 5.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999998435918529,
+            "extraction_confidence": 0.9999998435918529,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999950878587683,
+            "extraction_confidence": 0.9999950878587683,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| బొబ్బర్లు              | 0713         | 5.00    | కేజీ   | 160.00               | 5%         | 800.00      |\n| 6.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| బొబ్బర్లు              | 0713         | 5.00    | కేజీ   | 160.00               | 5%         | 800.00      |\n| 6.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| బొబ్బర్లు              | 0713         | 5.00    | కేజీ   | 160.00               | 5%         | 800.00      |\n| 6.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| ఆవాలు                  | 1207         | 2.00    | కేజీ   | 110.00               | 5%         | 220.00      |\n| 7.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| ఆవాలు                  | 1207         | 2.00    | కేజీ   | 110.00               | 5%         | 220.00      |\n| 7.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| ఆవాలు                  | 1207         | 2.00    | కేజీ   | 110.00               | 5%         | 220.00      |\n| 7.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999999478639471,
+            "extraction_confidence": 0.9999999478639471,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "3.00",
+                "bounding_boxes": [
+                  {
+                    "x": 123.29,
+                    "y": 90.02,
+                    "w": 27.21,
+                    "h": 6.18
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.8162053220865835,
+            "extraction_confidence": 0.8162053220865835,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "** : SLT/24-25/0897",
+                "bounding_boxes": [
+                  {
+                    "x": 174.41032258064516,
+                    "y": 71.99999999999999,
+                    "w": 31.95120234604107,
+                    "h": 4.799999999999997
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999318626218778,
+            "extraction_confidence": 0.9999318626218778,
+            "parsing_confidence": 1.0,
+            "citation": null
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9997848686334777,
+            "extraction_confidence": 0.9997848686334777,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| జొన్నలు                | 1003         | 50.00   | కేజీ   | 28.00                | 5%         | 1,400.00    |\n| 10.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999998559933477,
+            "extraction_confidence": 0.9999998559933477,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| జొన్నలు                | 1003         | 50.00   | కేజీ   | 28.00                | 5%         | 1,400.00    |\n| 10.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999984156791534,
+            "extraction_confidence": 0.9999984156791534,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| జొన్నలు                | 1003         | 50.00   | కేజీ   | 28.00                | 5%         | 1,400.00    |\n| 10.",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9997479412336496,
+            "extraction_confidence": 0.9997479412336496,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10.                                                               | సజ్జలు                 | 1008         | 50.00   | కేజీ   | 30.00                | 5%         | 1,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10.                                                               | సజ్జలు                 | 1008         | 50.00   | కేజీ   | 30.00                | 5%         | 1,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999999031936799,
+            "extraction_confidence": 0.9999999031936799,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10.                                                               | సజ్జలు                 | 1008         | 50.00   | కేజీ   | 30.00                | 5%         | 1,500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.377946341463414,
+                    "y": 177.54740670731707,
+                    "w": 222.3762,
+                    "h": 150.05510304878047
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "VERBATIM EXTRACTION",
+        "confidence": 0.9470887634570898,
+        "extraction_confidence": 0.9470887634570898,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                                                   |                        |              |         |        | సరుకు మొత్తం         |            | 10,260.00   |",
+            "bounding_boxes": [
+              {
+                "x": 11.377946341463414,
+                "y": 177.54740670731707,
+                "w": 222.3762,
+                "h": 150.05510304878047
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "VERBATIM EXTRACTION",
+        "confidence": 0.9999776048944681,
+        "extraction_confidence": 0.9999776048944681,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "VERBATIM EXTRACTION",
+        "confidence": 0.9999998559933477,
+        "extraction_confidence": 0.9999998559933477,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                                                   |                        |              |         |        | చెల్లించవలసిన మొత్తం |            | ₹ 10,773.00 |",
+            "bounding_boxes": [
+              {
+                "x": 11.377946341463414,
+                "y": 177.54740670731707,
+                "w": 222.3762,
+                "h": 150.05510304878047
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are all in rupees (₹), which is the symbol for Indian Rupees (INR).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Translated from the terms section: 'Pay within 15 days of receipt of goods.'",
+        "confidence": 0.9184275783013319,
+        "extraction_confidence": 0.9184275783013319,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "38ffffc4-c64a-4394-a3c2-41290458900f",
+    "file_name": "invoice_azimg_20260519_155637_783_0004.png",
+    "file_hash": "39fd62cb-41b3-4487-8295-744baca0d691",
+    "metadata": {
+      "job_id": "ext-p4ibyry6dox5dh570mzi1kacu6xl"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_155637_783_0004.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_155637_783_0004.png"
+    }
+  ]
+}

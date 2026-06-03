@@ -1,0 +1,1219 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\marathi\\images\\invoice_azimg_20260518_165119_130_0004.png",
+  "language": "marathi",
+  "file_id": "1bcce32b-31e2-4554-9324-56b937d7963a",
+  "record_id": {
+    "value": {
+      "result": "agd-uu2iuyl5lzsc7npft8gk1gusdon6"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "M/s. Infotech Solutions Pvt. Ltd., Office No. 301, Akshardeep Building, Sinhgad Road, Kothrud, Pune - 411038, Maharashtra.",
+      "customer_name": "Infotech Solutions Pvt. Ltd.",
+      "due_date": "2024-06-08",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "TSS/24-25/0897",
+      "line_items": [
+        {
+          "amount": 144000.0,
+          "description": "Custom Software Development",
+          "quantity": 120.0,
+          "unit_price": 1200.0
+        },
+        {
+          "amount": 25000.0,
+          "description": "Web Application Maintenance",
+          "quantity": 1.0,
+          "unit_price": 25000.0
+        },
+        {
+          "amount": 88000.0,
+          "description": "Mobile App Development",
+          "quantity": 80.0,
+          "unit_price": 1100.0
+        },
+        {
+          "amount": 15000.0,
+          "description": "Cloud Hosting (AWS) - Basic",
+          "quantity": 1.0,
+          "unit_price": 15000.0
+        },
+        {
+          "amount": 2500.0,
+          "description": "Domain Registration and SSL",
+          "quantity": 1.0,
+          "unit_price": 2500.0
+        },
+        {
+          "amount": 60000.0,
+          "description": "UI/UX Design Services",
+          "quantity": 60.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 40000.0,
+          "description": "API Integration Services",
+          "quantity": 40.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 27000.0,
+          "description": "Data Migration Services",
+          "quantity": 30.0,
+          "unit_price": 900.0
+        },
+        {
+          "amount": 10000.0,
+          "description": "Tech Support (Standard)",
+          "quantity": 1.0,
+          "unit_price": 10000.0
+        },
+        {
+          "amount": 16000.0,
+          "description": "Training and Documentation",
+          "quantity": 20.0,
+          "unit_price": 800.0
+        }
+      ],
+      "payment_terms": "Interest at 18% per annum will be charged on overdue amounts after the due date.",
+      "subtotal": 427500.0,
+      "tax_amount": 76950.0,
+      "total_amount": 504450.0,
+      "vendor_address": "Office No. 201, 2nd Floor, Gajanan Complex, Sadashiv Peth, Pune - 411030, Maharashtra, India.",
+      "vendor_name": "Techsolve Solutions Pvt. Ltd."
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "M/s. Infotech Solutions Pvt. Ltd., Office No. 301, Akshardeep Building, Sinhgad Road, Kothrud, Pune - 411038, Maharashtra.",
+      "customer_name": "Infotech Solutions Pvt. Ltd.",
+      "due_date": "2024-06-08",
+      "invoice_date": "2024-05-24",
+      "invoice_number": "TSS/24-25/0897",
+      "line_items": [
+        {
+          "amount": 144000.0,
+          "description": "Custom Software Development",
+          "quantity": 120.0,
+          "unit_price": 1200.0
+        },
+        {
+          "amount": 25000.0,
+          "description": "Web Application Maintenance",
+          "quantity": 1.0,
+          "unit_price": 25000.0
+        },
+        {
+          "amount": 88000.0,
+          "description": "Mobile App Development",
+          "quantity": 80.0,
+          "unit_price": 1100.0
+        },
+        {
+          "amount": 15000.0,
+          "description": "Cloud Hosting (AWS) - Basic",
+          "quantity": 1.0,
+          "unit_price": 15000.0
+        },
+        {
+          "amount": 2500.0,
+          "description": "Domain Registration and SSL",
+          "quantity": 1.0,
+          "unit_price": 2500.0
+        },
+        {
+          "amount": 60000.0,
+          "description": "UI/UX Design Services",
+          "quantity": 60.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 40000.0,
+          "description": "API Integration Services",
+          "quantity": 40.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 27000.0,
+          "description": "Data Migration Services",
+          "quantity": 30.0,
+          "unit_price": 900.0
+        },
+        {
+          "amount": 10000.0,
+          "description": "Tech Support (Standard)",
+          "quantity": 1.0,
+          "unit_price": 10000.0
+        },
+        {
+          "amount": 16000.0,
+          "description": "Training and Documentation",
+          "quantity": 20.0,
+          "unit_price": 800.0
+        }
+      ],
+      "payment_terms": "Interest at 18% per annum will be charged on overdue amounts after the due date.",
+      "subtotal": 427500.0,
+      "tax_amount": 76950.0,
+      "total_amount": 504450.0,
+      "vendor_address": "Office No. 201, 2nd Floor, Gajanan Complex, Sadashiv Peth, Pune - 411030, Maharashtra, India.",
+      "vendor_name": "Techsolve Solutions Pvt. Ltd."
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9769983918220693,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "Verbatim extraction from 'चलन क्रमांक (Invoice No.): TSS/24-25/0897.'",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चलन क्रमांक (Invoice No.)**: TSS/24-25/0897.",
+            "bounding_boxes": [
+              {
+                "x": 26.19,
+                "y": 96.0,
+                "w": 33.63,
+                "h": 5.28
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "Verbatim extraction from 'चलन दिनांक (Invoice Date): 24/05/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**चलन दिनांक (Invoice Date)**: 24/05/2024",
+            "bounding_boxes": [
+              {
+                "x": 72.07,
+                "y": 88.08,
+                "w": 47.09,
+                "h": 13.44
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "Verbatim extraction from 'देय दिनांक (Due Date): 08/06/2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**देय दिनांक (Due Date)**: 08/06/2024",
+            "bounding_boxes": [
+              {
+                "x": 134.05,
+                "y": 95.28,
+                "w": 24.74,
+                "h": 6.0
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Translated from the company name at the top.",
+        "confidence": 0.6846537195364689,
+        "extraction_confidence": 0.6846537195364689,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "कंपनीचा शिक्का व अधिकृत सही (For Techsolve Solutions Pvt. Ltd.)",
+            "bounding_boxes": [
+              {
+                "x": 120.82735609756097,
+                "y": 316.55443536585364,
+                "w": 108.49508780487805,
+                "h": 6.433862195121928
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "Translated the vendor address from Marathi to English.",
+        "confidence": 0.908341810337588,
+        "extraction_confidence": 0.908341810337588,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "Extracted from the billing address section.",
+        "confidence": 0.9626821372890334,
+        "extraction_confidence": 0.9626821372890334,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "कंपनीचा शिक्का व अधिकृत सही (For Techsolve Solutions Pvt. Ltd.)",
+            "bounding_boxes": [
+              {
+                "x": 120.82735609756097,
+                "y": 316.55443536585364,
+                "w": 108.49508780487805,
+                "h": 6.433862195121928
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "customer_address": {
+        "reasoning": "Translated the billing address section from Marathi to English.",
+        "confidence": 0.9718721205654185,
+        "extraction_confidence": 0.9718721205654185,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated and extracted line 1 from the table.",
+            "confidence": 0.9998809558887689,
+            "extraction_confidence": 0.9998809558887689,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line 1 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1      | कस्टम सॉफ्टवेअर डेव्हलपमेंट              | 998313  | 120 तास     | 1,200.00              | 18%      | 1,44,000.00     |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line 1 from the table.",
+            "confidence": 0.9986801391570136,
+            "extraction_confidence": 0.9986801391570136,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1      | कस्टम सॉफ्टवेअर डेव्हलपमेंट              | 998313  | 120 तास     | 1,200.00              | 18%      | 1,44,000.00     |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line 1 from the table.",
+            "confidence": 0.8041417541000663,
+            "extraction_confidence": 0.8041417541000663,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1      | कस्टम सॉफ्टवेअर डेव्हलपमेंट              | 998313  | 120 तास     | 1,200.00              | 18%      | 1,44,000.00     |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line 2 from the table.",
+            "confidence": 0.9999999677312256,
+            "extraction_confidence": 0.9999999677312256,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line 2 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2      | वेब ॲप्लिकेशन मेंटेनन्स                  | 998313  | 1 महिना     | 25,000.00             | 18%      | 25,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line 2 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2      | वेब ॲप्लिकेशन मेंटेनन्स                  | 998313  | 1 महिना     | 25,000.00             | 18%      | 25,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line 2 from the table.",
+            "confidence": 0.9999999031936799,
+            "extraction_confidence": 0.9999999031936799,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2      | वेब ॲप्लिकेशन मेंटेनन्स                  | 998313  | 1 महिना     | 25,000.00             | 18%      | 25,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line 3 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line 3 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3      | मोबाईल ॲप डेव्हलपमेंट                    | 998313  | 80 तास      | 1,100.00              | 18%      | 88,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line 3 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3      | मोबाईल ॲप डेव्हलपमेंट                    | 998313  | 80 तास      | 1,100.00              | 18%      | 88,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line 3 from the table.",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3      | मोबाईल ॲप डेव्हलपमेंट                    | 998313  | 80 तास      | 1,100.00              | 18%      | 88,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line 4 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line 4 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4      | क्लाऊड होस्टिंग (AWS) - बेडीक            | 998313  | 1 महिना     | 15,000.00             | 18%      | 15,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line 4 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4      | क्लाऊड होस्टिंग (AWS) - बेडीक            | 998313  | 1 महिना     | 15,000.00             | 18%      | 15,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line 4 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4      | क्लाऊड होस्टिंग (AWS) - बेडीक            | 998313  | 1 महिना     | 15,000.00             | 18%      | 15,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line 5 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line 5 from the table.",
+            "confidence": 0.9999996871837232,
+            "extraction_confidence": 0.9999996871837232,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5      | डोमेन नोंदणी आणि SSL                     | 998313  | 1 वर्ष      | 2,500.00              | 18%      | 2,500.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line 5 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5      | डोमेन नोंदणी आणि SSL                     | 998313  | 1 वर्ष      | 2,500.00              | 18%      | 2,500.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line 5 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5      | डोमेन नोंदणी आणि SSL                     | 998313  | 1 वर्ष      | 2,500.00              | 18%      | 2,500.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line 6 from the table.",
+            "confidence": 0.9999987334805445,
+            "extraction_confidence": 0.9999987334805445,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6      | UI/UX डिझाइन सर्व्हिसेस                  | 998313  | 60 तास      | 1,000.00              | 18%      | 60,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line 6 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6      | UI/UX डिझाइन सर्व्हिसेस                  | 998313  | 60 तास      | 1,000.00              | 18%      | 60,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line 6 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6      | UI/UX डिझाइन सर्व्हिसेस                  | 998313  | 60 तास      | 1,000.00              | 18%      | 60,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line 6 from the table.",
+            "confidence": 0.9999949041184143,
+            "extraction_confidence": 0.9999949041184143,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6      | UI/UX डिझाइन सर्व्हिसेस                  | 998313  | 60 तास      | 1,000.00              | 18%      | 60,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line 7 from the table.",
+            "confidence": 0.9999996036665654,
+            "extraction_confidence": 0.9999996036665654,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| अ.क्र. | वर्णन (Description of Services)          | HSN/SAC | प्रमाण(Qty) | एकक दर(Unit Price)(₹) | कर दर(%) | मूल्य(Amount ₹) |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line 7 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7      | API इंटिग्रेशन सर्व्हिसेस                | 998313  | 40 तास      | 1,000.00              | 18%      | 40,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line 7 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7      | API इंटिग्रेशन सर्व्हिसेस                | 998313  | 40 तास      | 1,000.00              | 18%      | 40,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line 7 from the table.",
+            "confidence": 0.9999995133140089,
+            "extraction_confidence": 0.9999995133140089,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7      | API इंटिग्रेशन सर्व्हिसेस                | 998313  | 40 तास      | 1,000.00              | 18%      | 40,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line 8 from the table.",
+            "confidence": 0.999999794392363,
+            "extraction_confidence": 0.999999794392363,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line 8 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8      | डेटा मायग्रेशन सर्व्हिसेस                | 998313  | 30 तास      | 900.00                | 18%      | 27,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line 8 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8      | डेटा मायग्रेशन सर्व्हिसेस                | 998313  | 30 तास      | 900.00                | 18%      | 27,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line 8 from the table.",
+            "confidence": 0.9999992749068671,
+            "extraction_confidence": 0.9999992749068671,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8      | डेटा मायग्रेशन सर्व्हिसेस                | 998313  | 30 तास      | 900.00                | 18%      | 27,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line 9 from the table.",
+            "confidence": 0.9999992341354277,
+            "extraction_confidence": 0.9999992341354277,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line 9 from the table.",
+            "confidence": 0.9998598784395131,
+            "extraction_confidence": 0.9998598784395131,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9      | टेक सपोर्ट (स्टँडर्ड)                    | 998313  | 1 महिना     | 10,000.00             | 18%      | 10,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line 9 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9      | टेक सपोर्ट (स्टँडर्ड)                    | 998313  | 1 महिना     | 10,000.00             | 18%      | 10,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line 9 from the table.",
+            "confidence": 0.9999895797299428,
+            "extraction_confidence": 0.9999895797299428,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9      | टेक सपोर्ट (स्टँडर्ड)                    | 998313  | 1 महिना     | 10,000.00             | 18%      | 10,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted line 10 from the table.",
+            "confidence": 0.9999992698964598,
+            "extraction_confidence": 0.9999992698964598,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted line 10 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10     | ट्रेनिंग आणि डॉक्युमेंटेशन               | 998313  | 20 तास      | 800.00                | 18%      | 16,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted line 10 from the table.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10     | ट्रेनिंग आणि डॉक्युमेंटेशन               | 998313  | 20 तास      | 800.00                | 18%      | 16,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted line 10 from the table.",
+            "confidence": 0.9999866543385938,
+            "extraction_confidence": 0.9999866543385938,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10     | ट्रेनिंग आणि डॉक्युमेंटेशन               | 998313  | 20 तास      | 800.00                | 18%      | 16,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 17.484023780487806,
+                    "y": 149.98354939024392,
+                    "w": 212.1504786585366,
+                    "h": 144.16603719512193
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "Verbatim extraction from 'एकूण करपात्र मूल्य (Total Taxable Value): 4,27,500.00'.",
+        "confidence": 0.7564105637381534,
+        "extraction_confidence": 0.7564105637381534,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|        | एकूण करपात्र मूल्य (Total Taxable Value) |         |             |                       |          | 4,27,500.00     |",
+            "bounding_boxes": [
+              {
+                "x": 17.484023780487806,
+                "y": 149.98354939024392,
+                "w": 212.1504786585366,
+                "h": 144.16603719512193
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Verbatim extraction from 'एकूण कर रक्कम (Total Tax Amount): 76,950.00'.",
+        "confidence": 0.9054318894855385,
+        "extraction_confidence": 0.9054318894855385,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "Verbatim extraction from 'एकूण देय रक्कम (Grand Total): ₹ 5,04,450.00'.",
+        "confidence": 0.9744524787079295,
+        "extraction_confidence": 0.9744524787079295,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "currency": {
+        "reasoning": "The amounts are denoted with the symbol '₹', which is the Indian Rupee.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Translated from the 'अटी व शर्ती (Terms & Conditions)' section. The main payment term is interest of 18% per annum on overdue amounts after the due date.",
+        "confidence": 0.8375429116863942,
+        "extraction_confidence": 0.8375429116863942,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "1bcce32b-31e2-4554-9324-56b937d7963a",
+    "file_name": "invoice_azimg_20260518_165119_130_0004.png",
+    "file_hash": "5aeb9203-2051-41ab-8f54-1184ff511f32",
+    "metadata": {
+      "job_id": "ext-i75n5n8pxjqjncn0zztfcdknjc33"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260518_165119_130_0004.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_165119_130_0004.png"
+    }
+  ]
+}

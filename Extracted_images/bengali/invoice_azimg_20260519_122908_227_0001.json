@@ -1,0 +1,1151 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\bengali\\images\\invoice_azimg_20260519_122908_227_0001.png",
+  "language": "bengali",
+  "file_id": "c9f4aec9-ebc7-4c00-8ca1-16c371af1f95",
+  "record_id": {
+    "value": {
+      "result": "agd-pjmed631woja28jmtglslvf0hhs6"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "Messrs Ma Tara Store, Hatkhola Bazar, Dinhata, Cooch Behar - 736135, West Bengal",
+      "customer_name": "Messrs Ma Tara Store",
+      "due_date": "2024-06-04",
+      "invoice_date": "2024-05-20",
+      "invoice_number": "SSE/24-25/1198",
+      "line_items": [
+        {
+          "amount": 3100.0,
+          "description": "Sunlife Refined Oil 1 Ltr",
+          "quantity": 20.0,
+          "unit_price": 155.0
+        },
+        {
+          "amount": 2100.0,
+          "description": "Fortune Soybean Oil 1 Ltr",
+          "quantity": 15.0,
+          "unit_price": 140.0
+        },
+        {
+          "amount": 2375.0,
+          "description": "Taj Mahal Tea 250 gm",
+          "quantity": 25.0,
+          "unit_price": 95.0
+        },
+        {
+          "amount": 860.0,
+          "description": "Sudhar Fi Sugar 1 kg",
+          "quantity": 20.0,
+          "unit_price": 43.0
+        },
+        {
+          "amount": 1450.0,
+          "description": "Taj Atta 5 kg",
+          "quantity": 10.0,
+          "unit_price": 145.0
+        },
+        {
+          "amount": 1575.0,
+          "description": "Dhanshree Masoor Dal 1 kg",
+          "quantity": 15.0,
+          "unit_price": 105.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Aashirvaad Salt 1 kg",
+          "quantity": 30.0,
+          "unit_price": 20.0
+        },
+        {
+          "amount": 1188.0,
+          "description": "Harpic Toilet Cleaner 500 ml",
+          "quantity": 12.0,
+          "unit_price": 99.0
+        },
+        {
+          "amount": 760.0,
+          "description": "Lifebuoy Soap 125 gm",
+          "quantity": 20.0,
+          "unit_price": 38.0
+        },
+        {
+          "amount": 1180.0,
+          "description": "Prufen-D 400 gm",
+          "quantity": 10.0,
+          "unit_price": 118.0
+        }
+      ],
+      "payment_terms": "Payment due by due date; 14% interest will be charged if not paid on time.",
+      "subtotal": 15188.0,
+      "tax_amount": 2232.5,
+      "total_amount": 17420.0,
+      "vendor_address": "12, Naksal Road, P.O. Box-712234, Cooch Behar, West Bengal",
+      "vendor_name": "SS ENTERPRISE"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "Messrs Ma Tara Store, Hatkhola Bazar, Dinhata, Cooch Behar - 736135, West Bengal",
+      "customer_name": "Messrs Ma Tara Store",
+      "due_date": "2024-06-04",
+      "invoice_date": "2024-05-20",
+      "invoice_number": "SSE/24-25/1198",
+      "line_items": [
+        {
+          "amount": 3100.0,
+          "description": "Sunlife Refined Oil 1 Ltr",
+          "quantity": 20.0,
+          "unit_price": 155.0
+        },
+        {
+          "amount": 2100.0,
+          "description": "Fortune Soybean Oil 1 Ltr",
+          "quantity": 15.0,
+          "unit_price": 140.0
+        },
+        {
+          "amount": 2375.0,
+          "description": "Taj Mahal Tea 250 gm",
+          "quantity": 25.0,
+          "unit_price": 95.0
+        },
+        {
+          "amount": 860.0,
+          "description": "Sudhar Fi Sugar 1 kg",
+          "quantity": 20.0,
+          "unit_price": 43.0
+        },
+        {
+          "amount": 1450.0,
+          "description": "Taj Atta 5 kg",
+          "quantity": 10.0,
+          "unit_price": 145.0
+        },
+        {
+          "amount": 1575.0,
+          "description": "Dhanshree Masoor Dal 1 kg",
+          "quantity": 15.0,
+          "unit_price": 105.0
+        },
+        {
+          "amount": 600.0,
+          "description": "Aashirvaad Salt 1 kg",
+          "quantity": 30.0,
+          "unit_price": 20.0
+        },
+        {
+          "amount": 1188.0,
+          "description": "Harpic Toilet Cleaner 500 ml",
+          "quantity": 12.0,
+          "unit_price": 99.0
+        },
+        {
+          "amount": 760.0,
+          "description": "Lifebuoy Soap 125 gm",
+          "quantity": 20.0,
+          "unit_price": 38.0
+        },
+        {
+          "amount": 1180.0,
+          "description": "Prufen-D 400 gm",
+          "quantity": 10.0,
+          "unit_price": 118.0
+        }
+      ],
+      "payment_terms": "Payment due by due date; 14% interest will be charged if not paid on time.",
+      "subtotal": 15188.0,
+      "tax_amount": 2232.5,
+      "total_amount": 17420.0,
+      "vendor_address": "12, Naksal Road, P.O. Box-712234, Cooch Behar, West Bengal",
+      "vendor_name": "SS ENTERPRISE"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9910988428691343,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is explicitly mentioned as SSE/24-25/1198.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ইনভয়েস নং** : SSE/24-25/1198",
+            "bounding_boxes": [
+              {
+                "x": 53.09,
+                "y": 70.08,
+                "w": 34.35,
+                "h": 5.76
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is explicitly mentioned as 20/05/2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ইনভয়েস তারিখ** : 20/05/2024",
+            "bounding_boxes": [
+              {
+                "x": 53.57,
+                "y": 80.16,
+                "w": 24.98,
+                "h": 5.28
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is explicitly mentioned as 04/06/2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ডিউ তারিখ** : 04/06/2024",
+            "bounding_boxes": [
+              {
+                "x": 53.09,
+                "y": 89.52,
+                "w": 25.71,
+                "h": 5.76
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is 'এস. এস. এন্টারপ্রাইজ', translated as 'SS ENTERPRISE'.",
+        "confidence": 0.9008319739266744,
+        "extraction_confidence": 0.9008319739266744,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "SS ENTERPRISE logo",
+            "bounding_boxes": [
+              {
+                "x": 15.28485,
+                "y": 12.864680830792683,
+                "w": 30.161696341463415,
+                "h": 34.007674504573174
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "The vendor address is at the top of the invoice, translated to English.",
+        "confidence": 0.9728283000088953,
+        "extraction_confidence": 0.9728283000088953,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The customer name is 'মেসার্স মা তারা স্টোর', translated as 'Messrs Ma Tara Store'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The billing address is provided under 'বিলিং ঠিকানা (Bill to)' and is translated to English.",
+        "confidence": 0.9793268251693956,
+        "extraction_confidence": 0.9793268251693956,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.985625092388712,
+            "extraction_confidence": 0.985625092388712,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1       | সানলাইফ রিফাইন্ড তল ১ লি:      | 1514    | 20     | বটল     | 155.00            | 2.50               | 2.50               | 3,100.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9980610754794949,
+            "extraction_confidence": 0.9980610754794949,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1       | সানলাইফ রিফাইন্ড তল ১ লি:      | 1514    | 20     | বটল     | 155.00            | 2.50               | 2.50               | 3,100.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9434624261723535,
+            "extraction_confidence": 0.9434624261723535,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1       | সানলাইফ রিফাইন্ড তল ১ লি:      | 1514    | 20     | বটল     | 155.00            | 2.50               | 2.50               | 3,100.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999982963927687,
+            "extraction_confidence": 0.9999982963927687,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2       | ফরচুন সয়াবিন তল ১ লি:          | 1507    | 15     | বটল     | 140.00            | 2.50               | 2.50               | 2,100.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999956590714401,
+            "extraction_confidence": 0.9999956590714401,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2       | ফরচুন সয়াবিন তল ১ লি:          | 1507    | 15     | বটল     | 140.00            | 2.50               | 2.50               | 2,100.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999939430288842,
+            "extraction_confidence": 0.9999939430288842,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2       | ফরচুন সয়াবিন তল ১ লি:          | 1507    | 15     | বটল     | 140.00            | 2.50               | 2.50               | 2,100.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9998340871743812,
+            "extraction_confidence": 0.9998340871743812,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "**ইনভয়েস নং** : SSE/24-25/1198\n**ইনভয়েস তারিখ** : 20/05/2024\n**ডিউ তারিখ** : 04/06/2024\n**সরবরাহ স্থল (রাজ্য)** : পশ্চিমবঙ্গ (19)\n(Place of Supply)",
+                "bounding_boxes": [
+                  {
+                    "x": 18.432,
+                    "y": 70.10304,
+                    "w": 69.30432,
+                    "h": 40.857600000000005
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999966375000584,
+            "extraction_confidence": 0.9999966375000584,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999993965782865,
+            "extraction_confidence": 0.9999993965782865,
+            "parsing_confidence": 1.0,
+            "citation": null
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999196035150513,
+            "extraction_confidence": 0.9999196035150513,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4       | সুধার ফি চিনি ১ কেজি           | 1701    | 20     | প্যাকেট | 43.00             | 2.50               | 2.50               | 860.00             |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4       | সুধার ফি চিনি ১ কেজি           | 1701    | 20     | প্যাকেট | 43.00             | 2.50               | 2.50               | 860.00             |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999670904599447,
+            "extraction_confidence": 0.9999670904599447,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4       | সুধার ফি চিনি ১ কেজি           | 1701    | 20     | প্যাকেট | 43.00             | 2.50               | 2.50               | 860.00             |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9754768328979636,
+            "extraction_confidence": 0.9754768328979636,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5       | তাজ আটা ৫ কেজি                 | 1101    | 10     | ব্যাগ   | 145.00            | 2.50               | 2.50               | 1,450.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5       | তাজ আটা ৫ কেজি                 | 1101    | 10     | ব্যাগ   | 145.00            | 2.50               | 2.50               | 1,450.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999997653877868,
+            "extraction_confidence": 0.9999997653877868,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5       | তাজ আটা ৫ কেজি                 | 1101    | 10     | ব্যাগ   | 145.00            | 2.50               | 2.50               | 1,450.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999562673261397,
+            "extraction_confidence": 0.9999562673261397,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | ধানশ্রী মসুর ডাল ১ কেজি        | 0713    | 15     | প্যাকেট | 105.00            | 2.50               | 2.50               | 1,575.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | ধানশ্রী মসুর ডাল ১ কেজি        | 0713    | 15     | প্যাকেট | 105.00            | 2.50               | 2.50               | 1,575.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | ধানশ্রী মসুর ডাল ১ কেজি        | 0713    | 15     | প্যাকেট | 105.00            | 2.50               | 2.50               | 1,575.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999957053867351,
+            "extraction_confidence": 0.9999957053867351,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7       | আশীর্বাদ নুন ১ কেজি            | 2501    | 30     | প্যাকেট | 20.00             | 2.50               | 2.50               | 600.00             |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.999999632517639,
+            "extraction_confidence": 0.999999632517639,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7       | আশীর্বাদ নুন ১ কেজি            | 2501    | 30     | প্যাকেট | 20.00             | 2.50               | 2.50               | 600.00             |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999975663236434,
+            "extraction_confidence": 0.9999975663236434,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7       | আশীর্বাদ নুন ১ কেজি            | 2501    | 30     | প্যাকেট | 20.00             | 2.50               | 2.50               | 600.00             |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999821168256844,
+            "extraction_confidence": 0.9999821168256844,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8       | হরপিক টয়লেট ক্লিনার ৫০০ মি.লি. | 3402    | 12     | বটল     | 99.00             | 9.00               | 9.00               | 1,188.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8       | হরপিক টয়লেট ক্লিনার ৫০০ মি.লি. | 3402    | 12     | বটল     | 99.00             | 9.00               | 9.00               | 1,188.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999998621940971,
+            "extraction_confidence": 0.9999998621940971,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8       | হরপিক টয়লেট ক্লিনার ৫০০ মি.লি. | 3402    | 12     | বটল     | 99.00             | 9.00               | 9.00               | 1,188.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999994691829942,
+            "extraction_confidence": 0.9999994691829942,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9       | লাইফবয় সাবান ১২৫ গ্রাম         | 3401    | 20     | পিস     | 38.00             | 9.00               | 9.00               | 760.00             |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9       | লাইফবয় সাবান ১২৫ গ্রাম         | 3401    | 20     | পিস     | 38.00             | 9.00               | 9.00               | 760.00             |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9       | লাইফবয় সাবান ১২৫ গ্রাম         | 3401    | 20     | পিস     | 38.00             | 9.00               | 9.00               | 760.00             |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999984951481292,
+            "extraction_confidence": 0.9999984951481292,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10      | প্রুফেন-ডি ৪০০ গ্রাম           | 2106    | 10     | বক্স    | 118.00            | 18.00              | 18.00              | 1,180.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10      | প্রুফেন-ডি ৪০০ গ্রাম           | 2106    | 10     | বক্স    | 118.00            | 18.00              | 18.00              | 1,180.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantity, unit price, and amount.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10      | প্রুফেন-ডি ৪০০ গ্রাম           | 2106    | 10     | বক্স    | 118.00            | 18.00              | 18.00              | 1,180.00           |           |",
+                "bounding_boxes": [
+                  {
+                    "x": 16.361579268292683,
+                    "y": 114.66079390243902,
+                    "w": 216.0489475609756,
+                    "h": 176.2518987804878
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The subtotal is labeled as 'মোট পরিমাণ (₹)' and 'করযোগ্য মূল্য (₹)', both showing 15,188.00.",
+        "confidence": 0.9341844267336372,
+        "extraction_confidence": 0.9341844267336372,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|         |                                |         |        |         | মোট পরিমাণ (₹)    |                    |                    | 15,188.00          |           |",
+            "bounding_boxes": [
+              {
+                "x": 16.361579268292683,
+                "y": 114.66079390243902,
+                "w": 216.0489475609756,
+                "h": 176.2518987804878
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Total tax is labeled as 'মোট কর (₹)' and is 2,232.50.",
+        "confidence": 0.9564629798745018,
+        "extraction_confidence": 0.9564629798745018,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "The final total is labeled as 'সর্বমোট পাওনা (₹)' and is 17,420.00.",
+        "confidence": 0.9954472427564321,
+        "extraction_confidence": 0.9954472427564321,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|         |                                |         |        |         |                   | সর্বমোট পাওনা (₹)  |                    |                    | 17,420.00 |",
+            "bounding_boxes": [
+              {
+                "x": 16.361579268292683,
+                "y": 114.66079390243902,
+                "w": 216.0489475609756,
+                "h": 176.2518987804878
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The symbol ₹ is used throughout the invoice, which is the symbol for Indian Rupees (INR).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Terms are listed under '**শর্তাবলী :**'. The main payment term is payment due by the due date, with 14% interest if not paid on time.",
+        "confidence": 0.8957994705987116,
+        "extraction_confidence": 0.8957994705987116,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "c9f4aec9-ebc7-4c00-8ca1-16c371af1f95",
+    "file_name": "invoice_azimg_20260519_122908_227_0001.png",
+    "file_hash": "ddbda430-4c0e-4925-9dda-5a859eff6eaf",
+    "metadata": {
+      "job_id": "ext-9kokyx91r9lpe8jz3loxq7l9hzee"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_122908_227_0001.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_122908_227_0001.png"
+    }
+  ]
+}

@@ -1,0 +1,1372 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\tamil\\images\\invoice_azimg_20260519_160536_242_0002.png",
+  "language": "tamil",
+  "file_id": "b42d5620-3ded-413a-9b2a-df90fe2da6b1",
+  "record_id": {
+    "value": {
+      "result": "agd-w7nulr3jzl53bi8lbyfned1d5duu"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "Plot No: 45, SIDCO Industrial Estate, Kurumbapalayam, Coimbatore - 641 107, Tamil Nadu.",
+      "customer_name": "M/s. Sri Vetri Industries",
+      "due_date": "2024-06-22",
+      "invoice_date": "2024-05-23",
+      "invoice_number": "SLM/24-25/0897",
+      "line_items": [
+        {
+          "amount": 2750.0,
+          "description": "MS Flat 10MM",
+          "quantity": 50.0,
+          "unit_price": 55.0
+        },
+        {
+          "amount": 3120.0,
+          "description": "MS Flat 8MM",
+          "quantity": 60.0,
+          "unit_price": 52.0
+        },
+        {
+          "amount": 2480.0,
+          "description": "MS Angle 50X50X5MM",
+          "quantity": 40.0,
+          "unit_price": 62.0
+        },
+        {
+          "amount": 2040.0,
+          "description": "MS Channel 75MM",
+          "quantity": 30.0,
+          "unit_price": 68.0
+        },
+        {
+          "amount": 1450.0,
+          "description": "MS Round 16MM",
+          "quantity": 25.0,
+          "unit_price": 58.0
+        },
+        {
+          "amount": 1400.0,
+          "description": "MS Round 12MM",
+          "quantity": 25.0,
+          "unit_price": 56.0
+        },
+        {
+          "amount": 2100.0,
+          "description": "MS Square 20MM",
+          "quantity": 35.0,
+          "unit_price": 60.0
+        },
+        {
+          "amount": 1140.0,
+          "description": "MS Flat 40X6MM",
+          "quantity": 20.0,
+          "unit_price": 57.0
+        },
+        {
+          "amount": 2100.0,
+          "description": "MS Pipe 25NB",
+          "quantity": 10.0,
+          "unit_price": 210.0
+        },
+        {
+          "amount": 750.0,
+          "description": "Welding Rod 2.5MM",
+          "quantity": 5.0,
+          "unit_price": 150.0
+        }
+      ],
+      "payment_terms": "Payment must be made by the due date. 24% interest will be charged for late payment.",
+      "subtotal": 19330.0,
+      "tax_amount": 3479.4,
+      "total_amount": 22810.0,
+      "vendor_address": "Plot No: 12, Singanallur Co-op Industrial Estate, Singanallur, Coimbatore - 641 005, Tamil Nadu, India.",
+      "vendor_name": "Sri Lakshmi Metals"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "Plot No: 45, SIDCO Industrial Estate, Kurumbapalayam, Coimbatore - 641 107, Tamil Nadu.",
+      "customer_name": "M/s. Sri Vetri Industries",
+      "due_date": "2024-06-22",
+      "invoice_date": "2024-05-23",
+      "invoice_number": "SLM/24-25/0897",
+      "line_items": [
+        {
+          "amount": 2750.0,
+          "description": "MS Flat 10MM",
+          "quantity": 50.0,
+          "unit_price": 55.0
+        },
+        {
+          "amount": 3120.0,
+          "description": "MS Flat 8MM",
+          "quantity": 60.0,
+          "unit_price": 52.0
+        },
+        {
+          "amount": 2480.0,
+          "description": "MS Angle 50X50X5MM",
+          "quantity": 40.0,
+          "unit_price": 62.0
+        },
+        {
+          "amount": 2040.0,
+          "description": "MS Channel 75MM",
+          "quantity": 30.0,
+          "unit_price": 68.0
+        },
+        {
+          "amount": 1450.0,
+          "description": "MS Round 16MM",
+          "quantity": 25.0,
+          "unit_price": 58.0
+        },
+        {
+          "amount": 1400.0,
+          "description": "MS Round 12MM",
+          "quantity": 25.0,
+          "unit_price": 56.0
+        },
+        {
+          "amount": 2100.0,
+          "description": "MS Square 20MM",
+          "quantity": 35.0,
+          "unit_price": 60.0
+        },
+        {
+          "amount": 1140.0,
+          "description": "MS Flat 40X6MM",
+          "quantity": 20.0,
+          "unit_price": 57.0
+        },
+        {
+          "amount": 2100.0,
+          "description": "MS Pipe 25NB",
+          "quantity": 10.0,
+          "unit_price": 210.0
+        },
+        {
+          "amount": 750.0,
+          "description": "Welding Rod 2.5MM",
+          "quantity": 5.0,
+          "unit_price": 150.0
+        }
+      ],
+      "payment_terms": "Payment must be made by the due date. 24% interest will be charged for late payment.",
+      "subtotal": 19330.0,
+      "tax_amount": 3479.4,
+      "total_amount": 22810.0,
+      "vendor_address": "Plot No: 12, Singanallur Co-op Industrial Estate, Singanallur, Coimbatore - 641 005, Tamil Nadu, India.",
+      "vendor_name": "Sri Lakshmi Metals"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9949534777316011,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is explicitly mentioned as 'SLM/24-25/0897'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**விலைப்பட்டியல் எண் / Invoice No.** : SLM/24-25/0897",
+            "bounding_boxes": [
+              {
+                "x": 17.43180548780488,
+                "y": 90.52859908536584,
+                "w": 58.91157256097561,
+                "h": 4.411907926829271
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is explicitly mentioned as '23-05-2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**விலைப்பட்டியல் தேதி / Invoice Date** : 23-05-2024",
+            "bounding_boxes": [
+              {
+                "x": 17.43180548780488,
+                "y": 90.52859908536584,
+                "w": 58.91157256097561,
+                "h": 4.411907926829271
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is explicitly mentioned as '22-06-2024'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**பணம் செலுத்த வேண்டிய தேதி / Due Date** : 22-06-2024",
+            "bounding_boxes": [
+              {
+                "x": 17.43180548780488,
+                "y": 90.52859908536584,
+                "w": 58.91157256097561,
+                "h": 4.411907926829271
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Vendor name is 'ஸ்ரீ லட்சுமி மெட்டல்ஸ்', which translates to 'Sri Lakshmi Metals'.",
+        "confidence": 0.9999999677312256,
+        "extraction_confidence": 0.9999999677312256,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "SRI LAKSHMI METALS logo",
+            "bounding_boxes": [
+              {
+                "x": 168.1375463414634,
+                "y": 348.6176195121951,
+                "w": 47.0101756097561,
+                "h": 4.17687439024392
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "Vendor address is at the top: Plot No: 12, Singanallur Co-op Industrial Estate, Singanallur, Coimbatore - 641 005, Tamil Nadu, India.",
+        "confidence": 0.9997155983871535,
+        "extraction_confidence": 0.9997155983871535,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The customer name is 'M/s. ஸ்ரீ வெற்றி இண்டஸ்ட்ரீஸ்', which translates to 'M/s. Sri Vetri Industries'.",
+        "confidence": 0.9999856403459455,
+        "extraction_confidence": 0.9999856403459455,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The billing address is provided under 'பில்லிங் முகவரி / Bill To', which is translated as: Plot No: 45, SIDCO Industrial Estate, Kurumbapalayam, Coimbatore - 641 107, Tamil Nadu.",
+        "confidence": 0.9894113317184464,
+        "extraction_confidence": 0.9894113317184464,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Line 1: Description is 'MS பிளாட் 10MM' (MS Flat 10MM), quantity 50 KG, unit price 55.00, amount 2,750.00.",
+            "confidence": 0.9999643230533352,
+            "extraction_confidence": 0.9999643230533352,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1           | MS பிளாட் 10MM                    | 7208              | 50      | KG       | 55.00                    | 18%                   | 2,750.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Line 1: Description is 'MS பிளாட் 10MM' (MS Flat 10MM), quantity 50 KG, unit price 55.00, amount 2,750.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1           | MS பிளாட் 10MM                    | 7208              | 50      | KG       | 55.00                    | 18%                   | 2,750.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 1: Description is 'MS பிளாட் 10MM' (MS Flat 10MM), quantity 50 KG, unit price 55.00, amount 2,750.00.",
+            "confidence": 0.9964555703840445,
+            "extraction_confidence": 0.9964555703840445,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1           | MS பிளாட் 10MM                    | 7208              | 50      | KG       | 55.00                    | 18%                   | 2,750.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 1: Description is 'MS பிளாட் 10MM' (MS Flat 10MM), quantity 50 KG, unit price 55.00, amount 2,750.00.",
+            "confidence": 0.9443971324801699,
+            "extraction_confidence": 0.9443971324801699,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1           | MS பிளாட் 10MM                    | 7208              | 50      | KG       | 55.00                    | 18%                   | 2,750.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 2: Description is 'MS பிளாட் 8MM' (MS Flat 8MM), quantity 60 KG, unit price 52.00, amount 3,120.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2           | MS பிளாட் 8MM                     | 7208              | 60      | KG       | 52.00                    | 18%                   | 3,120.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Line 2: Description is 'MS பிளாட் 8MM' (MS Flat 8MM), quantity 60 KG, unit price 52.00, amount 3,120.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2           | MS பிளாட் 8MM                     | 7208              | 60      | KG       | 52.00                    | 18%                   | 3,120.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 2: Description is 'MS பிளாட் 8MM' (MS Flat 8MM), quantity 60 KG, unit price 52.00, amount 3,120.00.",
+            "confidence": 0.9999812355951293,
+            "extraction_confidence": 0.9999812355951293,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2           | MS பிளாட் 8MM                     | 7208              | 60      | KG       | 52.00                    | 18%                   | 3,120.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 2: Description is 'MS பிளாட் 8MM' (MS Flat 8MM), quantity 60 KG, unit price 52.00, amount 3,120.00.",
+            "confidence": 0.9999943602390304,
+            "extraction_confidence": 0.9999943602390304,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2           | MS பிளாட் 8MM                     | 7208              | 60      | KG       | 52.00                    | 18%                   | 3,120.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 3: Description is 'MS ஆங்கிள் 50X50X5MM' (MS Angle 50X50X5MM), quantity 40 KG, unit price 62.00, amount 2,480.00.",
+            "confidence": 0.9999925663757164,
+            "extraction_confidence": 0.9999925663757164,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3           | MS ஆங்கிள் 50X50X5MM              | 7216              | 40      | KG       | 62.00                    | 18%                   | 2,480.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Line 3: Description is 'MS ஆங்கிள் 50X50X5MM' (MS Angle 50X50X5MM), quantity 40 KG, unit price 62.00, amount 2,480.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3           | MS ஆங்கிள் 50X50X5MM              | 7216              | 40      | KG       | 62.00                    | 18%                   | 2,480.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 3: Description is 'MS ஆங்கிள் 50X50X5MM' (MS Angle 50X50X5MM), quantity 40 KG, unit price 62.00, amount 2,480.00.",
+            "confidence": 0.9999831428194871,
+            "extraction_confidence": 0.9999831428194871,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3           | MS ஆங்கிள் 50X50X5MM              | 7216              | 40      | KG       | 62.00                    | 18%                   | 2,480.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 3: Description is 'MS ஆங்கிள் 50X50X5MM' (MS Angle 50X50X5MM), quantity 40 KG, unit price 62.00, amount 2,480.00.",
+            "confidence": 0.9999920357835167,
+            "extraction_confidence": 0.9999920357835167,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3           | MS ஆங்கிள் 50X50X5MM              | 7216              | 40      | KG       | 62.00                    | 18%                   | 2,480.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 4: Description is 'MS சேனல் 75MM' (MS Channel 75MM), quantity 30 KG, unit price 68.00, amount 2,040.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4           | MS சேனல் 75MM                     | 7216              | 30      | KG       | 68.00                    | 18%                   | 2,040.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Line 4: Description is 'MS சேனல் 75MM' (MS Channel 75MM), quantity 30 KG, unit price 68.00, amount 2,040.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4           | MS சேனல் 75MM                     | 7216              | 30      | KG       | 68.00                    | 18%                   | 2,040.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 4: Description is 'MS சேனல் 75MM' (MS Channel 75MM), quantity 30 KG, unit price 68.00, amount 2,040.00.",
+            "confidence": 0.9999998559933477,
+            "extraction_confidence": 0.9999998559933477,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4           | MS சேனல் 75MM                     | 7216              | 30      | KG       | 68.00                    | 18%                   | 2,040.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 4: Description is 'MS சேனல் 75MM' (MS Channel 75MM), quantity 30 KG, unit price 68.00, amount 2,040.00.",
+            "confidence": 0.99999877075962,
+            "extraction_confidence": 0.99999877075962,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4           | MS சேனல் 75MM                     | 7216              | 30      | KG       | 68.00                    | 18%                   | 2,040.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 5: Description is 'MS ரவுண்ட் 16MM' (MS Round 16MM), quantity 25 KG, unit price 58.00, amount 1,450.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5           | MS ரவுண்ட் 16MM                   | 7213              | 25      | KG       | 58.00                    | 18%                   | 1,450.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Line 5: Description is 'MS ரவுண்ட் 16MM' (MS Round 16MM), quantity 25 KG, unit price 58.00, amount 1,450.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5           | MS ரவுண்ட் 16MM                   | 7213              | 25      | KG       | 58.00                    | 18%                   | 1,450.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 5: Description is 'MS ரவுண்ட் 16MM' (MS Round 16MM), quantity 25 KG, unit price 58.00, amount 1,450.00.",
+            "confidence": 0.9999994338449569,
+            "extraction_confidence": 0.9999994338449569,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5           | MS ரவுண்ட் 16MM                   | 7213              | 25      | KG       | 58.00                    | 18%                   | 1,450.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 5: Description is 'MS ரவுண்ட் 16MM' (MS Round 16MM), quantity 25 KG, unit price 58.00, amount 1,450.00.",
+            "confidence": 0.9999916781756131,
+            "extraction_confidence": 0.9999916781756131,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5           | MS ரவுண்ட் 16MM                   | 7213              | 25      | KG       | 58.00                    | 18%                   | 1,450.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 6: Description is 'MS ரவுண்ட் 12MM' (MS Round 12MM), quantity 25 KG, unit price 56.00, amount 1,400.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6           | MS ரவுண்ட் 12MM                   | 7213              | 25      | KG       | 56.00                    | 18%                   | 1,400.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Line 6: Description is 'MS ரவுண்ட் 12MM' (MS Round 12MM), quantity 25 KG, unit price 56.00, amount 1,400.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6           | MS ரவுண்ட் 12MM                   | 7213              | 25      | KG       | 56.00                    | 18%                   | 1,400.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 6: Description is 'MS ரவுண்ட் 12MM' (MS Round 12MM), quantity 25 KG, unit price 56.00, amount 1,400.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6           | MS ரவுண்ட் 12MM                   | 7213              | 25      | KG       | 56.00                    | 18%                   | 1,400.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 6: Description is 'MS ரவுண்ட் 12MM' (MS Round 12MM), quantity 25 KG, unit price 56.00, amount 1,400.00.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6           | MS ரவுண்ட் 12MM                   | 7213              | 25      | KG       | 56.00                    | 18%                   | 1,400.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 7: Description is 'MS ஸ்கொயர் 20MM' (MS Square 20MM), quantity 35 KG, unit price 60.00, amount 2,100.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7           | MS ஸ்கொயர் 20MM                   | 7214              | 35      | KG       | 60.00                    | 18%                   | 2,100.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Line 7: Description is 'MS ஸ்கொயர் 20MM' (MS Square 20MM), quantity 35 KG, unit price 60.00, amount 2,100.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7           | MS ஸ்கொயர் 20MM                   | 7214              | 35      | KG       | 60.00                    | 18%                   | 2,100.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 7: Description is 'MS ஸ்கொயர் 20MM' (MS Square 20MM), quantity 35 KG, unit price 60.00, amount 2,100.00.",
+            "confidence": 0.9999993543758782,
+            "extraction_confidence": 0.9999993543758782,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7           | MS ஸ்கொயர் 20MM                   | 7214              | 35      | KG       | 60.00                    | 18%                   | 2,100.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 7: Description is 'MS ஸ்கொயர் 20MM' (MS Square 20MM), quantity 35 KG, unit price 60.00, amount 2,100.00.",
+            "confidence": 0.9999981449413025,
+            "extraction_confidence": 0.9999981449413025,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7           | MS ஸ்கொயர் 20MM                   | 7214              | 35      | KG       | 60.00                    | 18%                   | 2,100.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 8: Description is 'MS ஃபிளாட் 40X6MM' (MS Flat 40X6MM), quantity 20 KG, unit price 57.00, amount 1,140.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8           | MS ஃபிளாட் 40X6MM                 | 7215              | 20      | KG       | 57.00                    | 18%                   | 1,140.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Line 8: Description is 'MS ஃபிளாட் 40X6MM' (MS Flat 40X6MM), quantity 20 KG, unit price 57.00, amount 1,140.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8           | MS ஃபிளாட் 40X6MM                 | 7215              | 20      | KG       | 57.00                    | 18%                   | 1,140.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 8: Description is 'MS ஃபிளாட் 40X6MM' (MS Flat 40X6MM), quantity 20 KG, unit price 57.00, amount 1,140.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8           | MS ஃபிளாட் 40X6MM                 | 7215              | 20      | KG       | 57.00                    | 18%                   | 1,140.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 8: Description is 'MS ஃபிளாட் 40X6MM' (MS Flat 40X6MM), quantity 20 KG, unit price 57.00, amount 1,140.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8           | MS ஃபிளாட் 40X6MM                 | 7215              | 20      | KG       | 57.00                    | 18%                   | 1,140.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 9: Description is 'MS பைப் 25NB' (MS Pipe 25NB), quantity 10 MTR, unit price 210.00, amount 2,100.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9           | MS பைப் 25NB                      | 7306              | 10      | MTR      | 210.00                   | 18%                   | 2,100.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Line 9: Description is 'MS பைப் 25NB' (MS Pipe 25NB), quantity 10 MTR, unit price 210.00, amount 2,100.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9           | MS பைப் 25NB                      | 7306              | 10      | MTR      | 210.00                   | 18%                   | 2,100.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 9: Description is 'MS பைப் 25NB' (MS Pipe 25NB), quantity 10 MTR, unit price 210.00, amount 2,100.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9           | MS பைப் 25NB                      | 7306              | 10      | MTR      | 210.00                   | 18%                   | 2,100.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 9: Description is 'MS பைப் 25NB' (MS Pipe 25NB), quantity 10 MTR, unit price 210.00, amount 2,100.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9           | MS பைப் 25NB                      | 7306              | 10      | MTR      | 210.00                   | 18%                   | 2,100.00        |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Line 10: Description is 'வெல்டிங் ரோடு 2.5MM' (Welding Rod 2.5MM), quantity 5 KG, unit price 150.00, amount 750.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Line 10: Description is 'வெல்டிங் ரோடு 2.5MM' (Welding Rod 2.5MM), quantity 5 KG, unit price 150.00, amount 750.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10          | வெல்டிங் ரோடு 2.5MM               | 8311              | 5       | KG       | 150.00                   | 18%                   | 750.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Line 10: Description is 'வெல்டிங் ரோடு 2.5MM' (Welding Rod 2.5MM), quantity 5 KG, unit price 150.00, amount 750.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10          | வெல்டிங் ரோடு 2.5MM               | 8311              | 5       | KG       | 150.00                   | 18%                   | 750.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Line 10: Description is 'வெல்டிங் ரோடு 2.5MM' (Welding Rod 2.5MM), quantity 5 KG, unit price 150.00, amount 750.00.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10          | வெல்டிங் ரோடு 2.5MM               | 8311              | 5       | KG       | 150.00                   | 18%                   | 750.00          |",
+                "bounding_boxes": [
+                  {
+                    "x": 14.14751981707317,
+                    "y": 158.72226402439023,
+                    "w": 216.66157774390243,
+                    "h": 95.81448475609756
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The subtotal is explicitly mentioned as 19,330.00.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "19,330.00",
+            "bounding_boxes": [
+              {
+                "x": 211.07,
+                "y": 257.65,
+                "w": 17.84,
+                "h": 3.91
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Total tax is explicitly mentioned as 3,479.40 (CGST 1,739.70 + SGST 1,739.70).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "3,479.40",
+            "bounding_boxes": [
+              {
+                "x": 213.46,
+                "y": 279.05,
+                "w": 15.47,
+                "h": 3.9
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "Grand Total is explicitly mentioned as 22,810.00.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "Amount (in Figures) : INR 22,810.00**",
+            "bounding_boxes": [
+              {
+                "x": 17.54,
+                "y": 306.0,
+                "w": 118.2,
+                "h": 5.76
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The invoice amounts are all in INR (Indian Rupees), and the text explicitly states 'INR' and 'இந்திய ரூபாய்' (Indian Rupees).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**தொகை (எண்ணில்) / Amount (in Figures) : INR 22,810.00**",
+            "bounding_boxes": [
+              {
+                "x": 17.400728048780486,
+                "y": 306.27337317073165,
+                "w": 81.35169878048781,
+                "h": 5.336381707317086
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "payment_terms": {
+        "reasoning": "Terms & Conditions section states: 'Payment must be made by the due date. If delayed, 24% interest will be charged.'",
+        "confidence": 0.807720747442497,
+        "extraction_confidence": 0.807720747442497,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "b42d5620-3ded-413a-9b2a-df90fe2da6b1",
+    "file_name": "invoice_azimg_20260519_160536_242_0002.png",
+    "file_hash": "6dfc3920-fd79-4430-a6c4-b94d1906947c",
+    "metadata": {
+      "job_id": "ext-wetudh6hfzkx2mwdufvth2s0kcu8"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_160536_242_0002.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_160536_242_0002.png"
+    }
+  ]
+}

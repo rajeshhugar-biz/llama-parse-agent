@@ -1,0 +1,1202 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\telugu\\images\\invoice_azimg_20260519_155150_510_0002.png",
+  "language": "telugu",
+  "file_id": "1dd67e3c-36bd-44ca-a963-d8c0be89216d",
+  "record_id": {
+    "value": {
+      "result": "agd-9gz5fmz306bqlpcsq6ms4402zvy0"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "8-2-293/82/A/113, Road No. 36, Jubilee Hills, Hyderabad - 500 033, Telangana, India",
+      "customer_name": "M/s. Srivari Infotech Private Limited",
+      "due_date": "2024-05-30",
+      "invoice_date": "2024-05-15",
+      "invoice_number": "VSS/24-25/1127",
+      "line_items": [
+        {
+          "amount": 29500.0,
+          "description": "Web Application Development Service",
+          "quantity": 1.0,
+          "unit_price": 25000.0
+        },
+        {
+          "amount": 21240.0,
+          "description": "Mobile App Development (Android)",
+          "quantity": 1.0,
+          "unit_price": 18000.0
+        },
+        {
+          "amount": 11800.0,
+          "description": "UI/UX Design Services",
+          "quantity": 1.0,
+          "unit_price": 10000.0
+        },
+        {
+          "amount": 5900.0,
+          "description": "Server Setup & Configuration",
+          "quantity": 1.0,
+          "unit_price": 5000.0
+        },
+        {
+          "amount": 8850.0,
+          "description": "Database Development",
+          "quantity": 1.0,
+          "unit_price": 7500.0
+        },
+        {
+          "amount": 7080.0,
+          "description": "API Integration Services",
+          "quantity": 1.0,
+          "unit_price": 6000.0
+        },
+        {
+          "amount": 4720.0,
+          "description": "Testing & Quality Assurance",
+          "quantity": 1.0,
+          "unit_price": 4000.0
+        },
+        {
+          "amount": 2950.0,
+          "description": "Documentation",
+          "quantity": 1.0,
+          "unit_price": 2500.0
+        },
+        {
+          "amount": 7080.0,
+          "description": "Maintenance (3 months)",
+          "quantity": 1.0,
+          "unit_price": 6000.0
+        },
+        {
+          "amount": 1770.0,
+          "description": "Domain & SSL Setup",
+          "quantity": 1.0,
+          "unit_price": 1500.0
+        }
+      ],
+      "payment_terms": "1. Payment should be made only after complete delivery of services mentioned in this invoice. 2. Payments should be made only through bank. 3. Interest at 18% per annum will be charged for late payments after due date. 4. Cheques should be payable at our Hyderabad branch. 5. Any disputes are subject to Hyderabad jurisdiction.",
+      "subtotal": 85500.0,
+      "tax_amount": 15390.0,
+      "total_amount": 100890.0,
+      "vendor_address": "2-3-456/7, 3rd Floor, Sri Lakshmi Narasimha Complex, Dilsukhnagar, Hyderabad - 500 060, Telangana, India",
+      "vendor_name": "Vijnan Software Solutions"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "8-2-293/82/A/113, Road No. 36, Jubilee Hills, Hyderabad - 500 033, Telangana, India",
+      "customer_name": "M/s. Srivari Infotech Private Limited",
+      "due_date": "2024-05-30",
+      "invoice_date": "2024-05-15",
+      "invoice_number": "VSS/24-25/1127",
+      "line_items": [
+        {
+          "amount": 29500.0,
+          "description": "Web Application Development Service",
+          "quantity": 1.0,
+          "unit_price": 25000.0
+        },
+        {
+          "amount": 21240.0,
+          "description": "Mobile App Development (Android)",
+          "quantity": 1.0,
+          "unit_price": 18000.0
+        },
+        {
+          "amount": 11800.0,
+          "description": "UI/UX Design Services",
+          "quantity": 1.0,
+          "unit_price": 10000.0
+        },
+        {
+          "amount": 5900.0,
+          "description": "Server Setup & Configuration",
+          "quantity": 1.0,
+          "unit_price": 5000.0
+        },
+        {
+          "amount": 8850.0,
+          "description": "Database Development",
+          "quantity": 1.0,
+          "unit_price": 7500.0
+        },
+        {
+          "amount": 7080.0,
+          "description": "API Integration Services",
+          "quantity": 1.0,
+          "unit_price": 6000.0
+        },
+        {
+          "amount": 4720.0,
+          "description": "Testing & Quality Assurance",
+          "quantity": 1.0,
+          "unit_price": 4000.0
+        },
+        {
+          "amount": 2950.0,
+          "description": "Documentation",
+          "quantity": 1.0,
+          "unit_price": 2500.0
+        },
+        {
+          "amount": 7080.0,
+          "description": "Maintenance (3 months)",
+          "quantity": 1.0,
+          "unit_price": 6000.0
+        },
+        {
+          "amount": 1770.0,
+          "description": "Domain & SSL Setup",
+          "quantity": 1.0,
+          "unit_price": 1500.0
+        }
+      ],
+      "payment_terms": "1. Payment should be made only after complete delivery of services mentioned in this invoice. 2. Payments should be made only through bank. 3. Interest at 18% per annum will be charged for late payments after due date. 4. Cheques should be payable at our Hyderabad branch. 5. Any disputes are subject to Hyderabad jurisdiction.",
+      "subtotal": 85500.0,
+      "tax_amount": 15390.0,
+      "total_amount": 100890.0,
+      "vendor_address": "2-3-456/7, 3rd Floor, Sri Lakshmi Narasimha Complex, Dilsukhnagar, Hyderabad - 500 060, Telangana, India",
+      "vendor_name": "Vijnan Software Solutions"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9972435066883171,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "Verbatim extraction from the invoice table.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| ఇన్వాయిస్ నం.<br/>ఇన్వాయిస్ తేదీ<br/>చెల్లించవలసిన తేదీ<br/>స్థలము ఆఫ్ సప్లై | VSS/24-25/1127<br/>15-05-2024<br/>30-05-2024<br/>తెలంగాణ (36) |",
+            "bounding_boxes": [
+              {
+                "x": 151.0,
+                "y": 68.0,
+                "w": 82.0,
+                "h": 36.0
+              }
+            ],
+            "page_dimensions": {
+              "width": 261.12,
+              "height": 438.72
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "Verbatim extraction from the invoice table.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| ఇన్వాయిస్ నం.<br/>ఇన్వాయిస్ తేదీ<br/>చెల్లించవలసిన తేదీ<br/>స్థలము ఆఫ్ సప్లై | VSS/24-25/1127<br/>15-05-2024<br/>30-05-2024<br/>తెలంగాణ (36) |",
+            "bounding_boxes": [
+              {
+                "x": 151.0,
+                "y": 68.0,
+                "w": 82.0,
+                "h": 36.0
+              }
+            ],
+            "page_dimensions": {
+              "width": 261.12,
+              "height": 438.72
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "Verbatim extraction from the invoice table.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| ఇన్వాయిస్ నం.<br/>ఇన్వాయిస్ తేదీ<br/>చెల్లించవలసిన తేదీ<br/>స్థలము ఆఫ్ సప్లై | VSS/24-25/1127<br/>15-05-2024<br/>30-05-2024<br/>తెలంగాణ (36) |",
+            "bounding_boxes": [
+              {
+                "x": 151.0,
+                "y": 68.0,
+                "w": 82.0,
+                "h": 36.0
+              }
+            ],
+            "page_dimensions": {
+              "width": 261.12,
+              "height": 438.72
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Translated vendor name from Telugu to English.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "Vijnan Software Solutions",
+            "bounding_boxes": [
+              {
+                "x": 54.24,
+                "y": 346.32,
+                "w": 54.0,
+                "h": 8.16
+              }
+            ],
+            "page_dimensions": {
+              "width": 261.12,
+              "height": 438.72
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "Translated vendor address from Telugu to English.",
+        "confidence": 0.9998445669961062,
+        "extraction_confidence": 0.9998445669961062,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "Translated customer name from Telugu to English.",
+        "confidence": 0.9985931231406647,
+        "extraction_confidence": 0.9985931231406647,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "Translated the billing address from Telugu to English.",
+        "confidence": 0.9931854469082998,
+        "extraction_confidence": 0.9931854469082998,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9987318068727348,
+            "extraction_confidence": 0.9987318068727348,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1      | వెబ్ అప్లికేషన్ డెవలప్‌మెంట్ సర్వీస్  | 998313       | 1       | 25,000.00       | 18%                       | 29,500.00            |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.999133811999891,
+            "extraction_confidence": 0.999133811999891,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1      | వెబ్ అప్లికేషన్ డెవలప్‌మెంట్ సర్వీస్  | 998313       | 1       | 25,000.00       | 18%                       | 29,500.00            |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.885830886002834,
+            "extraction_confidence": 0.885830886002834,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1      | వెబ్ అప్లికేషన్ డెవలప్‌మెంట్ సర్వీస్  | 998313       | 1       | 25,000.00       | 18%                       | 29,500.00            |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999985447540568,
+            "extraction_confidence": 0.9999985447540568,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2      | మొబైల్ యాప్ డెవలప్‌మెంట్ (ఆండ్రాయిడ్) | 998313       | 1       | 18,000.00       | 18%                       | 21,240.00            |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999971019116672,
+            "extraction_confidence": 0.9999971019116672,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2      | మొబైల్ యాప్ డెవలప్‌మెంట్ (ఆండ్రాయిడ్) | 998313       | 1       | 18,000.00       | 18%                       | 21,240.00            |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999907841560726,
+            "extraction_confidence": 0.9999907841560726,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2      | మొబైల్ యాప్ డెవలప్‌మెంట్ (ఆండ్రాయిడ్) | 998313       | 1       | 18,000.00       | 18%                       | 21,240.00            |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999998033512947,
+            "extraction_confidence": 0.9999998033512947,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3      | UI/UX డిజైన్ సేవలు                    | 998313       | 1       | 10,000.00       | 18%                       | 11,800.00            |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999991581711347,
+            "extraction_confidence": 0.9999991581711347,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3      | UI/UX డిజైన్ సేవలు                    | 998313       | 1       | 10,000.00       | 18%                       | 11,800.00            |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999956714730334,
+            "extraction_confidence": 0.9999956714730334,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3      | UI/UX డిజైన్ సేవలు                    | 998313       | 1       | 10,000.00       | 18%                       | 11,800.00            |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999963866920519,
+            "extraction_confidence": 0.9999963866920519,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4      | సర్వర్ సెటప్ & కాన్ఫిగరేషన్           | 998313       | 1       | 5,000.00        | 18%                       | 5,900.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999960290824361,
+            "extraction_confidence": 0.9999960290824361,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4      | సర్వర్ సెటప్ & కాన్ఫిగరేషన్           | 998313       | 1       | 5,000.00        | 18%                       | 5,900.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999951648595493,
+            "extraction_confidence": 0.9999951648595493,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4      | సర్వర్ సెటప్ & కాన్ఫిగరేషన్           | 998313       | 1       | 5,000.00        | 18%                       | 5,900.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5      | డేటాబేస్ డెవలప్‌మెంట్                 | 998313       | 1       | 7,500.00        | 18%                       | 8,850.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999998919950089,
+            "extraction_confidence": 0.9999998919950089,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5      | డేటాబేస్ డెవలప్‌మెంట్                 | 998313       | 1       | 7,500.00        | 18%                       | 8,850.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999862842693544,
+            "extraction_confidence": 0.9999862842693544,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5      | డేటాబేస్ డెవలప్‌మెంట్                 | 998313       | 1       | 7,500.00        | 18%                       | 8,850.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6      | API ఇంటిగ్రేషన్ సేవలు                 | 998313       | 1       | 6,000.00        | 18%                       | 7,080.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999999217959217,
+            "extraction_confidence": 0.9999999217959217,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6      | API ఇంటిగ్రేషన్ సేవలు                 | 998313       | 1       | 6,000.00        | 18%                       | 7,080.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999961184848352,
+            "extraction_confidence": 0.9999961184848352,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6      | API ఇంటిగ్రేషన్ సేవలు                 | 998313       | 1       | 6,000.00        | 18%                       | 7,080.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999992661760607,
+            "extraction_confidence": 0.9999992661760607,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7      | టెస్టింగ్ & క్వాలిటీ అస్యూరెన్స్      | 998313       | 1       | 4,000.00        | 18%                       | 4,720.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999999217959217,
+            "extraction_confidence": 0.9999999217959217,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7      | టెస్టింగ్ & క్వాలిటీ అస్యూరెన్స్      | 998313       | 1       | 4,000.00        | 18%                       | 4,720.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999972993189292,
+            "extraction_confidence": 0.9999972993189292,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7      | టెస్టింగ్ & క్వాలిటీ అస్యూరెన్స్      | 998313       | 1       | 4,000.00        | 18%                       | 4,720.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8      | డాక్యుమెంటేషన్                        | 998313       | 1       | 2,500.00        | 18%                       | 2,950.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999999217959217,
+            "extraction_confidence": 0.9999999217959217,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8      | డాక్యుమెంటేషన్                        | 998313       | 1       | 2,500.00        | 18%                       | 2,950.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999998621940971,
+            "extraction_confidence": 0.9999998621940971,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8      | డాక్యుమెంటేషన్                        | 998313       | 1       | 2,500.00        | 18%                       | 2,950.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9986577410697456,
+            "extraction_confidence": 0.9986577410697456,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9      | మెయింటెనెన్స్ (3 నెలలు)               | 998313       | 1       | 6,000.00        | 18%                       | 7,080.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999999031936799,
+            "extraction_confidence": 0.9999999031936799,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9      | మెయింటెనెన్స్ (3 నెలలు)               | 998313       | 1       | 6,000.00        | 18%                       | 7,080.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999998323931861,
+            "extraction_confidence": 0.9999998323931861,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9      | మెయింటెనెన్స్ (3 నెలలు)               | 998313       | 1       | 6,000.00        | 18%                       | 7,080.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999992475737816,
+            "extraction_confidence": 0.9999992475737816,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10     | డొమైన్ & SSL సెటప్                    | 998313       | 1       | 1,500.00        | 18%                       | 1,770.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999999217959217,
+            "extraction_confidence": 0.9999999217959217,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10     | డొమైన్ & SSL సెటప్                    | 998313       | 1       | 1,500.00        | 18%                       | 1,770.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated line item description and extracted numerical values.",
+            "confidence": 0.9999966847002884,
+            "extraction_confidence": 0.9999966847002884,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10     | డొమైన్ & SSL సెటప్                    | 998313       | 1       | 1,500.00        | 18%                       | 1,770.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 25.001922027439026,
+                    "y": 155.39609688452745,
+                    "w": 218.47259108231708,
+                    "h": 161.96955597370427
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 261.12,
+                  "height": 438.72
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "Verbatim extraction from the 'Taxable Value' row.",
+        "confidence": 0.9931366605192751,
+        "extraction_confidence": 0.9931366605192751,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|        |                                       |              |         |                 | ఉప మొత్తం (Taxable Value) | 85,500.00            |",
+            "bounding_boxes": [
+              {
+                "x": 25.001922027439026,
+                "y": 155.39609688452745,
+                "w": 218.47259108231708,
+                "h": 161.96955597370427
+              }
+            ],
+            "page_dimensions": {
+              "width": 261.12,
+              "height": 438.72
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Sum of CGST and SGST as per the invoice.",
+        "confidence": 0.9998600151174218,
+        "extraction_confidence": 0.9998600151174218,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|        |                                       |              |         |                 | మొత్తం పన్ను              | 15,390.00            |",
+            "bounding_boxes": [
+              {
+                "x": 25.001922027439026,
+                "y": 155.39609688452745,
+                "w": 218.47259108231708,
+                "h": 161.96955597370427
+              }
+            ],
+            "page_dimensions": {
+              "width": 261.12,
+              "height": 438.72
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "Verbatim extraction from the 'Grand Total' row.",
+        "confidence": 0.9999601923981519,
+        "extraction_confidence": 0.9999601923981519,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|        |                                       |              |         |                 | గ్రాండ్ మొత్తం (రూ.)      | 100,890.00           |",
+            "bounding_boxes": [
+              {
+                "x": 25.001922027439026,
+                "y": 155.39609688452745,
+                "w": 218.47259108231708,
+                "h": 161.96955597370427
+              }
+            ],
+            "page_dimensions": {
+              "width": 261.12,
+              "height": 438.72
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are in Indian Rupees (రూ.), and the context is India.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Translated payment terms from Telugu to English.",
+        "confidence": 0.989785374833158,
+        "extraction_confidence": 0.989785374833158,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "1dd67e3c-36bd-44ca-a963-d8c0be89216d",
+    "file_name": "invoice_azimg_20260519_155150_510_0002.png",
+    "file_hash": "315a71f3-57a6-475d-b1dd-e88c2de53157",
+    "metadata": {
+      "job_id": "ext-re8ddflid33xkwexr96bp4d3ak8b"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_155150_510_0002.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_155150_510_0002.png"
+    }
+  ]
+}

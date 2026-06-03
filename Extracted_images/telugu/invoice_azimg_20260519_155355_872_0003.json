@@ -1,0 +1,1185 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\telugu\\images\\invoice_azimg_20260519_155355_872_0003.png",
+  "language": "telugu",
+  "file_id": "5abe4f1e-7165-4b20-8e66-4c5666356493",
+  "record_id": {
+    "value": {
+      "result": "agd-h852rtzhyedm7fgl0itbu3oc9dzg"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "Door No. 44-5-10, Nehru Nagar, Vijayawada - 520 015, Andhra Pradesh.",
+      "customer_name": "Medicare Hospital",
+      "due_date": "2024-06-01",
+      "invoice_date": "2024-05-17",
+      "invoice_number": "SS/24-25/1786",
+      "line_items": [
+        {
+          "amount": 750.0,
+          "description": "Paracetamol 650 Tablets",
+          "quantity": 50.0,
+          "unit_price": 15.0
+        },
+        {
+          "amount": 1455.0,
+          "description": "Amoxicillin 500 Capsules",
+          "quantity": 30.0,
+          "unit_price": 48.5
+        },
+        {
+          "amount": 1280.0,
+          "description": "Cefixime 200 Tablets",
+          "quantity": 20.0,
+          "unit_price": 64.0
+        },
+        {
+          "amount": 1325.0,
+          "description": "Ondansetron 4 mg Injection",
+          "quantity": 50.0,
+          "unit_price": 26.5
+        },
+        {
+          "amount": 660.0,
+          "description": "Domperidone Syrup 100 ml",
+          "quantity": 30.0,
+          "unit_price": 22.0
+        },
+        {
+          "amount": 720.0,
+          "description": "Ibuprofen 400 Tablets",
+          "quantity": 40.0,
+          "unit_price": 18.0
+        },
+        {
+          "amount": 287.5,
+          "description": "Chlorpheniramine Maleate Tablets",
+          "quantity": 25.0,
+          "unit_price": 11.5
+        },
+        {
+          "amount": 700.0,
+          "description": "Vitamin B-Complex Forte Tablets",
+          "quantity": 20.0,
+          "unit_price": 35.0
+        },
+        {
+          "amount": 660.0,
+          "description": "Diclofenac Gel 30 gm",
+          "quantity": 20.0,
+          "unit_price": 33.0
+        },
+        {
+          "amount": 720.0,
+          "description": "Normal Saline 100 ml",
+          "quantity": 60.0,
+          "unit_price": 12.0
+        }
+      ],
+      "payment_terms": "Payment must be made before the due date. 18% annual interest will be charged for late payment.",
+      "subtotal": 8557.5,
+      "tax_amount": 1026.9,
+      "total_amount": 9584.0,
+      "vendor_address": "11-7-18/2, Ramalingeswara Pet, Eluru Road, Guntur - 522 002, Andhra Pradesh.",
+      "vendor_name": "Sri Sai Medicals"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "Door No. 44-5-10, Nehru Nagar, Vijayawada - 520 015, Andhra Pradesh.",
+      "customer_name": "Medicare Hospital",
+      "due_date": "2024-06-01",
+      "invoice_date": "2024-05-17",
+      "invoice_number": "SS/24-25/1786",
+      "line_items": [
+        {
+          "amount": 750.0,
+          "description": "Paracetamol 650 Tablets",
+          "quantity": 50.0,
+          "unit_price": 15.0
+        },
+        {
+          "amount": 1455.0,
+          "description": "Amoxicillin 500 Capsules",
+          "quantity": 30.0,
+          "unit_price": 48.5
+        },
+        {
+          "amount": 1280.0,
+          "description": "Cefixime 200 Tablets",
+          "quantity": 20.0,
+          "unit_price": 64.0
+        },
+        {
+          "amount": 1325.0,
+          "description": "Ondansetron 4 mg Injection",
+          "quantity": 50.0,
+          "unit_price": 26.5
+        },
+        {
+          "amount": 660.0,
+          "description": "Domperidone Syrup 100 ml",
+          "quantity": 30.0,
+          "unit_price": 22.0
+        },
+        {
+          "amount": 720.0,
+          "description": "Ibuprofen 400 Tablets",
+          "quantity": 40.0,
+          "unit_price": 18.0
+        },
+        {
+          "amount": 287.5,
+          "description": "Chlorpheniramine Maleate Tablets",
+          "quantity": 25.0,
+          "unit_price": 11.5
+        },
+        {
+          "amount": 700.0,
+          "description": "Vitamin B-Complex Forte Tablets",
+          "quantity": 20.0,
+          "unit_price": 35.0
+        },
+        {
+          "amount": 660.0,
+          "description": "Diclofenac Gel 30 gm",
+          "quantity": 20.0,
+          "unit_price": 33.0
+        },
+        {
+          "amount": 720.0,
+          "description": "Normal Saline 100 ml",
+          "quantity": 60.0,
+          "unit_price": 12.0
+        }
+      ],
+      "payment_terms": "Payment must be made before the due date. 18% annual interest will be charged for late payment.",
+      "subtotal": 8557.5,
+      "tax_amount": 1026.9,
+      "total_amount": 9584.0,
+      "vendor_address": "11-7-18/2, Ramalingeswara Pet, Eluru Road, Guntur - 522 002, Andhra Pradesh.",
+      "vendor_name": "Sri Sai Medicals"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9884243923470858,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is explicitly mentioned as SS/24-25/1786.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ఇన్వాయిస్ సంఖ్య (Invoice No.)** : SS/24-25/1786\n**ఇన్వాయిస్ తేదీ (Invoice Date)** : 17-05-2024\n**చెల్లింపు గడువు (Due Date)** : 01-06-2024\n**స్థల వివరాలు (Place of Supply)** : ఆంధ్రప్రదేశ్ (37)",
+            "bounding_boxes": [
+              {
+                "x": 9.13840975609756,
+                "y": 82.3904844512195,
+                "w": 89.69833170731708,
+                "h": 30.481045426829272
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is explicitly mentioned as 17-05-2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ఇన్వాయిస్ సంఖ్య (Invoice No.)** : SS/24-25/1786\n**ఇన్వాయిస్ తేదీ (Invoice Date)** : 17-05-2024\n**చెల్లింపు గడువు (Due Date)** : 01-06-2024\n**స్థల వివరాలు (Place of Supply)** : ఆంధ్రప్రదేశ్ (37)",
+            "bounding_boxes": [
+              {
+                "x": 9.13840975609756,
+                "y": 82.3904844512195,
+                "w": 89.69833170731708,
+                "h": 30.481045426829272
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is explicitly mentioned as 01-06-2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ఇన్వాయిస్ సంఖ్య (Invoice No.)** : SS/24-25/1786\n**ఇన్వాయిస్ తేదీ (Invoice Date)** : 17-05-2024\n**చెల్లింపు గడువు (Due Date)** : 01-06-2024\n**స్థల వివరాలు (Place of Supply)** : ఆంధ్రప్రదేశ్ (37)",
+            "bounding_boxes": [
+              {
+                "x": 9.13840975609756,
+                "y": 82.3904844512195,
+                "w": 89.69833170731708,
+                "h": 30.481045426829272
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is at the top: శ్రీ సాయి మెడికల్స్, which translates to Sri Sai Medicals.",
+        "confidence": 0.7293697981195908,
+        "extraction_confidence": 0.7293697981195908,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "అధికార వ్యక్తి సంతకం (For Sri Sai Medicals)",
+            "bounding_boxes": [
+              {
+                "x": 139.59167999999997,
+                "y": 313.52832,
+                "w": 98.54976000000002,
+                "h": 43.00799999999998
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "The vendor address is at the top of the invoice.",
+        "confidence": 0.9250630935220285,
+        "extraction_confidence": 0.9250630935220285,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The customer name is given as 'మెడికేర్ హాస్పిటల్', which translates to 'Medicare Hospital'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The billing address is provided under the section labeled 'బిల్లింగ్ చిరునామా (Bill To)'.",
+        "confidence": 0.9982244753839384,
+        "extraction_confidence": 0.9982244753839384,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated each line item description and extracted quantities, unit prices, and amounts.",
+            "confidence": 0.9985632684906012,
+            "extraction_confidence": 0.9985632684906012,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item description and extracted quantities, unit prices, and amounts.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| పారాసిటమాల్ 650 టాబ్లెట్స్              | 30049069  | 10x10     | 50 స్ట్రిప్స్ | 15.00         | 6...",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item description and extracted quantities, unit prices, and amounts.",
+            "confidence": 0.998895170478588,
+            "extraction_confidence": 0.998895170478588,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| పారాసిటమాల్ 650 టాబ్లెట్స్              | 30049069  | 10x10     | 50 స్ట్రిప్స్ | 15.00         | 6                     | 6                     | 750.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item description and extracted quantities, unit prices, and amounts.",
+            "confidence": 0.9468951336457739,
+            "extraction_confidence": 0.9468951336457739,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...9069  | 10x10     | 50 స్ట్రిప్స్ | 15.00         | 6                     | 6                     | 750.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9998432782210243,
+            "extraction_confidence": 0.9998432782210243,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| అమోక్సిసిలిన్ 500 క్యాప్సూల్స్          | 30049021  | 10x10     | 30 స్ట్రిప్స్ | 48.50         | 6                     | 6...",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9987235530849271,
+            "extraction_confidence": 0.9987235530849271,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| అమోక్సిసిలిన్ 500 క్యాప్సూల్స్          | 30049021  | 10x10     | 30 స్ట్రిప్స్ | 48.50         | 6                     | 6                     | 1,455.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.999997530322085,
+            "extraction_confidence": 0.999997530322085,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                                                                               | అమోక్సిసిలిన్ 500 క్యాప్సూల్స్          | 30049021  | 10x10     | 30 స్ట్రిప్స్ | 48.50         |...",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999996786158737,
+            "extraction_confidence": 0.9999996786158737,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| సెఫిక్సిమ్ 200 టాబ్లెట్స్               | 30049099  | 10x10     | 20 స్ట్రిప్స్ | 64.00         | 6...",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999938710257891,
+            "extraction_confidence": 0.9999938710257891,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| సెఫిక్సిమ్ 200 టాబ్లెట్స్               | 30049099  | 10x10     | 20 స్ట్రిప్స్ | 64.00         | 6                     | 6                     | 1,280.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999996461841598,
+            "extraction_confidence": 0.9999996461841598,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                                                                               | సెఫిక్సిమ్ 200 టాబ్లెట్స్               | 30049099  | 10x10     | 20 స్ట్రిప్స్ | 64.00         |...",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9916764753868728,
+            "extraction_confidence": 0.9916764753868728,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| పిండాన్సిట్రాన్ 4 mg ఇంజెక్షన్          | 30049039  | 2ml       | 50 వైల్స్     | 26.50         | 6                     | 6                     | 1,325.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999952865305634,
+            "extraction_confidence": 0.9999952865305634,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| పిండాన్సిట్రాన్ 4 mg ఇంజెక్షన్          | 30049039  | 2ml       | 50 వైల్స్     | 26.50         | 6                     | 6                     | 1,325.00           |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999999031936799,
+            "extraction_confidence": 0.9999999031936799,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                                                                                               | పిండాన్సిట్రాన్ 4 mg ఇంజెక్షన్          | 30049039  | 2ml       | 50 వైల్స్     | 26.50         |...",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999535492857998,
+            "extraction_confidence": 0.9999535492857998,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| డొంపెరిడోన్ సిరప్ 100 ml                | 30049069  | 100 ml    | 30 బాటిల్స్   | 22.00         | 6                     | 6...",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999996325176344,
+            "extraction_confidence": 0.9999996325176344,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| డొంపెరిడోన్ సిరప్ 100 ml                | 30049069  | 100 ml    | 30 బాటిల్స్   | 22.00         | 6                     | 6                     | 660.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999985994201053,
+            "extraction_confidence": 0.9999985994201053,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...9069  | 100 ml    | 30 బాటిల్స్   | 22.00         | 6                     | 6                     | 660.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999999612774708,
+            "extraction_confidence": 0.9999999612774708,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| ఇబుప్రోఫెన్ 400 టాబ్లెట్స్              | 30049069  | 10x10     | 40 స్ట్రిప్స్ | 18.00         | 6...",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| ఇబుప్రోఫెన్ 400 టాబ్లెట్స్              | 30049069  | 10x10     | 40 స్ట్రిప్స్ | 18.00         | 6                     | 6                     | 720.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...9069  | 10x10     | 40 స్ట్రిప్స్ | 18.00         | 6                     | 6                     | 720.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999947141463723,
+            "extraction_confidence": 0.9999947141463723,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "**ఇన్వాయిస్ సంఖ్య (Invoice No.)** : SS/24-25/1786\n**ఇన్వాయిస్ తేదీ (Invoice Date)** : 17-05-2024\n**చెల్లింపు గడువు (Due Date)** : 01-06-2024\n**స్థల వివరాలు (Place of Supply)** : ఆంధ్రప్రదేశ్ (37)",
+                "bounding_boxes": [
+                  {
+                    "x": 9.13840975609756,
+                    "y": 82.3904844512195,
+                    "w": 89.69833170731708,
+                    "h": 30.481045426829272
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9998846495565238,
+            "extraction_confidence": 0.9998846495565238,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "**రవాణా చిరునామా (Ship To)**\n**మెడికేర్ హాస్పిటల్**\nడోర్ నం. 44-5-10, నెహ్రూ నగర్,\nవిజయవాడ - 520 015, ఆంధ్రప్రదేశ్.\n**GSTIN** : 37AACFM4596H1Z3",
+                "bounding_boxes": [
+                  {
+                    "x": 128.02268780487805,
+                    "y": 75.94948993902437,
+                    "w": 61.68500487804877,
+                    "h": 64.34546615853658
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9998586762664153,
+            "extraction_confidence": 0.9998586762664153,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "**రవాణా చిరునామా (Ship To)**\n**మెడికేర్ హాస్పిటల్**\nడోర్ నం. 44-5-10, నెహ్రూ నగర్,\nవిజయవాడ - 520 015, ఆంధ్రప్రదేశ్.\n**GSTIN** : 37AACFM4596H1Z3",
+                "bounding_boxes": [
+                  {
+                    "x": 128.02268780487805,
+                    "y": 75.94948993902437,
+                    "w": 61.68500487804877,
+                    "h": 64.34546615853658
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9985042916143584,
+            "extraction_confidence": 0.9985042916143584,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| విటమిన్ B-కాంప్లెక్స్ ఫోర్టే టాబ్లెట్స్ | 30045090  | 10x10     | 20 స్ట్రిప్స్ | 35.00         | 6                     | 6                     | 700.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999997517212597,
+            "extraction_confidence": 0.9999997517212597,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| విటమిన్ B-కాంప్లెక్స్ ఫోర్టే టాబ్లెట్స్ | 30045090  | 10x10     | 20 స్ట్రిప్స్ | 35.00         | 6                     | 6                     | 700.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999992202407771,
+            "extraction_confidence": 0.9999992202407771,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...5090  | 10x10     | 20 స్ట్రిప్స్ | 35.00         | 6                     | 6                     | 700.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999540032965152,
+            "extraction_confidence": 0.9999540032965152,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| డైక్లోఫెనాక్ జెల్ 30 gm                 | 30051090  | 30 gm     | 20 ట్యూబ్స్   | 33.00         | 6                     | 6                     | 660.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| డైక్లోఫెనాక్ జెల్ 30 gm                 | 30051090  | 30 gm     | 20 ట్యూబ్స్   | 33.00         | 6                     | 6                     | 660.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999998162588003,
+            "extraction_confidence": 0.9999998162588003,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...1090  | 30 gm     | 20 ట్యూబ్స్   | 33.00         | 6                     | 6                     | 660.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999986242230524,
+            "extraction_confidence": 0.9999986242230524,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| నార్మల్ సెలైన్ 100 ml                   | 30049099  | 100 ml    | 60 బాటిల్స్   | 12.00         | 6                     | 6                     | 720.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...| నార్మల్ సెలైన్ 100 ml                   | 30049099  | 100 ml    | 60 బాటిల్స్   | 12.00         | 6                     | 6                     | 720.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated and extracted as above.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "...9099  | 100 ml    | 60 బాటిల్స్   | 12.00         | 6                     | 6                     | 720.00             |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.221486737804878,
+                    "y": 140.43994573170733,
+                    "w": 236.04307911585366,
+                    "h": 168.05322987804877
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The taxable value is explicitly listed as 8,557.50.",
+        "confidence": 0.9946384762500975,
+        "extraction_confidence": 0.9946384762500975,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**బిల్లింగ్ చిరునామా (Bill To)**\n**మెడికేర్ హాస్పిటల్**\nడోర్ నం. 44-5-10, నెహ్రూ నగర్,\nవిజయవాడ - 520 015, ఆంధ్రప్రదేశ్.\n**GSTIN** : 37AACFM4596H1Z3",
+            "bounding_boxes": [
+              {
+                "x": 128.02268780487805,
+                "y": 75.94948993902437,
+                "w": 61.68500487804877,
+                "h": 64.34546615853658
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "CGST and SGST are both 513.45, totaling 1,026.90.",
+        "confidence": 0.9063873915426639,
+        "extraction_confidence": 0.9063873915426639,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "total_amount": {
+        "reasoning": "The grand total is explicitly listed as ₹ 9,584.00.",
+        "confidence": 0.9992535086854125,
+        "extraction_confidence": 0.9992535086854125,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "|                                                                                                 | చెల్లించవలసిన మొత్తం (Grand Total)      |           |           |               |               |...",
+            "bounding_boxes": [
+              {
+                "x": 5.221486737804878,
+                "y": 140.43994573170733,
+                "w": 236.04307911585366,
+                "h": 168.05322987804877
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are denoted with the symbol ₹, which is the Indian Rupee (INR).",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Terms are listed at the end: payment must be made before the due date, 18% annual interest for late payment.",
+        "confidence": 0.9124035671523386,
+        "extraction_confidence": 0.9124035671523386,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "5abe4f1e-7165-4b20-8e66-4c5666356493",
+    "file_name": "invoice_azimg_20260519_155355_872_0003.png",
+    "file_hash": "a55ab7dc-3cdf-45b3-afff-bc075e56f9e7",
+    "metadata": {
+      "job_id": "ext-5ph35ly5dtkp6ou550pfumeo73oi"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_155355_872_0003.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_155355_872_0003.png"
+    }
+  ]
+}

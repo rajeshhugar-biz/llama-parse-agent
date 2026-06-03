@@ -1,0 +1,1202 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\kannada\\images\\invoice_azimg_20260518_165852_400_0005.png",
+  "language": "kannada",
+  "file_id": "89788ae0-b83b-4a87-8ef7-a5d7276693b3",
+  "record_id": {
+    "value": {
+      "result": "agd-30ydfd27xwc635rpjo4f1tfrccej"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "# 45, 2nd Cross, Gandhinagar, Bengaluru - 560 009, Karnataka",
+      "customer_name": "Ms. Ananya V",
+      "due_date": "2023-06-30",
+      "invoice_date": "2023-06-15",
+      "invoice_number": "SVC/23-24/1045",
+      "line_items": [
+        {
+          "amount": 1000.0,
+          "description": "Entry Fee",
+          "quantity": 1.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 35000.0,
+          "description": "Fee (2023-24)",
+          "quantity": 1.0,
+          "unit_price": 35000.0
+        },
+        {
+          "amount": 2000.0,
+          "description": "Textbook Fee",
+          "quantity": 1.0,
+          "unit_price": 2000.0
+        },
+        {
+          "amount": 1200.0,
+          "description": "Education/Monday Fee",
+          "quantity": 1.0,
+          "unit_price": 1200.0
+        },
+        {
+          "amount": 750.0,
+          "description": "Bus Fee and Library Fee",
+          "quantity": 1.0,
+          "unit_price": 750.0
+        },
+        {
+          "amount": 500.0,
+          "description": "Sports and Cultural Fee",
+          "quantity": 1.0,
+          "unit_price": 500.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Lab Fee",
+          "quantity": 1.0,
+          "unit_price": 1500.0
+        },
+        {
+          "amount": 500.0,
+          "description": "Electricity Art Service",
+          "quantity": 1.0,
+          "unit_price": 500.0
+        },
+        {
+          "amount": 300.0,
+          "description": "Bowler and Uniform Fee",
+          "quantity": 1.0,
+          "unit_price": 300.0
+        },
+        {
+          "amount": 250.0,
+          "description": "Other Fees",
+          "quantity": 1.0,
+          "unit_price": 250.0
+        }
+      ],
+      "payment_terms": "Please pay by the due date.",
+      "subtotal": 43000.0,
+      "tax_amount": 0.0,
+      "total_amount": 43000.0,
+      "vendor_address": "# 12/1, 2nd Main Road, 3rd Cross, Vidyanagar, Bengaluru - 560 040",
+      "vendor_name": "Sri Vidya Educational Institution (Regd.)"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "# 45, 2nd Cross, Gandhinagar, Bengaluru - 560 009, Karnataka",
+      "customer_name": "Ms. Ananya V",
+      "due_date": "2023-06-30",
+      "invoice_date": "2023-06-15",
+      "invoice_number": "SVC/23-24/1045",
+      "line_items": [
+        {
+          "amount": 1000.0,
+          "description": "Entry Fee",
+          "quantity": 1.0,
+          "unit_price": 1000.0
+        },
+        {
+          "amount": 35000.0,
+          "description": "Fee (2023-24)",
+          "quantity": 1.0,
+          "unit_price": 35000.0
+        },
+        {
+          "amount": 2000.0,
+          "description": "Textbook Fee",
+          "quantity": 1.0,
+          "unit_price": 2000.0
+        },
+        {
+          "amount": 1200.0,
+          "description": "Education/Monday Fee",
+          "quantity": 1.0,
+          "unit_price": 1200.0
+        },
+        {
+          "amount": 750.0,
+          "description": "Bus Fee and Library Fee",
+          "quantity": 1.0,
+          "unit_price": 750.0
+        },
+        {
+          "amount": 500.0,
+          "description": "Sports and Cultural Fee",
+          "quantity": 1.0,
+          "unit_price": 500.0
+        },
+        {
+          "amount": 1500.0,
+          "description": "Lab Fee",
+          "quantity": 1.0,
+          "unit_price": 1500.0
+        },
+        {
+          "amount": 500.0,
+          "description": "Electricity Art Service",
+          "quantity": 1.0,
+          "unit_price": 500.0
+        },
+        {
+          "amount": 300.0,
+          "description": "Bowler and Uniform Fee",
+          "quantity": 1.0,
+          "unit_price": 300.0
+        },
+        {
+          "amount": 250.0,
+          "description": "Other Fees",
+          "quantity": 1.0,
+          "unit_price": 250.0
+        }
+      ],
+      "payment_terms": "Please pay by the due date.",
+      "subtotal": 43000.0,
+      "tax_amount": 0.0,
+      "total_amount": 43000.0,
+      "vendor_address": "# 12/1, 2nd Main Road, 3rd Cross, Vidyanagar, Bengaluru - 560 040",
+      "vendor_name": "Sri Vidya Educational Institution (Regd.)"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9938304946041083,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is given as 'ಇನ್ವಾಯ್ಸ್ ಸಂಖ್ಯೆ : SVC/23-24/1045'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "ಇನ್ವಾಯ್ಸ್ ಸಂಖ್ಯೆ : SVC/23-24/1045",
+            "bounding_boxes": [
+              {
+                "x": 198.48,
+                "y": 97.44,
+                "w": 36.96,
+                "h": 6.48
+              }
+            ],
+            "page_dimensions": {
+              "width": 263.52,
+              "height": 440.16
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is given as 'ದಿನಾಂಕ : 15-06-2023'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ವಿವರಗಳು**\nಇನ್ವಾಯ್ಸ್ ಸಂಖ್ಯೆ : SVC/23-24/1045\nದಿನಾಂಕ : 15-06-2023\nದುಗ್ಧ ಪಾವತಿ ದಿನಾಂಕ : 30-06-2023\nಸ್ಥಳ ಸರಕುಮಾಡು : ಬೆಂಗಳೂರು (29)",
+            "bounding_boxes": [
+              {
+                "x": 145.51802055068597,
+                "y": 97.5523838128811,
+                "w": 90.04930132431404,
+                "h": 28.70617128429879
+              }
+            ],
+            "page_dimensions": {
+              "width": 263.52,
+              "height": 440.16
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is given as 'ದುಗ್ಧ ಪಾವತಿ ದಿನಾಂಕ : 30-06-2023'.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ವಿವರಗಳು**\nಇನ್ವಾಯ್ಸ್ ಸಂಖ್ಯೆ : SVC/23-24/1045\nದಿನಾಂಕ : 15-06-2023\nದುಗ್ಧ ಪಾವತಿ ದಿನಾಂಕ : 30-06-2023\nಸ್ಥಳ ಸರಕುಮಾಡು : ಬೆಂಗಳೂರು (29)",
+            "bounding_boxes": [
+              {
+                "x": 145.51802055068597,
+                "y": 97.5523838128811,
+                "w": 90.04930132431404,
+                "h": 28.70617128429879
+              }
+            ],
+            "page_dimensions": {
+              "width": 263.52,
+              "height": 440.16
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is 'ಶ್ರೀ ವಿದ್ಯಾ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆ (ರಿ.)', which translates to 'Sri Vidya Educational Institution (Regd.)'.",
+        "confidence": 0.9994470041245856,
+        "extraction_confidence": 0.9994470041245856,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "vendor_address": {
+        "reasoning": "The vendor address is provided in Kannada and translated to English.",
+        "confidence": 0.9962929988111635,
+        "extraction_confidence": 0.9962929988111635,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The customer name is given as 'ಕುಮಾರಿ ಅನನ್ಯ ವಿ', which translates to 'Ms. Ananya V'.",
+        "confidence": 0.9999999135960062,
+        "extraction_confidence": 0.9999999135960062,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The billing address is provided in Kannada and translated to English.",
+        "confidence": 0.9452039252700809,
+        "extraction_confidence": 0.9452039252700809,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9626139591148392,
+            "extraction_confidence": 0.9626139591148392,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1       | ಪ್ರವೇಶ ಶುಲ್ಕ                  | 999293         | 1            | 1,000.00      | 0%            | 1,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999716821275079,
+            "extraction_confidence": 0.9999716821275079,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1       | ಪ್ರವೇಶ ಶುಲ್ಕ                  | 999293         | 1            | 1,000.00      | 0%            | 1,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.8393613248151514,
+            "extraction_confidence": 0.8393613248151514,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1       | ಪ್ರವೇಶ ಶುಲ್ಕ                  | 999293         | 1            | 1,000.00      | 0%            | 1,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9966516862100685,
+            "extraction_confidence": 0.9966516862100685,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2       | ಶುಲ್ಕ (2023-24).              | 999293         | 1            | 35,000.00     | 0%            | 35,000.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2       | ಶುಲ್ಕ (2023-24).              | 999293         | 1            | 35,000.00     | 0%            | 35,000.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999941814349881,
+            "extraction_confidence": 0.9999941814349881,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2       | ಶುಲ್ಕ (2023-24).              | 999293         | 1            | 35,000.00     | 0%            | 35,000.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999803241851932,
+            "extraction_confidence": 0.9999803241851932,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2       | ಶುಲ್ಕ (2023-24).              | 999293         | 1            | 35,000.00     | 0%            | 35,000.00 |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3       | ಪಠ್ಯಪುಸ್ತಕ ಶುಲ್ಕ              | 999293         | 1            | 2,000.00      | 0%            | 2,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999997541891208,
+            "extraction_confidence": 0.9999997541891208,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3       | ಪಠ್ಯಪುಸ್ತಕ ಶುಲ್ಕ              | 999293         | 1            | 2,000.00      | 0%            | 2,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999825294121812,
+            "extraction_confidence": 0.9999825294121812,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3       | ಪಠ್ಯಪುಸ್ತಕ ಶುಲ್ಕ              | 999293         | 1            | 2,000.00      | 0%            | 2,000.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9985594662644058,
+            "extraction_confidence": 0.9985594662644058,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4       | ವಿದ್ಯಾಭ್ಯಾಸ/ಸೋಮವಾರ ಶುಲ್ಕ      | 999293         | 1            | 1,200.00      | 0%            | 1,200.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999999217959217,
+            "extraction_confidence": 0.9999999217959217,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4       | ವಿದ್ಯಾಭ್ಯಾಸ/ಸೋಮವಾರ ಶುಲ್ಕ      | 999293         | 1            | 1,200.00      | 0%            | 1,200.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999991283702483,
+            "extraction_confidence": 0.9999991283702483,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4       | ವಿದ್ಯಾಭ್ಯಾಸ/ಸೋಮವಾರ ಶುಲ್ಕ      | 999293         | 1            | 1,200.00      | 0%            | 1,200.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999925170736749,
+            "extraction_confidence": 0.9999925170736749,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5       | ಬಸ್ ಫೀ ಮತ್ತು ಲೈಬ್ರರಿ ಶುಲ್ಕ    | 999293         | 1            | 750.00        | 0%            | 750.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999992749068435,
+            "extraction_confidence": 0.9999992749068435,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5       | ಬಸ್ ಫೀ ಮತ್ತು ಲೈಬ್ರರಿ ಶುಲ್ಕ    | 999293         | 1            | 750.00        | 0%            | 750.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999066292922348,
+            "extraction_confidence": 0.9999066292922348,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5       | ಬಸ್ ಫೀ ಮತ್ತು ಲೈಬ್ರರಿ ಶುಲ್ಕ    | 999293         | 1            | 750.00        | 0%            | 750.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999956826715648,
+            "extraction_confidence": 0.9999956826715648,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | ಕ್ರೀಡೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಶುಲ್ಕ | 999293         | 1            | 500.00        | 0%            | 500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999998162588003,
+            "extraction_confidence": 0.9999998162588003,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | ಕ್ರೀಡೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಶುಲ್ಕ | 999293         | 1            | 500.00        | 0%            | 500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999963345562111,
+            "extraction_confidence": 0.9999963345562111,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | ಕ್ರೀಡೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಶುಲ್ಕ | 999293         | 1            | 500.00        | 0%            | 500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.999999366777361,
+            "extraction_confidence": 0.999999366777361,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7       | ಲ್ಯಾಬ್ ಶುಲ್ಕ                  | 999293         | 1            | 1,500.00      | 0%            | 1,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7       | ಲ್ಯಾಬ್ ಶುಲ್ಕ                  | 999293         | 1            | 1,500.00      | 0%            | 1,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999999515968389,
+            "extraction_confidence": 0.9999999515968389,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7       | ಲ್ಯಾಬ್ ಶುಲ್ಕ                  | 999293         | 1            | 1,500.00      | 0%            | 1,500.00  |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999586242120095,
+            "extraction_confidence": 0.9999586242120095,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | ಕ್ರೀಡೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಶುಲ್ಕ | 999293         | 1            | 500.00        | 0%            | 500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | ಕ್ರೀಡೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಶುಲ್ಕ | 999293         | 1            | 500.00        | 0%            | 500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.99999973678971,
+            "extraction_confidence": 0.99999973678971,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6       | ಕ್ರೀಡೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಶುಲ್ಕ | 999293         | 1            | 500.00        | 0%            | 500.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999993503775677,
+            "extraction_confidence": 0.9999993503775677,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9       | ಬೌಲರ್ ಮತ್ತು ಯುನಿಫಾರ್ಮ್ ಶುಲ್ಕ  | 999293         | 1            | 300.00        | 0%            | 300.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9       | ಬೌಲರ್ ಮತ್ತು ಯುನಿಫಾರ್ಮ್ ಶುಲ್ಕ  | 999293         | 1            | 300.00        | 0%            | 300.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999998162588003,
+            "extraction_confidence": 0.9999998162588003,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9       | ಬೌಲರ್ ಮತ್ತು ಯುನಿಫಾರ್ಮ್ ಶುಲ್ಕ  | 999293         | 1            | 300.00        | 0%            | 300.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9993013158215369,
+            "extraction_confidence": 0.9993013158215369,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10      | ಇತರೆ ಶುಲ್ಕ                    | 999293         | 1            | 250.00        | 0%            | 250.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10      | ಇತರೆ ಶುಲ್ಕ                    | 999293         | 1            | 250.00        | 0%            | 250.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated each line item from Kannada to English, preserving numerical values.",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10      | ಇತರೆ ಶುಲ್ಕ                    | 999293         | 1            | 250.00        | 0%            | 250.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 133.86282796303354,
+                    "y": 130.6736532393293,
+                    "w": 94.46823872903963,
+                    "h": 6.994828996760653
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 263.52,
+                  "height": 440.16
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The subtotal is the sum of all line items, which is explicitly stated as ₹43,000.00.",
+        "confidence": 0.9609199073957979,
+        "extraction_confidence": 0.9609199073957979,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "ಒಟ್ಟು ಮೊತ್ತ (₹) 43,000.00\nCGST @ 0% 0.00\nSGST @ 0% 0.00\nRound Off 0.00",
+            "bounding_boxes": [
+              {
+                "x": 16.064063771913112,
+                "y": 294.81682797256104,
+                "w": 76.56850589748477,
+                "h": 17.04823216463412
+              }
+            ],
+            "page_dimensions": {
+              "width": 263.52,
+              "height": 440.16
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "CGST and SGST are both 0%. Tax amount is 0.00.",
+        "confidence": 0.9919950082757285,
+        "extraction_confidence": 0.9919950082757285,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "ಒಟ್ಟು ಮೊತ್ತ (₹) 43,000.00\nCGST @ 0% 0.00\nSGST @ 0% 0.00\nRound Off 0.00",
+            "bounding_boxes": [
+              {
+                "x": 16.064063771913112,
+                "y": 294.81682797256104,
+                "w": 76.56850589748477,
+                "h": 17.04823216463412
+              }
+            ],
+            "page_dimensions": {
+              "width": 263.52,
+              "height": 440.16
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "The total amount is explicitly stated as ₹43,000.00.",
+        "confidence": 0.9999867908776857,
+        "extraction_confidence": 0.9999867908776857,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "ಒಟ್ಟು ಮೊತ್ತ (₹) 43,000.00\nCGST @ 0% 0.00\nSGST @ 0% 0.00\nRound Off 0.00",
+            "bounding_boxes": [
+              {
+                "x": 16.064063771913112,
+                "y": 294.81682797256104,
+                "w": 76.56850589748477,
+                "h": 17.04823216463412
+              }
+            ],
+            "page_dimensions": {
+              "width": 263.52,
+              "height": 440.16
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are denoted with the symbol ₹, which is the Indian Rupee.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "The invoice requests payment by the due date and mentions standard terms.",
+        "confidence": 0.9890780696315559,
+        "extraction_confidence": 0.9890780696315559,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "89788ae0-b83b-4a87-8ef7-a5d7276693b3",
+    "file_name": "invoice_azimg_20260518_165852_400_0005.png",
+    "file_hash": "0687a09d-2384-4e2e-98f4-da959d9981f9",
+    "metadata": {
+      "job_id": "ext-o47pobsuzoi60qmqa6l6n4tzgx38"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260518_165852_400_0005.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260518_165852_400_0005.png"
+    }
+  ]
+}

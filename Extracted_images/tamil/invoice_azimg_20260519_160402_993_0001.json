@@ -1,0 +1,1253 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\tamil\\images\\invoice_azimg_20260519_160402_993_0001.png",
+  "language": "tamil",
+  "file_id": "b37f3eb2-4831-4e67-b60f-013af273b420",
+  "record_id": {
+    "value": {
+      "result": "agd-4vy8assblw5pukui1paldinw8y0h"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "Sri Ganesh Infotech Private Limited, No. 12, 3rd Floor, Chennai Bypass Road, Saravanampatti, Coimbatore - 641 035, Tamil Nadu, India.",
+      "customer_name": "Sri Ganesh Infotech Private Limited",
+      "due_date": "2024-05-31",
+      "invoice_date": "2024-05-16",
+      "invoice_number": "RS/24-25/1187",
+      "line_items": [
+        {
+          "amount": 225000.0,
+          "description": "Dell Inspiron 3520 Laptop (i5, 8GB, 512GB SSD, Win 11)",
+          "quantity": 5.0,
+          "unit_price": 45000.0
+        },
+        {
+          "amount": 6750.0,
+          "description": "Logitech Wireless Keyboard K270",
+          "quantity": 5.0,
+          "unit_price": 1350.0
+        },
+        {
+          "amount": 3250.0,
+          "description": "Logitech Wireless Mouse M185",
+          "quantity": 5.0,
+          "unit_price": 650.0
+        },
+        {
+          "amount": 21000.0,
+          "description": "Canon LBP 2900B Printer",
+          "quantity": 2.0,
+          "unit_price": 10500.0
+        },
+        {
+          "amount": 15000.0,
+          "description": "Seagate 1TB External Hard Disk",
+          "quantity": 4.0,
+          "unit_price": 3750.0
+        },
+        {
+          "amount": 8000.0,
+          "description": "D-Link 8 Port Gigabit Switch (DGS-108)",
+          "quantity": 2.0,
+          "unit_price": 4000.0
+        },
+        {
+          "amount": 11200.0,
+          "description": "D-Link Cat6 UTP Cable (305 meters)",
+          "quantity": 2.0,
+          "unit_price": 5600.0
+        },
+        {
+          "amount": 17800.0,
+          "description": "APC 1KVA UPS (BX1100C-IN)",
+          "quantity": 2.0,
+          "unit_price": 8900.0
+        },
+        {
+          "amount": 3500.0,
+          "description": "Portronics 16GB Pen Drive",
+          "quantity": 10.0,
+          "unit_price": 350.0
+        },
+        {
+          "amount": 2750.0,
+          "description": "Zebronics USB Headset",
+          "quantity": 5.0,
+          "unit_price": 550.0
+        }
+      ],
+      "payment_terms": "18% interest per annum will be charged for delayed payment.",
+      "subtotal": 314250.0,
+      "tax_amount": 56565.0,
+      "total_amount": 370815.0,
+      "vendor_address": "No. 45, 2nd Floor, Lakshmi Nagar, 200 Feet Road, Coimbatore - 641 011, Tamil Nadu, India.",
+      "vendor_name": "RK SYSTEMS"
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "Sri Ganesh Infotech Private Limited, No. 12, 3rd Floor, Chennai Bypass Road, Saravanampatti, Coimbatore - 641 035, Tamil Nadu, India.",
+      "customer_name": "Sri Ganesh Infotech Private Limited",
+      "due_date": "2024-05-31",
+      "invoice_date": "2024-05-16",
+      "invoice_number": "RS/24-25/1187",
+      "line_items": [
+        {
+          "amount": 225000.0,
+          "description": "Dell Inspiron 3520 Laptop (i5, 8GB, 512GB SSD, Win 11)",
+          "quantity": 5.0,
+          "unit_price": 45000.0
+        },
+        {
+          "amount": 6750.0,
+          "description": "Logitech Wireless Keyboard K270",
+          "quantity": 5.0,
+          "unit_price": 1350.0
+        },
+        {
+          "amount": 3250.0,
+          "description": "Logitech Wireless Mouse M185",
+          "quantity": 5.0,
+          "unit_price": 650.0
+        },
+        {
+          "amount": 21000.0,
+          "description": "Canon LBP 2900B Printer",
+          "quantity": 2.0,
+          "unit_price": 10500.0
+        },
+        {
+          "amount": 15000.0,
+          "description": "Seagate 1TB External Hard Disk",
+          "quantity": 4.0,
+          "unit_price": 3750.0
+        },
+        {
+          "amount": 8000.0,
+          "description": "D-Link 8 Port Gigabit Switch (DGS-108)",
+          "quantity": 2.0,
+          "unit_price": 4000.0
+        },
+        {
+          "amount": 11200.0,
+          "description": "D-Link Cat6 UTP Cable (305 meters)",
+          "quantity": 2.0,
+          "unit_price": 5600.0
+        },
+        {
+          "amount": 17800.0,
+          "description": "APC 1KVA UPS (BX1100C-IN)",
+          "quantity": 2.0,
+          "unit_price": 8900.0
+        },
+        {
+          "amount": 3500.0,
+          "description": "Portronics 16GB Pen Drive",
+          "quantity": 10.0,
+          "unit_price": 350.0
+        },
+        {
+          "amount": 2750.0,
+          "description": "Zebronics USB Headset",
+          "quantity": 5.0,
+          "unit_price": 550.0
+        }
+      ],
+      "payment_terms": "18% interest per annum will be charged for delayed payment.",
+      "subtotal": 314250.0,
+      "tax_amount": 56565.0,
+      "total_amount": 370815.0,
+      "vendor_address": "No. 45, 2nd Floor, Lakshmi Nagar, 200 Feet Road, Coimbatore - 641 011, Tamil Nadu, India.",
+      "vendor_name": "RK SYSTEMS"
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9800571989658171,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "Verbatim extraction.",
+        "confidence": 0.7206754112101461,
+        "extraction_confidence": 0.7206754112101461,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "No.)** : RS/24-25/1187",
+            "bounding_boxes": [
+              {
+                "x": 8.41,
+                "y": 70.8,
+                "w": 101.62,
+                "h": 4.8
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "Verbatim extraction and converted to ISO format.",
+        "confidence": 0.999374901424807,
+        "extraction_confidence": 0.999374901424807,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**விலைப்பட்டியல் தேதி (Invoice Date)** : 16-05-2024",
+            "bounding_boxes": [
+              {
+                "x": 8.35584,
+                "y": 70.9632,
+                "w": 202.01471999999998,
+                "h": 26.664959999999997
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "Verbatim extraction and converted to ISO format.",
+        "confidence": 0.8619768950248675,
+        "extraction_confidence": 0.8619768950248675,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**தேவையான தேதி (Due Date)** : 31-05-2024",
+            "bounding_boxes": [
+              {
+                "x": 76.39,
+                "y": 84.72,
+                "w": 27.39,
+                "h": 5.04
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "Translated the vendor name from Tamil to English.",
+        "confidence": 0.9757202553247011,
+        "extraction_confidence": 0.9757202553247011,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "RK SYSTEMS logo",
+            "bounding_boxes": [
+              {
+                "x": 10.11281981707317,
+                "y": 6.856864138719512,
+                "w": 31.868905792682927,
+                "h": 28.76872671493902
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "Translated the vendor address from Tamil to English.",
+        "confidence": 0.9996463833435134,
+        "extraction_confidence": 0.9996463833435134,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "Translated the customer name from Tamil to English.",
+        "confidence": 0.9998688225878971,
+        "extraction_confidence": 0.9998688225878971,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "Translated the billing address from Tamil to English.",
+        "confidence": 0.9973572062063876,
+        "extraction_confidence": 0.9973572062063876,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9500571677684728,
+            "extraction_confidence": 0.9500571677684728,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                   | டெல் இன்ஸ்பிரான் 3520 லேப்டாப்<br/>(i5, 8GB, 512GB SSD, Win 11) | 84713010 | 5 Nos  | 45,000.00     | 9%             | 9%             | 2,25,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                   | டெல் இன்ஸ்பிரான் 3520 லேப்டாப்<br/>(i5, 8GB, 512GB SSD, Win 11) | 84713010 | 5 Nos  | 45,000.00     | 9%             | 9%             | 2,25,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999982588032487,
+            "extraction_confidence": 0.9999982588032487,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                   | டெல் இன்ஸ்பிரான் 3520 லேப்டாப்<br/>(i5, 8GB, 512GB SSD, Win 11) | 84713010 | 5 Nos  | 45,000.00     | 9%             | 9%             | 2,25,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.7875135467428471,
+            "extraction_confidence": 0.7875135467428471,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 1                                   | டெல் இன்ஸ்பிரான் 3520 லேப்டாப்<br/>(i5, 8GB, 512GB SSD, Win 11) | 84713010 | 5 Nos  | 45,000.00     | 9%             | 9%             | 2,25,000.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999751994889817,
+            "extraction_confidence": 0.9999751994889817,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                   | லாஜிடெக் வயர்லெஸ் கீபோர்டு K270                                 | 84716060 | 5 Nos  | 1,350.00      | 9%             | 9%             | 6,750.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                   | லாஜிடெக் வயர்லெஸ் கீபோர்டு K270                                 | 84716060 | 5 Nos  | 1,350.00      | 9%             | 9%             | 6,750.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9967434737789022,
+            "extraction_confidence": 0.9967434737789022,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2                                   | லாஜிடெக் வயர்லெஸ் கீபோர்டு K270                                 | 84716060 | 5 Nos  | 1,350.00      | 9%             | 9%             | 6,750.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999950056752154,
+            "extraction_confidence": 0.9999950056752154,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                   | லாஜிடெக் வயர்லெஸ் மவுஸ் M185                                    | 84716060 | 5 Nos  | 650.00        | 9%             | 9%             | 3,250.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                   | லாஜிடெக் வயர்லெஸ் மவுஸ் M185                                    | 84716060 | 5 Nos  | 650.00        | 9%             | 9%             | 3,250.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999819148026183,
+            "extraction_confidence": 0.9999819148026183,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3                                   | லாஜிடெக் வயர்லெஸ் மவுஸ் M185                                    | 84716060 | 5 Nos  | 650.00        | 9%             | 9%             | 3,250.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999904339721445,
+            "extraction_confidence": 0.9999904339721445,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                                   | கேனன் LBP 2900B பிரிண்டர்                                       | 84433210 | 2 Nos  | 10,500.00     | 9%             | 9%             | 21,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                                   | கேனன் LBP 2900B பிரிண்டர்                                       | 84433210 | 2 Nos  | 10,500.00     | 9%             | 9%             | 21,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.999956514762496,
+            "extraction_confidence": 0.999956514762496,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4                                   | கேனன் LBP 2900B பிரிண்டர்                                       | 84433210 | 2 Nos  | 10,500.00     | 9%             | 9%             | 21,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999965282180268,
+            "extraction_confidence": 0.9999965282180268,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                                   | சீகேட் 1TB எக்ஸ்டர்னல் ஹார்ட் டிஸ்க்                            | 84717050 | 4 Nos  | 3,750.00      | 9%             | 9%             | 15,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                                   | சீகேட் 1TB எக்ஸ்டர்னல் ஹார்ட் டிஸ்க்                            | 84717050 | 4 Nos  | 3,750.00      | 9%             | 9%             | 15,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999696885087528,
+            "extraction_confidence": 0.9999696885087528,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5                                   | சீகேட் 1TB எக்ஸ்டர்னல் ஹார்ட் டிஸ்க்                            | 84717050 | 4 Nos  | 3,750.00      | 9%             | 9%             | 15,000.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999985890637455,
+            "extraction_confidence": 0.9999985890637455,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                   | D-Link 8 Port Gigabit Switch (DGS-108)                          | 85176290 | 2 Nos  | 4,000.00      | 9%             | 9%             | 8,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                   | D-Link 8 Port Gigabit Switch (DGS-108)                          | 85176290 | 2 Nos  | 4,000.00      | 9%             | 9%             | 8,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999999031936799,
+            "extraction_confidence": 0.9999999031936799,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                   | D-Link 8 Port Gigabit Switch (DGS-108)                          | 85176290 | 2 Nos  | 4,000.00      | 9%             | 9%             | 8,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999870119454398,
+            "extraction_confidence": 0.9999870119454398,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6                                   | D-Link 8 Port Gigabit Switch (DGS-108)                          | 85176290 | 2 Nos  | 4,000.00      | 9%             | 9%             | 8,000.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999923466289895,
+            "extraction_confidence": 0.9999923466289895,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                   | D-Link Cat6 UTP கேபிள் (305 மீட்டர்)                            | 85444920 | 2 Box  | 5,600.00      | 9%             | 9%             | 11,200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                   | D-Link Cat6 UTP கேபிள் (305 மீட்டர்)                            | 85444920 | 2 Box  | 5,600.00      | 9%             | 9%             | 11,200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                   | D-Link Cat6 UTP கேபிள் (305 மீட்டர்)                            | 85444920 | 2 Box  | 5,600.00      | 9%             | 9%             | 11,200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9648557814847067,
+            "extraction_confidence": 0.9648557814847067,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7                                   | D-Link Cat6 UTP கேபிள் (305 மீட்டர்)                            | 85444920 | 2 Box  | 5,600.00      | 9%             | 9%             | 11,200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999994139362115,
+            "extraction_confidence": 0.9999994139362115,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999993295729128,
+            "extraction_confidence": 0.9999993295729128,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "எண். 45, 2வது மாடி, லட்சுமி நகர், 200 அடி ரோடு,",
+                "bounding_boxes": [
+                  {
+                    "x": 49.69315609756097,
+                    "y": 25.546698475609755,
+                    "w": 90.59890243902439,
+                    "h": 5.005519664634148
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "amount": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.999999463658283,
+            "extraction_confidence": 0.999999463658283,
+            "parsing_confidence": 1.0,
+            "citation": null
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999988407637159,
+            "extraction_confidence": 0.9999988407637159,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                   | Portronics 16GB Pen Drive                                       | 85235190 | 10 Nos | 350.00        | 9%             | 9%             | 3,500.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999990315639806,
+            "extraction_confidence": 0.9999990315639806,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                   | Portronics 16GB Pen Drive                                       | 85235190 | 10 Nos | 350.00        | 9%             | 9%             | 3,500.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                   | Portronics 16GB Pen Drive                                       | 85235190 | 10 Nos | 350.00        | 9%             | 9%             | 3,500.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999993146413505,
+            "extraction_confidence": 0.9999993146413505,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9                                   | Portronics 16GB Pen Drive                                       | 85235190 | 10 Nos | 350.00        | 9%             | 9%             | 3,500.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.999995213262454,
+            "extraction_confidence": 0.999995213262454,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                  | Zebronics USB Headset                                           | 85183000 | 5 Nos  | 550.00        | 9%             | 9%             | 2,750.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "quantity": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                  | Zebronics USB Headset                                           | 85183000 | 5 Nos  | 550.00        | 9%             | 9%             | 2,750.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                  | Zebronics USB Headset                                           | 85183000 | 5 Nos  | 550.00        | 9%             | 9%             | 2,750.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Translated product description and extracted numerical values.",
+            "confidence": 0.9999996163832517,
+            "extraction_confidence": 0.9999996163832517,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10                                  | Zebronics USB Headset                                           | 85183000 | 5 Nos  | 550.00        | 9%             | 9%             | 2,750.00       |",
+                "bounding_boxes": [
+                  {
+                    "x": 5.057600304878049,
+                    "y": 142.5688463414634,
+                    "w": 235.49760457317075,
+                    "h": 166.43593536585362
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "Verbatim extraction from 'பொருட்களின் மொத்தம் (Taxable Value)': 3,14,250.00",
+        "confidence": 0.8203905433754355,
+        "extraction_confidence": 0.8203905433754355,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| பொருட்களின் மொத்தம் (Taxable Value) |                                                                 |          |        |               |                |                | 3,14,250.00    |",
+            "bounding_boxes": [
+              {
+                "x": 5.057600304878049,
+                "y": 142.5688463414634,
+                "w": 235.49760457317075,
+                "h": 166.43593536585362
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "Sum of CGST and SGST: 28,282.50 + 28,282.50 = 56,565.00",
+        "confidence": 0.998193615025552,
+        "extraction_confidence": 0.998193615025552,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| மொத்த வரி                           |                                                                 |          |        |               |                |                | 56,565.00      |",
+            "bounding_boxes": [
+              {
+                "x": 5.057600304878049,
+                "y": 142.5688463414634,
+                "w": 235.49760457317075,
+                "h": 166.43593536585362
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "Verbatim extraction from 'மொத்தம் (₹)' and 'கட்ட வேண்டிய மொத்த தொகை (₹)': 3,70,815.00",
+        "confidence": 0.9976743427067337,
+        "extraction_confidence": 0.9976743427067337,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| மொத்தம் (₹)                         |                                                                 |          |        |               |                |                | 3,70,815.00    |",
+            "bounding_boxes": [
+              {
+                "x": 5.057600304878049,
+                "y": 142.5688463414634,
+                "w": 235.49760457317075,
+                "h": 166.43593536585362
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are denoted with the symbol ₹, which is the Indian Rupee.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "Translated from the terms and conditions: 'Interest at 18% per annum will be charged for delayed payment.'",
+        "confidence": 0.8930943813720152,
+        "extraction_confidence": 0.8930943813720152,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "b37f3eb2-4831-4e67-b60f-013af273b420",
+    "file_name": "invoice_azimg_20260519_160402_993_0001.png",
+    "file_hash": "f9fb9379-8588-4588-9469-a26b29f58d18",
+    "metadata": {
+      "job_id": "ext-cyc42d367xfeanf36084c79h8u3d"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_160402_993_0001.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_160402_993_0001.png"
+    }
+  ]
+}

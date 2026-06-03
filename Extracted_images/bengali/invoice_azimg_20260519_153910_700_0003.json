@@ -1,0 +1,1151 @@
+{
+  "source_image": "C:\\Users\\rajesh.hugar\\OneDrive - bizmetric.com\\2026\\WIPRO_\\model-evaluation-temp\\Scanned_Images_\\Data\\bengali\\images\\invoice_azimg_20260519_153910_700_0003.png",
+  "language": "bengali",
+  "file_id": "a6aff494-1bf9-4085-855e-a96ac08f4379",
+  "record_id": {
+    "value": {
+      "result": "agd-395t9sq7e7lbrlr2qvzf63kv22al"
+    },
+    "qualified_name": "workflows.events.StopEvent",
+    "type": "StopEvent",
+    "types": null
+  },
+  "extracted_data": {
+    "original_data": {
+      "currency": "INR",
+      "customer_address": "56/B, Bara Bazar, Guwahati - 781001, Assam",
+      "customer_name": "M/s R. K. Enterprise",
+      "due_date": "2024-06-02",
+      "invoice_date": "2024-05-18",
+      "invoice_number": "SSPL/24-25/0786",
+      "line_items": [
+        {
+          "amount": 7000.0,
+          "description": "Kolkata to Guwahati - General Cargo",
+          "quantity": 2500.0,
+          "unit_price": 2.8
+        },
+        {
+          "amount": 1200.0,
+          "description": "Loading Charge",
+          "quantity": 1.0,
+          "unit_price": 1200.0
+        },
+        {
+          "amount": 900.0,
+          "description": "Unloading Charge",
+          "quantity": 1.0,
+          "unit_price": 900.0
+        },
+        {
+          "amount": 1450.0,
+          "description": "Toll Tax",
+          "quantity": 1.0,
+          "unit_price": 1450.0
+        },
+        {
+          "amount": 350.0,
+          "description": "Parking and Stand Charge",
+          "quantity": 1.0,
+          "unit_price": 350.0
+        },
+        {
+          "amount": 650.0,
+          "description": "Insurance Charge",
+          "quantity": 1.0,
+          "unit_price": 650.0
+        },
+        {
+          "amount": 250.0,
+          "description": "Documentation Charge",
+          "quantity": 1.0,
+          "unit_price": 250.0
+        },
+        {
+          "amount": 700.0,
+          "description": "Warehouse Charge (2 days)",
+          "quantity": 1.0,
+          "unit_price": 700.0
+        },
+        {
+          "amount": 400.0,
+          "description": "Handling Charge",
+          "quantity": 1.0,
+          "unit_price": 400.0
+        },
+        {
+          "amount": 200.0,
+          "description": "Other Charges",
+          "quantity": 1.0,
+          "unit_price": 200.0
+        }
+      ],
+      "payment_terms": "Payment within 15 days of receipt of bill, otherwise 18% interest will be charged.",
+      "subtotal": 13100.0,
+      "tax_amount": 2358.0,
+      "total_amount": 15458.0,
+      "vendor_address": "14, Netaji Subhas Road, 2nd Floor, Room No. 7, Kolkata - 700001, West Bengal",
+      "vendor_name": "Shree Shyam Paribahan Logistics Pvt. Ltd."
+    },
+    "data": {
+      "currency": "INR",
+      "customer_address": "56/B, Bara Bazar, Guwahati - 781001, Assam",
+      "customer_name": "M/s R. K. Enterprise",
+      "due_date": "2024-06-02",
+      "invoice_date": "2024-05-18",
+      "invoice_number": "SSPL/24-25/0786",
+      "line_items": [
+        {
+          "amount": 7000.0,
+          "description": "Kolkata to Guwahati - General Cargo",
+          "quantity": 2500.0,
+          "unit_price": 2.8
+        },
+        {
+          "amount": 1200.0,
+          "description": "Loading Charge",
+          "quantity": 1.0,
+          "unit_price": 1200.0
+        },
+        {
+          "amount": 900.0,
+          "description": "Unloading Charge",
+          "quantity": 1.0,
+          "unit_price": 900.0
+        },
+        {
+          "amount": 1450.0,
+          "description": "Toll Tax",
+          "quantity": 1.0,
+          "unit_price": 1450.0
+        },
+        {
+          "amount": 350.0,
+          "description": "Parking and Stand Charge",
+          "quantity": 1.0,
+          "unit_price": 350.0
+        },
+        {
+          "amount": 650.0,
+          "description": "Insurance Charge",
+          "quantity": 1.0,
+          "unit_price": 650.0
+        },
+        {
+          "amount": 250.0,
+          "description": "Documentation Charge",
+          "quantity": 1.0,
+          "unit_price": 250.0
+        },
+        {
+          "amount": 700.0,
+          "description": "Warehouse Charge (2 days)",
+          "quantity": 1.0,
+          "unit_price": 700.0
+        },
+        {
+          "amount": 400.0,
+          "description": "Handling Charge",
+          "quantity": 1.0,
+          "unit_price": 400.0
+        },
+        {
+          "amount": 200.0,
+          "description": "Other Charges",
+          "quantity": 1.0,
+          "unit_price": 200.0
+        }
+      ],
+      "payment_terms": "Payment within 15 days of receipt of bill, otherwise 18% interest will be charged.",
+      "subtotal": 13100.0,
+      "tax_amount": 2358.0,
+      "total_amount": 15458.0,
+      "vendor_address": "14, Netaji Subhas Road, 2nd Floor, Room No. 7, Kolkata - 700001, West Bengal",
+      "vendor_name": "Shree Shyam Paribahan Logistics Pvt. Ltd."
+    },
+    "status": "pending_review",
+    "overall_confidence": 0.9981341547745057,
+    "field_metadata": {
+      "invoice_number": {
+        "reasoning": "The invoice number is explicitly mentioned as SSPL/24-25/0786.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ইনভয়েস নং** : SSPL/24-25/0786",
+            "bounding_boxes": [
+              {
+                "x": 62.94,
+                "y": 87.36,
+                "w": 137.41,
+                "h": 13.2
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "invoice_date": {
+        "reasoning": "The invoice date is explicitly mentioned as 18/05/2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**ইনভয়েস নং** : SSPL/24-25/0786\n**ইনভয়েস তারিখ** : 18/05/2024\n**সরবরাহ স্থান** : পশ্চিমবঙ্গ (19)\n**পরিশোধের শেষ তারিখ** : 02/06/2024",
+            "bounding_boxes": [
+              {
+                "x": 13.025279999999999,
+                "y": 83.8656,
+                "w": 218.23488,
+                "h": 81.28511999999999
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "due_date": {
+        "reasoning": "The due date is explicitly mentioned as 02/06/2024.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**পরিশোধের শেষ তারিখ** : 02/06/2024",
+            "bounding_boxes": [
+              {
+                "x": 61.74,
+                "y": 111.12,
+                "w": 29.31,
+                "h": 5.76
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_name": {
+        "reasoning": "The vendor name is at the top and in the logo: শ্রী শ্যাম পরিবহন লজিস্টিক্স প্রা. লি. = Shree Shyam Paribahan Logistics Pvt. Ltd.",
+        "confidence": 0.9999999235172056,
+        "extraction_confidence": 0.9999999235172056,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "**A/C Name** : Shree Shyam Paribahan Logistics Pvt. Ltd.",
+            "bounding_boxes": [
+              {
+                "x": 11.29,
+                "y": 340.08,
+                "w": 111.47,
+                "h": 6.48
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "vendor_address": {
+        "reasoning": "The registered office address is given in Bengali and English. Translating and formatting.",
+        "confidence": 0.9949295896348749,
+        "extraction_confidence": 0.9949295896348749,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_name": {
+        "reasoning": "The Bill To section lists the customer as মেসার্স আর. কে. এন্টারপ্রাইজ, which translates to M/s R. K. Enterprise.",
+        "confidence": 0.9999293613111537,
+        "extraction_confidence": 0.9999293613111537,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "customer_address": {
+        "reasoning": "The Bill To section lists the full address of the customer in Bengali, which is translated to English.",
+        "confidence": 0.9996856570261469,
+        "extraction_confidence": 0.9996856570261469,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "line_items": [
+        {
+          "description": {
+            "reasoning": "First line item: কলকাতা হতে গুয়াহাটি - জেনারেল কার্গো = Kolkata to Guwahati - General Cargo. Quantity: 2,500 Kgs, Unit Price: 2.80, Amount: 7,000.00",
+            "confidence": 0.9999779699119372,
+            "extraction_confidence": 0.9999779699119372,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "First line item: কলকাতা হতে গুয়াহাটি - জেনারেল কার্গো = Kolkata to Guwahati - General Cargo. Quantity: 2,500 Kgs, Unit Price: 2.80, Amount: 7,000.00",
+            "confidence": 0.9999889961187072,
+            "extraction_confidence": 0.9999889961187072,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "unit_price": {
+            "reasoning": "First line item: কলকাতা হতে গুয়াহাটি - জেনারেল কার্গো = Kolkata to Guwahati - General Cargo. Quantity: 2,500 Kgs, Unit Price: 2.80, Amount: 7,000.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "amount": {
+            "reasoning": "First line item: কলকাতা হতে গুয়াহাটি - জেনারেল কার্গো = Kolkata to Guwahati - General Cargo. Quantity: 2,500 Kgs, Unit Price: 2.80, Amount: 7,000.00",
+            "confidence": 0.9999990116967681,
+            "extraction_confidence": 0.9999990116967681,
+            "parsing_confidence": 1.0,
+            "citation": null
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Second line item: লোডিং চার্জ = Loading Charge. Quantity: 1.00 LS, Unit Price: 1,200.00, Amount: 1,200.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Second line item: লোডিং চার্জ = Loading Charge. Quantity: 1.00 LS, Unit Price: 1,200.00, Amount: 1,200.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2               | লোডিং চার্জ                          | 996719  | 1.00   | LS  | 1,200.00      | 18%       | 1,200.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Second line item: লোডিং চার্জ = Loading Charge. Quantity: 1.00 LS, Unit Price: 1,200.00, Amount: 1,200.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2               | লোডিং চার্জ                          | 996719  | 1.00   | LS  | 1,200.00      | 18%       | 1,200.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Second line item: লোডিং চার্জ = Loading Charge. Quantity: 1.00 LS, Unit Price: 1,200.00, Amount: 1,200.00",
+            "confidence": 0.9999998311903558,
+            "extraction_confidence": 0.9999998311903558,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 2               | লোডিং চার্জ                          | 996719  | 1.00   | LS  | 1,200.00      | 18%       | 1,200.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Third line item: আনলোডিং চার্জ = Unloading Charge. Quantity: 1.00 LS, Unit Price: 900.00, Amount: 900.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Third line item: আনলোডিং চার্জ = Unloading Charge. Quantity: 1.00 LS, Unit Price: 900.00, Amount: 900.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3               | আনলোডিং চার্জ                        | 996719  | 1.00   | LS  | 900.00        | 18%       | 900.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Third line item: আনলোডিং চার্জ = Unloading Charge. Quantity: 1.00 LS, Unit Price: 900.00, Amount: 900.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3               | আনলোডিং চার্জ                        | 996719  | 1.00   | LS  | 900.00        | 18%       | 900.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Third line item: আনলোডিং চার্জ = Unloading Charge. Quantity: 1.00 LS, Unit Price: 900.00, Amount: 900.00",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 3               | আনলোডিং চার্জ                        | 996719  | 1.00   | LS  | 900.00        | 18%       | 900.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Fourth line item: টোল ট্যাক্স = Toll Tax. Quantity: 1.00 LS, Unit Price: 1,450.00, Amount: 1,450.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Fourth line item: টোল ট্যাক্স = Toll Tax. Quantity: 1.00 LS, Unit Price: 1,450.00, Amount: 1,450.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4               | টোল ট্যাক্স                          | 996719  | 1.00   | LS  | 1,450.00      | 18%       | 1,450.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Fourth line item: টোল ট্যাক্স = Toll Tax. Quantity: 1.00 LS, Unit Price: 1,450.00, Amount: 1,450.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4               | টোল ট্যাক্স                          | 996719  | 1.00   | LS  | 1,450.00      | 18%       | 1,450.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Fourth line item: টোল ট্যাক্স = Toll Tax. Quantity: 1.00 LS, Unit Price: 1,450.00, Amount: 1,450.00",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 4               | টোল ট্যাক্স                          | 996719  | 1.00   | LS  | 1,450.00      | 18%       | 1,450.00    |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Fifth line item: পার্কিং ও স্ট্যান্ড চার্জ = Parking and Stand Charge. Quantity: 1.00 LS, Unit Price: 350.00, Amount: 350.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Fifth line item: পার্কিং ও স্ট্যান্ড চার্জ = Parking and Stand Charge. Quantity: 1.00 LS, Unit Price: 350.00, Amount: 350.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5               | পার্কিং ও স্ট্যান্ড চার্জ            | 996719  | 1.00   | LS  | 350.00        | 18%       | 350.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Fifth line item: পার্কিং ও স্ট্যান্ড চার্জ = Parking and Stand Charge. Quantity: 1.00 LS, Unit Price: 350.00, Amount: 350.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5               | পার্কিং ও স্ট্যান্ড চার্জ            | 996719  | 1.00   | LS  | 350.00        | 18%       | 350.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Fifth line item: পার্কিং ও স্ট্যান্ড চার্জ = Parking and Stand Charge. Quantity: 1.00 LS, Unit Price: 350.00, Amount: 350.00",
+            "confidence": 0.9999998957278968,
+            "extraction_confidence": 0.9999998957278968,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 5               | পার্কিং ও স্ট্যান্ড চার্জ            | 996719  | 1.00   | LS  | 350.00        | 18%       | 350.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Sixth line item: ইনস্যুরেন্স চার্জ = Insurance Charge. Quantity: 1.00 LS, Unit Price: 650.00, Amount: 650.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Sixth line item: ইনস্যুরেন্স চার্জ = Insurance Charge. Quantity: 1.00 LS, Unit Price: 650.00, Amount: 650.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6               | ইনস্যুরেন্স চার্জ                    | 996722  | 1.00   | LS  | 650.00        | 18%       | 650.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Sixth line item: ইনস্যুরেন্স চার্জ = Insurance Charge. Quantity: 1.00 LS, Unit Price: 650.00, Amount: 650.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6               | ইনস্যুরেন্স চার্জ                    | 996722  | 1.00   | LS  | 650.00        | 18%       | 650.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Sixth line item: ইনস্যুরেন্স চার্জ = Insurance Charge. Quantity: 1.00 LS, Unit Price: 650.00, Amount: 650.00",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 6               | ইনস্যুরেন্স চার্জ                    | 996722  | 1.00   | LS  | 650.00        | 18%       | 650.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Seventh line item: ডকুমেন্টেশন চার্জ = Documentation Charge. Quantity: 1.00 LS, Unit Price: 250.00, Amount: 250.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Seventh line item: ডকুমেন্টেশন চার্জ = Documentation Charge. Quantity: 1.00 LS, Unit Price: 250.00, Amount: 250.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7               | ডকুমেন্টেশন চার্জ                    | 996719  | 1.00   | LS  | 250.00        | 18%       | 250.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Seventh line item: ডকুমেন্টেশন চার্জ = Documentation Charge. Quantity: 1.00 LS, Unit Price: 250.00, Amount: 250.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7               | ডকুমেন্টেশন চার্জ                    | 996719  | 1.00   | LS  | 250.00        | 18%       | 250.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Seventh line item: ডকুমেন্টেশন চার্জ = Documentation Charge. Quantity: 1.00 LS, Unit Price: 250.00, Amount: 250.00",
+            "confidence": 0.9999998559933477,
+            "extraction_confidence": 0.9999998559933477,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 7               | ডকুমেন্টেশন চার্জ                    | 996719  | 1.00   | LS  | 250.00        | 18%       | 250.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Eighth line item: ওয়্যারহাউস চার্জ (2 দিন) = Warehouse Charge (2 days). Quantity: 1.00 LS, Unit Price: 700.00, Amount: 700.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Eighth line item: ওয়্যারহাউস চার্জ (2 দিন) = Warehouse Charge (2 days). Quantity: 1.00 LS, Unit Price: 700.00, Amount: 700.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8               | ওয়্যারহাউস চার্জ (2 দিন)             | 996719  | 1.00   | LS  | 700.00        | 18%       | 700.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Eighth line item: ওয়্যারহাউস চার্জ (2 দিন) = Warehouse Charge (2 days). Quantity: 1.00 LS, Unit Price: 700.00, Amount: 700.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8               | ওয়্যারহাউস চার্জ (2 দিন)             | 996719  | 1.00   | LS  | 700.00        | 18%       | 700.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Eighth line item: ওয়্যারহাউস চার্জ (2 দিন) = Warehouse Charge (2 days). Quantity: 1.00 LS, Unit Price: 700.00, Amount: 700.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 8               | ওয়্যারহাউস চার্জ (2 দিন)             | 996719  | 1.00   | LS  | 700.00        | 18%       | 700.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Ninth line item: হ্যান্ডলিং চার্জ = Handling Charge. Quantity: 1.00 LS, Unit Price: 400.00, Amount: 400.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Ninth line item: হ্যান্ডলিং চার্জ = Handling Charge. Quantity: 1.00 LS, Unit Price: 400.00, Amount: 400.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9               | হ্যান্ডলিং চার্জ                     | 996719  | 1.00   | LS  | 400.00        | 18%       | 400.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Ninth line item: হ্যান্ডলিং চার্জ = Handling Charge. Quantity: 1.00 LS, Unit Price: 400.00, Amount: 400.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9               | হ্যান্ডলিং চার্জ                     | 996719  | 1.00   | LS  | 400.00        | 18%       | 400.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Ninth line item: হ্যান্ডলিং চার্জ = Handling Charge. Quantity: 1.00 LS, Unit Price: 400.00, Amount: 400.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 9               | হ্যান্ডলিং চার্জ                     | 996719  | 1.00   | LS  | 400.00        | 18%       | 400.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        },
+        {
+          "description": {
+            "reasoning": "Tenth line item: অন্যান্য চার্জ = Other Charges. Quantity: 1.00 LS, Unit Price: 200.00, Amount: 200.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": null
+          },
+          "quantity": {
+            "reasoning": "Tenth line item: অন্যান্য চার্জ = Other Charges. Quantity: 1.00 LS, Unit Price: 200.00, Amount: 200.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10              | অন্যান্য চার্জ                       | 996719  | 1.00   | LS  | 200.00        | 18%       | 200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "unit_price": {
+            "reasoning": "Tenth line item: অন্যান্য চার্জ = Other Charges. Quantity: 1.00 LS, Unit Price: 200.00, Amount: 200.00",
+            "confidence": 1.0,
+            "extraction_confidence": 1.0,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10              | অন্যান্য চার্জ                       | 996719  | 1.00   | LS  | 200.00        | 18%       | 200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          },
+          "amount": {
+            "reasoning": "Tenth line item: অন্যান্য চার্জ = Other Charges. Quantity: 1.00 LS, Unit Price: 200.00, Amount: 200.00",
+            "confidence": 0.9999999354624522,
+            "extraction_confidence": 0.9999999354624522,
+            "parsing_confidence": 1.0,
+            "citation": [
+              {
+                "page": 1,
+                "matching_text": "| 10              | অন্যান্য চার্জ                       | 996719  | 1.00   | LS  | 200.00        | 18%       | 200.00      |",
+                "bounding_boxes": [
+                  {
+                    "x": 11.30165762195122,
+                    "y": 166.4129762195122,
+                    "w": 224.00091310975608,
+                    "h": 153.50225304878046
+                  }
+                ],
+                "page_dimensions": {
+                  "width": 245.76,
+                  "height": 430.08
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "subtotal": {
+        "reasoning": "The subtotal is explicitly listed as ₹ 13,100.00.",
+        "confidence": 0.9998982957810278,
+        "extraction_confidence": 0.9998982957810278,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| সাব-টোটাল       |                                      |         |        |     |               |           | ₹ 13,100.00 |",
+            "bounding_boxes": [
+              {
+                "x": 11.30165762195122,
+                "y": 166.4129762195122,
+                "w": 224.00091310975608,
+                "h": 153.50225304878046
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "tax_amount": {
+        "reasoning": "CGST @ 9%: 1,179.00 + SGST @ 9%: 1,179.00 = 2,358.00",
+        "confidence": 0.9932546452677878,
+        "extraction_confidence": 0.9932546452677878,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| মোট কর          |                                      |         |        |     |               |           | ₹ 2,358.00  |",
+            "bounding_boxes": [
+              {
+                "x": 11.30165762195122,
+                "y": 166.4129762195122,
+                "w": 224.00091310975608,
+                "h": 153.50225304878046
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "total_amount": {
+        "reasoning": "The grand total is explicitly listed as ₹ 15,458.00.",
+        "confidence": 0.9999877787374424,
+        "extraction_confidence": 0.9999877787374424,
+        "parsing_confidence": 1.0,
+        "citation": [
+          {
+            "page": 1,
+            "matching_text": "| গ্র্যান্ড টোটাল |                                      |         |        |     |               |           | ₹ 15,458.00 |",
+            "bounding_boxes": [
+              {
+                "x": 11.30165762195122,
+                "y": 166.4129762195122,
+                "w": 224.00091310975608,
+                "h": 153.50225304878046
+              }
+            ],
+            "page_dimensions": {
+              "width": 245.76,
+              "height": 430.08
+            }
+          }
+        ]
+      },
+      "currency": {
+        "reasoning": "The amounts are denoted with the symbol ₹, which is the Indian Rupee.",
+        "confidence": 1.0,
+        "extraction_confidence": 1.0,
+        "parsing_confidence": 1.0,
+        "citation": null
+      },
+      "payment_terms": {
+        "reasoning": "The terms state: 'Please pay within 15 days of receipt of bill, otherwise interest at 18% will be charged.'",
+        "confidence": 0.9153255739789397,
+        "extraction_confidence": 0.9153255739789397,
+        "parsing_confidence": 1.0,
+        "citation": null
+      }
+    },
+    "file_id": "a6aff494-1bf9-4085-855e-a96ac08f4379",
+    "file_name": "invoice_azimg_20260519_153910_700_0003.png",
+    "file_hash": "9f245c3e-ad30-4fd9-9690-a6a426435d69",
+    "metadata": {
+      "job_id": "ext-jsx9zaqnx2bbaa5mdpwlzo4oa0hr"
+    }
+  },
+  "statuses": [
+    {
+      "level": "info",
+      "message": "Extracting data from file invoice_azimg_20260519_153910_700_0003.png"
+    },
+    {
+      "level": "info",
+      "message": "Recorded extracted data for file invoice_azimg_20260519_153910_700_0003.png"
+    }
+  ]
+}
